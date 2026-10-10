@@ -1,4 +1,8 @@
-# Lingora — học tiếng Anh & tiếng Nhật
+# Mầm — học tiếng Anh & tiếng Nhật
+
+<img src="app/public/brand/mam-mark.svg" width="72" alt="Mầm">
+
+_Gieo một từ hôm nay — nói trôi chảy ngày mai._ Tên mã nội bộ (package Java, database, khóa localStorage) vẫn là `lingora`.
 
 Monolith JHipster 9.4 (Spring Boot 4, Java 21+) + frontend Angular 22 (thư mục `app/`), dữ liệu lưu trong MySQL 8, media lưu trên Supabase Storage.
 
