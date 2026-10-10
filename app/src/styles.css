@@ -1,0 +1,647 @@
+@import 'tailwindcss';
+
+@custom-variant dark (&:where([data-mode='dark'], [data-mode='dark'] *));
+
+/*
+ * Design tokens: every color in the UI goes through these semantic variables so that
+ * mode (light/dark/sepia/contrast) and palette (indigo/sakura/ocean/forest/sunset)
+ * can be switched at runtime without touching components.
+ */
+@theme {
+  --font-display: 'Nunito', 'Be Vietnam Pro', 'Hiragino Sans', 'Yu Gothic UI', 'Noto Sans JP', system-ui, sans-serif;
+  --font-sans: 'Be Vietnam Pro', 'Inter', 'Hiragino Sans', 'Yu Gothic UI', 'Noto Sans JP', system-ui, sans-serif;
+  --font-jp: 'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic UI', 'Meiryo', sans-serif;
+
+  --color-bg: var(--c-bg);
+  --color-surface: var(--c-surface);
+  --color-surface-2: var(--c-surface-2);
+  --color-fg: var(--c-fg);
+  --color-muted: var(--c-muted);
+  --color-line: var(--c-line);
+  --color-primary: var(--c-primary);
+  --color-primary-soft: var(--c-primary-soft);
+  --color-on-primary: var(--c-on-primary);
+  --color-accent: var(--c-accent);
+  --color-success: var(--c-success);
+  --color-error: var(--c-error);
+  --color-warning: var(--c-warning);
+  --color-info: var(--c-info);
+
+  --radius-card: 1rem;
+  --shadow-card: 0 1px 2px rgb(15 23 42 / 0.04), 0 4px 16px rgb(15 23 42 / 0.06);
+  --shadow-lift: 0 2px 4px rgb(15 23 42 / 0.05), 0 12px 28px rgb(15 23 42 / 0.1);
+
+  --ease-spring: cubic-bezier(0.34, 1.56, 0.64, 1);
+  --ease-soft: cubic-bezier(0.22, 1, 0.36, 1);
+
+  --animate-rise: rise 0.45s var(--ease-soft) both;
+  --animate-fade: fade 0.3s ease-out both;
+  --animate-pop: pop-in 0.25s var(--ease-spring) both;
+  --animate-shake: shake 0.35s ease-in-out;
+  --animate-flip: flip-in 0.3s var(--ease-soft);
+  --animate-flicker: flicker 1.6s ease-in-out infinite;
+  --animate-float-up: float-up 1.1s var(--ease-soft) forwards;
+  --animate-wiggle: wiggle 0.6s ease-in-out;
+  --animate-breathe: breathe 1.4s ease-in-out infinite;
+}
+
+:root {
+  --c-bg: #f7f7fb;
+  --c-surface: #ffffff;
+  --c-surface-2: #f1f2f7;
+  --c-fg: #1f2937;
+  --c-muted: #5b6474;
+  --c-line: #e5e7eb;
+  --c-on-primary: #ffffff;
+  --c-accent: #fb923c;
+  --c-success: #16a34a;
+  --c-error: #dc2626;
+  --c-warning: #d97706;
+  --c-info: #0284c7;
+  --c-primary: #4f46e5;
+  --c-primary-soft: #eef0ff;
+  /* Icons baked into form controls (data URIs cannot read CSS variables, so each mode overrides them). */
+  --i-chevron: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%235b6474' stroke-width='2.6' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='m7.5 10 4.5 4.5 4.5-4.5'/%3E%3C/svg%3E");
+  --i-check: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23ffffff' stroke-width='3.2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M5.5 12.5l4 4L18.5 7.5'/%3E%3C/svg%3E");
+  color-scheme: light;
+}
+
+[data-palette='sakura'] { --c-primary: #db2777; --c-primary-soft: #fdf0f6; }
+[data-palette='ocean'] { --c-primary: #0369a1; --c-primary-soft: #e8f4fb; }
+[data-palette='forest'] { --c-primary: #15803d; --c-primary-soft: #eaf7ee; }
+[data-palette='sunset'] { --c-primary: #c2410c; --c-primary-soft: #fdf1e9; }
+
+[data-mode='dark'] {
+  --c-bg: #0f1420;
+  --c-surface: #171d2b;
+  --c-surface-2: #212938;
+  --c-fg: #e8ebf2;
+  --c-muted: #9aa3b5;
+  --c-line: #2c3547;
+  --c-success: #22c55e;
+  --c-error: #f87171;
+  --c-warning: #fbbf24;
+  --c-info: #38bdf8;
+  --c-primary: #818cf8;
+  --c-primary-soft: #232a4a;
+  --c-on-primary: #0f1420;
+  --shadow-card: 0 1px 2px rgb(0 0 0 / 0.3), 0 4px 16px rgb(0 0 0 / 0.25);
+  --shadow-lift: 0 2px 4px rgb(0 0 0 / 0.35), 0 12px 28px rgb(0 0 0 / 0.4);
+  --i-chevron: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%239aa3b5' stroke-width='2.6' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='m7.5 10 4.5 4.5 4.5-4.5'/%3E%3C/svg%3E");
+  --i-check: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%230f1420' stroke-width='3.2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M5.5 12.5l4 4L18.5 7.5'/%3E%3C/svg%3E");
+  color-scheme: dark;
+}
+[data-mode='dark'][data-palette='sakura'] { --c-primary: #f472b6; --c-primary-soft: #3a2133; }
+[data-mode='dark'][data-palette='ocean'] { --c-primary: #38bdf8; --c-primary-soft: #16304a; }
+[data-mode='dark'][data-palette='forest'] { --c-primary: #4ade80; --c-primary-soft: #183526; }
+[data-mode='dark'][data-palette='sunset'] { --c-primary: #fb923c; --c-primary-soft: #3b2618; }
+
+[data-mode='sepia'] {
+  --c-bg: #f4ecd8;
+  --c-surface: #fbf6ea;
+  --c-surface-2: #efe5cc;
+  --c-fg: #3b3226;
+  --c-muted: #6b5d4a;
+  --c-line: #e0d3b5;
+  --i-chevron: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%236b5d4a' stroke-width='2.6' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='m7.5 10 4.5 4.5 4.5-4.5'/%3E%3C/svg%3E");
+}
+
+[data-mode='contrast'] {
+  --c-bg: #000000;
+  --c-surface: #000000;
+  --c-surface-2: #111111;
+  --c-fg: #ffffff;
+  --c-muted: #e5e5e5;
+  --c-line: #ffffff;
+  --c-primary: #ffd60a;
+  --c-primary-soft: #222200;
+  --c-on-primary: #000000;
+  --c-success: #4ade80;
+  --c-error: #ff6b6b;
+  --c-info: #7dd3fc;
+  --i-chevron: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23ffffff' stroke-width='2.6' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='m7.5 10 4.5 4.5 4.5-4.5'/%3E%3C/svg%3E");
+  --i-check: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23000000' stroke-width='3.2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M5.5 12.5l4 4L18.5 7.5'/%3E%3C/svg%3E");
+  color-scheme: dark;
+}
+
+html {
+  font-size: calc(16px * var(--font-scale, 1));
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  background: var(--c-bg);
+  color: var(--c-fg);
+  font-family: var(--font-sans);
+  line-height: 1.55;
+  -webkit-font-smoothing: antialiased;
+}
+
+:lang(ja), .jp { font-family: var(--font-jp); }
+
+h1, h2, h3, .font-display { font-family: var(--font-display); }
+
+*:focus-visible {
+  outline: 3px solid color-mix(in srgb, var(--c-primary) 60%, transparent);
+  outline-offset: 2px;
+  border-radius: 6px;
+}
+
+::selection {
+  background: color-mix(in srgb, var(--c-primary) 24%, transparent);
+}
+
+/* Thin themed scrollbars. Chromium ignores ::-webkit-scrollbar once scrollbar-width/color is set. */
+@supports not selector(::-webkit-scrollbar) {
+  * {
+    scrollbar-width: thin;
+    scrollbar-color: color-mix(in srgb, var(--c-muted) 40%, transparent) transparent;
+  }
+}
+::-webkit-scrollbar { width: 10px; height: 10px; }
+::-webkit-scrollbar-track, ::-webkit-scrollbar-corner { background: transparent; }
+::-webkit-scrollbar-button { display: none; }
+::-webkit-scrollbar-thumb {
+  border: 3px solid transparent;
+  border-radius: 999px;
+  background: color-mix(in srgb, var(--c-muted) 40%, transparent) padding-box;
+}
+::-webkit-scrollbar-thumb:hover { background-color: color-mix(in srgb, var(--c-primary) 55%, transparent); }
+
+/*
+ * Native form controls restyled to the app look. Kept in the base layer so utilities
+ * (sizes, margins) still win.
+ */
+@layer base {
+  input[type='checkbox'] {
+    appearance: none;
+    display: inline-grid;
+    place-content: center;
+    flex-shrink: 0;
+    width: 1.25rem;
+    height: 1.25rem;
+    margin: 0;
+    border: 2px solid color-mix(in srgb, var(--c-muted) 45%, var(--c-line));
+    border-radius: 0.45rem;
+    background: var(--c-surface) center / 85% no-repeat;
+    cursor: pointer;
+    transition: background-color 0.15s, border-color 0.15s, transform 0.2s var(--ease-spring), box-shadow 0.15s;
+  }
+  input[type='checkbox']:hover:not(:disabled) {
+    border-color: var(--c-primary);
+    box-shadow: 0 0 0 4px color-mix(in srgb, var(--c-primary) 14%, transparent);
+  }
+  input[type='checkbox']:active:not(:disabled) { transform: scale(0.88); }
+  input[type='checkbox']:checked {
+    border-color: var(--c-primary);
+    background-color: var(--c-primary);
+    background-image: var(--i-check);
+    animation: check-pop 0.3s var(--ease-spring);
+  }
+  input[type='checkbox']:disabled { cursor: not-allowed; opacity: 0.5; }
+
+  /* Calendar / clock pickers and the search clear button use masked icons tinted with the theme. */
+  input::-webkit-calendar-picker-indicator {
+    width: 1.15rem;
+    height: 1.15rem;
+    padding: 0.15rem;
+    border-radius: 0.4rem;
+    background: var(--c-muted);
+    -webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2.2' stroke-linecap='round' stroke-linejoin='round'%3E%3Crect x='3' y='5' width='18' height='16' rx='3'/%3E%3Cpath d='M16 3v4M8 3v4M3 10h18'/%3E%3Ccircle cx='12' cy='15.5' r='1.6' fill='black'/%3E%3C/svg%3E") center / contain no-repeat;
+    mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2.2' stroke-linecap='round' stroke-linejoin='round'%3E%3Crect x='3' y='5' width='18' height='16' rx='3'/%3E%3Cpath d='M16 3v4M8 3v4M3 10h18'/%3E%3Ccircle cx='12' cy='15.5' r='1.6' fill='black'/%3E%3C/svg%3E") center / contain no-repeat;
+    cursor: pointer;
+    transition: background-color 0.15s;
+  }
+  input[type='time']::-webkit-calendar-picker-indicator {
+    -webkit-mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2.2' stroke-linecap='round' stroke-linejoin='round'%3E%3Ccircle cx='12' cy='12' r='9'/%3E%3Cpath d='M12 7v5l3 2'/%3E%3C/svg%3E");
+    mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2.2' stroke-linecap='round' stroke-linejoin='round'%3E%3Ccircle cx='12' cy='12' r='9'/%3E%3Cpath d='M12 7v5l3 2'/%3E%3C/svg%3E");
+  }
+  input::-webkit-calendar-picker-indicator:hover { background: var(--c-primary); }
+
+  input[type='search']::-webkit-search-cancel-button {
+    appearance: none;
+    width: 1.1rem;
+    height: 1.1rem;
+    background: var(--c-muted);
+    -webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='black' d='M12 2a10 10 0 1 0 0 20 10 10 0 0 0 0-20zm3.5 12.1-1.4 1.4-2.1-2.1-2.1 2.1-1.4-1.4 2.1-2.1-2.1-2.1 1.4-1.4 2.1 2.1 2.1-2.1 1.4 1.4-2.1 2.1z'/%3E%3C/svg%3E") center / contain no-repeat;
+    mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='black' d='M12 2a10 10 0 1 0 0 20 10 10 0 0 0 0-20zm3.5 12.1-1.4 1.4-2.1-2.1-2.1 2.1-1.4-1.4 2.1-2.1-2.1-2.1 1.4-1.4 2.1 2.1 2.1-2.1 1.4 1.4-2.1 2.1z'/%3E%3C/svg%3E") center / contain no-repeat;
+    cursor: pointer;
+  }
+  input[type='search']::-webkit-search-cancel-button:hover { background: var(--c-error); }
+
+  option { background: var(--c-surface); color: var(--c-fg); }
+
+  textarea { resize: vertical; }
+  textarea::-webkit-resizer {
+    background:
+      linear-gradient(135deg, transparent 52%, var(--c-muted) 52% 60%, transparent 60% 70%, var(--c-muted) 70% 78%, transparent 78%)
+      center / 0.8rem 0.8rem no-repeat;
+  }
+}
+
+/* Reusable component classes. Defined as @utility so they work with variants and @apply. */
+@utility card {
+  @apply rounded-card border border-line bg-surface;
+  box-shadow: var(--shadow-card);
+}
+/* Interactive card: lifts on hover, settles on press. */
+@utility card-hover {
+  transition: transform 0.25s var(--ease-soft), box-shadow 0.25s var(--ease-soft), border-color 0.2s;
+  &:hover { transform: translateY(-3px); box-shadow: var(--shadow-lift); border-color: color-mix(in srgb, var(--c-primary) 30%, var(--c-line)); }
+  &:active { transform: translateY(-1px) scale(0.995); }
+}
+@utility btn {
+  @apply inline-flex items-center justify-center gap-2 rounded-xl px-4 font-semibold select-none disabled:cursor-not-allowed disabled:opacity-50;
+  min-height: 44px;
+  transition: background-color 0.15s, color 0.15s, border-color 0.15s, filter 0.15s, box-shadow 0.2s, transform 0.18s var(--ease-spring);
+  &:active:not(:disabled) { transform: scale(0.96); }
+}
+@utility btn-primary {
+  @apply btn bg-primary text-on-primary hover:brightness-110;
+  box-shadow: 0 1px 0 rgb(255 255 255 / 0.18) inset, 0 4px 14px color-mix(in srgb, var(--c-primary) 30%, transparent);
+}
+@utility btn-ghost {
+  @apply btn bg-transparent text-fg hover:bg-surface-2;
+}
+@utility btn-soft {
+  @apply btn bg-primary-soft text-primary hover:brightness-95;
+}
+@utility btn-outline {
+  @apply btn border border-line bg-surface text-fg hover:border-primary/40 hover:bg-surface-2;
+}
+@utility btn-danger {
+  @apply btn bg-error text-white hover:brightness-110;
+  box-shadow: 0 4px 14px color-mix(in srgb, var(--c-error) 28%, transparent);
+}
+@utility btn-danger-soft {
+  @apply btn text-error;
+  background: color-mix(in srgb, var(--c-error) 10%, transparent);
+  &:hover:not(:disabled) { background: color-mix(in srgb, var(--c-error) 18%, transparent); }
+}
+@utility input {
+  @apply w-full rounded-xl border border-line bg-surface px-3.5 py-2 text-fg outline-none placeholder:text-muted/80 focus:border-primary disabled:cursor-not-allowed disabled:bg-surface-2 disabled:text-muted;
+  min-height: 44px;
+  transition: border-color 0.15s, box-shadow 0.2s;
+  &:hover:not(:disabled):not(:focus) { border-color: color-mix(in srgb, var(--c-primary) 35%, var(--c-line)); }
+  &:focus { box-shadow: 0 0 0 4px color-mix(in srgb, var(--c-primary) 15%, transparent); }
+  /* Custom dropdown arrow: chevron on a soft round badge. */
+  &:where(select) {
+    appearance: none;
+    cursor: pointer;
+    padding-right: 2.75rem;
+    background-image: var(--i-chevron), radial-gradient(circle, var(--c-surface-2) 0 0.8rem, transparent 0.85rem);
+    background-repeat: no-repeat;
+    background-position: right 0.85rem center, right 0.45rem center;
+    background-size: 1rem 1rem, 1.75rem 1.75rem;
+  }
+  &:where(select):focus {
+    background-image: var(--i-chevron), radial-gradient(circle, var(--c-primary-soft) 0 0.8rem, transparent 0.85rem);
+  }
+}
+/* iOS-style toggle for boolean settings (apply to a checkbox). */
+@utility switch {
+  width: 2.75rem;
+  height: 1.55rem;
+  border: none;
+  border-radius: 999px;
+  background-color: color-mix(in srgb, var(--c-muted) 35%, var(--c-line));
+  background-image: radial-gradient(circle, #fff 0 0.55rem, transparent 0.6rem);
+  background-size: 1.55rem 1.55rem;
+  background-position: left center;
+  box-shadow: inset 0 1px 2px rgb(0 0 0 / 0.15);
+  transition: background-color 0.2s, background-position 0.3s var(--ease-spring);
+  &:checked {
+    background-color: var(--c-primary);
+    background-image: radial-gradient(circle, #fff 0 0.55rem, transparent 0.6rem);
+    background-position: right center;
+    animation: none;
+  }
+  &:active:not(:disabled) { transform: none; }
+}
+@utility label {
+  @apply mb-1.5 block text-sm font-semibold text-muted;
+}
+
+/*
+ * Tags. `chip` is neutral; tone variants use a tinted fill + hairline ring of the same hue.
+ * `chip-toggle` is a selectable filter pill driven by aria-pressed.
+ */
+@utility chip {
+  @apply inline-flex items-center gap-1 rounded-full bg-surface-2 px-2.5 py-1 text-xs font-semibold text-muted;
+  transition: background-color 0.15s, color 0.15s, box-shadow 0.15s, transform 0.18s var(--ease-spring);
+}
+@utility chip-primary {
+  @apply chip bg-primary-soft text-primary;
+  box-shadow: inset 0 0 0 1px color-mix(in srgb, var(--c-primary) 22%, transparent);
+}
+@utility chip-success {
+  @apply chip text-success;
+  background: color-mix(in srgb, var(--c-success) 13%, transparent);
+  box-shadow: inset 0 0 0 1px color-mix(in srgb, var(--c-success) 25%, transparent);
+}
+@utility chip-warning {
+  @apply chip text-warning;
+  background: color-mix(in srgb, var(--c-warning) 14%, transparent);
+  box-shadow: inset 0 0 0 1px color-mix(in srgb, var(--c-warning) 28%, transparent);
+}
+@utility chip-danger {
+  @apply chip text-error;
+  background: color-mix(in srgb, var(--c-error) 12%, transparent);
+  box-shadow: inset 0 0 0 1px color-mix(in srgb, var(--c-error) 25%, transparent);
+}
+@utility chip-info {
+  @apply chip text-info;
+  background: color-mix(in srgb, var(--c-info) 12%, transparent);
+  box-shadow: inset 0 0 0 1px color-mix(in srgb, var(--c-info) 25%, transparent);
+}
+@utility chip-accent {
+  @apply chip text-accent;
+  background: color-mix(in srgb, var(--c-accent) 14%, transparent);
+  box-shadow: inset 0 0 0 1px color-mix(in srgb, var(--c-accent) 28%, transparent);
+}
+/* Frosted tag for use over colored artwork (course covers). */
+@utility chip-glass {
+  @apply chip text-fg;
+  background: color-mix(in srgb, var(--c-surface) 82%, transparent);
+  backdrop-filter: blur(6px);
+  box-shadow: 0 1px 3px rgb(0 0 0 / 0.08), inset 0 0 0 1px color-mix(in srgb, var(--c-surface) 60%, transparent);
+}
+/* Leading status dot; add `chip-live` for a pulsing one. */
+@utility chip-dot {
+  &::before { content: ''; width: 0.4rem; height: 0.4rem; border-radius: 999px; background: currentColor; }
+}
+@utility chip-live {
+  &::before {
+    content: '';
+    width: 0.4rem;
+    height: 0.4rem;
+    border-radius: 999px;
+    background: currentColor;
+    box-shadow: 0 0 0 0 currentColor;
+    animation: live-dot 1.6s ease-out infinite;
+  }
+}
+@utility chip-toggle {
+  @apply chip min-h-9 cursor-pointer border border-line bg-surface px-3 text-sm text-fg;
+  &:hover { border-color: color-mix(in srgb, var(--c-primary) 45%, var(--c-line)); color: var(--c-primary); }
+  &:active { transform: scale(0.95); }
+  &[aria-pressed='true'] {
+    border-color: var(--c-primary);
+    background: var(--c-primary);
+    color: var(--c-on-primary);
+    box-shadow: 0 3px 10px color-mix(in srgb, var(--c-primary) 30%, transparent);
+  }
+}
+
+/* Inline callouts with a tinted background and an accent bar on the leading edge. */
+@utility alert {
+  @apply flex items-start gap-2.5 rounded-xl px-3.5 py-2.5 text-sm font-semibold;
+  border-inline-start: 4px solid currentColor;
+  animation: rise 0.35s var(--ease-soft) both;
+}
+@utility alert-danger {
+  @apply alert text-error;
+  background: color-mix(in srgb, var(--c-error) 9%, var(--c-surface));
+}
+@utility alert-warning {
+  @apply alert;
+  color: color-mix(in srgb, var(--c-warning) 75%, var(--c-fg));
+  background: color-mix(in srgb, var(--c-warning) 12%, var(--c-surface));
+  border-inline-start-color: var(--c-warning);
+}
+@utility alert-success {
+  @apply alert text-success;
+  background: color-mix(in srgb, var(--c-success) 10%, var(--c-surface));
+}
+@utility alert-info {
+  @apply alert text-info;
+  background: color-mix(in srgb, var(--c-info) 10%, var(--c-surface));
+}
+
+/* Width comes from a variable so per-page max-w-* utilities keep winning at every breakpoint. */
+:root { --page-w: 80rem; }
+@media (width >= 96rem) { :root { --page-w: 100rem; } }
+@utility page {
+  @apply mx-auto w-full px-4 py-6 sm:px-6 lg:px-8 2xl:px-10;
+  max-width: var(--page-w);
+  animation: rise 0.45s var(--ease-soft) both;
+}
+@utility page-title {
+  @apply font-display text-2xl font-extrabold tracking-tight sm:text-3xl;
+}
+@utility gradient-bar {
+  background: linear-gradient(90deg, var(--c-primary), var(--c-accent));
+  background-size: 200% 100%;
+  animation: bar-flow 3s linear infinite;
+}
+@utility skeleton {
+  @apply rounded-xl;
+  background: linear-gradient(100deg, var(--c-surface-2) 30%, color-mix(in srgb, var(--c-surface-2) 40%, var(--c-surface)) 50%, var(--c-surface-2) 70%);
+  background-size: 300% 100%;
+  animation: shimmer 1.4s ease-in-out infinite;
+}
+/* Children enter one after another. */
+@utility no-scrollbar {
+  scrollbar-width: none;
+  &::-webkit-scrollbar { display: none; }
+}
+
+@utility stagger {
+  & > * { animation: rise 0.45s var(--ease-soft) both; }
+  & > *:nth-child(2) { animation-delay: 0.04s; }
+  & > *:nth-child(3) { animation-delay: 0.08s; }
+  & > *:nth-child(4) { animation-delay: 0.12s; }
+  & > *:nth-child(5) { animation-delay: 0.16s; }
+  & > *:nth-child(6) { animation-delay: 0.2s; }
+  & > *:nth-child(7) { animation-delay: 0.24s; }
+  & > *:nth-child(8) { animation-delay: 0.28s; }
+  & > *:nth-child(n + 9) { animation-delay: 0.32s; }
+}
+
+/* Brand loader: three dots hopping from primary to accent. */
+.loader { display: inline-flex; align-items: flex-end; gap: 0.35rem; height: 1.6rem; }
+.loader > span {
+  width: 0.6rem;
+  height: 0.6rem;
+  border-radius: 999px;
+  background: var(--c-primary);
+  animation: hop 0.9s var(--ease-soft) infinite;
+}
+.loader > span:nth-child(2) { animation-delay: 0.12s; background: color-mix(in srgb, var(--c-primary) 50%, var(--c-accent)); }
+.loader > span:nth-child(3) { animation-delay: 0.24s; background: var(--c-accent); }
+
+.kbd {
+  display: inline-grid;
+  min-width: 1.6rem;
+  place-items: center;
+  padding: 0.1rem 0.4rem;
+  border: 1px solid var(--c-line);
+  border-bottom-width: 3px;
+  border-radius: 0.45rem;
+  background: var(--c-surface);
+  font: 700 0.72rem/1.2 ui-monospace, SFMono-Regular, Menlo, monospace;
+  color: var(--c-fg);
+}
+
+.medal {
+  position: relative;
+  display: grid;
+  place-items: center;
+  border-radius: 999px;
+  color: #fff;
+  background: radial-gradient(circle at 30% 25%, color-mix(in srgb, var(--medal) 50%, #fff), var(--medal) 72%);
+  box-shadow: 0 10px 26px color-mix(in srgb, var(--medal) 40%, transparent), inset 0 -5px 0 rgb(0 0 0 / 0.12);
+  animation: pop-in 0.55s var(--ease-spring) both;
+}
+.medal::after {
+  content: '';
+  position: absolute;
+  inset: -7px;
+  border-radius: 999px;
+  border: 2px dashed color-mix(in srgb, var(--medal) 55%, transparent);
+  animation: orbit 14s linear infinite;
+}
+
+/* Icons can draw their stroke in (paths use pathLength="1"). */
+.icon-draw path:last-child {
+  stroke-dasharray: 1;
+  stroke-dashoffset: 1;
+  animation: kvg-draw 0.5s 0.1s var(--ease-soft) forwards;
+}
+
+/* Native <dialog> used by the confirm/prompt service. */
+dialog.app-dialog {
+  margin: auto;
+  padding: 0;
+  border: none;
+  background: transparent;
+  color: var(--c-fg);
+  max-width: min(28rem, calc(100vw - 2rem));
+  width: 100%;
+  overflow: visible;
+}
+dialog.app-dialog[open] { animation: dialog-in 0.3s var(--ease-spring); }
+dialog.app-dialog::backdrop {
+  background: color-mix(in srgb, #0b1020 45%, transparent);
+  backdrop-filter: blur(3px);
+  animation: fade 0.2s ease-out;
+}
+
+/* Learning-language switch: the cover's content pops in, then the page's sections rise one by one. */
+.lang-cover-in { animation: pop-in 0.3s var(--ease-spring) both; }
+.lang-cover-bar { animation: cover-bar 1.1s ease-in-out infinite; }
+.lang-reveal .page { animation: none; }
+.lang-reveal .page > * { animation: rise 0.5s var(--ease-soft) both; }
+.lang-reveal .page > :nth-child(2) { animation-delay: 70ms; }
+.lang-reveal .page > :nth-child(3) { animation-delay: 140ms; }
+.lang-reveal .page > :nth-child(4) { animation-delay: 210ms; }
+.lang-reveal .page > :nth-child(5) { animation-delay: 280ms; }
+.lang-reveal .page > :nth-child(6) { animation-delay: 350ms; }
+.lang-reveal .page > :nth-child(7) { animation-delay: 420ms; }
+.lang-reveal .page > :nth-child(n + 8) { animation-delay: 490ms; }
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+@keyframes pop-in {
+  0% { transform: scale(0.85); opacity: 0; }
+  100% { transform: none; opacity: 1; }
+}
+@keyframes shake {
+  0%, 100% { transform: translateX(0); }
+  20% { transform: translateX(-7px) rotate(-1deg); }
+  40% { transform: translateX(6px) rotate(1deg); }
+  60% { transform: translateX(-4px); }
+  80% { transform: translateX(3px); }
+}
+@keyframes flip-in {
+  0% { transform: perspective(800px) rotateY(80deg); opacity: 0.4; }
+  100% { transform: none; opacity: 1; }
+}
+/* End states use `transform: none` so finished animations don't trap position:fixed children. */
+@keyframes rise {
+  from { transform: translateY(10px); opacity: 0; }
+  to { transform: none; opacity: 1; }
+}
+@keyframes fade {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+@keyframes cover-bar {
+  from { transform: translateX(-100%); }
+  to { transform: translateX(300%); }
+}
+@keyframes dialog-in {
+  from { transform: translateY(14px) scale(0.94); opacity: 0; }
+  to { transform: none; opacity: 1; }
+}
+@keyframes toast-in {
+  from { transform: translateY(-110%) scale(0.95); opacity: 0; }
+  to { transform: none; opacity: 1; }
+}
+@keyframes toast-timer {
+  from { transform: scaleX(1); }
+  to { transform: scaleX(0); }
+}
+@keyframes check-pop {
+  0% { transform: scale(0.6); }
+  60% { transform: scale(1.12); }
+  100% { transform: scale(1); }
+}
+@keyframes live-dot {
+  0% { box-shadow: 0 0 0 0 color-mix(in srgb, currentColor 60%, transparent); }
+  100% { box-shadow: 0 0 0 6px transparent; }
+}
+@keyframes hop {
+  0%, 100% { transform: translateY(0) scale(1); }
+  40% { transform: translateY(-0.7rem) scale(1.05); }
+  60% { transform: translateY(-0.7rem) scale(1.05); }
+}
+@keyframes shimmer {
+  from { background-position: 100% 0; }
+  to { background-position: -50% 0; }
+}
+@keyframes bar-flow {
+  from { background-position: 0% 0; }
+  to { background-position: -200% 0; }
+}
+@keyframes flicker {
+  0%, 100% { transform: scale(1) rotate(0); filter: drop-shadow(0 0 0 transparent); }
+  25% { transform: scale(1.08) rotate(-4deg); }
+  50% { transform: scale(0.96) rotate(3deg); filter: drop-shadow(0 0 4px color-mix(in srgb, var(--c-accent) 70%, transparent)); }
+  75% { transform: scale(1.05) rotate(-2deg); }
+}
+@keyframes float-up {
+  0% { transform: translateY(0) scale(0.9); opacity: 0; }
+  20% { transform: translateY(-6px) scale(1.1); opacity: 1; }
+  100% { transform: translateY(-36px) scale(1); opacity: 0; }
+}
+@keyframes wiggle {
+  0%, 100% { transform: rotate(0); }
+  20% { transform: rotate(-12deg); }
+  40% { transform: rotate(10deg); }
+  60% { transform: rotate(-6deg); }
+  80% { transform: rotate(4deg); }
+}
+@keyframes orbit {
+  to { transform: rotate(360deg); }
+}
+@keyframes breathe {
+  0%, 100% { transform: scale(1); box-shadow: 0 0 0 0 color-mix(in srgb, var(--c-primary) 40%, transparent); }
+  50% { transform: scale(1.06); box-shadow: 0 0 0 14px transparent; }
+}
+@keyframes kvg-draw {
+  from { stroke-dashoffset: 1; }
+  to { stroke-dashoffset: 0; }
+}
+/* Stroke-order animation: paths use pathLength="1" so the dash covers the whole stroke. */
+.kvg-anim {
+  stroke-dasharray: 1;
+  stroke-dashoffset: 1;
+  animation: kvg-draw 0.6s ease-in-out forwards;
+}

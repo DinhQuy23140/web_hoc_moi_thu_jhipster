@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="M&#7847;m">
+  <defs>
+    <linearGradient id="mam-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#6366f1"/>
+      <stop offset="1" stop-color="#4338ca"/>
+    </linearGradient>
+    <linearGradient id="mam-leaf" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#f97316"/>
+      <stop offset="1" stop-color="#fdba74"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="30" fill="url(#mam-bg)"/>
+  <!-- cupped hands holding the sprout -->
+  <path d="M38 86c5 11 15 16 26 16s21-5 26-16" fill="none" stroke="#fff" stroke-opacity=".5" stroke-width="7" stroke-linecap="round"/>
+  <!-- stem -->
+  <path d="M64 94V64" fill="none" stroke="#fff" stroke-width="8" stroke-linecap="round"/>
+  <!-- small leaf: the first word -->
+  <path d="M62 70c-5-15-18-23-36-22 2 17 15 26 36 22z" fill="#fff"/>
+  <!-- big leaf, shaped like a speech bubble: the language you start to speak -->
+  <path d="M66 62c4-21 19-34 42-35-1 22-16 37-42 35z" fill="url(#mam-leaf)"/>
+  <path d="M67 61c9-11 20-20 31-25" fill="none" stroke="#fff" stroke-opacity=".6" stroke-width="2.5" stroke-linecap="round"/>
+</svg>
