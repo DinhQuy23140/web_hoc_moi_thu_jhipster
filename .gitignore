@@ -116,7 +116,6 @@ Desktop.ini
 # Directories
 ######################
 /bin/
-/deploy/
 /config/
 
 ######################
@@ -125,6 +124,7 @@ Desktop.ini
 .env
 .env.*
 !.env.example
+!.env*.example
 
 ######################
 # Logs
@@ -159,3 +159,9 @@ Desktop.ini
 ######################
 coverage/
 .nyc_output/
+
+######################
+# Python
+######################
+__pycache__/
+*.pyc

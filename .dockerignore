@@ -1,0 +1,17 @@
+.git
+.github
+.idea
+.vscode
+.devcontainer
+**/node_modules
+**/.angular
+app/dist
+app/coverage
+target
+config
+data
+seed/out
+src/test
+supabase
+*.log
+**/.env

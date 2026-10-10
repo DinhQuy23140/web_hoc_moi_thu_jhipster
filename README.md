@@ -68,6 +68,57 @@ java -jar target/*.jar
 
 Profile `prod` chạy `npm ci` + `npm run build` trong `app/` và đóng gói bản build Angular vào jar (`static/`); backend phục vụ SPA và API trên cùng một cổng. Bỏ qua bước build frontend bằng `-Dskip.npm`.
 
+## Deploy production (miễn phí)
+
+| Thành phần | Nền tảng                                   | Ghi chú                                                         |
+| ---------- | ------------------------------------------ | --------------------------------------------------------------- |
+| App        | Hugging Face Spaces (Docker, CPU basic)    | 2 vCPU / 16 GB RAM, ngủ sau 48 giờ không có truy cập            |
+| Database   | Aiven for MySQL — gói Free                 | MySQL 8, 1 GB, bắt buộc TLS                                     |
+| Media      | Supabase Storage — gói Free                | Tùy chọn (upload ảnh/âm thanh)                                  |
+| CI/CD      | GitHub Actions                             | `deploy-hf.yml`: test → đẩy mã nguồn lên Space → Space tự build |
+
+`Dockerfile` build Angular + seed (`node seed/build.mjs`) + jar Spring Boot (profile `prod`); container nghe cổng `7860`, Liquibase tự tạo schema và seed được nạp ở lần chạy đầu.
+
+### 1. Database (Aiven)
+
+1. Tạo service **MySQL → Free plan** trên [console.aiven.io](https://console.aiven.io).
+2. **Advanced configuration** → thêm `mysql.sql_require_primary_key` = `false` (bảng `DATABASECHANGELOG` của Liquibase không có khóa chính).
+3. Lấy Host, Port, User (`avnadmin`), Password ở tab **Overview**.
+
+### 2. Space (Hugging Face)
+
+Tạo token **Write** ở [huggingface.co/settings/tokens](https://huggingface.co/settings/tokens). Space được workflow tự tạo; sau đó vào **Settings → Variables and secrets** của Space:
+
+| Tên (Secret)                                          | Giá trị                                                                                                                                    |
+| ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| `DB_URL`                                              | `jdbc:mysql://HOST:PORT/lingora?sslMode=REQUIRED&useUnicode=true&characterEncoding=utf8&rewriteBatchedStatements=true&createDatabaseIfNotExist=true` |
+| `DB_USERNAME`, `DB_PASSWORD`                          | Tài khoản Aiven                                                                                                                            |
+| `JHIPSTER_SECURITY_AUTHENTICATION_JWT_BASE64_SECRET`  | Chuỗi base64 ≥ 64 byte ngẫu nhiên                                                                                                          |
+| `LINGORA_ADMIN_EMAIL`, `LINGORA_ADMIN_PASSWORD`       | Tài khoản admin được tạo khi khởi động (tài khoản đã tồn tại chỉ được thêm quyền admin)                                                    |
+
+| Tên (Variable)               | Giá trị                                                                                      |
+| ---------------------------- | -------------------------------------------------------------------------------------------- |
+| `APP_BASE_URL`               | `https://<user>-<space>.hf.space` (link trong email)                                         |
+| `LINGORA_REQUIRE_ACTIVATION` | `false` khi chưa có SMTP: đăng ký xong dùng được ngay                                        |
+
+Tùy chọn: `SMTP_HOST`, `SMTP_PORT`, `SMTP_USERNAME`, `SMTP_PASSWORD`, `SMTP_AUTH=true`, `SMTP_STARTTLS=true`, `MAIL_FROM` (ví dụ Brevo/Gmail) — khi có SMTP thì đặt `LINGORA_REQUIRE_ACTIVATION=true`; `SUPABASE_URL`, `SUPABASE_SERVICE_KEY`; `GOOGLE_CLIENT_ID` hoặc `FIREBASE_*` (thêm domain `hf.space` vào authorized origins).
+
+### 3. GitHub Actions
+
+Trong **Settings → Secrets and variables → Actions** của repo GitHub:
+
+- Secret `HF_TOKEN`: token Write ở bước 2.
+- Variable `HF_SPACE`: `<user>/<space>` (ví dụ `dinhquy/mam`).
+- Variable `APP_URL`: `https://<user>-<space>.hf.space` (workflow `keepalive.yml` ping 12 giờ/lần để Space không ngủ).
+
+Mỗi lần push lên `main`: chạy test frontend → đẩy mã nguồn lên Space → Space build image và khởi động lại (~10 phút cho lần đầu).
+
+### 4. Nạp dữ liệu từ điển (tùy chọn)
+
+```bash
+MYSQL_HOST=... MYSQL_PORT=... MYSQL_USER=avnadmin MYSQL_PASSWORD=... MYSQL_SSL=true python data/scripts/import_mysql.py data/jsonl
+```
+
 ## Kiểm thử
 
 ```bash
