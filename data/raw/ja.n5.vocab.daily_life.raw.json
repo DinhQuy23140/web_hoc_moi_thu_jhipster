@@ -1,0 +1,4047 @@
+{
+ "node_id": "ja.n5.vocab.daily_life",
+ "retrieved_at": "2026-10-10T08:29:01+00:00",
+ "items": {
+  "食べる": {
+   "jisho": {
+    "url": "https://jisho.org/api/v1/search/words?keyword=%E9%A3%9F%E3%81%B9%E3%82%8B",
+    "status": 200,
+    "retrieved_at": "2026-10-10T08:29:02+00:00",
+    "entries": [
+     {
+      "slug": "食べる",
+      "is_common": true,
+      "tags": [
+       "wanikani6"
+      ],
+      "jlpt": [
+       "jlpt-n5"
+      ],
+      "japanese": [
+       {
+        "word": "食べる",
+        "reading": "たべる"
+       }
+      ],
+      "senses": [
+       {
+        "english_definitions": [
+         "to eat"
+        ],
+        "parts_of_speech": [
+         "Ichidan verb",
+         "Transitive verb"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+       },
+       {
+        "english_definitions": [
+         "to live on (e.g. a salary)",
+         "to live off",
+         "to subsist on"
+        ],
+        "parts_of_speech": [
+         "Ichidan verb",
+         "Transitive verb"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+       }
+      ],
+      "attribution": {
+       "jmdict": true,
+       "jmnedict": false,
+       "dbpedia": false
+      }
+     }
+    ]
+   },
+   "wiktionary": {
+    "url": "https://en.wiktionary.org/wiki/%E9%A3%9F%E3%81%B9%E3%82%8B",
+    "status": 200,
+    "retrieved_at": "2026-10-10T08:29:03+00:00",
+    "japanese_section": "{{ja-kanjitab|た|y=k}}\n\n===Etymology===\nFrom earlier {{inh|ja|ojp|-}} form {{ja-r|食ぶ|たぶ|to (humbly) receive or get|pos=from a superior}}, a verb with the {{ja-r|下二段|しも にだん|lower bigrade}} conjugation pattern. This was the [[humble]] form of {{ja-r|賜ぶ|たぶ|rom=-}}, {{ja-r|給ぶ|たぶ|to (deign to) give|pos=to an inferior}}, a verb with the full {{ja-r|四段|よだん|quadrigrade}} conjugation pattern.<ref name=\"KDJ\">{{R:Nihon Kokugo Daijiten Concise|食}}</ref><ref name=\"DJR\"/>\n{{ja-from-shimonidan}}\n\nMost likely related to {{ja-r|給う|たまう|to give|pos=as a superior gives a thing to, or does something for, an inferior}}.\n\nCompare the historical development of meaning from “to humbly receive” → “to eat”, with the modern use of the humble verb {{ja-r|頂く|いただく|to receive}} just before eating, in a sense of “I humbly receive this food.”\n\n===Pronunciation===\n{{ja-pron|たべる|acc=2|acc_ref=DJR}}\n{{ja-acc-table|verb-ichidan|たべる|acc=2|て-form-acc=1}}\n\n===Verb===\n{{ja-verb|たべる|type=2|tr=transitive}}\n\n# to [[eat]]\n#: {{ja-uxi|[[ご飯]]を'''食べる'''|ご-はん を '''たべる'''|to '''eat''' a meal}}\n#: {{ja-uxi|[[箸]]で'''食べる'''|はし で '''たべる'''|to '''eat''' with chopsticks}}\n#: {{ja-x|[[今日]]は、[[寿%司]]を'''食べ'''に[[銀%座]]に[[行く|行きます]]。|^きょう は、 す%し を '''たべ''' に ^ぎん%ざ に いきます。|I'll go to Ginza today to '''eat''' sushi.}}\n# to [[make a living]]\n#: {{ja-uxi|'''食べて'''[[行く|いく]][[ため]]に|'''たべて''' いく ため に|in order to '''make a living'''}}\n# {{lb|ja|archaic|humble}} to [[eat]] or [[drink]]\n#* {{RQ:Nippo Jisho|594|passage='''Tabe''', uru, eta. タベ, ブル, ベタ (食べ, ぶる, べた) 食う, または, 飲む.}}\n\n====Conjugation====\n{{ja-ichi|たべ}}\n{{ja-conj-ex|たべ|i}}\n{{ja-conj-bungo|た|2d-b}}\n\n====Synonyms====\n{{col|ja\n|{{qualifier|honorific}} {{ja-r|召し上がる|めしあがる}}\n|{{qualifier|humble}} {{ja-r|頂く|いただく}}\n|{{qualifier|male, vulgar}} {{ja-r|食う|く.う}}\n|{{qualifier|of animals}} {{ja-r|食む|はむ}}\n|{{qualifier|obsolete}} {{ja-r|まぼる}}\n|{{qualifier|Tsugaru}} {{ja-r|まぐらる}}\n}}\n\n===References===\n{{reflist}}\n:* {{R:Kanjipedia Kotoba|0003543700}}\n:* {{R:Nippo Jisho}}"
+   },
+   "jlpt_list": {
+    "url": "https://github.com/jamsinclair/open-anki-jlpt-decks",
+    "retrieved_at": "2026-10-10T08:29:03+00:00",
+    "matches": {
+     "n5": [
+      {
+       "expression": "食べる",
+       "reading": "たべる",
+       "meaning": "to eat",
+       "tags": "JLPT JLPT_5 JLPT_N5",
+       "guid": "c.+pIV(7xY"
+      }
+     ]
+    }
+   },
+   "tatoeba_vie": {
+    "url": "https://tatoeba.org/en/api_v0/search?from=jpn&to=vie&query=%E9%A3%9F%E3%81%B9%E3%82%8B&orphans=no&unapproved=no&sort=words",
+    "status": 200,
+    "retrieved_at": "2026-10-10T08:29:05+00:00",
+    "sentences": [
+     {
+      "id": 12824508,
+      "text": "食べる？",
+      "owner": "bunbuku",
+      "translations": [
+       {
+        "id": 6275410,
+        "text": "Đi ăn không?",
+        "direct": null
+       }
+      ]
+     },
+     {
+      "id": 5254850,
+      "text": "食べる。",
+      "owner": "daichan",
+      "translations": [
+       {
+        "id": 3606829,
+        "text": "Tôi sẽ ăn.",
+        "direct": null
+       }
+      ]
+     },
+     {
+      "id": 8579807,
+      "text": "象は草を食べる。",
+      "owner": "small_snow",
+      "translations": [
+       {
+        "id": 13598312,
+        "text": "Voi ăn cỏ.",
+        "direct": null
+       }
+      ]
+     },
+     {
+      "id": 3655437,
+      "text": "何でも食べるよ。",
+      "owner": "tonymanga83",
+      "translations": [
+       {
+        "id": 9035400,
+        "text": "Tôi sẽ ăn bất cứ thứ gì.",
+        "direct": null
+       },
+       {
+        "id": 13340846,
+        "text": "Tôi ăn mọi thứ.",
+        "direct": null
+       }
+      ]
+     },
+     {
+      "id": 2465641,
+      "text": "お昼はもう食べた？",
+      "owner": "tommy_san",
+      "translations": [
+       {
+        "id": 13249778,
+        "text": "Bạn đã ăn trưa chưa?",
+        "direct": null
+       }
+      ]
+     },
+     {
+      "id": 672255,
+      "text": "牛は草を食べる。",
+      "owner": "qahwa",
+      "translations": [
+       {
+        "id": 12269791,
+        "text": "Bò ăn cỏ.",
+        "direct": null
+       }
+      ]
+     },
+     {
+      "id": 78845,
+      "text": "羊は草を食べる。",
+      "owner": "mookeee",
+      "translations": [
+       {
+        "id": 11108629,
+        "text": "Cừu đang ăn cỏ.",
+        "direct": null
+       }
+      ]
+     },
+     {
+      "id": 1020993,
+      "text": "なしを食べている。",
+      "owner": "Quazel",
+      "translations": [
+       {
+        "id": 8956012,
+        "text": "Tôi đang ăn một quả lê.",
+        "direct": true
+       },
+       {
+        "id": 8956013,
+        "text": "Tôi đang ăn lê.",
+        "direct": true
+       },
+       {
+        "id": 8956014,
+        "text": "Tôi đang ăn một quả lê Nhật.",
+        "direct": true
+       }
+      ]
+     },
+     {
+      "id": 533471,
+      "text": "食べ過ぎると太る。",
+      "owner": "nekouma",
+      "translations": [
+       {
+        "id": 8884464,
+        "text": "Ăn quá nhiều sẽ béo.",
+        "direct": true
+       },
+       {
+        "id": 8965377,
+        "text": "Ăn quá nhiều thì sẽ béo.",
+        "direct": true
+       },
+       {
+        "id": 8961942,
+        "text": "Nếu bạn ăn quá nhiều, bạn sẽ béo lên.",
+        "direct": null
+       },
+       {
+        "id": 10713913,
+        "text": "Nếu bạn ăn quá nhiều, bạn sẽ trở nên mập.",
+        "direct": null
+       }
+      ]
+     },
+     {
+      "id": 5705476,
+      "text": "彼女は食べ物を売る。",
+      "owner": "xylopoppo",
+      "translations": [
+       {
+        "id": 10697524,
+        "text": "Cô ấy bán đồ ăn",
+        "direct": true
+       }
+      ]
+     }
+    ]
+   },
+   "tatoeba_eng": {
+    "url": "https://tatoeba.org/en/api_v0/search?from=jpn&to=eng&query=%E9%A3%9F%E3%81%B9%E3%82%8B&orphans=no&unapproved=no&sort=words",
+    "status": 200,
+    "retrieved_at": "2026-10-10T08:29:07+00:00",
+    "sentences": [
+     {
+      "id": 12824508,
+      "text": "食べる？",
+      "owner": "bunbuku",
+      "translations": [
+       {
+        "id": 773323,
+        "text": "Do you want to eat?",
+        "direct": true
+       }
+      ]
+     },
+     {
+      "id": 5254850,
+      "text": "食べる。",
+      "owner": "daichan",
+      "translations": [
+       {
+        "id": 1098495,
+        "text": "I will eat.",
+        "direct": true
+       },
+       {
+        "id": 1120797,
+        "text": "I eat.",
+        "direct": true
+       },
+       {
+        "id": 1189719,
+        "text": "I'm eating.",
+        "direct": null
+       },
+       {
+        "id": 1484057,
+        "text": "I am eating.",
+        "direct": null
+       },
+       {
+        "id": 1098492,
+        "text": "I ate.",
+        "direct": null
+       },
+       {
+        "id": 1120798,
+        "text": "I am food.",
+        "direct": null
+       },
+       {
+        "id": 2283872,
+        "text": "I drink.",
+        "direct": null
+       },
+       {
+        "id": 5401685,
+        "text": "We ate.",
+        "direct": null
+       }
+      ]
+     },
+     {
+      "id": 5072721,
+      "text": "食べるな！",
+      "owner": "999yudai",
+      "translations": [
+       {
+        "id": 5072694,
+        "text": "Don't eat!",
+        "direct": true
+       },
+       {
+        "id": 6029093,
+        "text": "Don't eat that!",
+        "direct": true
+       },
+       {
+        "id": 631443,
+        "text": "Do not eat.",
+        "direct": null
+       },
+       {
+        "id": 2245323,
+        "text": "Don't eat this.",
+        "direct": null
+       },
+       {
+        "id": 6274938,
+        "text": "Don't eat it.",
+        "direct": null
+       },
+       {
+        "id": 8899280,
+        "text": "Don't eat it!",
+        "direct": null
+       }
+      ]
+     },
+     {
+      "id": 13753503,
+      "text": "食べる前に？",
+      "owner": "TanukiKun",
+      "translations": [
+       {
+        "id": 9853821,
+        "text": "Before eating?",
+        "direct": null
+       }
+      ]
+     },
+     {
+      "id": 12206268,
+      "text": "これ食べる？",
+      "owner": "small_snow",
+      "translations": [
+       {
+        "id": 3154896,
+        "text": "Are you going to eat this?",
+        "direct": true
+       },
+       {
+        "id": 12219214,
+        "text": "Would you like to eat this?",
+        "direct": true
+       }
+      ]
+     }
+    ]
+   }
+  },
+  "飲む": {
+   "jisho": {
+    "url": "https://jisho.org/api/v1/search/words?keyword=%E9%A3%B2%E3%82%80",
+    "status": 200,
+    "retrieved_at": "2026-10-10T08:29:09+00:00",
+    "entries": [
+     {
+      "slug": "飲む",
+      "is_common": true,
+      "tags": [
+       "wanikani10"
+      ],
+      "jlpt": [
+       "jlpt-n5"
+      ],
+      "japanese": [
+       {
+        "word": "飲む",
+        "reading": "のむ"
+       },
+       {
+        "word": "呑む",
+        "reading": "のむ"
+       }
+      ],
+      "senses": [
+       {
+        "english_definitions": [
+         "to drink",
+         "to swallow",
+         "to take (medicine)"
+        ],
+        "parts_of_speech": [
+         "Godan verb with 'mu' ending",
+         "Transitive verb"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": [
+         "呑む refers to swallowing whole or gulping down"
+        ]
+       },
+       {
+        "english_definitions": [
+         "to smoke (tobacco)"
+        ],
+        "parts_of_speech": [
+         "Godan verb with 'mu' ending",
+         "Transitive verb"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+       },
+       {
+        "english_definitions": [
+         "to swallow up",
+         "to engulf"
+        ],
+        "parts_of_speech": [
+         "Godan verb with 'mu' ending",
+         "Transitive verb"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": [
+         "usu. in the passive"
+        ]
+       },
+       {
+        "english_definitions": [
+         "to suppress (one's anger, bitter feelings, etc.)",
+         "to keep down",
+         "to hold back",
+         "to swallow (one's tears)",
+         "to catch (one's breath)"
+        ],
+        "parts_of_speech": [
+         "Godan verb with 'mu' ending",
+         "Transitive verb"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+       },
+       {
+        "english_definitions": [
+         "to accept (a demand, conditions, etc.)",
+         "to agree to"
+        ],
+        "parts_of_speech": [
+         "Godan verb with 'mu' ending",
+         "Transitive verb"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+       },
+       {
+        "english_definitions": [
+         "to make light of (someone)",
+         "to think nothing of",
+         "to overwhelm",
+         "to overawe"
+        ],
+        "parts_of_speech": [
+         "Godan verb with 'mu' ending",
+         "Transitive verb"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+       },
+       {
+        "english_definitions": [
+         "to carry (a concealed dagger, etc.)",
+         "to conceal (up one's sleeve, etc.)"
+        ],
+        "parts_of_speech": [
+         "Godan verb with 'mu' ending",
+         "Transitive verb"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+       },
+       {
+        "english_definitions": [
+         "Drinking"
+        ],
+        "parts_of_speech": [
+         "Wikipedia definition"
+        ],
+        "links": [
+         {
+          "text": "Read “Drinking” on English Wikipedia",
+          "url": "http://en.wikipedia.org/wiki/Drinking?oldid=492332399"
+         },
+         {
+          "text": "Read “飲む” on Japanese Wikipedia",
+          "url": "http://ja.wikipedia.org/wiki/飲む?oldid=40486307"
+         }
+        ],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": [],
+        "sentences": []
+       }
+      ],
+      "attribution": {
+       "jmdict": true,
+       "jmnedict": false,
+       "dbpedia": "http://dbpedia.org/resource/Drinking"
+      }
+     }
+    ]
+   },
+   "wiktionary": {
+    "url": "https://en.wiktionary.org/wiki/%E3%81%AE%E3%82%80",
+    "status": 200,
+    "retrieved_at": "2026-10-10T08:29:11+00:00",
+    "japanese_section": "{{ja-kanjitab|alt=飲む,呑む,喫む:uncommon}}\n\n===Etymology===\nFrom {{inh|ja|ojp|-}}. First attested in the ''{{w|Nihon Shoki}}'' of 720 {{CE}}.<ref>{{R:Nihon Kokugo Daijiten 2|飲・呑}}</ref> Ultimately from {{inh|ja|jpx-pro|*nəmu}}.\n{{col-top|2|cog}}\nIn the Ryukyuan branch of Japonic, cognate with {{cog|kzg|飲みゅい|tr=numyui}}, {{cog|xug|飲みん|tr=numin}}, {{cog|mvi|飲むっ|tr=num}}, {{cog|ryn|飲むり|tr=numuri}}, {{cog|ryu|飲むん|tr=numun}}, {{cog|okn|飲みゅん|tr=numyun}}, {{cog|ams|飲みゅむっ|tr=numyum}}, {{cog|tkn|飲み|tr=numi}}, {{cog|rys|飲むん|tr=numun}}, {{cog|yoi|飲むん|tr=numun}}, and {{cog|yox|飲みゅん|tr=numyun}}.\n{{col-bottom}}\n\n===Pronunciation===\n{{ja-pron|acc=1|acc_ref=DJR,NHK,ZAJ}}\n{{ja-acc-table|verb-godan|のむ|acc=1|て-form-acc=1|lemma=飲む}}\n\n===Verb===\n{{ja-verb|tr=trans|type=1}}\n\n# {{ja-def|飲む|呑む}}<ref group=\"note\" name=\"kanji\"/> to [[drink]], to [[gulp]], to [[swallow]]; to [[eat]] (soup)\n#: {{ja-usex|[[私たち]][[は]][[さじ]][[で]][[スープ]][[を]]'''飲む'''。|わたしたち は さじ で スープ を '''のむ'''。|We '''eat''' soup with a [[spoon]].}}\n#: {{ja-usex|[[私]][[は]][[ミルク]][[を]]'''飲ん'''[[て|で]][[いる|いた]]。|わたし は ミルク を '''のん'''でいた。|I was '''drinking''' milk.}}\n# {{ja-def|飲む|喫む}}<ref group=\"note\" name=\"kanji\"/> {{lb|ja|smoking}} to [[smoke]] [[tobacco]]\n#: {{syn|ja|すう|tr=suu|lit=to suck}}\n# {{ja-def|飲む}} to [[overwhelm]], to [[engulf]]\n# {{ja-def|飲む}} to [[suppress]], to [[keep down]]\n# {{ja-def|飲む|呑む}} to [[take]] (medicine)\n#: {{ja-usex|[[薬]]を'''飲む'''|くすり を '''のむ'''|to '''take''' medicine}}\n# {{ja-def|飲む|呑む}} to [[accept]] something like a demand or a condition\n\n====Usage notes====\n<references group=\"note\">\n<ref name=\"kanji\">{{m|ja|飲}} narrowly refers to drinking, while {{m|ja|呑}} narrowly refers to swallowing. {{m|ja|喫}} is usually restricted to smoking.</ref>\n</references>\n\n====Conjugation====\n{{ja-go-mu|の}}\n{{ja-conj-bungo|の|4-m}}\n{{ja-conj-ex|の|む|head=飲む}}\n\n====Derived terms====\n{{col|ja\n|{{ja-r|飲み物|のみもの|gloss=a drink}}\n|{{ja-r|飲み込む|のみこむ|gloss=to gulp down}}\n|{{ja-r|飲み放題|のみほうだい|gloss=all you can drink}}\n|{{ja-r|飲み干す|のみほす|gloss=empty one's glass}}\n|{{ja-r|飲み代|のみしろ|gloss=drinking money}}\n|{{ja-r|飲み会|のみかい|gloss=drinking party}}\n|{{ja-r|飲み屋|のみや|gloss=bar, pub}}\n|{{ja-r|固唾を呑む|かたず を のむ}}\n|{{ja-r|清濁併せ呑む|せいだく あわせのむ}}\n}}\n\n===References===\n{{reflist}}\n\n{{topics|ja|Drinking}}",
+    "redirected_from": "飲む"
+   },
+   "jlpt_list": {
+    "url": "https://github.com/jamsinclair/open-anki-jlpt-decks",
+    "retrieved_at": "2026-10-10T08:29:11+00:00",
+    "matches": {
+     "n5": [
+      {
+       "expression": "飲む",
+       "reading": "のむ",
+       "meaning": "to drink",
+       "tags": "JLPT JLPT_5 JLPT_N5",
+       "guid": "C;cf;f4#r6"
+      }
+     ]
+    }
+   },
+   "tatoeba_vie": {
+    "url": "https://tatoeba.org/en/api_v0/search?from=jpn&to=vie&query=%E9%A3%B2%E3%82%80&orphans=no&unapproved=no&sort=words",
+    "status": 200,
+    "retrieved_at": "2026-10-10T08:29:13+00:00",
+    "sentences": [
+     {
+      "id": 12829768,
+      "text": "これを飲むんだ。",
+      "owner": "small_snow",
+      "translations": [
+       {
+        "id": 13333861,
+        "text": "Uống cái này đi.",
+        "direct": null
+       }
+      ]
+     },
+     {
+      "id": 7490665,
+      "text": "トムはお酒を飲む。",
+      "owner": "Ninja",
+      "translations": [
+       {
+        "id": 13338434,
+        "text": "Tom uống.",
+        "direct": null
+       }
+      ]
+     },
+     {
+      "id": 492920,
+      "text": "朝コーヒーを飲む。",
+      "owner": "hectorvk",
+      "translations": [
+       {
+        "id": 13344023,
+        "text": "Tôi uống cà phê vào buổi sáng.",
+        "direct": null
+       }
+      ]
+     },
+     {
+      "id": 12993309,
+      "text": "トムは水をよく飲む。",
+      "owner": "small_snow",
+      "translations": [
+       {
+        "id": 13232194,
+        "text": "Tom uống rất nhiều nước.",
+        "direct": null
+       }
+      ]
+     },
+     {
+      "id": 8532834,
+      "text": "トムは飲むのが好きだ。",
+      "owner": "small_snow",
+      "translations": [
+       {
+        "id": 9013910,
+        "text": "Tom thích uống.",
+        "direct": true
+       }
+      ]
+     },
+     {
+      "id": 145655,
+      "text": "寝る前にビールを飲むな。",
+      "owner": "small_snow",
+      "translations": [
+       {
+        "id": 337932,
+        "text": "Đừng uống bia trước khi đi ngủ.",
+        "direct": null
+       },
+       {
+        "id": 9726085,
+        "text": "Trước khi đi ngủ đừng có uống bia!",
+        "direct": null
+       }
+      ]
+     },
+     {
+      "id": 236398,
+      "text": "「飲み物は無料ですか」「ご婦人に限ってです」",
+      "owner": "mookeee",
+      "translations": [
+       {
+        "id": 8887062,
+        "text": "\"Đồ uống có miễn phí không?\" \"Khuyến mãi này chỉ áp dụng cho phụ nữ, thưa quý khách.\"",
+        "direct": true
+       }
+      ]
+     },
+     {
+      "id": 157136,
+      "text": "私は紅茶が好きではないので、朝食には普通コーヒーを飲む。",
+      "owner": "bunbuku",
+      "translations": [
+       {
+        "id": 13344277,
+        "text": "Tôi không thích trà, cho nên tôi thường uống cà phê vào bữa sáng.",
+        "direct": null
+       }
+      ]
+     }
+    ]
+   },
+   "tatoeba_eng": {
+    "url": "https://tatoeba.org/en/api_v0/search?from=jpn&to=eng&query=%E9%A3%B2%E3%82%80&orphans=no&unapproved=no&sort=words",
+    "status": 200,
+    "retrieved_at": "2026-10-10T08:29:15+00:00",
+    "sentences": [
+     {
+      "id": 2860783,
+      "text": "緑茶飲む？",
+      "owner": "Nekonari",
+      "translations": [
+       {
+        "id": 1768241,
+        "text": "Do you drink green tea?",
+        "direct": true
+       },
+       {
+        "id": 6884432,
+        "text": "Would you like some green tea?",
+        "direct": true
+       },
+       {
+        "id": 1867443,
+        "text": "Are you drinking green tea?",
+        "direct": null
+       },
+       {
+        "id": 10681840,
+        "text": "Fancy some green tea?",
+        "direct": null
+       }
+      ]
+     },
+     {
+      "id": 890127,
+      "text": "何か飲む？",
+      "owner": "bunbuku",
+      "translations": [
+       {
+        "id": 27379,
+        "text": "Want a drink?",
+        "direct": true
+       },
+       {
+        "id": 64760,
+        "text": "Do you want something to drink?",
+        "direct": true
+       },
+       {
+        "id": 890574,
+        "text": "Want to drink something?",
+        "direct": true
+       },
+       {
+        "id": 1504,
+        "text": "Would you like something to drink?",
+        "direct": null
+       },
+       {
+        "id": 12160784,
+        "text": "Will you have something to drink?",
+        "direct": null
+       },
+       {
+        "id": 25196,
+        "text": "Would you like to drink anything?",
+        "direct": null
+       },
+       {
+        "id": 24714,
+        "text": "What will you have to drink?",
+        "direct": null
+       },
+       {
+        "id": 24765,
+        "text": "What would you like to drink?",
+        "direct": null
+       },
+       {
+        "id": 400184,
+        "text": "What do you want to drink?",
+        "direct": null
+       },
+       {
+        "id": 2644214,
+        "text": "What'll you have to drink?",
+        "direct": null
+       }
+      ]
+     },
+     {
+      "id": 11388430,
+      "text": "ビール飲む？",
+      "owner": "bunbuku",
+      "translations": [
+       {
+        "id": 6350783,
+        "text": "Do you want to drink some beer?",
+        "direct": true
+       }
+      ]
+     },
+     {
+      "id": 10630513,
+      "text": "コーヒー、飲む？",
+      "owner": "small_snow",
+      "translations": [
+       {
+        "id": 449095,
+        "text": "Do you drink coffee?",
+        "direct": true
+       },
+       {
+        "id": 3871291,
+        "text": "Do you want to have some coffee?",
+        "direct": true
+       },
+       {
+        "id": 62182,
+        "text": "Have some coffee?",
+        "direct": null
+       }
+      ]
+     },
+     {
+      "id": 1356183,
+      "text": "チャイを飲む。",
+      "owner": "nonong",
+      "translations": [
+       {
+        "id": 8826857,
+        "text": "I’ll drink chai.",
+        "direct": true
+       }
+      ]
+     }
+    ]
+   }
+  },
+  "水": {
+   "jisho": {
+    "url": "https://jisho.org/api/v1/search/words?keyword=%E6%B0%B4",
+    "status": 200,
+    "retrieved_at": "2026-10-10T08:29:17+00:00",
+    "entries": [
+     {
+      "slug": "水",
+      "is_common": true,
+      "tags": [
+       "wanikani2"
+      ],
+      "jlpt": [
+       "jlpt-n5"
+      ],
+      "japanese": [
+       {
+        "word": "水",
+        "reading": "みず"
+       }
+      ],
+      "senses": [
+       {
+        "english_definitions": [
+         "water (esp. cool or cold)"
+        ],
+        "parts_of_speech": [
+         "Noun"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [
+         "湯 ゆ"
+        ],
+        "antonyms": [],
+        "source": [],
+        "info": []
+       },
+       {
+        "english_definitions": [
+         "fluid (esp. in an animal tissue)",
+         "liquid"
+        ],
+        "parts_of_speech": [
+         "Noun"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+       },
+       {
+        "english_definitions": [
+         "flood",
+         "floodwaters"
+        ],
+        "parts_of_speech": [
+         "Noun"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+       },
+       {
+        "english_definitions": [
+         "water offered to wrestlers just prior to a bout"
+        ],
+        "parts_of_speech": [
+         "Noun"
+        ],
+        "links": [],
+        "tags": [
+         "Sumo"
+        ],
+        "restrictions": [],
+        "see_also": [
+         "力水"
+        ],
+        "antonyms": [],
+        "source": [],
+        "info": []
+       },
+       {
+        "english_definitions": [
+         "break granted to wrestlers engaged in a prolonged bout"
+        ],
+        "parts_of_speech": [
+         "Noun"
+        ],
+        "links": [],
+        "tags": [
+         "Sumo"
+        ],
+        "restrictions": [],
+        "see_also": [
+         "水入り"
+        ],
+        "antonyms": [],
+        "source": [],
+        "info": []
+       },
+       {
+        "english_definitions": [
+         "Water"
+        ],
+        "parts_of_speech": [
+         "Wikipedia definition"
+        ],
+        "links": [
+         {
+          "text": "Read “Water” on English Wikipedia",
+          "url": "http://en.wikipedia.org/wiki/Water?oldid=494683228"
+         },
+         {
+          "text": "Read “水” on Japanese Wikipedia",
+          "url": "http://ja.wikipedia.org/wiki/水?oldid=42737804"
+         }
+        ],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": [],
+        "sentences": []
+       }
+      ],
+      "attribution": {
+       "jmdict": true,
+       "jmnedict": false,
+       "dbpedia": "http://dbpedia.org/resource/Water"
+      }
+     },
+     {
+      "slug": "水-1",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+       {
+        "word": "水",
+        "reading": "すい"
+       }
+      ],
+      "senses": [
+       {
+        "english_definitions": [
+         "Wednesday"
+        ],
+        "parts_of_speech": [
+         "Noun"
+        ],
+        "links": [],
+        "tags": [
+         "Abbreviation"
+        ],
+        "restrictions": [],
+        "see_also": [
+         "水曜日"
+        ],
+        "antonyms": [],
+        "source": [],
+        "info": []
+       },
+       {
+        "english_definitions": [
+         "shaved ice (served with flavored syrup)"
+        ],
+        "parts_of_speech": [
+         "Noun"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [
+         "氷水"
+        ],
+        "antonyms": [],
+        "source": [],
+        "info": []
+       },
+       {
+        "english_definitions": [
+         "water (fifth of the five elements)"
+        ],
+        "parts_of_speech": [
+         "Noun"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [
+         "五行"
+        ],
+        "antonyms": [],
+        "source": [],
+        "info": []
+       }
+      ],
+      "attribution": {
+       "jmdict": true,
+       "jmnedict": false,
+       "dbpedia": false
+      }
+     }
+    ]
+   },
+   "wiktionary": {
+    "url": "https://en.wiktionary.org/wiki/%E6%B0%B4",
+    "status": 200,
+    "retrieved_at": "2026-10-10T08:29:18+00:00",
+    "japanese_section": "===Kanji===\n{{ja-kanji}}\n\n====Readings====\n{{ja-readings\n|goon=すい<すい<すゐ\n|kanon=すい<すい<すゐ\n|kun=みず-<みづ-, み-, みな-, もい-, かわ-\n|nanori=うず, ずみ, たいら<たひら, つ, ど, な, なか, みさ, みつ, みん, ゆ, ゆく\n}}\n\n====Compounds====\n{{col-top|3|com}}\n{{ja-r/multi|data=\n* {{ja-r/args|水綿|アオミドロ}}\n* {{ja-r/args|水黽|アメンボ|rom=-}}, {{ja-r/args|水馬|アメンボ}}\n* {{ja-r/args|水夫|かこ|rom=-}}, {{ja-r/args|水手|かこ}}\n* {{ja-r/args|水鶏|クイナ}}\n* {{ja-r/args|水母|クラゲ}}\n* {{ja-r/args|礬水|どうさ}}\n* {{ja-r/args|水松|ミル}}\n* {{ja-r/args|水雲|モズク}}\n}}\n{{col-bottom}}\n\n===Etymology 1===\n<div style=\"float:right;\">\n{{wp|ja:}}\n{{wp|Water}}\n</div>\n{{ja-kanjitab|みず|yomi=k}}\n\n{{IPAfont|⟨mi<sub>1</sub>du⟩}} → *{{IPAchar|/mʲidu/}} → {{IPAchar|/mid͡zu/}} → {{IPAchar|/mizu/}}\n\nFrom {{inh|ja|ojp|-}}. First attested in the ''{{w|Kojiki}}'' of 712 {{CE}}.<ref name=\"KDJc\">{{R:Nihon Kokugo Daijiten Concise}}</ref> In turn, from {{inh|ja|jpx-pro|*mentu}}. Ryukyuan cognates support the existence of the first vowel having an initial mid vowel.\n\nPossibly cognate with {{m|ja|瑞||tr=mizu|[[freshness]], [[youth]]}}.\n\n====Pronunciation====\n{{ja-pron|みず|acc=0|acc_ref=DJR}}\n{{ja-accent-dialectal|region=Kyoto|k-0|みず|mízú}}\n{{ja-accent-dialectal|region=Kagoshima|kt-a||み|づ|mídzù}}\n{{rfap|ja}}\n\n====Noun====\n{{ja-noun|みず|hist=みづ}}\n\n# [[water]] {{gloss|sometimes [[cold]] and/or [[fresh]]}}\n#: {{syn|ja|ウオーター|tr=uōtā|ウォーター|tr2=wōtā|がっこ|tr3=gakko|q3=Tsugaru}}\n#: {{ant|ja|湯|tr1=yu|pos1=specifically meaning \"hot water\"}}\n#* {{RQ:Kokinshū}}\n#*: {{ja-usex\n|袖 ひちて むすび し '''水''' の こほれ る を 春 立つ けふ の 風 や とく らむ\n|そで ひちて むすび し '''みづ''' の こほれ る を はる たつ けふ の かぜ や とく らむ\n|During the coming spring, would the wind melt the '''water''' that I scooped out?\n}}\n# [[drinking water]]\n#: {{syn|ja|飲水|tr=insui, nomimizu|飲用水|tr2=in'yōsui|飲料水|tr3=inryōsui}}\n# a [[fluid]], [[liquid]]\n#: {{syn|ja|液体|tr=ekitai}}\n# a [[flood]]\n#: {{syn|ja|大水|tr=ōmizu|洪水|tr2=kōzui|出水|tr3=shussui}}\n# {{lb|ja|sumo}} {{short for|ja|水入り|tr=mizuiri}}: [[halt]]ing\n# {{lb|ja|sumo}} {{short for|ja|力水|tr=chikara mizu}}: water [[offer]]ed to [[sumo]] [[wrestler]]s before a [[bout]]\n\n====Usage notes====\n* Note that, while ''mizu'' is the most general Japanese term for “{{m|en|water}}”, it does refer specifically to “{{m|en|[[water]] that is not [[hot]]}}”.  Meanwhile, the word {{m|ja|湯|tr=yu}} refers specifically to “{{m|en|hot water}}”.  Consider {{m|ja|水風呂||tr=mizu-buro|[[cold]]-[[water]] [[bath]]}}, contrasting with {{m|ja|風呂||tr=furo|pos=implying hot water|[[bath]]}}.\n\n=====Derived terms=====\n{{col-top|3|der}}\n{{ja-r/multi|data=\n* {{ja-r/args|お水|おみず|rom=o-mizu|pos=polite form}}\n* {{ja-r/args|水%水|みず%みず|rom=-}}, {{ja-r/args|水%々|みず%みず}}\n* {{ja-r/args|水葵|ミズアオイ}}\n* {{ja-r/args|水%揚げ|みず%あげ|[[landing]]}}\n* {{ja-r/args|水%飴|みず%あめ}}\n* {{ja-r/args|水%洗い|みず%あらい}}\n* {{ja-r/args|水%色|みず%-いろ}}\n* {{ja-r/args|水%魚|ミズ%ウオ}}\n* {{ja-r/args|湖|みず.うみ}}\n* {{ja-r/args|鳩%尾|みぞ%おち}}\n* {{ja-r/args|水%着|みず%ぎ}}\n* {{ja-r/args|水菊|ミズギク}}\n* {{ja-r/args|水%際|みず%ぎわ}}\n* {{ja-r/args|水%草|みず%くさ}}\n* {{ja-r/args|水%臭い|みず%くさい}}\n* {{ja-r/args|水%口|みず%ぐち}}\n* {{ja-r/args|水%気|みず%け}}\n* {{ja-r/args|水%翻し|みず%こぼし}}\n* {{ja-r/args|水杉|ミズスギ}}\n* {{ja-r/args|水%玉|みず%たま|[[polka dot]]}}\n* {{ja-r/args|水%溜まる|みず% たまる|pos=pillow word}}\n* {{ja-r/args|水%月|^みず%つき}}\n* {{ja-r/args|水%漬く|みず%つく}}\n* {{ja-r/args|水虎の尾|ミズ トラ ノ オ}}\n* {{ja-r/args|水%菜|ミズ%ナ}}\n* {{ja-r/args|水%成|^みず%なり}}\n* {{ja-r/args|壬|^みずのえ}}\n* {{ja-r/args|癸|^みずのと}}\n* {{ja-r/args|水%計り|みず%ばかり|rom=-}}, {{ja-r/args|水%準|みず%ばかり}}\n* {{ja-r/args|水芭蕉|ミズバショウ}}\n* {{ja-r/args|水%浸し|みず%びたし|flooded out}}\n* {{ja-r/args|水向日葵|ミズヒマワリ}}\n* {{ja-r/args|水%増し|みず%まし}}\n* {{ja-r/args|水%村|^みず%むら}}\n* {{ja-r/args|水%盛|みず%もり|rom=-}}, {{ja-r/args|準|みずもり}}\n* {{ja-r/args|水%割り|みず%わり|[[whiskey]] [[dilute]]d with water}}\n* {{ja-r/args|雨%水|あま%みず}}\n* {{ja-r/args|大%水|おお%みず}}\n* {{ja-r/args|筐の水|かたみ の みず}}\n* {{ja-r/args|化%粧 水|け%しょう すい}}\n* {{ja-r/args|誘い水|さそいみず|[[pump]] [[priming]]}}\n* {{ja-r/args|塩%水|しお%みず}}\n* {{ja-r/args|垂%水|^たる%みず}}\n* {{ja-r/args|力 水|ちから みず}}\n* {{ja-r/args|手%水|て%みず}}, {{ja-r/args|手%水|ちょう%ず}}\n* {{ja-r/args|飲み水|のみみず|[[drinking water]]}}\n* {{ja-r/args|呼び水|よびみず|pump priming}}\n{{col-bottom}}\n\n=====Idioms=====\n{{col|ja\n|{{ja-r/args|水%入らず|みず% いらず}}\n|{{ja-r/args|水%到りて渠%成る|みず% いたりて きょ% なる}}\n|{{ja-r/args|水が合わない|みず が あわない}}\n|{{ja-r/args|水が漬く|みず が つく}}\n|{{ja-r/args|水が入る|みず が はいる}}\n|{{ja-r/args|水が引く|みず が ひく}}\n|{{ja-r/args|水%涸る|みず%かる}}\n|{{ja-r/args|水%澄む|みず%すむ}}\n|{{ja-r/args|水で割る|みず で わる}}\n|{{ja-r/args|水と油|みず と あぶら}}\n|{{ja-r/args|水にする|みず に する}}\n|{{ja-r/args|水に流す|みず に ながす}}\n|{{ja-r/args|水になる|みず に なる}}\n|{{ja-r/args|水に馴れる|みず に なれる}}\n|{{ja-r/args|水%温む|みず%ぬるむ}}\n|{{ja-r/args|水の滴るよう|みず の したたる よう}}\n|{{ja-r/args|水の流れと身の行%方|みず の ながれ と み の ゆく%え}}\n|{{ja-r/args|水も漏らさぬ|みず も もらさぬ}}\n|{{ja-r/args|水をあける|みず を あける}}\n|{{ja-r/args|水を打ったよう|みず を うった よう}}\n|{{ja-r/args|水を得た魚のよう|みず を えた うお の よう}}\n|{{ja-r/args|水を掛ける|みず を かける}}\n|{{ja-r/args|水を差す|みず を さす}}\n|{{ja-r/args|水を向ける|みず を むける}}\n|{{ja-r/args|油と水|あぶら と みず}}\n|{{ja-r/args|油に水|あぶら に みず}}\n|{{ja-r/args|魚と水|うお と みず}}\n|{{ja-r/args|蛙の面へ水|かえる の つら へ みず}}\n|{{ja-r/args|立て板に水|たていた に みず}}\n|{{ja-r/args|寝%耳に水|ね%みみ に みず}}\n|{{ja-r/args|焼け石に水|やけいし に みず}}\n}}\n\n=====Proverbs=====\n{{col-top|2|prov}}\n* {{ja-r/args|水%清ければ魚%棲まず|みず% きよければ うお% すまず}}\n* {{ja-r/args|水は方%円の器に随う|みず は ほう%えん の うつわ に したがう}}\n* {{ja-r/args|君は舟%臣は水|きみ は ふね% しん は みず}}\n* {{ja-r/args|君%子の交わりは淡きこと水の如し|くん%し の まじわり は あわき こと みず の ごとし}}\n}}{{col-bottom}}\n\n====Prefix====\n{{ja-pos|prefix|hhira=みづ|みず}}\n\n# [[water]]\n\n=====Derived terms=====\n{{col-top|3|der}}\n{{ja-r/multi|data=\n* {{ja-r/args|水 資%源|みず し%げん}}\n* {{ja-r/args|水 仕%事|みず し%ごと}}\n* {{ja-r/args|水 商%売|みず しょう%ばい}}\n* {{ja-r/args|水%溜まり|みず%たまり}}\n}}\n{{col-bottom}}\n\n====Proper noun====\n{{ja-pos|proper|みず|hhira=みづ}}\n\n# {{given name|ja|female}}\n# {{surname|ja}}\n\n===Etymology 2===\n{{ja-kanjitab|み|yomi=k}}\n{{IPAfont|⟨mi<sub>1</sub>⟩}} → *{{IPAchar|/mʲi/}} → {{IPAchar|/mi/}}\n\nFrom {{inh|ja|ojp|-}}.\n\nTypically found in compounds.<ref name=\"KDJc\"/>\n\n====Affix====\n{{ja-pos|affix|み}}\n\n# {{combining form of|ja|みず||water}} above\n\n=====Derived terms=====\n{{col-top|3|der}}\n{{ja-r/multi|data=\n* {{ja-r/args|澪|みお|rom=-}}, {{ja-r/args|水%脈|み%お|rom=-}}, {{ja-r/args|水%尾|み%お}}\n* {{ja-r/args|水%魚|^み%お}}\n* {{ja-r/args|水%際|み%ぎわ|rom=-}}, {{ja-r/args|汀|みぎわ|rom=-}}, {{ja-r/args|渚|みぎわ}}\n* {{ja-r/args|水%草|み%くさ}}\n* {{ja-r/args|水%彩|^み%さ}}\n* {{ja-r/args|水%彩|^み%さい}}\n* {{ja-r/args|溝|みぞ}}\n* {{ja-r/args|禊ぐ|みそぐ}}\n** {{ja-r/args|禊|みそぎ}}\n* {{ja-r/args|霙|みぞれ|[[sleet]]}}\n* {{ja-r/args|水%月|^み%つき}}, {{ja-r/args|水%月|^み%づき}}\n* {{ja-r/args|水%漬く|み%づく}}\n* {{ja-r/args|水%彩|^み%どり}}\n* {{ja-r/args|水%上|みな%かみ}}\n* {{ja-r/args|漲る|みなぎる}}\n* {{ja-r/args|水%際|み%なぎわ}}\n* {{ja-r/args|水%下|みな%しも}}\n* {{ja-r/args|水%底|みな%そこ}}\n* {{ja-r/args|水無%月|みな%づき}}\n* {{ja-r/args|港|みなと|rom=-}}, {{ja-r/args|湊|みなと}}\n* {{ja-r/args|水%俣|^みな%また}}\n* {{ja-r/args|水%面|みな%も}}\n* {{ja-r/args|源|みなもと}}\n* {{ja-r/args|水%泡|みな%わ}}\n* {{ja-r/args|水%村|^み%むら}}\n* {{ja-r/args|泉|いずみ}}\n* {{ja-r/args|海|うみ}}\n* {{ja-r/args|垂%水|たる%み}}\n}}\n{{col-bottom}}\n\n===Etymology 3===\n{{ja-kanjitab|すい|yomi=o}}\n{{IPAfont|/ɕuwi/}} → *{{IPAfont|/suwi/}} → {{IPAfont|/sui/}}\n\nFrom {{der|ja|ltc|sort=すい|-}} {{ltc-l|水}}.\n\nCompare modern {{cog|cmn|水}}, modern {{cog|hak|水|tr=súi}}.\n\n====Pronunciation====\n{{ja-pron|すい|acc=1|acc_ref=DJR}}\n\n====Noun====\n{{ja-noun|すい}}\n\n# [[water]]: one of the [[five]] [[classical]] [[elements]] in traditional Chinese [[philosophy]] and [[medicine]]\n# {{short for|ja|水曜日|tr=suiyōbi|sort=すい}}: [[Wednesday]]\n# [[shave]]d [[ice]] [[serve]]d with [[flavor]]ed [[syrup]]\n#: {{syn|ja|氷水|tr=kōrimizu}}\n\n====Affix====\n{{ja-pos|affix|すい}}\n\n# [[water]]\n# [[body of water]]\n# [[fluid]], [[liquid]]\n# {{short for|ja|水素|tr=suiso|sort=すい}}: [[hydrogen]]\n\n=====Derived terms=====\n{{col-top|4|der}}\n{{ja-r/multi|data=\n* {{ja-r/args|水%位|すい%い}}\n* {{ja-r/args|水%域|すい%いき}}\n* {{ja-r/args|水%雲|すい%うん}}\n* {{ja-r/args|水%泳|すい%えい}}\n* {{ja-r/args|水%温|すい%おん}}\n* {{ja-r/args|水%害|すい%がい}}\n* {{ja-r/args|水%牛|スイ%ギュウ}}\n* {{ja-r/args|水%銀|すい%ぎん}}\n* {{ja-r/args|水%系|すい%けい}}\n* {{ja-r/args|水%鶏|スイ%ケイ}}\n* {{ja-r/args|水%月|すい%げつ}}\n* {{ja-r/args|水%源|すい%げん}}\n* {{ja-r/args|水%彩|^すい%さい}}\n* {{ja-r/args|水%際|すい%さい}}\n* {{ja-r/args|水%彩%画|すい%さい%が}}\n* {{ja-r/args|水%産|すい%さん}}\n* {{ja-r/args|水%死|すい%し}}\n* {{ja-r/args|水%質|すい%しつ}}\n* {{ja-r/args|水%車|すい%しゃ}}\n* {{ja-r/args|水%準|すい%じゅん}}\n* {{ja-r/args|水%晶|すい%しょう}}\n* {{ja-r/args|水%上|すい%じょう}}\n* {{ja-r/args|水%蒸%気|すい%じょう%き}}\n* {{ja-r/args|水%深|すい%しん}}\n* {{ja-r/args|水%星|^すい%せい}}\n* {{ja-r/args|水%仙|スイ%セン}}\n* {{ja-r/args|水%洗|すい%せん}}\n* {{ja-r/args|水%素|すい%そ}}\n* {{ja-r/args|水%槽|すい%そう}}\n* {{ja-r/args|水%草|すい%そう}}\n* {{ja-r/args|水%族|すい%ぞく}}\n* {{ja-r/args|水%中|すい%ちゅう}}\n* {{ja-r/args|水%鳥|すい%ちょう}}\n* {{ja-r/args|水%滴|すい%てき}}\n* {{ja-r/args|水%田|すい%でん}}\n* {{ja-r/args|水%稲|すい%とう}}\n* {{ja-r/args|水%筒|すい%とう}}\n* {{ja-r/args|水%道|すい%どう}}\n* {{ja-r/args|水%道%水|すい%どう%すい}}\n* {{ja-r/args|水%団|すい%とん}}\n* {{ja-r/args|水%爆|すい%ばく}}\n* {{ja-r/args|水%夫|すい%ふ}}\n* {{ja-r/args|水%分|すい%ぶん}}\n* {{ja-r/args|水%平|すい%へい}}\n* {{ja-r/args|水%平%線|すい%へい%せん}}\n* {{ja-r/args|水%辺|すい%へん}}\n* {{ja-r/args|水%泡|すい%ほう}}\n* {{ja-r/args|水%疱|すい%ほう}}\n* {{ja-r/args|水%墨%画|すい%ぼく%が}}\n* {{ja-r/args|水%面|すい%めん}}\n* {{ja-r/args|水%曜|すい%よう}}\n* {{ja-r/args|水%溶|すい%よう}}\n* {{ja-r/args|水%浴|すい%よく}}\n* {{ja-r/args|水蘭|スイラン}}\n* {{ja-r/args|水%利|すい%り}}\n* {{ja-r/args|水%量|すい%りょう}}\n* {{ja-r/args|水%力|すい%りょく}}\n* {{ja-r/args|水%路|すい%ろ}}\n* {{ja-r/args|飲%料%水|いん%りょう%すい}}\n* {{ja-r/args|汚%水|お%すい}}\n* {{ja-r/args|海%水|かい%すい}}\n* {{ja-r/args|海%水%浴%場|かい%すい%よく%じょう}}\n* {{ja-r/args|海%水|かい%すい}}\n* {{ja-r/args|渇%水|かっ%すい}}\n* {{ja-r/args|給%水|きゅう%すい}}\n* {{ja-r/args|下%水|げ%すい}}\n* {{ja-r/args|建%水|けん%すい}}\n* {{ja-r/args|湖%水|こ%すい}}\n* {{ja-r/args|香%水|こう%すい}}\n* {{ja-r/args|降%水|こう%すい}}\n* {{ja-r/args|洪%水|こう%ずい}}\n* {{ja-r/args|取%水|しゅ%すい}}\n* {{ja-r/args|浸%水|しん%すい}}\n* {{ja-r/args|浄%水|じょう%すい}}\n* {{ja-r/args|泉%水|せん%すい}}\n* {{ja-r/args|潜%水|せん%すい}}\n* {{ja-r/args|増%水|ぞう%すい}}\n* {{ja-r/args|脱%水|だっ%すい}}\n* {{ja-r/args|淡%水|たん%すい}}\n* {{ja-r/args|炭%水|たん%すい}}\n* {{ja-r/args|断%水|だん%すい}}\n* {{ja-r/args|地%下%水|ち%か%すい}}\n* {{ja-r/args|治%水|ち%すい}}\n* {{ja-r/args|貯%水|ちょ%すい}}\n* {{ja-r/args|排%水|はい%すい}}\n* {{ja-r/args|噴%水|ふん%すい}}\n* {{ja-r/args|法%水|ほう%すい}}, {{ja-r/args|法%水|ほっ%すい}}\n* {{ja-r/args|放%水|ほう%すい}}\n* {{ja-r/args|豊%水|ほう%すい}}\n* {{ja-r/args|防%水|ぼう%すい}}\n* {{ja-r/args|湧%水|ゆう%すい}}\n* {{ja-r/args|用%水|よう%すい}}\n* {{ja-r/args|冷%水|れい%すい}}\n}}\n{{col-bottom}}\n\n====Proper noun====\n{{ja-pos|proper|すい}}\n\n# {{given name|ja|female}}\n\n===Etymology 4===\n{{etymid|ja|moi}}\n{{ja-kanjitab|もい|yomi=k}}\n{{IPAfont|⟨mopi<sub>1</sub>⟩}} → *{{IPAchar|/mopʲi/}} → {{IPAchar|/moɸi/}} → {{IPAchar|/mowi/}} → {{IPAchar|/moi/}}\n\nFrom {{inh|ja|ojp|-}}.  Via [[metonymy]] from the word {{m|ja|[[椀]], [[盌]]||tr=moi|[[bowl]]}}, from the meaning of “that which [[go]]es in the {{m|ja|[[椀]], [[盌]]||tr=moi|[[bowl]]}}”.<ref name=\"KDJc\"/><ref name=\"DJR\"/>  Compare the development of modern {{noncog|en|cuppa}}, where the word for the container is similarly used to refer to the contents.\n\n====Pronunciation====\n{{ja-pron|もい}}\n\n====Noun====\n{{ja-noun|もい|hist=もひ}}\n\n# {{lb|ja|obsolete|sort=もい}} [[drinking water]]\n\n=====Derived terms=====\n{{ja-r/multi|data=\n* {{ja-r/args|水%取|もい%とり|rom=-}}, {{ja-r/args|主水|もいとり}}\n\n===See also===\n* {{ja-r/args|氷|こおり|[[ice]]}}\n* {{ja-r/args|湯|ゆ|[[hot]] water}}\n}}\n\n===References===\n{{reflist}}\n:* {{R:Kanjipedia Kotoba|0003733500}}\n\n{{C|ja|Inorganic compounds|Water}}"
+   },
+   "jlpt_list": {
+    "url": "https://github.com/jamsinclair/open-anki-jlpt-decks",
+    "retrieved_at": "2026-10-10T08:29:18+00:00",
+    "matches": {
+     "n5": [
+      {
+       "expression": "水",
+       "reading": "みず",
+       "meaning": "water",
+       "tags": "Genki Genki_Ln.3 JLPT JLPT_5 JLPT_N5",
+       "guid": "Psad>Q=[fe"
+      }
+     ]
+    }
+   },
+   "tatoeba_vie": {
+    "url": "https://tatoeba.org/en/api_v0/search?from=jpn&to=vie&query=%E6%B0%B4&orphans=no&unapproved=no&sort=words",
+    "status": 200,
+    "retrieved_at": "2026-10-10T08:29:20+00:00",
+    "sentences": [
+     {
+      "id": 11178519,
+      "text": "水をくれ。",
+      "owner": "small_snow",
+      "translations": [
+       {
+        "id": 13341099,
+        "text": "Lấy nước cho tôi.",
+        "direct": null
+       }
+      ]
+     },
+     {
+      "id": 12799813,
+      "text": "水は生命です。",
+      "owner": "JimiYoru",
+      "translations": [
+       {
+        "id": 5978189,
+        "text": "Nước là nguồn sống.",
+        "direct": null
+       }
+      ]
+     },
+     {
+      "id": 143718,
+      "text": "水をください。",
+      "owner": "bunbuku",
+      "translations": [
+       {
+        "id": 8795105,
+        "text": "Cho tôi xin ít nước.",
+        "direct": null
+       },
+       {
+        "id": 5161429,
+        "text": "Cho tôi chút nước đi.",
+        "direct": null
+       }
+      ]
+     },
+     {
+      "id": 127316,
+      "text": "断水しました。",
+      "owner": "small_snow",
+      "translations": [
+       {
+        "id": 9985055,
+        "text": "Nước bị cắt rồi.",
+        "direct": true
+       }
+      ]
+     },
+     {
+      "id": 9180995,
+      "text": "水をちょうだい。",
+      "owner": "small_snow",
+      "translations": [
+       {
+        "id": 13341099,
+        "text": "Lấy nước cho tôi.",
+        "direct": null
+       }
+      ]
+     },
+     {
+      "id": 2871410,
+      "text": "覆水盆に返らず。",
+      "owner": "tommy__san",
+      "translations": [
+       {
+        "id": 8994388,
+        "text": "Chuyện gì đã qua thì cho qua.",
+        "direct": true
+       }
+      ]
+     },
+     {
+      "id": 227004,
+      "text": "お水をください。",
+      "owner": "bunbuku",
+      "translations": [
+       {
+        "id": 8795105,
+        "text": "Cho tôi xin ít nước.",
+        "direct": true
+       },
+       {
+        "id": 5161429,
+        "text": "Cho tôi chút nước đi.",
+        "direct": null
+       }
+      ]
+     },
+     {
+      "id": 175711,
+      "text": "血は水より濃い。",
+      "owner": "mookeee",
+      "translations": [
+       {
+        "id": 8992669,
+        "text": "Một giọt máu đào hơn ao nước lã.",
+        "direct": null
+       }
+      ]
+     },
+     {
+      "id": 143712,
+      "text": "水を一杯下さい。",
+      "owner": "bunbuku",
+      "translations": [
+       {
+        "id": 510433,
+        "text": "Làm ơn cho tôi một cốc nước.",
+        "direct": true
+       },
+       {
+        "id": 9712997,
+        "text": "Xin hãy cho tôi một cốc nước.",
+        "direct": true
+       },
+       {
+        "id": 9712998,
+        "text": "Làm ơn hãy cho tôi một cốc nước.",
+        "direct": null
+       }
+      ]
+     },
+     {
+      "id": 9785018,
+      "text": "紙は水を吸います。",
+      "owner": "small_snow",
+      "translations": [
+       {
+        "id": 13340233,
+        "text": "Giấy thì hấp thụ nước.",
+        "direct": null
+       },
+       {
+        "id": 13340235,
+        "text": "Giấy thấm nước.",
+        "direct": null
+       }
+      ]
+     }
+    ]
+   },
+   "tatoeba_eng": {
+    "url": "https://tatoeba.org/en/api_v0/search?from=jpn&to=eng&query=%E6%B0%B4&orphans=no&unapproved=no&sort=words",
+    "status": 200,
+    "retrieved_at": "2026-10-10T08:29:22+00:00",
+    "sentences": [
+     {
+      "id": 9180994,
+      "text": "水をくれ！",
+      "owner": "small_snow",
+      "translations": [
+       {
+        "id": 7347590,
+        "text": "Give me water!",
+        "direct": true
+       },
+       {
+        "id": 3658519,
+        "text": "Give me water.",
+        "direct": null
+       }
+      ]
+     },
+     {
+      "id": 11178519,
+      "text": "水をくれ。",
+      "owner": "small_snow",
+      "translations": [
+       {
+        "id": 3658519,
+        "text": "Give me water.",
+        "direct": true
+       },
+       {
+        "id": 3959610,
+        "text": "Give me some water.",
+        "direct": true
+       },
+       {
+        "id": 7347591,
+        "text": "Give me some water!",
+        "direct": true
+       },
+       {
+        "id": 11178507,
+        "text": "Pass me the water.",
+        "direct": true
+       }
+      ]
+     },
+     {
+      "id": 8796822,
+      "text": "水は冷たい？",
+      "owner": "bunbuku",
+      "translations": [
+       {
+        "id": 5121227,
+        "text": "Is the water cold?",
+        "direct": true
+       }
+      ]
+     },
+     {
+      "id": 10308974,
+      "text": "水瓶座だよ。",
+      "owner": "small_snow",
+      "translations": [
+       {
+        "id": 7489928,
+        "text": "I'm an Aquarius.",
+        "direct": true
+       }
+      ]
+     },
+     {
+      "id": 8718361,
+      "text": "香水つけてる？",
+      "owner": "bunbuku",
+      "translations": [
+       {
+        "id": 2645548,
+        "text": "Are you wearing perfume?",
+        "direct": true
+       }
+      ]
+     }
+    ]
+   }
+  },
+  "朝ご飯": {
+   "jisho": {
+    "url": "https://jisho.org/api/v1/search/words?keyword=%E6%9C%9D%E3%81%94%E9%A3%AF",
+    "status": 200,
+    "retrieved_at": "2026-10-10T08:29:24+00:00",
+    "entries": [
+     {
+      "slug": "朝ご飯",
+      "is_common": true,
+      "tags": [
+       "wanikani8",
+       "wanikani17"
+      ],
+      "jlpt": [
+       "jlpt-n5"
+      ],
+      "japanese": [
+       {
+        "word": "朝ごはん",
+        "reading": "あさごはん"
+       },
+       {
+        "word": "朝ご飯",
+        "reading": "あさごはん"
+       },
+       {
+        "word": "朝御飯",
+        "reading": "あさごはん"
+       }
+      ],
+      "senses": [
+       {
+        "english_definitions": [
+         "breakfast"
+        ],
+        "parts_of_speech": [
+         "Noun"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+       }
+      ],
+      "attribution": {
+       "jmdict": true,
+       "jmnedict": false,
+       "dbpedia": false
+      }
+     }
+    ]
+   },
+   "wiktionary": {
+    "url": "https://en.wiktionary.org/wiki/%E6%9C%9D%E3%81%94%E9%A3%AF",
+    "status": 200,
+    "retrieved_at": "2026-10-10T08:29:25+00:00",
+    "japanese_section": "{{ja-kanjitab|あさ|はん|yomi=kun,kanon|alt=朝御飯,朝ごはん}}\n\n===Etymology===\nFrom {{ja-compound|朝|あさ|t1=morning|御%飯|ご%はん|t2=meal}}.\n\n===Pronunciation===\n{{ja-pron|あさ ごはん|acc=3|acc_ref=DJR,NHK}}\n\n===Noun===\n{{ja-noun|あさごはん}}\n\n# [[breakfast]]\n\n====Usage notes====\nThe ''go-'' prefix in {{m|ja|御飯|tr=gohan}} is more often written in [[hiragana]], as {{m|ja|ご}}.\n\n====Synonyms====\n* {{ja-r|朝食|ちょうしょく}}\n\n====Related terms====\n* {{ja-r|ご飯|ごはん}}: meal\n* {{ja-r|昼ご飯|ひるごはん}}: lunch\n* {{ja-r|夕ご飯|ゆうごはん}}, {{ja-r|晚ご飯|ばんごはん}}: dinner\n\n===References===\n{{reflist}}"
+   },
+   "jlpt_list": {
+    "url": "https://github.com/jamsinclair/open-anki-jlpt-decks",
+    "retrieved_at": "2026-10-10T08:29:25+00:00",
+    "matches": {
+     "n5": [
+      {
+       "expression": "朝御飯",
+       "reading": "あさごはん",
+       "meaning": "breakfast",
+       "tags": "Genki Genki_Ln.3 JLPT JLPT_5 JLPT_N5",
+       "guid": "wWUR=G6*(U"
+      }
+     ]
+    }
+   },
+   "tatoeba_vie": {
+    "url": "https://tatoeba.org/en/api_v0/search?from=jpn&to=vie&query=%E6%9C%9D%E3%81%94%E9%A3%AF&orphans=no&unapproved=no&sort=words",
+    "status": 200,
+    "retrieved_at": "2026-10-10T08:29:26+00:00",
+    "sentences": []
+   },
+   "tatoeba_eng": {
+    "url": "https://tatoeba.org/en/api_v0/search?from=jpn&to=eng&query=%E6%9C%9D%E3%81%94%E9%A3%AF&orphans=no&unapproved=no&sort=words",
+    "status": 200,
+    "retrieved_at": "2026-10-10T08:29:29+00:00",
+    "sentences": [
+     {
+      "id": 10240452,
+      "text": "朝ご飯よ！",
+      "owner": "small_snow",
+      "translations": [
+       {
+        "id": 7094994,
+        "text": "Breakfast!",
+        "direct": true
+       }
+      ]
+     },
+     {
+      "id": 12466854,
+      "text": "もう朝ご飯食べた？",
+      "owner": "HAGNi",
+      "translations": [
+       {
+        "id": 2432207,
+        "text": "Have you had breakfast?",
+        "direct": null
+       },
+       {
+        "id": 2644124,
+        "text": "Have you had breakfast yet?",
+        "direct": null
+       },
+       {
+        "id": 12466476,
+        "text": "Did you have any breakfast?",
+        "direct": null
+       }
+      ]
+     },
+     {
+      "id": 2225443,
+      "text": "朝ご飯は何がいい？",
+      "owner": "bunbuku",
+      "translations": [
+       {
+        "id": 277779,
+        "text": "What do you want for breakfast?",
+        "direct": true
+       }
+      ]
+     },
+     {
+      "id": 10677348,
+      "text": "朝ご飯にゆで卵要る？",
+      "owner": "bunbuku",
+      "translations": [
+       {
+        "id": 277776,
+        "text": "Do you want a boiled egg for breakfast?",
+        "direct": true
+       }
+      ]
+     },
+     {
+      "id": 14000022,
+      "text": "朝ご飯に何が食べたい？",
+      "owner": "jan_OkulaJu",
+      "translations": [
+       {
+        "id": 14042175,
+        "text": "What do you want to eat for breakfast?",
+        "direct": true
+       }
+      ]
+     }
+    ]
+   }
+  },
+  "学校": {
+   "jisho": {
+    "url": "https://jisho.org/api/v1/search/words?keyword=%E5%AD%A6%E6%A0%A1",
+    "status": 200,
+    "retrieved_at": "2026-10-10T08:29:30+00:00",
+    "entries": [
+     {
+      "slug": "学校",
+      "is_common": true,
+      "tags": [
+       "wanikani7"
+      ],
+      "jlpt": [
+       "jlpt-n5"
+      ],
+      "japanese": [
+       {
+        "word": "学校",
+        "reading": "がっこう"
+       }
+      ],
+      "senses": [
+       {
+        "english_definitions": [
+         "school"
+        ],
+        "parts_of_speech": [
+         "Noun"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+       },
+       {
+        "english_definitions": [
+         "Gakkou"
+        ],
+        "parts_of_speech": [
+         "Place"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+       },
+       {
+        "english_definitions": [
+         "School"
+        ],
+        "parts_of_speech": [
+         "Wikipedia definition"
+        ],
+        "links": [
+         {
+          "text": "Read “School” on English Wikipedia",
+          "url": "http://en.wikipedia.org/wiki/School?oldid=491526576"
+         },
+         {
+          "text": "Read “学校” on Japanese Wikipedia",
+          "url": "http://ja.wikipedia.org/wiki/学校?oldid=42766206"
+         }
+        ],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": [],
+        "sentences": []
+       }
+      ],
+      "attribution": {
+       "jmdict": true,
+       "jmnedict": true,
+       "dbpedia": "http://dbpedia.org/resource/School"
+      }
+     }
+    ]
+   },
+   "wiktionary": {
+    "url": "https://en.wiktionary.org/wiki/%E5%AD%A6%E6%A0%A1",
+    "status": 200,
+    "retrieved_at": "2026-10-10T08:29:31+00:00",
+    "japanese_section": "{{ja-kanjitab|がく|こう|k1=がっ|yomi=kanon}}\n\n===Pronunciation===\n{{ja-pron|がっこう|acc=h|acc_ref=NHK,DJR|a=Ja-gakkō.oga}}\n\n===Noun===\n{{ja-noun|がっこう|hhira=がくかう|count=校}}\n\n# [[school]] {{gloss|institution dedicated to teaching and learning}}\n\n====Derived terms====\n{{col|ja\n|{{ja-r|私%立%学%校|しり%つ% がっ%こう}}: [[private school]]\n|{{ja-r|小%学%校|しょう% がっ%こう}}: [[elementary school]], [[primary school]]\n|{{ja-r|中%学%校|ちゅう% がっ%こう}}: [[middle school]], [[junior high school]]\n|{{ja-r|高%等%学%校|こう%とう% がっ%こう}}: [[high school]], [[senior high school]]\n|{{ja-r|公%立%学%校|こう%りつ% がっ%こう}}: [[public school]]\n|{{ja-r|大%学%校|だい%がっ%こう}}: [[college]], [[university]], [[academy]], or similar educational institution established by a state ministry or other government body\n|{{ja-r|聾%唖%学%校|ろう%あ% がっ%こう}}: school for the deaf\n|{{ja-r|盲%学%校|もう% がっ%こう}}: school for the blind\n}}\n\n====Descendants====\n* {{desc|bor=1|tao|gako}}\n\n===See also===\n* {{ja-r|保%育%所|ほ%いく%しょ}}: [[nursery school]]\n* {{ja-r|幼%稚%園|よう%ち%えん}}: [[kindergarten]]\n* {{ja-r|高%校|こう%こう}}: [[high school]]\n* {{ja-r|大%学%院|だい%がく%いん}}: [[graduate school]]\n\n===References===\n{{reflist}}\n\n{{topic|ja|Education}}"
+   },
+   "jlpt_list": {
+    "url": "https://github.com/jamsinclair/open-anki-jlpt-decks",
+    "retrieved_at": "2026-10-10T08:29:31+00:00",
+    "matches": {
+     "n5": [
+      {
+       "expression": "学校",
+       "reading": "がっこう",
+       "meaning": "a school",
+       "tags": "Genki Genki_Ln.3 JLPT JLPT_5 JLPT_N5",
+       "guid": "jMUlk]n4bL"
+      }
+     ]
+    }
+   },
+   "tatoeba_vie": {
+    "url": "https://tatoeba.org/en/api_v0/search?from=jpn&to=vie&query=%E5%AD%A6%E6%A0%A1&orphans=no&unapproved=no&sort=words",
+    "status": 200,
+    "retrieved_at": "2026-10-10T08:29:33+00:00",
+    "sentences": [
+     {
+      "id": 2446172,
+      "text": "学校は好き？",
+      "owner": "tommy_san",
+      "translations": [
+       {
+        "id": 6639471,
+        "text": "Cậu có thích trường học không?",
+        "direct": true
+       }
+      ]
+     },
+     {
+      "id": 8695234,
+      "text": "まだ学校にいるの？",
+      "owner": "small_snow",
+      "translations": [
+       {
+        "id": 9165695,
+        "text": "Bạn vẫn đang ở trường à?",
+        "direct": true
+       }
+      ]
+     },
+     {
+      "id": 5249,
+      "text": "学校に遅刻した。",
+      "owner": "bunbuku",
+      "translations": [
+       {
+        "id": 12562854,
+        "text": "Tôi đã đến trường muộn",
+        "direct": null
+       }
+      ]
+     },
+     {
+      "id": 10001937,
+      "text": "明日は学校に行くの？",
+      "owner": "bunbuku",
+      "translations": [
+       {
+        "id": 9027429,
+        "text": "Ngày mai bạn có định đến trường không?",
+        "direct": null
+       },
+       {
+        "id": 9027430,
+        "text": "Mai bạn có định tới trường không?",
+        "direct": null
+       }
+      ]
+     },
+     {
+      "id": 5856349,
+      "text": "学校まで歩きます。",
+      "owner": "Hic_Space",
+      "translations": [
+       {
+        "id": 515477,
+        "text": "Tôi đi bộ đến trường.",
+        "direct": true
+       },
+       {
+        "id": 9510880,
+        "text": "Tôi sẽ đi bộ tới trường.",
+        "direct": true
+       },
+       {
+        "id": 9510879,
+        "text": "Tôi sẽ đi bộ đến trường.",
+        "direct": null
+       }
+      ]
+     },
+     {
+      "id": 4104541,
+      "text": "学校は家から遠いの？",
+      "owner": "tommy_san",
+      "translations": [
+       {
+        "id": 4184754,
+        "text": "Trường bạn có ở xa nhà không?",
+        "direct": true
+       }
+      ]
+     },
+     {
+      "id": 2684207,
+      "text": "学校行きたくない。",
+      "owner": "cogas",
+      "translations": [
+       {
+        "id": 3633469,
+        "text": "Tôi không muốn đi học.",
+        "direct": null
+       },
+       {
+        "id": 3633470,
+        "text": "Tôi không muốn đến trường.",
+        "direct": null
+       }
+      ]
+     },
+     {
+      "id": 11804162,
+      "text": "学校、行ってきます。",
+      "owner": "small_snow",
+      "translations": [
+       {
+        "id": 3714423,
+        "text": "Tôi sẽ đi học.",
+        "direct": null
+       }
+      ]
+     },
+     {
+      "id": 9500338,
+      "text": "学校まで歩いたんだ。",
+      "owner": "bunbuku",
+      "translations": [
+       {
+        "id": 515477,
+        "text": "Tôi đi bộ đến trường.",
+        "direct": null
+       },
+       {
+        "id": 5754239,
+        "text": "Tôi đi bộ tới trường.",
+        "direct": null
+       }
+      ]
+     },
+     {
+      "id": 3633466,
+      "text": "学校にいきたくない。",
+      "owner": "e4zh1nmcz",
+      "translations": [
+       {
+        "id": 3633469,
+        "text": "Tôi không muốn đi học.",
+        "direct": null
+       },
+       {
+        "id": 3633470,
+        "text": "Tôi không muốn đến trường.",
+        "direct": null
+       }
+      ]
+     }
+    ]
+   },
+   "tatoeba_eng": {
+    "url": "https://tatoeba.org/en/api_v0/search?from=jpn&to=eng&query=%E5%AD%A6%E6%A0%A1&orphans=no&unapproved=no&sort=words",
+    "status": 200,
+    "retrieved_at": "2026-10-10T08:29:35+00:00",
+    "sentences": [
+     {
+      "id": 10756861,
+      "text": "学校だよ。",
+      "owner": "small_snow",
+      "translations": [
+       {
+        "id": 5852683,
+        "text": "I'm at school.",
+        "direct": true
+       }
+      ]
+     },
+     {
+      "id": 2446172,
+      "text": "学校は好き？",
+      "owner": "tommy_san",
+      "translations": [
+       {
+        "id": 1098292,
+        "text": "Do you like school?",
+        "direct": true
+       },
+       {
+        "id": 4109873,
+        "text": "Do you like going to school?",
+        "direct": null
+       }
+      ]
+     },
+     {
+      "id": 2095012,
+      "text": "学校はどう？",
+      "owner": "bunbuku",
+      "translations": [
+       {
+        "id": 1885868,
+        "text": "How's school?",
+        "direct": true
+       },
+       {
+        "id": 2548866,
+        "text": "How's school going?",
+        "direct": true
+       },
+       {
+        "id": 5107357,
+        "text": "How is school?",
+        "direct": null
+       },
+       {
+        "id": 2366909,
+        "text": "How are things at school?",
+        "direct": null
+       },
+       {
+        "id": 5839806,
+        "text": "How are you doing in school?",
+        "direct": null
+       },
+       {
+        "id": 2891374,
+        "text": "How's it going at school?",
+        "direct": null
+       },
+       {
+        "id": 6736330,
+        "text": "How are things going at school?",
+        "direct": null
+       },
+       {
+        "id": 1086407,
+        "text": "How is it at school?",
+        "direct": null
+       }
+      ]
+     },
+     {
+      "id": 6828202,
+      "text": "あれは学校。",
+      "owner": "D0UG",
+      "translations": [
+       {
+        "id": 7274409,
+        "text": "That's a school.",
+        "direct": true
+       }
+      ]
+     },
+     {
+      "id": 4751206,
+      "text": "どう、学校は？",
+      "owner": "tommy_san",
+      "translations": [
+       {
+        "id": 1885868,
+        "text": "How's school?",
+        "direct": true
+       },
+       {
+        "id": 2366909,
+        "text": "How are things at school?",
+        "direct": true
+       },
+       {
+        "id": 2891374,
+        "text": "How's it going at school?",
+        "direct": true
+       },
+       {
+        "id": 5107357,
+        "text": "How is school?",
+        "direct": null
+       },
+       {
+        "id": 2548866,
+        "text": "How's school going?",
+        "direct": null
+       },
+       {
+        "id": 6736330,
+        "text": "How are things going at school?",
+        "direct": null
+       },
+       {
+        "id": 1086407,
+        "text": "How is it at school?",
+        "direct": null
+       },
+       {
+        "id": 6610316,
+        "text": "How is school going?",
+        "direct": null
+       },
+       {
+        "id": 5839806,
+        "text": "How are you doing in school?",
+        "direct": null
+       }
+      ]
+     }
+    ]
+   }
+  },
+  "先生": {
+   "jisho": {
+    "url": "https://jisho.org/api/v1/search/words?keyword=%E5%85%88%E7%94%9F",
+    "status": 200,
+    "retrieved_at": "2026-10-10T08:29:37+00:00",
+    "entries": [
+     {
+      "slug": "先生",
+      "is_common": true,
+      "tags": [
+       "wanikani4"
+      ],
+      "jlpt": [
+       "jlpt-n5"
+      ],
+      "japanese": [
+       {
+        "word": "先生",
+        "reading": "せんせい"
+       }
+      ],
+      "senses": [
+       {
+        "english_definitions": [
+         "teacher",
+         "instructor",
+         "master"
+        ],
+        "parts_of_speech": [
+         "Noun"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+       },
+       {
+        "english_definitions": [
+         "sensei",
+         "title or form of address for a teacher, master, doctor, lawyer, etc."
+        ],
+        "parts_of_speech": [
+         "Noun",
+         "Noun, used as a suffix"
+        ],
+        "links": [],
+        "tags": [
+         "Honorific or respectful (sonkeigo) language"
+        ],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+       },
+       {
+        "english_definitions": [
+         "intimate or teasing form of address"
+        ],
+        "parts_of_speech": [
+         "Noun"
+        ],
+        "links": [],
+        "tags": [
+         "Familiar language",
+         "Jocular, humorous term"
+        ],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+       },
+       {
+        "english_definitions": [
+         "one's elder"
+        ],
+        "parts_of_speech": [
+         "Noun"
+        ],
+        "links": [],
+        "tags": [
+         "Archaic"
+        ],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": [
+         "orig. meaning"
+        ]
+       },
+       {
+        "english_definitions": [
+         "Sensei"
+        ],
+        "parts_of_speech": [
+         "Wikipedia definition"
+        ],
+        "links": [
+         {
+          "text": "Read “Sensei” on English Wikipedia",
+          "url": "http://en.wikipedia.org/wiki/Sensei?oldid=494582211"
+         },
+         {
+          "text": "Read “先生” on Japanese Wikipedia",
+          "url": "http://ja.wikipedia.org/wiki/先生?oldid=42615463"
+         }
+        ],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": [],
+        "sentences": []
+       }
+      ],
+      "attribution": {
+       "jmdict": true,
+       "jmnedict": false,
+       "dbpedia": "http://dbpedia.org/resource/Sensei"
+      }
+     },
+     {
+      "slug": "先生-1",
+      "is_common": false,
+      "tags": [],
+      "jlpt": [],
+      "japanese": [
+       {
+        "word": "先生",
+        "reading": "シーサン"
+       }
+      ],
+      "senses": [
+       {
+        "english_definitions": [
+         "man",
+         "boy"
+        ],
+        "parts_of_speech": [
+         "Noun"
+        ],
+        "links": [],
+        "tags": [
+         "Honorific or respectful (sonkeigo) language",
+         "Rare term"
+        ],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [
+         {
+          "language": "Chinese",
+          "word": "“xiānshēng”"
+         }
+        ],
+        "info": []
+       }
+      ],
+      "attribution": {
+       "jmdict": true,
+       "jmnedict": false,
+       "dbpedia": false
+      }
+     }
+    ]
+   },
+   "wiktionary": {
+    "url": "https://en.wiktionary.org/wiki/%E5%85%88%E7%94%9F",
+    "status": 200,
+    "retrieved_at": "2026-10-10T08:29:38+00:00",
+    "japanese_section": "===Etymology 1===\n{{ja-kanjitab|せん|せい|yomi=kanon|alt=せんせー,センセー}}\nFrom {{der|ja|sort=せんせい|ltc|-}} {{ltc-l|先生|lit=born earlier|id=1,1}}.\n\n====Pronunciation====\n{{ja-pron|せんせい|acc=3|acc_ref=DJR|a=LL-Q5287 (jpn)-葵心-先生.wav}}\n\n====Noun====\n{{ja-noun|せんせい}}\n\n# an [[elder]]\n# a [[scholar]]\n# a [[teacher]] or a [[professor]]\n#* {{quote-book|ja\n|title={{wj|六三四の剣|[六](ム)[三](サ)[四](シ)の[剣](けん)}}\n|pages=161–162\n|author=w:Motoka Murakami\n|chapter={{lj|[多](た)[感](かん)な[季](と)[節](き)の[巻](まき)}}\n|trans-chapter=A Season Full of Emotions\n|trans-title={{w|Musashi no Ken|Musashi’s Sword}}\n|genre=fiction\n|edition=4th\n|location=Tokyo\n|publisher=Shogakukan\n|date=Feb 20 1984\n|origdate=Jun 15 1983\n|volume=10\n|isbn=4-09-120640-9}}\n#*: {{ja-usex|学%校のみんなも'''先%生'''のことさ好いてる……母っちゃすきか⁉|^がっ%こう の みんな も '''^せん%せい''' の こと さ すいてる…… ^かっちゃ すき か⁉|Everybody at school likes Sensei…… Ya like him, Ma⁉}}{{ja-usex|もちろん好きよ‼ほんとにいい'''先%生'''ですもの…|^もちろん すき よ‼ ^ほんと に い.い '''せん%せい''' です もの…|Of course‼ He’s a very good teacher…}}{{ja-usex|オラもすきだあ。んでも、'''先%生'''は'''先%生'''だあ…オラの父っちゃにはなれねえ！|^オラ も すき だあ。^ん でも、'''^せん%せい''' は '''^せん%せい''' だあ… ^オラ の とっちゃ に は なれねえ！|Ah like him, too. But Sensei’s only Sensei… He could never be mah pa!}}{{ja-usex|え…⁉それ…ひょっとして、私と八%重%樫'''先%生'''が結%婚するってこと……⁉|^え…⁉ ^それ… ひょっと して、わたくし と ^や%え%がし '''^せん%せい''' が けっ%こん する って こと……⁉|What…⁉ Wait… You think I’m gonna marry Yaegashi-sensei……⁉}}\n# [[sensei]] {{gloss|Japanese martial arts teacher}}\n# [[sir]], a polite form of address to teachers, doctors, etc.\n\n=====Usage notes=====\n* This is a term of respect, reserved only for speaking about others, and considered somewhat impolite (immodest) to use when referring to oneself. Instead, the term {{m|ja|教師|tr=kyōshi||teacher|lit=teaching + teacher}} is considered more socially appropriate when referring to oneself.\n* {{U:ja:infkata|センセー}}\n\n=====Derived terms=====\n* {{ja-r|大%先%生|だい%せん%せい}}: great teacher, high authority\n\n=====Descendants=====\n* {{desc|ain|セィセィ|bor=1}}\n* {{desc|en|sensei|bor=1}}\n* {{desc|fr|sensei|bor=1}}\n* {{desc|nan-hbl|siăn-sé|bor=1}}\n* {{desc|ko|센세이|bor=1}}\n* {{desc|id|sensei|bor=1}}\n* {{desc|pau|sensei|bor=1}}\n* {{desc|pt|sensei|bor=1}}\n* {{desc|es|sensei|bor=1}}\n* {{desc|tao|sinsi|bor=1}}\n\n====Suffix====\n{{ja-pos|suffix|せんせい}}\n\n# a title used after the name of teachers, [[doctor]]s, [[lawyer]]s, or certain other [[professional]]s\n\n====See also====\n* {{ja-r|師%匠|し%しょう}}: a [[master]], a [[teacher]]\n* {{ja-r|医%師|い%し}}: a medical [[doctor]]\n* {{ja-r|教%師|きょう%し}}: a teacher\n* {{ja-r|教%授|きょう%じゅ}}: a professor\n* {{ja-r|弁%護%士|べん%ご%し}}: an [[attorney]], a [[lawyer]]\n\n===Etymology 2===\n{{ja-kanjitab|しぇん|しぇい|yomi=irr}}\n\n====Noun====\n{{ja-noun|しぇんしぇい}}\n\n# {{lb|ja|Hakata}} [[teacher]], [[professor]]\n\n===References===\n{{reflist}}\n:* {{R:Kanjipedia Kotoba|0004043900}}\n:* {{R:Shogakukan}}"
+   },
+   "jlpt_list": {
+    "url": "https://github.com/jamsinclair/open-anki-jlpt-decks",
+    "retrieved_at": "2026-10-10T08:29:38+00:00",
+    "matches": {
+     "n5": [
+      {
+       "expression": "先生",
+       "reading": "せんせい",
+       "meaning": "teacher, professor; master; doctor",
+       "tags": "Genki Genki_Ln.1 JLPT JLPT_5 JLPT_N5",
+       "guid": "A`19t`6J6t"
+      }
+     ]
+    }
+   },
+   "tatoeba_vie": {
+    "url": "https://tatoeba.org/en/api_v0/search?from=jpn&to=vie&query=%E5%85%88%E7%94%9F&orphans=no&unapproved=no&sort=words",
+    "status": 200,
+    "retrieved_at": "2026-10-10T08:29:40+00:00",
+    "sentences": [
+     {
+      "id": 151445,
+      "text": "私達は先生です。",
+      "owner": "Luornu",
+      "translations": [
+       {
+        "id": 1510026,
+        "text": "chúng tôi là giáo viên.",
+        "direct": null
+       },
+       {
+        "id": 12099264,
+        "text": "Chúng tôi là giáo viên.",
+        "direct": null
+       }
+      ]
+     },
+     {
+      "id": 13259054,
+      "text": "先生、こんにちは。",
+      "owner": "atitarev",
+      "translations": [
+       {
+        "id": 14032827,
+        "text": "Xin chào, cô giáo.",
+        "direct": null
+       },
+       {
+        "id": 14032828,
+        "text": "Xin chào, thầy/cô.",
+        "direct": null
+       }
+      ]
+     },
+     {
+      "id": 12146649,
+      "text": "昔は先生してたんだ。",
+      "owner": "small_snow",
+      "translations": [
+       {
+        "id": 13940943,
+        "text": "Tôi đã từng là giáo viên.",
+        "direct": null
+       }
+      ]
+     },
+     {
+      "id": 3050904,
+      "text": "母は高校の先生です。",
+      "owner": "tommy_san",
+      "translations": [
+       {
+        "id": 10146673,
+        "text": "Mẹ tôi là giáo viên dạy cấp 3.",
+        "direct": true
+       },
+       {
+        "id": 10146674,
+        "text": "Mẹ tôi là giáo viên cấp 3.",
+        "direct": true
+       }
+      ]
+     },
+     {
+      "id": 8572286,
+      "text": "先生ですか？それとも生徒？",
+      "owner": "small_snow",
+      "translations": [
+       {
+        "id": 9013902,
+        "text": "Bạn là giáo viên hay là học sinh?",
+        "direct": true
+       }
+      ]
+     },
+     {
+      "id": 103052,
+      "text": "彼は先生におじぎした。",
+      "owner": "bunbuku",
+      "translations": [
+       {
+        "id": 8963987,
+        "text": "Anh ấy đã cúi đầu với thầy giáo.",
+        "direct": true
+       },
+       {
+        "id": 8963988,
+        "text": "Anh ấy cúi đầu với cô giáo.",
+        "direct": true
+       }
+      ]
+     },
+     {
+      "id": 4203341,
+      "text": "生物学の先生がSoniaと言います。",
+      "owner": "bluesapphjre",
+      "translations": [
+       {
+        "id": 4199902,
+        "text": "Cô giáo môn sinh học tên là Sonia.",
+        "direct": true
+       }
+      ]
+     },
+     {
+      "id": 2733322,
+      "text": "先生、アソコがかゆいんです。",
+      "owner": "JimBreen",
+      "translations": [
+       {
+        "id": 8834881,
+        "text": "Thầy ơi, em bị ngứa \"chỗ đó\".",
+        "direct": true
+       },
+       {
+        "id": 8834882,
+        "text": "Cô ơi, em bị ngứa \"chỗ ấy\".",
+        "direct": true
+       }
+      ]
+     },
+     {
+      "id": 162576,
+      "text": "私の夢は先生になることです。",
+      "owner": "tommy_san",
+      "translations": [
+       {
+        "id": 8947072,
+        "text": "Ước mơ của tôi là trở thành một giáo viên.",
+        "direct": true
+       }
+      ]
+     },
+     {
+      "id": 101536,
+      "text": "彼は二十年間先生をしている。",
+      "owner": "small_snow",
+      "translations": [
+       {
+        "id": 4580258,
+        "text": "Anh ta đã dạy học hơn 20 năm.",
+        "direct": null
+       }
+      ]
+     }
+    ]
+   },
+   "tatoeba_eng": {
+    "url": "https://tatoeba.org/en/api_v0/search?from=jpn&to=eng&query=%E5%85%88%E7%94%9F&orphans=no&unapproved=no&sort=words",
+    "status": 200,
+    "retrieved_at": "2026-10-10T08:29:42+00:00",
+    "sentences": [
+     {
+      "id": 10624307,
+      "text": "先生なの？",
+      "owner": "small_snow",
+      "translations": [
+       {
+        "id": 2894605,
+        "text": "Are you a teacher?",
+        "direct": true
+       }
+      ]
+     },
+     {
+      "id": 13536216,
+      "text": "先生です。",
+      "owner": "LeviHighway",
+      "translations": [
+       {
+        "id": 315459,
+        "text": "She is a teacher.",
+        "direct": null
+       }
+      ]
+     },
+     {
+      "id": 13172345,
+      "text": "彼は先生です。",
+      "owner": "atitarev",
+      "translations": [
+       {
+        "id": 295346,
+        "text": "He is a teacher.",
+        "direct": true
+       }
+      ]
+     },
+     {
+      "id": 10901727,
+      "text": "父は先生です。",
+      "owner": "small_snow",
+      "translations": [
+       {
+        "id": 251708,
+        "text": "My father is a teacher.",
+        "direct": true
+       }
+      ]
+     },
+     {
+      "id": 8689124,
+      "text": "先生のこと好き？",
+      "owner": "small_snow",
+      "translations": [
+       {
+        "id": 3924647,
+        "text": "Do you like your teachers?",
+        "direct": true
+       }
+      ]
+     }
+    ]
+   }
+  },
+  "友達": {
+   "jisho": {
+    "url": "https://jisho.org/api/v1/search/words?keyword=%E5%8F%8B%E9%81%94",
+    "status": 200,
+    "retrieved_at": "2026-10-10T08:29:44+00:00",
+    "entries": [
+     {
+      "slug": "友達",
+      "is_common": true,
+      "tags": [
+       "wanikani18"
+      ],
+      "jlpt": [
+       "jlpt-n5"
+      ],
+      "japanese": [
+       {
+        "word": "友達",
+        "reading": "ともだち"
+       },
+       {
+        "word": "友だち",
+        "reading": "ともだち"
+       }
+      ],
+      "senses": [
+       {
+        "english_definitions": [
+         "friend",
+         "companion"
+        ],
+        "parts_of_speech": [
+         "Noun"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+       }
+      ],
+      "attribution": {
+       "jmdict": true,
+       "jmnedict": false,
+       "dbpedia": false
+      }
+     }
+    ]
+   },
+   "wiktionary": {
+    "url": "https://en.wiktionary.org/wiki/%E5%8F%8B%E9%81%94",
+    "status": 200,
+    "retrieved_at": "2026-10-10T08:29:45+00:00",
+    "japanese_section": "{{ja-kanjitab|とも|たち|k2=だち|r=y|y=k|alt=友だち}}\n\n===Etymology===\nFrom {{ja-com|友|とも|t1=friend|達|-たち|pos2=pluralizing suffix}}.<ref name=\"KDJ\">{{R:Kokugo Dai Jiten}}</ref><ref name=\"DJR\"/>  Originally plural, but also used in the singular sense in modern Japanese.<ref name=\"KDJ\"/>\n\n===Pronunciation===\n{{ja-pron|ともだち|acc=0|a=Ja-tomodachi-friend.ogg|acc_ref=DJR}}\n\n===Noun===\n{{ja-noun|ともだち}}\n\n# {{lb|ja|archaic}} {{plural of|ja|友}}: [[friend]]s\n# [[friend]]\n#: {{syn|ja|友|tr1=tomo|友人|tr2=yūjin|けやぐ|q3=Tsugaru|tr3=keyagu|ちんぐ|q4=Nagasaki|tr4=chingu|ダチ|まぶだち|だち公}}\n\n====Derived terms====\n* {{ja-r|男%友%達|おとこ%とも%だち|[[boyfriend]]; [[male]] [[friend]]}}\n* {{ja-r|女%友%達|おんな%とも%だち|[[girlfriend]]; [[female]] [[friend]]}}\n* {{ja-r|ダチ}}\n\n===References===\n{{reflist}}\n\n===Further reading===\n* {{R:Kanjipedia Kotoba|0006843900|〈友達〉}}\n\n{{C|ja|Friendship|People}}"
+   },
+   "jlpt_list": {
+    "url": "https://github.com/jamsinclair/open-anki-jlpt-decks",
+    "retrieved_at": "2026-10-10T08:29:45+00:00",
+    "matches": {
+     "n5": [
+      {
+       "expression": "友達",
+       "reading": "ともだち",
+       "meaning": "friend",
+       "tags": "Genki Genki_Ln.1 Intermediate_Japanese Intermediate_Japanese_Ln.1 JLPT JLPT_5 JLPT_N5",
+       "guid": "E)w$/p&I#O"
+      }
+     ]
+    }
+   },
+   "tatoeba_vie": {
+    "url": "https://tatoeba.org/en/api_v0/search?from=jpn&to=vie&query=%E5%8F%8B%E9%81%94&orphans=no&unapproved=no&sort=words",
+    "status": 200,
+    "retrieved_at": "2026-10-10T08:29:47+00:00",
+    "sentences": [
+     {
+      "id": 13756204,
+      "text": "友達がいない。",
+      "owner": "TanukiKun",
+      "translations": [
+       {
+        "id": 13924484,
+        "text": "Tôi không có bạn bè.",
+        "direct": null
+       }
+      ]
+     },
+     {
+      "id": 762127,
+      "text": "友達は１７歳です。",
+      "owner": "arihato",
+      "translations": [
+       {
+        "id": 13726817,
+        "text": "Bạn tôi mười bảy tuổi.",
+        "direct": null
+       }
+      ]
+     },
+     {
+      "id": 3366953,
+      "text": "トムは俺の友達だ。",
+      "owner": "arnab",
+      "translations": [
+       {
+        "id": 577172,
+        "text": "Tom là bạn của tôi.",
+        "direct": null
+       }
+      ]
+     },
+     {
+      "id": 3366952,
+      "text": "トムは私の友達だ。",
+      "owner": "arnab",
+      "translations": [
+       {
+        "id": 577172,
+        "text": "Tom là bạn của tôi.",
+        "direct": null
+       }
+      ]
+     },
+     {
+      "id": 2378178,
+      "text": "僕は友達が少ない。",
+      "owner": "nysjisi",
+      "translations": [
+       {
+        "id": 13344248,
+        "text": "Tôi không có nhiều bạn bè.",
+        "direct": null
+       }
+      ]
+     },
+     {
+      "id": 105678,
+      "text": "彼は私の友達です。",
+      "owner": "bunbuku",
+      "translations": [
+       {
+        "id": 11452901,
+        "text": "Anh ấy là bạn của tôi.",
+        "direct": null
+       }
+      ]
+     },
+     {
+      "id": 10643600,
+      "text": "動物は僕らの友達さ。",
+      "owner": "small_snow",
+      "translations": [
+       {
+        "id": 8961938,
+        "text": "Các loài động vật là bạn của chúng ta.",
+        "direct": null
+       },
+       {
+        "id": 10713904,
+        "text": "Động vật là bạn của chúng ta.",
+        "direct": null
+       }
+      ]
+     },
+     {
+      "id": 8635632,
+      "text": "新しい友達の名前は何？",
+      "owner": "small_snow",
+      "translations": [
+       {
+        "id": 9001460,
+        "text": "Tên người bạn mới của bạn là gì?",
+        "direct": true
+       }
+      ]
+     },
+     {
+      "id": 3366955,
+      "text": "トムは僕の友達です。",
+      "owner": "arnab",
+      "translations": [
+       {
+        "id": 577172,
+        "text": "Tom là bạn của tôi.",
+        "direct": null
+       }
+      ]
+     },
+     {
+      "id": 3366954,
+      "text": "トムは私の友達です。",
+      "owner": "arnab",
+      "translations": [
+       {
+        "id": 577172,
+        "text": "Tom là bạn của tôi.",
+        "direct": null
+       }
+      ]
+     }
+    ]
+   },
+   "tatoeba_eng": {
+    "url": "https://tatoeba.org/en/api_v0/search?from=jpn&to=eng&query=%E5%8F%8B%E9%81%94&orphans=no&unapproved=no&sort=words",
+    "status": 200,
+    "retrieved_at": "2026-10-10T08:29:49+00:00",
+    "sentences": [
+     {
+      "id": 11518465,
+      "text": "友達ですか？",
+      "owner": "megamanenm",
+      "translations": [
+       {
+        "id": 2684425,
+        "text": "Is he a friend?",
+        "direct": true
+       }
+      ]
+     },
+     {
+      "id": 8748147,
+      "text": "友達だろう？",
+      "owner": "small_snow",
+      "translations": [
+       {
+        "id": 7787226,
+        "text": "Are you friends?",
+        "direct": true
+       },
+       {
+        "id": 11469370,
+        "text": "You're friends, aren't you?",
+        "direct": true
+       },
+       {
+        "id": 13398483,
+        "text": "Are you guys friends?",
+        "direct": null
+       }
+      ]
+     },
+     {
+      "id": 8748146,
+      "text": "友達でしょ？",
+      "owner": "small_snow",
+      "translations": [
+       {
+        "id": 7787226,
+        "text": "Are you friends?",
+        "direct": true
+       },
+       {
+        "id": 11469370,
+        "text": "You're friends, aren't you?",
+        "direct": true
+       },
+       {
+        "id": 13398483,
+        "text": "Are you guys friends?",
+        "direct": null
+       }
+      ]
+     },
+     {
+      "id": 13756204,
+      "text": "友達がいない。",
+      "owner": "TanukiKun",
+      "translations": [
+       {
+        "id": 262058,
+        "text": "I don't have any friends.",
+        "direct": true
+       },
+       {
+        "id": 478568,
+        "text": "I have no friends.",
+        "direct": true
+       },
+       {
+        "id": 2359667,
+        "text": "I've got no friends.",
+        "direct": null
+       }
+      ]
+     },
+     {
+      "id": 8748194,
+      "text": "トムの友達なの？",
+      "owner": "small_snow",
+      "translations": [
+       {
+        "id": 2545028,
+        "text": "Are you a friend of Tom's?",
+        "direct": true
+       },
+       {
+        "id": 2647224,
+        "text": "Are you Tom's friend?",
+        "direct": true
+       },
+       {
+        "id": 3938886,
+        "text": "Are you friends with Tom?",
+        "direct": true
+       }
+      ]
+     }
+    ]
+   }
+  },
+  "家": {
+   "jisho": {
+    "url": "https://jisho.org/api/v1/search/words?keyword=%E5%AE%B6",
+    "status": 200,
+    "retrieved_at": "2026-10-10T08:29:51+00:00",
+    "entries": [
+     {
+      "slug": "家",
+      "is_common": true,
+      "tags": [],
+      "jlpt": [
+       "jlpt-n5"
+      ],
+      "japanese": [
+       {
+        "word": "家",
+        "reading": "いえ"
+       }
+      ],
+      "senses": [
+       {
+        "english_definitions": [
+         "house",
+         "residence",
+         "dwelling",
+         "home"
+        ],
+        "parts_of_speech": [
+         "Noun"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+       },
+       {
+        "english_definitions": [
+         "family",
+         "household"
+        ],
+        "parts_of_speech": [
+         "Noun"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+       },
+       {
+        "english_definitions": [
+         "lineage",
+         "family name"
+        ],
+        "parts_of_speech": [
+         "Noun"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+       }
+      ],
+      "attribution": {
+       "jmdict": true,
+       "jmnedict": false,
+       "dbpedia": false
+      }
+     },
+     {
+      "slug": "家-1",
+      "is_common": true,
+      "tags": [
+       "wanikani7"
+      ],
+      "jlpt": [],
+      "japanese": [
+       {
+        "word": "家",
+        "reading": "うち"
+       }
+      ],
+      "senses": [
+       {
+        "english_definitions": [
+         "one's house",
+         "one's home",
+         "one's family",
+         "one's household"
+        ],
+        "parts_of_speech": [
+         "Noun"
+        ],
+        "links": [],
+        "tags": [
+         "Usually written using kana alone"
+        ],
+        "restrictions": [],
+        "see_also": [
+         "内 うち"
+        ],
+        "antonyms": [],
+        "source": [],
+        "info": []
+       },
+       {
+        "english_definitions": [
+         "house"
+        ],
+        "parts_of_speech": [
+         "Noun"
+        ],
+        "links": [],
+        "tags": [
+         "Usually written using kana alone"
+        ],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+       },
+       {
+        "english_definitions": [
+         "Uchi"
+        ],
+        "parts_of_speech": [
+         "Place"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+       }
+      ],
+      "attribution": {
+       "jmdict": true,
+       "jmnedict": true,
+       "dbpedia": false
+      }
+     }
+    ]
+   },
+   "wiktionary": {
+    "url": "https://en.wiktionary.org/wiki/%E5%AE%B6",
+    "status": 200,
+    "retrieved_at": "2026-10-10T08:29:52+00:00",
+    "japanese_section": "===Kanji===\n{{ja-kanji}}\n\n====Readings====\n{{ja-readings\n|goon=け, く\n|kanon=か, こ\n|kun=いえ-<いへ-, や-, うち-\n}}\n\n====Compounds====\n{{col|ja\n|{{ja-r|家%屋|か%おく|[[house]], [[dwelling]], [[residence]]}}\n|{{ja-r|家%具|か%ぐ|[[furniture]]}}\n|{{ja-r|家%族|か%ぞく|[[family]], [[household]]}}\n|{{ja-r|家%庭|か%てい|[[family]], [[household]]}}\n|{{ja-r|家%禽|か%きん|[[domestic]] [[fowl]], [[poultry]]}}\n|{{ja-r|家%守|や%もり|[[gecko]]}}\n|{{ja-r|家%守|や%もり|[[guarding]] a [[house]], or a person who does such; real estate agent in the Edo period}}\n}}\n\n===Etymology 1===\n{{ja-kanjitab|いえ|yomi=k}}\n{{IPAfont|⟨ipe<sub>1</sub>⟩}} → {{IPAchar|/ipʲe/}} → {{IPAchar|/iɸe/}} → {{IPAchar|/iwe/}} → {{IPAchar|/ie/}}\n\nFrom {{inh|ja|ojp|-}}. Possibly cognate with {{cog|oko|邑勒|tr=iprʌk|t=house}}.<ref name=\"OOJL\">{{cite-journal|author=Vovin, Alexander|title=Origins of the Japanese Language|url=https://doi.org/10.1093/acrefore/9780199384655.013.277|journal=Oxford Research Encyclopedia of Linguistics|year=2017|doi=10.1093/acrefore/9780199384655.013.277}}</ref>\n\nPossibly related to {{m|ja|廬|tr=iho → io||[[temporary]] [[hut]]}}.\n\n====Pronunciation====\n{{ja-pron|いえ|acc=2|acc_ref=DJR,NHK|a=Ja-WaniKaniTofuguMale-ie.oga}}\n\n====Noun====\n{{ja-noun|いえ|hist=いへ}}\n\n# a [[house]]\n# one's own [[home]]\n# a [[home]], [[household]]\n#* {{quote-book|ja\n|title={{ruby|{{lw|ja|魔法使いの嫁|[魔法使いの嫁](The Ancient Magus Bride)|sc=Jpan}}}}\n|page=17\n|author=Kore Yamazaki\n|chapter={{lang|ja|第1篇　April showers bring May flowers.|sc=Jpan}}\n|trans-chapter=Composition 1: [[April showers bring May flowers]].\n|trans-title={{w|The Ancient Magus' Bride|The Ancient Magus’ Bride}}\n|genre=fiction\n|location=Tokyo\n|publisher=w:Mag Garden\n|nodate=y\n|volume=1}}\n#*: {{ja-usex|ここが僕の'''家'''　そして今日から君が暮らす'''家'''でもある|^ここ が ぼく の '''いえ'''　^そして きょう から きみ が くらす '''いえ''' で も ある|This is my home. From now on, you will live here, too.}}\n# a [[family]]\n# historical Japanese trading houses (see {{wikipedia inline|Ie (trading houses)|Ie}})\n\n===Etymology 2===\n{{ja-kanjitab|うち|yomi=k|alt=宅:uncommon}}\n{{inh+|ja|ojp|sort=うち}}, from {{inh|ja|jpx-pro|sort=うち|*utui}}.\n{{dbt|ja|-}} {{ja-r|内|うち|middle, inside}}.<ref name=\"DJR\"/>\n\n====Pronunciation====\n{{ja-pron|うち|acc=0|acc_ref=DJR,NHK|acc2=2|acc2_ref=NHK|acc2_note={{ja-premodified-pitch}}}}\n\n====Noun====\n{{ja-noun|うち}}\n\n# a [[house]]\n#* {{RQ:Kokoro|1|4|始めて先生の'''宅'''を訪ねた時、先生は留守であった。\n|^はじめて ^せんせい の '''うち''' を たずねた とき、 ^せんせい は るす で あった。\n|The first time I visited ''Sensei''<nowiki/>'s '''house''', he wasn't in.}}\n# one's house\n\n=====Usage notes=====\n* Often written in hiragana as {{ja-l|うち}} to avoid confusion with {{ja-r|家|いえ}} above.\n\n=====Descendants=====\n* {{desc|bor=1|en|[[hooch]]/[[hootch]]}}\n\n===Etymology 3===\n{{ja-kanjitab|yomi=i|sort=ち}}\n\nContraction of ''uchi'' above.\n\nOften following the genitive case marker {{ja-r|の}} which contracts to ''-n''.\n\n====Noun====\n{{ja-noun|ち}}\n\n# a [[house]]\n#: {{ja-usex-inline|俺ん'''家'''に来ない？|^おれん'''ち''' に こない？|Wanna come to my '''place'''?}}\n\n===Etymology 4===\n{{ja-kanjitab|や|yomi=k}}\n{{ja-see|屋}}\n\n===Etymology 5===\n{{ja-kanjitab|か|yomi=kanon}}\n\nFrom {{der|ja|ltc|sort=か|-}} {{ltc-l|家}}.\n\nThe {{m|ja|漢音|tr=kan'on|lit=[[Han]] [[sound]]}}, so likely a latter borrowing from {{m+|ltc|-}}.\n\n====Suffix====\n{{ja-pos|suffix|か}}\n\n# an [[expert]], [[professional]], [[performer]]\n\n=====Derived terms=====\n*{{ja-r|空%手%家|から%て%か}}\n* {{ja-r|漫%画%家|まん%が%か}}\n* {{ja-r|投%資%家|とう%し%か}}\n\n===Etymology 6===\n{{ja-kanjitab|け|yomi=goon}}\n\nFrom {{der|ja|ltc|sort=け|-}} {{ltc-l|家}}.\n\nThe {{m|ja|呉音|tr=goon|lit=[[Wu]] [[sound]]}}, so likely the initial borrowing from {{m+|ltc|-}}.\n\n====Suffix====\n{{ja-pos|suffix|け}}\n\n# {{n-g|representing [[relationship]] to a [[family]]}}\n#: {{ja-usex-inline|[[平]]'''家'''|^たいら-'''け'''|the Taira family}}\n\n===References===\n{{reflist}}\n:* {{R:Kanjipedia Kotoba|0000681300}}\n\n{{C|ja|Buildings and structures|Family}}"
+   },
+   "jlpt_list": {
+    "url": "https://github.com/jamsinclair/open-anki-jlpt-decks",
+    "retrieved_at": "2026-10-10T08:29:52+00:00",
+    "matches": {
+     "n5": [
+      {
+       "expression": "家",
+       "reading": "いえ",
+       "meaning": "house, home",
+       "tags": "Genki Genki_Ln.3 JLPT JLPT_2 JLPT_3 JLPT_5 JLPT_N5",
+       "guid": "QGc`#y1e97"
+      }
+     ]
+    }
+   },
+   "tatoeba_vie": {
+    "url": "https://tatoeba.org/en/api_v0/search?from=jpn&to=vie&query=%E5%AE%B6&orphans=no&unapproved=no&sort=words",
+    "status": 200,
+    "retrieved_at": "2026-10-10T08:29:53+00:00",
+    "sentences": [
+     {
+      "id": 4864642,
+      "text": "家にいる。",
+      "owner": "jarbv",
+      "translations": [
+       {
+        "id": 4786144,
+        "text": "Tôi đang ở nhà.",
+        "direct": null
+       }
+      ]
+     },
+     {
+      "id": 10155826,
+      "text": "我が家が一番！",
+      "owner": "small_snow",
+      "translations": [
+       {
+        "id": 1555209,
+        "text": "Ta về ta tắm ao ta, dù trong dù đục ao nhà vẫn hơn.",
+        "direct": null
+       }
+      ]
+     },
+     {
+      "id": 8572172,
+      "text": "家が見える。",
+      "owner": "small_snow",
+      "translations": [
+       {
+        "id": 13173358,
+        "text": "Tôi thấy một ngôi nhà.",
+        "direct": null
+       }
+      ]
+     },
+     {
+      "id": 7422064,
+      "text": "家に電話して！",
+      "owner": "Ninja",
+      "translations": [
+       {
+        "id": 13339717,
+        "text": "Gọi về nhà đi!",
+        "direct": null
+       }
+      ]
+     },
+     {
+      "id": 9405644,
+      "text": "あの家いいね。",
+      "owner": "bunbuku",
+      "translations": [
+       {
+        "id": 1548731,
+        "text": "Căn nhà đó trông đẹp.",
+        "direct": null
+       }
+      ]
+     },
+     {
+      "id": 9023926,
+      "text": "家にいなさい。",
+      "owner": "small_snow",
+      "translations": [
+       {
+        "id": 8627401,
+        "text": "Ở nhà.",
+        "direct": null
+       }
+      ]
+     },
+     {
+      "id": 6135294,
+      "text": "家族は大切だ。",
+      "owner": "Melvin05",
+      "translations": [
+       {
+        "id": 13341037,
+        "text": "Gia đình thì quan trọng.",
+        "direct": null
+       }
+      ]
+     },
+     {
+      "id": 1005435,
+      "text": "家が見えます。",
+      "owner": "mookeee",
+      "translations": [
+       {
+        "id": 13173358,
+        "text": "Tôi thấy một ngôi nhà.",
+        "direct": null
+       }
+      ]
+     },
+     {
+      "id": 187118,
+      "text": "家においでよ。",
+      "owner": "bunbuku",
+      "translations": [
+       {
+        "id": 9752326,
+        "text": "Lại đây đi.",
+        "direct": null
+       }
+      ]
+     },
+     {
+      "id": 105394,
+      "text": "彼は資産家だ。",
+      "owner": "bunbuku",
+      "translations": [
+       {
+        "id": 8989673,
+        "text": "Ông ta là một người có của.",
+        "direct": true
+       }
+      ]
+     }
+    ]
+   },
+   "tatoeba_eng": {
+    "url": "https://tatoeba.org/en/api_v0/search?from=jpn&to=eng&query=%E5%AE%B6&orphans=no&unapproved=no&sort=words",
+    "status": 200,
+    "retrieved_at": "2026-10-10T08:29:58+00:00",
+    "sentences": [
+     {
+      "id": 13259319,
+      "text": "家内だ。",
+      "owner": "atitarev",
+      "translations": [
+       {
+        "id": 1325177,
+        "text": "She's my wife.",
+        "direct": true
+       },
+       {
+        "id": 7580714,
+        "text": "She is my wife.",
+        "direct": true
+       }
+      ]
+     },
+     {
+      "id": 10557857,
+      "text": "今、お家？",
+      "owner": "small_snow",
+      "translations": [
+       {
+        "id": 3821908,
+        "text": "Are you at home now?",
+        "direct": true
+       }
+      ]
+     },
+     {
+      "id": 3508034,
+      "text": "家はどこ？",
+      "owner": "arnab",
+      "translations": [
+       {
+        "id": 370706,
+        "text": "Where is your house?",
+        "direct": true
+       },
+       {
+        "id": 2254684,
+        "text": "Where's your house?",
+        "direct": true
+       },
+       {
+        "id": 3823761,
+        "text": "Where's your home?",
+        "direct": true
+       },
+       {
+        "id": 481894,
+        "text": "Where is his house?",
+        "direct": null
+       },
+       {
+        "id": 481895,
+        "text": "Where is her house?",
+        "direct": null
+       },
+       {
+        "id": 10025356,
+        "text": "Where's the house?",
+        "direct": null
+       }
+      ]
+     },
+     {
+      "id": 12725622,
+      "text": "家業です。",
+      "owner": "small_snow",
+      "translations": [
+       {
+        "id": 10184128,
+        "text": "It's a family business.",
+        "direct": true
+       }
+      ]
+     },
+     {
+      "id": 9803522,
+      "text": "家にいたの？",
+      "owner": "small_snow",
+      "translations": [
+       {
+        "id": 9770463,
+        "text": "Were you home?",
+        "direct": true
+       },
+       {
+        "id": 12740139,
+        "text": "Were you at home?",
+        "direct": true
+       }
+      ]
+     }
+    ]
+   }
+  },
+  "行く": {
+   "jisho": {
+    "url": "https://jisho.org/api/v1/search/words?keyword=%E8%A1%8C%E3%81%8F",
+    "status": 200,
+    "retrieved_at": "2026-10-10T08:30:00+00:00",
+    "entries": [
+     {
+      "slug": "行く",
+      "is_common": true,
+      "tags": [
+       "wanikani5"
+      ],
+      "jlpt": [
+       "jlpt-n1",
+       "jlpt-n5"
+      ],
+      "japanese": [
+       {
+        "word": "行く",
+        "reading": "いく"
+       },
+       {
+        "word": "行く",
+        "reading": "ゆく"
+       },
+       {
+        "word": "往く",
+        "reading": "いく"
+       },
+       {
+        "word": "往く",
+        "reading": "ゆく"
+       }
+      ],
+      "senses": [
+       {
+        "english_definitions": [
+         "to go",
+         "to move (towards)",
+         "to head (towards)",
+         "to leave (for)"
+        ],
+        "parts_of_speech": [
+         "Godan verb - Iku/Yuku special class",
+         "Intransitive verb"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [
+         "来る"
+        ],
+        "antonyms": [],
+        "source": [],
+        "info": []
+       },
+       {
+        "english_definitions": [
+         "to move through",
+         "to travel across",
+         "to walk along (e.g. a road)"
+        ],
+        "parts_of_speech": [
+         "Godan verb - Iku/Yuku special class",
+         "Intransitive verb"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+       },
+       {
+        "english_definitions": [
+         "to go (well, badly, etc.)",
+         "to proceed",
+         "to turn out",
+         "to get along"
+        ],
+        "parts_of_speech": [
+         "Godan verb - Iku/Yuku special class",
+         "Intransitive verb"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+       },
+       {
+        "english_definitions": [
+         "to do (in a particular way)",
+         "to go (with; a choice)",
+         "to try"
+        ],
+        "parts_of_speech": [
+         "Godan verb - Iku/Yuku special class",
+         "Intransitive verb"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": [
+         "oft. as で〜"
+        ]
+       },
+       {
+        "english_definitions": [
+         "to pass (of time, seasons, etc.)",
+         "to go by"
+        ],
+        "parts_of_speech": [
+         "Godan verb - Iku/Yuku special class",
+         "Intransitive verb"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+       },
+       {
+        "english_definitions": [
+         "to stream",
+         "to flow"
+        ],
+        "parts_of_speech": [
+         "Godan verb - Iku/Yuku special class",
+         "Intransitive verb"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+       },
+       {
+        "english_definitions": [
+         "to die",
+         "to pass away"
+        ],
+        "parts_of_speech": [
+         "Godan verb - Iku/Yuku special class",
+         "Intransitive verb"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": [
+         "usu. written as 逝く"
+        ]
+       },
+       {
+        "english_definitions": [
+         "to reach (a stage, extent, age, etc.)",
+         "to get to",
+         "to go (so far as ...)"
+        ],
+        "parts_of_speech": [
+         "Godan verb - Iku/Yuku special class",
+         "Intransitive verb"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+       },
+       {
+        "english_definitions": [
+         "to reach (of information, instructions, wind, etc.)",
+         "to arrive"
+        ],
+        "parts_of_speech": [
+         "Godan verb - Iku/Yuku special class",
+         "Intransitive verb"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+       },
+       {
+        "english_definitions": [
+         "to continue ...",
+         "to go on ...",
+         "to (progress) steadily",
+         "to gradually ...",
+         "to progressively ..."
+        ],
+        "parts_of_speech": [
+         "Auxiliary verb",
+         "Godan verb - Iku/Yuku special class"
+        ],
+        "links": [],
+        "tags": [
+         "Usually written using kana alone"
+        ],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": [
+         "after the -te form of a verb; い sometimes omitted in casual speech"
+        ]
+       },
+       {
+        "english_definitions": [
+         "to have an orgasm",
+         "to come",
+         "to cum"
+        ],
+        "parts_of_speech": [
+         "Godan verb - Iku/Yuku special class",
+         "Intransitive verb"
+        ],
+        "links": [],
+        "tags": [
+         "Usually written using kana alone",
+         "Colloquial"
+        ],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": [
+         "oft. written as イク"
+        ]
+       },
+       {
+        "english_definitions": [
+         "to trip",
+         "to get high",
+         "to have a drug-induced hallucination"
+        ],
+        "parts_of_speech": [
+         "Godan verb - Iku/Yuku special class",
+         "Intransitive verb"
+        ],
+        "links": [],
+        "tags": [
+         "Usually written using kana alone",
+         "Slang"
+        ],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+       }
+      ],
+      "attribution": {
+       "jmdict": true,
+       "jmnedict": false,
+       "dbpedia": false
+      }
+     }
+    ]
+   },
+   "wiktionary": {
+    "url": "https://en.wiktionary.org/wiki/%E8%A1%8C%E3%81%8F",
+    "status": 200,
+    "retrieved_at": "2026-10-10T08:30:01+00:00",
+    "japanese_section": "{{ja-kanjitab|い|sort=いく|yomi=kun|alt=往く,逝く:rare}}\n{{ja-kanjitab|ゆ|sort=ゆく|yomi=kun|alt=往く,適く,之く,征く|clearright=1}}\n\n===Etymology===\nFrom {{inh|ja|ojp|-}}, from {{inh|ja|jpx-pro|*iku}}. Cognate with {{cog|ryu|-}} {{ryu-r|行ちゅん|いちゅん}}, {{cog|mvi|行きぃ|tr=iksï}}.\n\nThe original Proto‐Japonic root was vowel‐initial, as evidenced by the Ryukyuan cognates. In Old Japanese, a prothetic glide {{IPAfont|/j/}} was often inserted before certain vowel‐initial words to ease pronunciation. This phonological innovation created the variant form {{ja-r|行く|ゆく}}, paralleling the ''i‐'' ~ ''yu‐'' alternation seen in the archaic noun {{m|ojp|夢|tr=ime<sub>2</sub>}} versus modern {{ja-r|夢|ゆめ}}.\n\nBecause the innovative ''yuku'' form was heavily utilized in foundational classical literature, such as the ''[[w:Man'yōshū|Man’yōshū]]'', it became fossilized as the high‐prestige, conservative literary standard. Meanwhile, the direct descendant ''iku'' persisted as the common spoken vernacular and was ultimately adopted as the standard for modern spoken Japanese.\n\n===Pronunciation===\n{{ja-pron|いく|acc=0|acc_ref=DJR,NHK,SMK5}}\n{{ja-accent-dialectal|region=Kyoto|koki-0|いく|íkú|ref=ZAJ}}\n{{ja-acc-table|verb-iku|いく|acc=0|て-form-acc=0}}\n{{ja-pron|ゆく|acc=0|acc_ref=DJR,NHK,SMK5}}\n{{ja-acc-table|verb-godan|ゆく|acc=0|て-form-acc=0}}\n\n===Verb===\n{{ja-verb|type=1s|いく|ゆく|tr=intrans}}\n\n# to [[go]]; to [[come]] to one's place\n#: {{ja-usex|彼は京%都に'''行って'''いたようだ。|^かれ は ^きょう%と に '''いって''' いた よう だ。|He seems to have '''been''' to Kyoto.}}\n#: {{ja-usex|泳ぎに'''行って'''もいい？|およぎ に '''いって''' も い.い？|May I '''go''' swimming?}}\n#: {{ja-usex|今'''行く'''よ！|いま '''いく''' よ！|I'm coming!}}\n#: {{ja-usex|[[もう]][[こんな]][[時%間]]！[[そろそろ]]'''行か[[なきゃ]]'''。|もう こんな じ%かん！そろそろ '''いかなきゃ'''。|Will you look at the time! I've '''got to''' get '''go'''ing.}}\n# to [[walk]], to [[pass]]\n#: {{ja-usex|街を行く|まち を いく|to walk around the street}}\n# {{lb|ja|of a [[letter]]}} to be [[deliver|delivered]]\n# to [[depart]]\n#: {{ja-usex|'''ゆく'''年くる年。|'''ゆく''' とし くる とし。|A year departing and a year coming.}}\n# to [[rely]] (on a method)\n#: {{ja-usex|これで'''行く'''しかない。|これ で '''いく''' しか ない。|The only option is to '''go''' with this.}}\n# ({{l|ja|[[年]][[が]]～}}) to [[age]]\n#: {{ja-usex|彼は年が'''行って'''いる。|かれ は とし が '''いって''' いる。|He is '''old'''.}}\n# ({{l|ja|[[うまい|うまく]]～}}) to go well\n#: {{ja-usex|そう毎%度%物%事はうまく'''行かない'''。|そう まい%ど% もの%ごと は うまく '''いかない'''。|Not every time do things '''go''' well.}}\n# {{lb|ja|auxiliary|usually spelled in hiragana}} {{n-g|After the て-form of a verb:}}\n## to [[continue]] to do something; to [[go on]] to do something\n## to [[gradually]] do something\n# {{ja-def|イく}} {{lb|ja|slang}} to have an [[orgasm]], to [[come]], to [[cum]]\n#* '''2009''', {{w|Ichiro Suzuki}} in an interview after the {{w|2009 World Baseball Classic|World Baseball Classic}}\n#*: {{ja-usex|気持ち良かったっすねえ。ほぼ'''イキ'''かけました。|きもち よかった っす ねえ。ほぼ '''イキ'''かけました。|It felt great. I almost '''came'''.}}\n\n====Usage notes====\n* In English, the verbs {{m|en|go}} and {{m|en|come}} in the senses of physical motion are often used in relation to the listener.  If Alice calls Bob and asks him if he is on his way to her party, he would say, \"I'm coming.\"\n: However, in Japanese, the verbs {{ja-r|行く|いく|to [[go]]}} and {{ja-r|来る|くる|to [[come]]}} are used in relation to the speaker.  If Alice calls Bob and asks him if he is on his way to her party, he would instead say {{m|ja|行きます|tr=ikimasu||I'm going}}.\n* This verb has an irregular [[w:Onbin|euphonic stem]] in its perfective and conjunctive constructions, those being {{ja-r|行った|いった}} and {{ja-r|行って|いって}} respectively, instead of the expected {{ja-r|行いた|い.いた|linkto=-}} and {{ja-r|行いて|い.いて|linkto=-}} or {{ja-r|行いた|ゆいた|linkto=-}} and {{ja-r|行いて|ゆいて|linkto=-}}.\n* As an auxiliary, it is more commonly spelled in hiragana. The form {{ja-r|-[[て]] いく}} can also be colloquially shortened to {{ja-r|てく|-てく}}.\n* While generally written as {{ja-l|行}}, this verb can be written with several other kanji to convey specific nuances. For instance, {{ja-l|往}} emphasizes proceeding towards a destination or the passage of time, while {{ja-l|逝}} is a euphemism meaning ‘to pass away’. Other rare, historical, or literary spellings include {{ja-l|適}}, {{ja-l|之}}, and {{ja-l|征}} (the latter typically implying a military campaign or expedition).\n\n====Conjugation====\n{{ja-verbconj|行く|行か|いか<br>ゆか|ika<br>yuka|行き|いき<br>ゆき|iki<br>yuki|行く|いく<br>ゆく|iku<br>yuku|行く|いく<br>ゆく|iku<br>yuku|行け|いけ<br>ゆけ|ike<br>yuke|行け|いけ<br>ゆけ|ike<br>yuke|行かれる|いかれる<br>ゆかれる|ikareru<br>yukareru|行かせる<br><br>行かす|いかせる<br>ゆかせる<br>いかす<br>ゆかす|ikaseru<br>yukaseru<br>ikasu<br>yukasu|[[行ける]]|[[いける]]<br>ゆける|ikeru<br>yukeru|[[行こう]]|いこう<br>ゆこう|ikō<br>yukō|[[行かない]]|いかない<br>ゆかない|ikanai<br>yukanai|行かず|いかず<br>ゆかず|ikazu<br>yukazu|行きます|いきます<br>ゆきます|ikimasu<br>yukimasu|[[行った]]|いった|itta|行って|いって|itte|行けば|いけば<br>ゆけば|ikeba<br>yukeba}}\n{{ja-conj-bungo|ゆ|4-k}}\n{{ja-conj-ex|い|く}}\n\n====Antonyms====\n* {{antsense|to come}} {{ja-r|来る|くる}}\n\n===See also===\n* {{ja-r|いらっしゃる}} {{qualifier|honorific}}\n* {{ja-r|参る|まいる}} {{qualifier|humble}}\n\n===References===\n{{reflist}}\n:* {{R:Kanjipedia Kotoba|0002177400}}\n\n{{C|ja|Sex|sort=いく}}"
+   },
+   "jlpt_list": {
+    "url": "https://github.com/jamsinclair/open-anki-jlpt-decks",
+    "retrieved_at": "2026-10-10T08:30:01+00:00",
+    "matches": {
+     "n5": [
+      {
+       "expression": "行く",
+       "reading": "いく; ゆく",
+       "meaning": "to go",
+       "tags": "JLPT JLPT_5 JLPT_N5",
+       "guid": "kJnXhXxW0)"
+      }
+     ]
+    }
+   },
+   "tatoeba_vie": {
+    "url": "https://tatoeba.org/en/api_v0/search?from=jpn&to=vie&query=%E8%A1%8C%E3%81%8F&orphans=no&unapproved=no&sort=words",
+    "status": 200,
+    "retrieved_at": "2026-10-10T08:30:03+00:00",
+    "sentences": [
+     {
+      "id": 4739,
+      "text": "行くよ。",
+      "owner": "bunbuku",
+      "translations": [
+       {
+        "id": 12528571,
+        "text": "Tôi sẽ đi ngủ",
+        "direct": null
+       },
+       {
+        "id": 2931557,
+        "text": "Tôi sẽ đi.",
+        "direct": null
+       }
+      ]
+     },
+     {
+      "id": 8764339,
+      "text": "投票に行く？",
+      "owner": "bunbuku",
+      "translations": [
+       {
+        "id": 8974281,
+        "text": "Bạn có đi bỏ phiếu không?",
+        "direct": true
+       }
+      ]
+     },
+     {
+      "id": 3488093,
+      "text": "うまく行った！",
+      "owner": "arnab",
+      "translations": [
+       {
+        "id": 13334004,
+        "text": "Nó đã hoạt động.",
+        "direct": null
+       }
+      ]
+     },
+     {
+      "id": 149096,
+      "text": "車で行こう。",
+      "owner": "bunbuku",
+      "translations": [
+       {
+        "id": 5150848,
+        "text": "Đi bằng ôtô nhé.",
+        "direct": null
+       }
+      ]
+     },
+     {
+      "id": 789580,
+      "text": "あとで行くね。",
+      "owner": "arihato",
+      "translations": [
+       {
+        "id": 12528571,
+        "text": "Tôi sẽ đi ngủ",
+        "direct": null
+       }
+      ]
+     },
+     {
+      "id": 11760934,
+      "text": "行って見てくれば？",
+      "owner": "bunbuku",
+      "translations": [
+       {
+        "id": 4786090,
+        "text": "Tại sao bạn không đi xem thử?",
+        "direct": null
+       }
+      ]
+     },
+     {
+      "id": 4562260,
+      "text": "英国へ行きたい。",
+      "owner": "Kiraness",
+      "translations": [
+       {
+        "id": 8956529,
+        "text": "Tôi muốn đến nước Anh.",
+        "direct": true
+       }
+      ]
+     },
+     {
+      "id": 10001937,
+      "text": "明日は学校に行くの？",
+      "owner": "bunbuku",
+      "translations": [
+       {
+        "id": 9027429,
+        "text": "Ngày mai bạn có định đến trường không?",
+        "direct": null
+       },
+       {
+        "id": 9027430,
+        "text": "Mai bạn có định tới trường không?",
+        "direct": null
+       }
+      ]
+     },
+     {
+      "id": 9795383,
+      "text": "もちろん、行くよ。",
+      "owner": "small_snow",
+      "translations": [
+       {
+        "id": 13657299,
+        "text": "Tất nhiên là tôi sẽ đi rồi.",
+        "direct": null
+       }
+      ]
+     },
+     {
+      "id": 9281074,
+      "text": "駅に行く途中なの。",
+      "owner": "small_snow",
+      "translations": [
+       {
+        "id": 11571930,
+        "text": "Tôi đang trên đường đến nhà ga.",
+        "direct": null
+       }
+      ]
+     }
+    ]
+   },
+   "tatoeba_eng": {
+    "url": "https://tatoeba.org/en/api_v0/search?from=jpn&to=eng&query=%E8%A1%8C%E3%81%8F&orphans=no&unapproved=no&sort=words",
+    "status": 200,
+    "retrieved_at": "2026-10-10T08:30:05+00:00",
+    "sentences": [
+     {
+      "id": 13536221,
+      "text": "行く？",
+      "owner": "LeviHighway",
+      "translations": [
+       {
+        "id": 10743990,
+        "text": "You're leaving?",
+        "direct": null
+       },
+       {
+        "id": 2244954,
+        "text": "Are you leaving?",
+        "direct": null
+       }
+      ]
+     },
+     {
+      "id": 13536224,
+      "text": "行くか？",
+      "owner": "LeviHighway",
+      "translations": [
+       {
+        "id": 10743990,
+        "text": "You're leaving?",
+        "direct": null
+       },
+       {
+        "id": 2244954,
+        "text": "Are you leaving?",
+        "direct": null
+       }
+      ]
+     },
+     {
+      "id": 8769317,
+      "text": "行くの？",
+      "owner": "bunbuku",
+      "translations": [
+       {
+        "id": 2244947,
+        "text": "Are you going?",
+        "direct": true
+       },
+       {
+        "id": 497708,
+        "text": "Will you come with us?",
+        "direct": null
+       },
+       {
+        "id": 2011464,
+        "text": "Do you want to come?",
+        "direct": null
+       },
+       {
+        "id": 8453140,
+        "text": "Are you coming along?",
+        "direct": null
+       },
+       {
+        "id": 8453663,
+        "text": "Are you going to come along?",
+        "direct": null
+       },
+       {
+        "id": 1417464,
+        "text": "Are you coming?",
+        "direct": null
+       },
+       {
+        "id": 1357386,
+        "text": "Will you go?",
+        "direct": null
+       },
+       {
+        "id": 2852264,
+        "text": "Are you going to go?",
+        "direct": null
+       },
+       {
+        "id": 2244954,
+        "text": "Are you leaving?",
+        "direct": null
+       }
+      ]
+     },
+     {
+      "id": 13167221,
+      "text": "地獄行け！",
+      "owner": "atitarev",
+      "translations": [
+       {
+        "id": 607840,
+        "text": "Go to hell!",
+        "direct": true
+       },
+       {
+        "id": 6099231,
+        "text": "Go to hell.",
+        "direct": null
+       }
+      ]
+     },
+     {
+      "id": 11508923,
+      "text": "今行くぞ！",
+      "owner": "megamanenm",
+      "translations": [
+       {
+        "id": 11508913,
+        "text": "Coming!",
+        "direct": true
+       },
+       {
+        "id": 5228926,
+        "text": "I'm coming!",
+        "direct": null
+       }
+      ]
+     }
+    ]
+   }
+  },
+  "見る": {
+   "jisho": {
+    "url": "https://jisho.org/api/v1/search/words?keyword=%E8%A6%8B%E3%82%8B",
+    "status": 200,
+    "retrieved_at": "2026-10-10T08:30:06+00:00",
+    "entries": [
+     {
+      "slug": "見る",
+      "is_common": true,
+      "tags": [
+       "wanikani4",
+       "wanikani22"
+      ],
+      "jlpt": [
+       "jlpt-n5"
+      ],
+      "japanese": [
+       {
+        "word": "見る",
+        "reading": "みる"
+       },
+       {
+        "word": "観る",
+        "reading": "みる"
+       },
+       {
+        "word": "視る",
+        "reading": "みる"
+       }
+      ],
+      "senses": [
+       {
+        "english_definitions": [
+         "to see",
+         "to look",
+         "to watch",
+         "to view",
+         "to observe"
+        ],
+        "parts_of_speech": [
+         "Ichidan verb",
+         "Transitive verb"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+       },
+       {
+        "english_definitions": [
+         "to examine",
+         "to look over",
+         "to assess",
+         "to check",
+         "to judge"
+        ],
+        "parts_of_speech": [
+         "Ichidan verb",
+         "Transitive verb"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+       },
+       {
+        "english_definitions": [
+         "to look after",
+         "to attend to",
+         "to take care of",
+         "to keep an eye on"
+        ],
+        "parts_of_speech": [
+         "Ichidan verb",
+         "Transitive verb"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [
+         "看る"
+        ],
+        "antonyms": [],
+        "source": [],
+        "info": []
+       },
+       {
+        "english_definitions": [
+         "to experience",
+         "to meet with (misfortune, success, etc.)"
+        ],
+        "parts_of_speech": [
+         "Ichidan verb",
+         "Transitive verb"
+        ],
+        "links": [],
+        "tags": [],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": []
+       },
+       {
+        "english_definitions": [
+         "to try ...",
+         "to have a go at ...",
+         "to give ... a try"
+        ],
+        "parts_of_speech": [
+         "Auxiliary verb",
+         "Ichidan verb"
+        ],
+        "links": [],
+        "tags": [
+         "Usually written using kana alone"
+        ],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": [
+         "after the -te form of a verb"
+        ]
+       },
+       {
+        "english_definitions": [
+         "to see (that) ...",
+         "to find (that) ..."
+        ],
+        "parts_of_speech": [
+         "Auxiliary verb",
+         "Ichidan verb"
+        ],
+        "links": [],
+        "tags": [
+         "Usually written using kana alone"
+        ],
+        "restrictions": [],
+        "see_also": [],
+        "antonyms": [],
+        "source": [],
+        "info": [
+         "as 〜てみると, 〜てみたら, 〜てみれば, etc."
+        ]
+       }
+      ],
+      "attribution": {
+       "jmdict": true,
+       "jmnedict": false,
+       "dbpedia": false
+      }
+     }
+    ]
+   },
+   "wiktionary": {
+    "url": "https://en.wiktionary.org/wiki/%E8%A6%8B%E3%82%8B",
+    "status": 200,
+    "retrieved_at": "2026-10-10T08:30:07+00:00",
+    "japanese_section": "===Etymology===\n{{ja-kanjitab|み|yomi=kun|alt=看る,視る,観る}}\nFrom {{inh|ja|ojp|-|sort=みる}}. First attested in the ''{{w|Kojiki}}'' of 712 {{CE}}.<ref>{{R:Nihon Kokugo Daijiten 2|見・看・視・観・覧}}</ref> From {{inh|ja|jpx-pro|*miru}}. Cognate with {{ja-r|目|め|[[eye]]}}.\n\n===Pronunciation===\n{{ja-pron|みる|acc=a|acc_loc={{w|Tokyo dialect|Tokyo}}|acc_ref=DJR,NHK|acc2=0|acc2_loc={{w|Mishima Island, Yamaguchi|Mishima}}|acc2_ref=<ref>{{cite-journal|author=Uwano, Zendo|title=ja:見島方言の用言のアクセント調査報告|trans-title=A Report on the Accentual Surveys of Verbs and Adjectives in the Mishima Dialect|url=http://repository.tufs.ac.jp/handle/10108/75432|journal={{lang|ja|環太平洋の「消滅に瀕した言語」にかんする緊急調査研究}}|trans-work=Endangered languages of the Pacific Rim|date=2002-10-31|issn=1346-082X|accessdate=25 September 2022|archiveurl=https://web.archive.org/web/20220925043844/http://repository.tufs.ac.jp/handle/10108/75432|archivedate=25 September 2022}}</ref>}}\n{{ja-acc-table|verb-ichidan|みる|acc=1|て-form-acc=1}}\n\n===Verb===\n{{ja-verb|みる|type=2|tr=trans}}\n{{ja-vp|見る|見える|c=見せる|みる|みえる|ck=みせる}}\n\n# to [[see]], to [[watch]], to [[observe]], to [[look]] at something\n#* {{quote-av|ja|actor={{w|Ai Maeda (voice actress)|Ai Maeda}}|title={{w|Kill Bill: Volume 1}}|role=young {{w|List of Kill Bill characters#O-Ren Ishii|O-Ren Ishii}}|writer=w:Quentin Tarantino|publisher={{w|Miramax|Miramax Films}}|date=Oct 10 2003}}\n#*: {{ja-usex|[[松%本]]……[[あたし]]を'''見て'''……あたし[[の]][[顔]][[を]][[よく|よーく]]'''見て'''……あたしの[[目]]を'''見て'''……あたしの[[口]]を'''見て'''……[[見%覚え]][[ない]][[かい]]？……[[あんた]][[が]][[殺す|殺した]][[誰か]][[に]]……[[似る|似て]]ないかい！|^まつ%もと…… ^あたし を '''みて'''…… ^あたし の かお を よーく '''みて'''…… ^あたし の め を '''みて'''…… ^あたし の くち を '''みて'''…… ^み%おぼえ ない かい？…… ^あんた が ころした だれ か に…… にてない かい！|Matsumoto…… '''Look''' at me…… Take a good '''look''' at my face…… My eyes…… My mouth…… Don’t I look familiar to you?…… Like someone…… you murdered⁉}}\n#* {{RQ:ja:30419 m3}}\n#*: {{ja-usex|「……怖い夢を'''見た'''んだ……」|「……^こわい ゆめ を '''みた''' んだ……」|\"……I '''saw''' a scary dream……\"}}\n# to [[look over]], to [[examine]], to [[judge]]\n# to [[take care of]], to [[look after]], to [[keep an eye on]] somebody\n# to [[view]] something, like [[painting]]s, [[flower]]s or a [[movie]]\n#: {{ja-uxi|[[映%画]]を'''見'''に[[行く]]|えい%が を '''み''' に いく|to go '''see''' a movie}}\n#: {{ja-usex|[[あの]] [[監%督]] の 映%画 を '''見た''' [[こと]] [[は]] [[ありません]][[。]]|あの かん%とく の えい%が を '''みた''' こと は ありません。|I haven't '''seen''' any of that director's movies before.}}\n# {{ja-def|みる}} {{lb|ja|auxiliary|after the [[w:Japanese verb conjugation#te form|''te'' form]] of a verb}}\n## {{senseid|ja|try}} to [[try]] to do {{q|literally, “[do the preceding verb and] see”}}\n##: {{ja-usex|[[納豆]]を[[食べる|食べて]]'''みません'''[[か]]。|^なっとう を たべて '''みません''' か。|Why not '''try''' [to eat] natto?}}\n##: {{ja-usex|[[死ぬ]] [[まで]] [[君]] [[と#Etymology 2|と]] [[生きる|生きて]] '''みたい''' [[よ#Etymology 2|よ]]|しぬ まで きみ と いきて '''みたい''' よ|Until death I '''want to try to''' live with you}}\n##: {{ja-usex|[[怪しい]] [[扉]] [[を#Etymology 2|を]] [[開ける|開けて]] '''みたく'''[[ない]] よ|あやしい とびら を あけて '''みたく'''ない よ|I don't '''want to try to''' open the weird door!}}\n## {{lb|ja|in a conditional phrase}} [[now that]]; {{ng|used to express the realisation of new information}}\n##: {{ja-x|言われて'''みる'''とそうですよね。|^いわれて '''みる''' と そう です よ ね。|'''Now that''' you mention it, you're right.}}\n\n====Usage notes====\n* ({{senseno|ja|try}}): Implies that the action has never been attempted by the subject.\n\n====Conjugation====\n{{ja-ichi|み}}\n{{ja-conj-bungo||1u-m|sik=}}\n{{ja-conj-ex|み|i}}\n\n====Synonyms====\n* {{ja-r|linkto=視聴|視聴する|しちょう する}}\n\n====Derived terms====\n* {{ja-r|見せる|みせる|to show}}\n* {{ja-r|見る影もない|みる かげ も ない}}, {{ja-r|見る影も無い|みる かげ も ない}}: mere shadow of one's former self; having no trace left of something great once possessed\n* {{ja-r|夢を見る|ゆめ を みる|to have a dream}}\n* {{ja-r|試みる|こころみる|to try; to taste}}\n* {{ja-r|省みる|かえりみる|to look back, reconsider}}\n\n====Related terms====\n* {{ja-r|見える|みえる}}\n* {{ja-r|診る|みる}}, {{ja-r|看る|みる}}, {{ja-r|観る|みる}}, {{ja-r|視る|みる}}\n* {{ja-r|守る|もる}}, {{ja-r|守|もり}}\n\n===References===\n{{reflist}}\n:* {{R:Kanjipedia Kotoba|0001902300}}"
+   },
+   "jlpt_list": {
+    "url": "https://github.com/jamsinclair/open-anki-jlpt-decks",
+    "retrieved_at": "2026-10-10T08:30:07+00:00",
+    "matches": {
+     "n5": [
+      {
+       "expression": "見る",
+       "reading": "みる",
+       "meaning": "to see, to look",
+       "tags": "JLPT JLPT_3 JLPT_5 JLPT_N5",
+       "guid": "LJ*9Zy3g--"
+      }
+     ]
+    }
+   },
+   "tatoeba_vie": {
+    "url": "https://tatoeba.org/en/api_v0/search?from=jpn&to=vie&query=%E8%A6%8B%E3%82%8B&orphans=no&unapproved=no&sort=words",
+    "status": 200,
+    "retrieved_at": "2026-10-10T08:30:09+00:00",
+    "sentences": [
+     {
+      "id": 3552883,
+      "text": "何見てるの？",
+      "owner": "tommy_san",
+      "translations": [
+       {
+        "id": 9739392,
+        "text": "Bạn đang nhìn cái gì vậy?",
+        "direct": true
+       },
+       {
+        "id": 9739393,
+        "text": "Bạn đang nhìn cái gì thế?",
+        "direct": true
+       }
+      ]
+     },
+     {
+      "id": 8572172,
+      "text": "家が見える。",
+      "owner": "small_snow",
+      "translations": [
+       {
+        "id": 13173358,
+        "text": "Tôi thấy một ngôi nhà.",
+        "direct": null
+       }
+      ]
+     },
+     {
+      "id": 187572,
+      "text": "何を見てるの？",
+      "owner": "bunbuku",
+      "translations": [
+       {
+        "id": 9739392,
+        "text": "Bạn đang nhìn cái gì vậy?",
+        "direct": true
+       },
+       {
+        "id": 9739393,
+        "text": "Bạn đang nhìn cái gì thế?",
+        "direct": null
+       }
+      ]
+     },
+     {
+      "id": 9979553,
+      "text": "テレビって見る？",
+      "owner": "bunbuku",
+      "translations": [
+       {
+        "id": 9006175,
+        "text": "Bạn có xem TV không?",
+        "direct": null
+       },
+       {
+        "id": 9006176,
+        "text": "Bạn có xem ti vi không?",
+        "direct": null
+       }
+      ]
+     },
+     {
+      "id": 633075,
+      "text": "時々ＴＶを見る。",
+      "owner": "blay_paul",
+      "translations": [
+       {
+        "id": 8943085,
+        "text": "Tôi thỉnh thoảng xem ti vi.",
+        "direct": true
+       },
+       {
+        "id": 8943086,
+        "text": "Thỉnh thoảng tôi xem TV.",
+        "direct": true
+       }
+      ]
+     },
+     {
+      "id": 175189,
+      "text": "見せてあげる。",
+      "owner": "bunbuku",
+      "translations": [
+       {
+        "id": 9028702,
+        "text": "Tôi sẽ cho bạn xem.",
+        "direct": true
+       },
+       {
+        "id": 9028703,
+        "text": "Tôi sẽ cho bạn thấy.",
+        "direct": true
+       }
+      ]
+     },
+     {
+      "id": 13254159,
+      "text": "韓国ドラマを見る？",
+      "owner": "atitarev",
+      "translations": [
+       {
+        "id": 13270986,
+        "text": "Bạn có xem phim truyền hình Hàn Quốc không?",
+        "direct": null
+       }
+      ]
+     },
+     {
+      "id": 7486097,
+      "text": "みんな夢を見る。",
+      "owner": "Ninja",
+      "translations": [
+       {
+        "id": 13338492,
+        "text": "Ai cũng mơ.",
+        "direct": null
+       }
+      ]
+     },
+     {
+      "id": 2242013,
+      "text": "これ見たことある？",
+      "owner": "bunbuku",
+      "translations": [
+       {
+        "id": 8839363,
+        "text": "Bạn đã từng thấy cái này chưa?",
+        "direct": true
+       }
+      ]
+     },
+     {
+      "id": 3607443,
+      "text": "俺を甘く見るなよ。",
+      "owner": "tommy_san",
+      "translations": [
+       {
+        "id": 8847731,
+        "text": "Đừng coi thường tao.",
+        "direct": true
+       },
+       {
+        "id": 8847732,
+        "text": "Đừng xem nhẹ tao.",
+        "direct": true
+       }
+      ]
+     }
+    ]
+   },
+   "tatoeba_eng": {
+    "url": "https://tatoeba.org/en/api_v0/search?from=jpn&to=eng&query=%E8%A6%8B%E3%82%8B&orphans=no&unapproved=no&sort=words",
+    "status": 200,
+    "retrieved_at": "2026-10-10T08:30:11+00:00",
+    "sentences": [
+     {
+      "id": 13250220,
+      "text": "アニメ見る？",
+      "owner": "atitarev",
+      "translations": [
+       {
+        "id": 6995592,
+        "text": "Do you watch anime?",
+        "direct": true
+       }
+      ]
+     },
+     {
+      "id": 13148511,
+      "text": "よく見える？",
+      "owner": "atitarev",
+      "translations": [
+       {
+        "id": 13148498,
+        "text": "Can you see it well?",
+        "direct": null
+       }
+      ]
+     },
+     {
+      "id": 8691889,
+      "text": "誰か見てる？",
+      "owner": "bunbuku",
+      "translations": [
+       {
+        "id": 1905868,
+        "text": "Is anyone looking?",
+        "direct": true
+       }
+      ]
+     },
+     {
+      "id": 3552883,
+      "text": "何見てるの？",
+      "owner": "tommy_san",
+      "translations": [
+       {
+        "id": 16256,
+        "text": "What are you looking at?",
+        "direct": true
+       },
+       {
+        "id": 2547474,
+        "text": "What're you watching?",
+        "direct": true
+       },
+       {
+        "id": 2645646,
+        "text": "What're you looking at?",
+        "direct": true
+       },
+       {
+        "id": 7841308,
+        "text": "What're you all looking at?",
+        "direct": true
+       },
+       {
+        "id": 16662,
+        "text": "What are you staring at?",
+        "direct": null
+       },
+       {
+        "id": 3636451,
+        "text": "What're you staring at?",
+        "direct": null
+       },
+       {
+        "id": 1841548,
+        "text": "What are you watching?",
+        "direct": null
+       },
+       {
+        "id": 3396893,
+        "text": "What are you guys looking at?",
+        "direct": null
+       },
+       {
+        "id": 24676,
+        "text": "What are you reading?",
+        "direct": null
+       },
+       {
+        "id": 2548014,
+        "text": "What're you reading?",
+        "direct": null
+       },
+       {
+        "id": 7033260,
+        "text": "What are you reading right now?",
+        "direct": null
+       }
+      ]
+     },
+     {
+      "id": 2552450,
+      "text": "何か見える？",
+      "owner": "OrangeTart",
+      "translations": [
+       {
+        "id": 1886063,
+        "text": "Do you see anything?",
+        "direct": true
+       },
+       {
+        "id": 1886248,
+        "text": "Can you see anything?",
+        "direct": true
+       },
+       {
+        "id": 2064626,
+        "text": "Do you see something?",
+        "direct": true
+       }
+      ]
+     }
+    ]
+   }
+  }
+ }
+}

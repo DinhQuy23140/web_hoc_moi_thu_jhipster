@@ -1,0 +1,303 @@
+{
+  "sources": {
+    "jlpt_levelsummary": {"raw": "exams/jlpt_levelsummary.txt", "name": "JLPT — N1-N5: Summary of Linguistic Competence", "license": "proprietary (facts only)", "reliability": "official"},
+    "jlpt_testsections": {"raw": "exams/jlpt_testsections.txt", "name": "JLPT — Test Sections and Test Time", "license": "proprietary (facts only)", "reliability": "official"},
+    "jlpt_results": {"raw": "exams/jlpt_results.txt", "name": "JLPT — Scoring Sections, Pass or Fail", "license": "proprietary (facts only)", "reliability": "official"},
+    "jlpt_cefr": {"raw": "exams/jlpt_cefr.txt", "name": "JLPT — Indication of the CEFR Level for Reference", "license": "proprietary (facts only)", "reliability": "official"},
+    "jtest_home": {"raw": "exams/jtest_home.txt", "name": "J.TEST 実用日本語検定 (trang chủ)", "license": "proprietary (facts only)", "reliability": "official"},
+    "jtest_cefr": {"raw": "exams/jtest_cefr.txt", "name": "J.TEST — 日本語参照枠・CEFRとJ.TEST", "license": "proprietary (facts only)", "reliability": "official (bảng đối chiếu là ảnh, chưa trích được)"},
+    "natest_home": {"raw": "exams/natest_home.txt", "name": "NAT-TEST (trang chủ)", "license": "unknown", "reliability": "unreachable"},
+    "ielts_academic": {"raw": "exams/ielts_academic.txt", "name": "IELTS Academic test format", "license": "proprietary (facts only)", "reliability": "official"},
+    "ielts_listening": {"raw": "exams/ielts_listening.txt", "name": "IELTS Academic — Listening format", "license": "proprietary (facts only)", "reliability": "official"},
+    "ielts_scoring": {"raw": "exams/ielts_scoring.txt", "name": "IELTS scoring in detail", "license": "proprietary (facts only)", "reliability": "official"},
+    "ielts_cefr": {"raw": "exams/ielts_cefr.txt", "name": "IELTS and the CEFR", "license": "proprietary (facts only)", "reliability": "official (hình đối chiếu là ảnh; chỉ trích phần chữ)"},
+    "toeic_format": {"raw": "exams/toeic_lr_format.txt", "name": "IIBC — TOEIC L&R Test Format and Content", "license": "proprietary (facts only)", "reliability": "official (IIBC, đơn vị tổ chức TOEIC tại Nhật)"},
+    "toeic_scores": {"raw": "exams/toeic_lr_guide05.txt", "name": "IIBC — TOEIC L&R Test Results", "license": "proprietary (facts only)", "reliability": "official (IIBC)"},
+    "toeic_cefr": {"url": "https://www.ets.org/toeic/organizations/scores/mapping-to-cefr.html", "name": "ETS — TOEIC mapping to CEFR", "license": "unknown", "reliability": "unreachable (404/timeout)"},
+    "toefl_content": {"raw": "exams/toefl_content.txt", "name": "ETS — TOEFL iBT test content", "license": "proprietary (facts only)", "reliability": "official"},
+    "toefl_scores": {"raw": "exams/toefl_scores.txt", "name": "ETS — Understanding TOEFL Scores", "license": "proprietary (facts only)", "reliability": "official"},
+    "coe_cefr": {"url": "https://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale", "name": "Council of Europe — CEFR global scale", "license": "unknown", "reliability": "unreachable (403)"},
+    "open_anki": {"volumes": "ja_vocab_per_level", "url": "https://github.com/jamsinclair/open-anki-jlpt-decks", "name": "open-anki-jlpt-decks", "license": "MIT", "reliability": "community (không chính thức)"},
+    "kanji_data": {"volumes": "ja_kanji_per_level", "url": "https://github.com/davidluzgouveia/kanji-data", "name": "kanji-data (trường jlpt_new)", "license": "MIT", "reliability": "community (không chính thức)"},
+    "cefrj_vocab": {"volumes": "en_vocab_per_level", "url": "https://github.com/openlanguageprofiles/olp-en-cefrj", "name": "CEFR-J Vocabulary Profile 1.5 + Octanove C1/C2 1.0", "license": "CEFR-J terms (free with citation) + CC BY-SA 4.0 (Octanove)", "share_alike": true, "attribution": "The CEFR-J Wordlist Version 1.5, compiled by Yukio Tono, TUFS; Octanove Vocabulary Profile C1/C2 1.0 by Octanove Labs (CC BY-SA 4.0)", "reliability": "research"},
+    "cefrj_grammar": {"volumes": "en_grammar_per_level", "url": "https://github.com/openlanguageprofiles/olp-en-cefrj", "name": "CEFR-J Grammar Profile 20180315", "license": "CEFR-J terms (free with citation)", "attribution": "The CEFR-J Grammar Profile Version 20180315, Tono Laboratory, TUFS", "reliability": "research"},
+    "own_work": {"url": null, "name": "Biên soạn nội bộ (web_ngon_ngu)", "license": "own-work", "reliability": "editorial"}
+  },
+
+  "params": {
+    "basis": "giả định lập kế hoạch nội bộ (estimated), không phải số liệu chính thức",
+    "new_words_per_day": 10,
+    "new_kanji_per_day": 3,
+    "new_grammar_per_day": 1,
+    "study_days_per_week": 6,
+    "sprint_weeks": 8
+  },
+
+  "skills": {
+    "ja": ["kanji", "grammar", "vocab", "reading", "listening", "speaking", "writing"],
+    "en": ["grammar", "vocab", "reading", "listening", "speaking", "writing"],
+    "core_only": ["kanji", "grammar"],
+    "names_vi": {"kanji": "Kanji", "grammar": "Ngữ pháp", "vocab": "Từ vựng", "reading": "Đọc hiểu", "listening": "Nghe hiểu", "speaking": "Nói", "writing": "Viết"}
+  },
+
+  "topics": [
+    {"id": "daily_life", "vi": "Sinh hoạt hằng ngày", "min_order": 1},
+    {"id": "people_family", "vi": "Con người & gia đình", "min_order": 1},
+    {"id": "food_drink", "vi": "Ăn uống", "min_order": 1},
+    {"id": "school_study", "vi": "Trường học & học tập", "min_order": 1},
+    {"id": "shopping_money", "vi": "Mua sắm & tiền bạc", "min_order": 1},
+    {"id": "time_numbers", "vi": "Thời gian & số đếm", "min_order": 1},
+    {"id": "travel_transport", "vi": "Du lịch & giao thông", "min_order": 2},
+    {"id": "health_body", "vi": "Sức khỏe & cơ thể", "min_order": 2},
+    {"id": "nature_weather", "vi": "Thiên nhiên & thời tiết", "min_order": 2},
+    {"id": "work_business", "vi": "Công việc & kinh doanh", "min_order": 3},
+    {"id": "society_news", "vi": "Xã hội & thời sự", "min_order": 3},
+    {"id": "culture_arts", "vi": "Văn hóa & nghệ thuật", "min_order": 3},
+    {"id": "science_tech", "vi": "Khoa học & công nghệ", "min_order": 4},
+    {"id": "abstract_academic", "vi": "Học thuật & trừu tượng", "min_order": 5}
+  ],
+
+  "exam_skills": {
+    "JLPT": ["kanji", "grammar", "vocab", "reading", "listening"],
+    "J.TEST": ["kanji", "grammar", "vocab", "reading", "listening"],
+    "NAT-TEST": ["kanji", "grammar", "vocab", "reading", "listening"],
+    "IELTS": ["grammar", "vocab", "reading", "listening", "speaking", "writing"],
+    "TOEIC": ["grammar", "vocab", "reading", "listening"],
+    "TOEFL": ["grammar", "vocab", "reading", "listening", "speaking", "writing"]
+  },
+
+  "levels": {
+    "ja": [
+      {"code": "n5", "framework": "JLPT", "name": "JLPT N5", "cefr_ref": "A1", "cefr_basis": "official (jlpt_cefr: đỗ N5 với tổng ≥80)",
+       "summary_vi": "Hiểu được một phần tiếng Nhật cơ bản.",
+       "can_do": [
+         {"skill": "reading", "vi": "Đọc hiểu cụm từ và câu điển hình viết bằng hiragana, katakana và kanji cơ bản.", "basis": "paraphrase", "source": "jlpt_levelsummary"},
+         {"skill": "listening", "vi": "Nghe hội thoại ngắn, nói chậm về chủ đề quen thuộc hằng ngày và lớp học, lấy được thông tin cần thiết.", "basis": "paraphrase", "source": "jlpt_levelsummary"},
+         {"skill": "speaking", "vi": "Chào hỏi, tự giới thiệu, hỏi đáp đơn giản về bản thân, giờ giấc, mua sắm.", "basis": "own-work (estimated; JLPT không thi Nói)", "source": "own_work"},
+         {"skill": "writing", "vi": "Viết câu ngắn về bản thân và sinh hoạt hằng ngày bằng kana và kanji cơ bản.", "basis": "own-work (estimated; JLPT không thi Viết)", "source": "own_work"}
+       ]},
+      {"code": "n4", "framework": "JLPT", "name": "JLPT N4", "cefr_ref": "A2", "cefr_basis": "official (jlpt_cefr: đỗ N4 với tổng ≥90)",
+       "summary_vi": "Hiểu được tiếng Nhật cơ bản.",
+       "can_do": [
+         {"skill": "reading", "vi": "Đọc hiểu đoạn văn về chủ đề quen thuộc hằng ngày viết bằng từ vựng và kanji cơ bản.", "basis": "paraphrase", "source": "jlpt_levelsummary"},
+         {"skill": "listening", "vi": "Nghe hiểu và theo được hội thoại đời thường nếu được nói chậm.", "basis": "paraphrase", "source": "jlpt_levelsummary"},
+         {"skill": "speaking", "vi": "Kể ngắn về kinh nghiệm, kế hoạch; nhờ vả, xin phép bằng thể lịch sự.", "basis": "own-work (estimated)", "source": "own_work"},
+         {"skill": "writing", "vi": "Viết tin nhắn, thư ngắn, nhật ký đơn giản.", "basis": "own-work (estimated)", "source": "own_work"}
+       ]},
+      {"code": "n3", "framework": "JLPT", "name": "JLPT N3", "cefr_ref": "A2–B1", "cefr_basis": "official (jlpt_cefr: 95–103 → A2, ≥104 → B1)",
+       "summary_vi": "Hiểu tiếng Nhật dùng trong tình huống hằng ngày ở mức độ nhất định; cấp cầu nối giữa N4/N5 và N1/N2.",
+       "can_do": [
+         {"skill": "reading", "vi": "Đọc hiểu văn bản có nội dung cụ thể về chủ đề hằng ngày; nắm thông tin tóm tắt như tiêu đề báo.", "basis": "paraphrase", "source": "jlpt_levelsummary"},
+         {"skill": "reading", "vi": "Hiểu ý chính văn bản hơi khó trong đời sống nếu có cách diễn đạt thay thế hỗ trợ.", "basis": "paraphrase", "source": "jlpt_levelsummary"},
+         {"skill": "listening", "vi": "Nghe hội thoại đời thường tốc độ gần tự nhiên, nắm nội dung và quan hệ giữa các nhân vật.", "basis": "paraphrase", "source": "jlpt_levelsummary"},
+         {"skill": "speaking", "vi": "Nêu ý kiến và giải thích lý do về chủ đề quen thuộc; dùng kính ngữ cơ bản.", "basis": "own-work (estimated)", "source": "own_work"},
+         {"skill": "writing", "vi": "Viết đoạn văn mạch lạc kể chuyện hoặc nêu ý kiến; email trang trọng đơn giản.", "basis": "own-work (estimated)", "source": "own_work"}
+       ]},
+      {"code": "n2", "framework": "JLPT", "name": "JLPT N2", "cefr_ref": "B1–B2", "cefr_basis": "official (jlpt_cefr: 90–111 → B1, ≥112 → B2)",
+       "summary_vi": "Hiểu tiếng Nhật dùng trong tình huống hằng ngày và, ở mức độ nhất định, trong nhiều hoàn cảnh khác.",
+       "can_do": [
+         {"skill": "reading", "vi": "Đọc hiểu bài báo, bình luận, phê bình đơn giản viết rõ ràng về nhiều chủ đề; theo dõi mạch văn và ý định người viết.", "basis": "paraphrase", "source": "jlpt_levelsummary"},
+         {"skill": "listening", "vi": "Nghe hội thoại, bản tin tốc độ gần tự nhiên trong nhiều bối cảnh; nắm quan hệ nhân vật và ý chính.", "basis": "paraphrase", "source": "jlpt_levelsummary"},
+         {"skill": "speaking", "vi": "Thảo luận và thuyết trình ngắn trong môi trường học tập, công việc; dùng kính ngữ phù hợp.", "basis": "own-work (estimated)", "source": "own_work"},
+         {"skill": "writing", "vi": "Viết email công việc, báo cáo, bài luận ngắn có lập luận.", "basis": "own-work (estimated)", "source": "own_work"}
+       ]},
+      {"code": "n1", "framework": "JLPT", "name": "JLPT N1", "cefr_ref": "B2–C1", "cefr_basis": "official (jlpt_cefr: 100–141 → B2, ≥142 → C1)",
+       "summary_vi": "Hiểu tiếng Nhật dùng trong nhiều hoàn cảnh khác nhau.",
+       "can_do": [
+         {"skill": "reading", "vi": "Đọc văn bản phức tạp về logic hoặc trừu tượng (xã luận, phê bình), nắm cấu trúc và nội dung.", "basis": "paraphrase", "source": "jlpt_levelsummary"},
+         {"skill": "reading", "vi": "Đọc văn bản có nội dung sâu, theo dõi mạch kể và hiểu toàn diện ý định tác giả.", "basis": "paraphrase", "source": "jlpt_levelsummary"},
+         {"skill": "listening", "vi": "Nghe hội thoại, bản tin, bài giảng tốc độ tự nhiên; nắm chi tiết, cấu trúc lập luận và ý chính.", "basis": "paraphrase", "source": "jlpt_levelsummary"},
+         {"skill": "speaking", "vi": "Tranh luận, đàm phán, thuyết trình chuyên sâu; điều chỉnh văn phong theo đối tượng.", "basis": "own-work (estimated)", "source": "own_work"},
+         {"skill": "writing", "vi": "Viết văn bản chuyên môn, học thuật dài với lập luận chặt chẽ.", "basis": "own-work (estimated)", "source": "own_work"}
+       ]}
+    ],
+    "en": [
+      {"code": "a1", "framework": "CEFR", "name": "CEFR A1", "cefr_ref": "A1", "cefr_basis": "framework level",
+       "summary_vi": "Người mới bắt đầu: dùng được cụm từ quen thuộc cho nhu cầu cụ thể.",
+       "can_do": [
+         {"skill": "reading", "vi": "Hiểu biển báo, thông báo và câu rất đơn giản với từ quen thuộc.", "basis": "own-work (estimated; nguồn CoE không truy cập được)", "source": "own_work"},
+         {"skill": "listening", "vi": "Nghe hiểu từ, cụm từ quen thuộc về bản thân, gia đình khi người nói chậm và rõ.", "basis": "own-work (estimated)", "source": "own_work"},
+         {"skill": "speaking", "vi": "Giới thiệu bản thân, hỏi đáp thông tin cá nhân đơn giản.", "basis": "own-work (estimated)", "source": "own_work"},
+         {"skill": "writing", "vi": "Điền biểu mẫu, viết tin nhắn hoặc bưu thiếp rất ngắn.", "basis": "own-work (estimated)", "source": "own_work"}
+       ]},
+      {"code": "a2", "framework": "CEFR", "name": "CEFR A2", "cefr_ref": "A2", "cefr_basis": "framework level",
+       "summary_vi": "Sơ cấp: giao tiếp các tác vụ đơn giản, quen thuộc.",
+       "can_do": [
+         {"skill": "reading", "vi": "Đọc văn bản ngắn đơn giản như quảng cáo, thực đơn, thời gian biểu, thư cá nhân.", "basis": "own-work (estimated)", "source": "own_work"},
+         {"skill": "listening", "vi": "Nắm ý chính của thông báo, tin nhắn ngắn rõ ràng về chủ đề quen thuộc.", "basis": "own-work (estimated)", "source": "own_work"},
+         {"skill": "speaking", "vi": "Mua sắm, hỏi đường, nói về thói quen hằng ngày.", "basis": "own-work (estimated)", "source": "own_work"},
+         {"skill": "writing", "vi": "Viết ghi chú, tin nhắn, thư cảm ơn đơn giản.", "basis": "own-work (estimated)", "source": "own_work"}
+       ]},
+      {"code": "b1", "framework": "CEFR", "name": "CEFR B1", "cefr_ref": "B1", "cefr_basis": "framework level",
+       "summary_vi": "Trung cấp: xử lý được hầu hết tình huống quen thuộc trong học tập, công việc, du lịch.",
+       "can_do": [
+         {"skill": "reading", "vi": "Hiểu văn bản về chủ đề đời sống, công việc quen thuộc; hiểu mô tả sự kiện và cảm xúc trong thư.", "basis": "own-work (estimated)", "source": "own_work"},
+         {"skill": "listening", "vi": "Nắm ý chính lời nói chuẩn, rõ ràng về chủ đề quen thuộc.", "basis": "own-work (estimated)", "source": "own_work"},
+         {"skill": "speaking", "vi": "Kể kinh nghiệm, kế hoạch; nêu lý do ngắn gọn cho ý kiến.", "basis": "own-work (estimated)", "source": "own_work"},
+         {"skill": "writing", "vi": "Viết đoạn văn liên kết đơn giản về chủ đề quen thuộc.", "basis": "own-work (estimated)", "source": "own_work"}
+       ]},
+      {"code": "b2", "framework": "CEFR", "name": "CEFR B2", "cefr_ref": "B2", "cefr_basis": "framework level",
+       "summary_vi": "Trung cao cấp: giao tiếp trôi chảy, hiểu văn bản phức tạp về chủ đề cụ thể và trừu tượng.",
+       "can_do": [
+         {"skill": "reading", "vi": "Đọc bài báo, phóng sự về vấn đề thời sự có quan điểm của tác giả.", "basis": "own-work (estimated)", "source": "own_work"},
+         {"skill": "listening", "vi": "Theo dõi bài nói dài và lập luận khá phức tạp nếu chủ đề quen thuộc.", "basis": "own-work (estimated)", "source": "own_work"},
+         {"skill": "speaking", "vi": "Trao đổi tự nhiên với người bản ngữ; trình bày ưu nhược điểm của các phương án.", "basis": "own-work (estimated)", "source": "own_work"},
+         {"skill": "writing", "vi": "Viết bài luận, báo cáo rõ ràng, chi tiết, có lập luận ủng hộ hoặc phản đối.", "basis": "own-work (estimated)", "source": "own_work"}
+       ]},
+      {"code": "c1", "framework": "CEFR", "name": "CEFR C1", "cefr_ref": "C1", "cefr_basis": "framework level",
+       "summary_vi": "Cao cấp: dùng ngôn ngữ linh hoạt, hiệu quả cho mục đích xã hội, học thuật, nghề nghiệp.",
+       "can_do": [
+         {"skill": "reading", "vi": "Hiểu văn bản dài, phức tạp và văn bản chuyên ngành; nhận ra hàm ý.", "basis": "own-work (estimated)", "source": "own_work"},
+         {"skill": "listening", "vi": "Hiểu bài nói dài kể cả khi cấu trúc không rõ ràng.", "basis": "own-work (estimated)", "source": "own_work"},
+         {"skill": "speaking", "vi": "Diễn đạt trôi chảy, tự nhiên mà không phải tìm từ nhiều.", "basis": "own-work (estimated)", "source": "own_work"},
+         {"skill": "writing", "vi": "Viết văn bản có cấu trúc tốt về chủ đề phức tạp.", "basis": "own-work (estimated)", "source": "own_work"}
+       ]},
+      {"code": "c2", "framework": "CEFR", "name": "CEFR C2", "cefr_ref": "C2", "cefr_basis": "framework level",
+       "summary_vi": "Thành thạo: hiểu hầu như mọi thứ nghe, đọc; diễn đạt chính xác, phân biệt sắc thái tinh tế.",
+       "can_do": [
+         {"skill": "reading", "vi": "Đọc dễ dàng hầu như mọi dạng văn bản, kể cả trừu tượng và phức tạp về ngôn ngữ.", "basis": "own-work (estimated)", "source": "own_work"},
+         {"skill": "listening", "vi": "Hiểu mọi loại lời nói, kể cả tốc độ nhanh của người bản ngữ.", "basis": "own-work (estimated)", "source": "own_work"},
+         {"skill": "speaking", "vi": "Diễn đạt rất trôi chảy, chính xác, phân biệt sắc thái nghĩa tinh tế.", "basis": "own-work (estimated)", "source": "own_work"},
+         {"skill": "writing", "vi": "Tóm tắt, đánh giá văn bản chuyên môn hoặc văn học với văn phong phù hợp.", "basis": "own-work (estimated)", "source": "own_work"}
+       ]}
+    ]
+  },
+
+  "volumes": {
+    "ja": {"vocab": "open_anki", "kanji": "kanji_data", "grammar": null},
+    "en": {"vocab": "cefrj_vocab", "grammar": "cefrj_grammar"}
+  },
+
+  "exams": [
+    {"id": "JLPT", "lang": "ja", "name": "Japanese-Language Proficiency Test (日本語能力試験)", "levels": ["N5", "N4", "N3", "N2", "N1"],
+     "sources": ["jlpt_testsections", "jlpt_results", "jlpt_cefr"],
+     "sections": {
+       "N5": [{"name": "言語知識（文字・語彙）", "minutes": 20}, {"name": "言語知識（文法）・読解", "minutes": 40}, {"name": "聴解", "minutes": 30}],
+       "N4": [{"name": "言語知識（文字・語彙）", "minutes": 25}, {"name": "言語知識（文法）・読解", "minutes": 55}, {"name": "聴解", "minutes": 35}],
+       "N3": [{"name": "言語知識（文字・語彙）", "minutes": 30}, {"name": "言語知識（文法）・読解", "minutes": 70}, {"name": "聴解", "minutes": 40}],
+       "N2": [{"name": "言語知識（文字・語彙・文法）・読解", "minutes": 105}, {"name": "聴解", "minutes": 50}],
+       "N1": [{"name": "言語知識（文字・語彙・文法）・読解", "minutes": 110}, {"name": "聴解", "minutes": 55}]
+     },
+     "scoring": {
+       "total_range": [0, 180],
+       "scoring_sections": {
+         "N1-N3": [{"name": "Language Knowledge (Vocabulary/Grammar)", "range": [0, 60], "pass_min": 19}, {"name": "Reading", "range": [0, 60], "pass_min": 19}, {"name": "Listening", "range": [0, 60], "pass_min": 19}],
+         "N4-N5": [{"name": "Language Knowledge (Vocabulary/Grammar)・Reading", "range": [0, 120], "pass_min": 38}, {"name": "Listening", "range": [0, 60], "pass_min": 19}]
+       },
+       "overall_pass_mark": {"N1": 100, "N2": 90, "N3": 95, "N4": 90, "N5": 80}
+     },
+     "pass_rule_vi": "Đỗ khi tổng điểm ≥ điểm đỗ tổng VÀ mọi phần đều ≥ điểm liệt; chỉ cần một phần dưới điểm liệt là trượt. Bỏ thi một phần cũng bị tính trượt.",
+     "notes_vi": "Thời gian từng phần có thể thay đổi; phần Nghe có thể chênh lệch theo độ dài băng. Từ kỳ thi 12/2025, phiếu điểm của người đỗ có thêm mức CEFR tham khảo (chỉ đo năng lực ngôn ngữ và tiếp nhận)."},
+    {"id": "J.TEST", "lang": "ja", "name": "J.TEST 実用日本語検定", "levels": null,
+     "sources": ["jtest_home", "jtest_cefr"],
+     "sections": null, "scoring": null,
+     "pass_rule_vi": null,
+     "notes_vi": "Cấu trúc đề và thang điểm chưa thu thập được từ trang chính thức (null). Bảng đối chiếu CEFR chi tiết là ảnh."},
+    {"id": "NAT-TEST", "lang": "ja", "name": "NAT-TEST", "levels": null,
+     "sources": ["natest_home"],
+     "sections": null, "scoring": null, "pass_rule_vi": null,
+     "notes_vi": "Trang chính thức không truy cập được (lỗi kết nối) — toàn bộ dữ kiện để null, cần bổ sung."},
+    {"id": "IELTS", "lang": "en", "name": "IELTS Academic", "levels": null,
+     "sources": ["ielts_academic", "ielts_listening", "ielts_scoring", "ielts_cefr"],
+     "total_minutes": 165,
+     "sections": [
+       {"name": "Listening", "minutes": "≈30", "parts": 4, "questions": 40},
+       {"name": "Reading", "minutes": 60, "questions": 40, "note": "bao gồm thời gian chép đáp án"},
+       {"name": "Writing", "minutes": 60},
+       {"name": "Speaking", "minutes": "11–14"}
+     ],
+     "scoring": {
+       "band_range": [0, 9], "step": 0.5,
+       "overall_rule_vi": "Trung bình 4 kỹ năng, làm tròn đến nửa band gần nhất (.25 làm tròn lên .5; .75 làm tròn lên band nguyên kế tiếp).",
+       "raw_to_band_avg": {
+         "note_vi": "Số câu đúng trung bình (trên 40) tương ứng band; thay đổi nhẹ giữa các đề.",
+         "listening": {"5": 16, "6": 23, "7": 30, "8": 35},
+         "academic_reading": {"5": 15, "6": 23, "7": 30, "8": 35},
+         "general_training_reading": {"4": 15, "5": 23, "6": 30, "7": 35}
+       },
+       "band_names": {"9": "Expert", "8": "Very good", "7": "Good", "6": "Competent", "5": "Modest", "4": "Limited", "3": "Extremely limited", "2": "Intermittent", "1": "Non-user", "0": "Did not attempt the test"}
+     },
+     "pass_rule_vi": "Không có đỗ/trượt; mỗi tổ chức tự đặt yêu cầu band.",
+     "notes_vi": "Listening và Speaking giống nhau giữa Academic và General Training; Reading/Writing khác."},
+    {"id": "TOEIC", "lang": "en", "name": "TOEIC Listening & Reading", "levels": null,
+     "sources": ["toeic_format", "toeic_scores", "toeic_cefr"],
+     "total_minutes": 120,
+     "sections": [
+       {"name": "Listening", "minutes": "≈45", "questions": 100, "parts": [
+         {"part": 1, "name": "Photographs", "questions": 6},
+         {"part": 2, "name": "Question-Response", "questions": 25, "options": 3},
+         {"part": 3, "name": "Conversations", "questions": 39},
+         {"part": 4, "name": "Talks", "questions": 30}]},
+       {"name": "Reading", "minutes": 75, "questions": 100, "parts": [
+         {"part": 5, "name": "Incomplete Sentences", "questions": 30, "options": 4},
+         {"part": 6, "name": "Text Completion", "questions": 16, "options": 4},
+         {"part": 7, "name": "Single Passages", "questions": 29, "options": 4},
+         {"part": 7, "name": "Multiple Passages", "questions": 25, "options": 4}]}
+     ],
+     "scoring": {"section_range": [5, 495], "total_range": [10, 990], "step": 5, "note_vi": "Điểm quy đổi (equating), không trừ điểm câu sai."},
+     "pass_rule_vi": "Không có đỗ/trượt.",
+     "notes_vi": "Bảng ánh xạ TOEIC→CEFR của ETS không truy cập được — để null."},
+    {"id": "TOEFL", "lang": "en", "name": "TOEFL iBT (định dạng từ 21/01/2026)", "levels": null,
+     "sources": ["toefl_content", "toefl_scores"],
+     "sections": [
+       {"name": "Reading", "items": 50, "minutes": "≈30"},
+       {"name": "Listening", "items": 47, "minutes": "≈29"},
+       {"name": "Writing", "items": 12, "minutes": "≈23"},
+       {"name": "Speaking", "items": 11, "minutes": "≈8"}
+     ],
+     "scoring": {
+       "section_range": [1, 6], "step": 0.5,
+       "overall_rule_vi": "Trung bình 4 kỹ năng, làm tròn đến nửa band gần nhất. Trong 2 năm chuyển tiếp từ 01/2026 có thêm tổng điểm 0–120 tương đương.",
+       "legacy_concordance": {
+         "columns": ["score_1_6", "reading_0_30", "listening_0_30", "speaking_0_30", "writing_0_30", "total_0_120_min"],
+         "rows": [
+           [6, "29-30", "28-30", "28-30", "29-30", 114],
+           [5.5, "27-28", "26-27", "27", "27-28", 107],
+           [5, "24-26", "22-25", "25-26", "24-26", 95],
+           [4.5, "22-23", "20-21", "23-24", "21-23", 86],
+           [4, "18-21", "17-19", "20-22", "17-20", 72],
+           [3.5, "12-17", "13-16", "18-19", "15-16", 58],
+           [3, "6-11", "9-12", "16-17", "13-14", 44],
+           [2.5, "4-5", "6-8", "13-15", "11-12", 34],
+           [2, "3", "4-5", "10-12", "7-10", 24],
+           [1.5, "2", "2-3", "5-9", "3-6", 12],
+           [1, "0-1", "0-1", "0-4", "0-2", 0]
+         ]
+       }
+     },
+     "pass_rule_vi": "Không có điểm đỗ/trượt; mỗi tổ chức tự đặt yêu cầu. Bỏ trống cả một kỹ năng thì không được chấm.",
+     "notes_vi": "ETS nói thang 1–6 'căn chỉnh trực quan hơn với CEFR' nhưng bảng ánh xạ cụ thể chưa trích được — cefr để null."}
+  ],
+
+  "mappings": [
+    {"exam": "JLPT", "exam_level": "N5", "score_min": 80, "score_max": 180, "cefr": "A1", "basis": "official", "condition_vi": "chỉ khi đỗ", "source": "jlpt_cefr"},
+    {"exam": "JLPT", "exam_level": "N4", "score_min": 90, "score_max": 180, "cefr": "A2", "basis": "official", "condition_vi": "chỉ khi đỗ", "source": "jlpt_cefr"},
+    {"exam": "JLPT", "exam_level": "N3", "score_min": 95, "score_max": 103, "cefr": "A2", "basis": "official", "condition_vi": "chỉ khi đỗ", "source": "jlpt_cefr"},
+    {"exam": "JLPT", "exam_level": "N3", "score_min": 104, "score_max": 180, "cefr": "B1", "basis": "official", "condition_vi": "chỉ khi đỗ", "source": "jlpt_cefr"},
+    {"exam": "JLPT", "exam_level": "N2", "score_min": 90, "score_max": 111, "cefr": "B1", "basis": "official", "condition_vi": "chỉ khi đỗ", "source": "jlpt_cefr"},
+    {"exam": "JLPT", "exam_level": "N2", "score_min": 112, "score_max": 180, "cefr": "B2", "basis": "official", "condition_vi": "chỉ khi đỗ", "source": "jlpt_cefr"},
+    {"exam": "JLPT", "exam_level": "N1", "score_min": 100, "score_max": 141, "cefr": "B2", "basis": "official", "condition_vi": "chỉ khi đỗ", "source": "jlpt_cefr"},
+    {"exam": "JLPT", "exam_level": "N1", "score_min": 142, "score_max": 180, "cefr": "C1", "basis": "official", "condition_vi": "chỉ khi đỗ", "source": "jlpt_cefr"},
+    {"exam": "J.TEST", "exam_level": "E級", "score_min": null, "score_max": null, "cefr": "A2+", "basis": "official", "condition_vi": "tương đương A2 trở lên theo 日本語教育の参照枠", "source": "jtest_home"},
+    {"exam": "J.TEST", "exam_level": "F級", "score_min": null, "score_max": null, "cefr": "A1+", "basis": "official", "condition_vi": "tương đương A1 trở lên theo 日本語教育の参照枠", "source": "jtest_home"},
+    {"exam": "NAT-TEST", "exam_level": null, "score_min": null, "score_max": null, "cefr": null, "basis": "unknown", "condition_vi": "nguồn không truy cập được", "source": "natest_home"},
+    {"exam": "IELTS", "exam_level": "overall 8.5–9", "score_min": 8.5, "score_max": 9, "cefr": "C2", "basis": "official", "condition_vi": "band tổng", "source": "ielts_cefr"},
+    {"exam": "IELTS", "exam_level": "overall 8", "score_min": 8, "score_max": 8, "cefr": "C1/C2", "basis": "official", "condition_vi": "band 8 là ranh giới", "source": "ielts_cefr"},
+    {"exam": "IELTS", "exam_level": "overall 7", "score_min": 7, "score_max": null, "cefr": "C1", "basis": "official", "condition_vi": "ngưỡng C1 nằm giữa 6.5 và 7; cần chắc chắn C1 thì yêu cầu 7", "source": "ielts_cefr"},
+    {"exam": "IELTS", "exam_level": "overall 5", "score_min": 5, "score_max": 5, "cefr": "B1/B2", "basis": "official", "condition_vi": "band 5 là ranh giới", "source": "ielts_cefr"},
+    {"exam": "TOEIC", "exam_level": null, "score_min": null, "score_max": null, "cefr": null, "basis": "unknown", "condition_vi": "bảng ánh xạ ETS không truy cập được", "source": "toeic_cefr"},
+    {"exam": "TOEFL", "exam_level": null, "score_min": null, "score_max": null, "cefr": null, "basis": "unknown", "condition_vi": "chưa trích được bảng 1–6 → CEFR", "source": "toefl_scores"}
+  ],
+
+  "sprints": [
+    {"id": "ja.sprint.jlpt_n5", "lang": "ja", "exam": "JLPT", "target": "n5", "title_vi": "Nước rút JLPT N5"},
+    {"id": "ja.sprint.jlpt_n4", "lang": "ja", "exam": "JLPT", "target": "n4", "title_vi": "Nước rút JLPT N4"},
+    {"id": "ja.sprint.jlpt_n3", "lang": "ja", "exam": "JLPT", "target": "n3", "title_vi": "Nước rút JLPT N3"},
+    {"id": "ja.sprint.jlpt_n2", "lang": "ja", "exam": "JLPT", "target": "n2", "title_vi": "Nước rút JLPT N2"},
+    {"id": "ja.sprint.jlpt_n1", "lang": "ja", "exam": "JLPT", "target": "n1", "title_vi": "Nước rút JLPT N1"},
+    {"id": "en.sprint.ielts_b2", "lang": "en", "exam": "IELTS", "target": "b2", "title_vi": "Nước rút IELTS Academic (mục tiêu B2)", "focus_topics": ["society_news", "science_tech", "school_study", "work_business"]},
+    {"id": "en.sprint.ielts_c1", "lang": "en", "exam": "IELTS", "target": "c1", "title_vi": "Nước rút IELTS Academic (mục tiêu C1, band ≥7)", "focus_topics": ["society_news", "science_tech", "abstract_academic", "culture_arts"]},
+    {"id": "en.sprint.toeic_b1", "lang": "en", "exam": "TOEIC", "target": "b1", "title_vi": "Nước rút TOEIC L&R (mục tiêu B1)", "focus_topics": ["work_business", "travel_transport", "shopping_money"]},
+    {"id": "en.sprint.toefl_b2", "lang": "en", "exam": "TOEFL", "target": "b2", "title_vi": "Nước rút TOEFL iBT (mục tiêu B2)", "focus_topics": ["school_study", "science_tech", "society_news"]}
+  ]
+}

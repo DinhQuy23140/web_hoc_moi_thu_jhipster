@@ -1,0 +1,150 @@
+https://www.ets.org/toefl/test-takers/ibt/about/content.html	200	2026-10-10T08:56:51+00:00
+TOEFL iBT Test Content - A Breakdown of Test Sections 
+ Skip to main content 
+ Skip to footer 
+ In compliance with a recent U.S. Treasury (OFAC) regulatory change, TOEFL and GRE testing within Iran has been paused effective immediately. Iranian nationals may continue to test outside Iran where testing is available. Affected test takers will be contacted directly regarding cancellations and next steps. [<a href=\"/content/ets-org/language-master/en/home/iran-testing-update.html\" title=\"Find out more\" aria-label=\"Find out more\">Find out more</a>]</p>\r\n"}}" id="alertmessage-bff190cce1" class="cmp-text">
+ In compliance with a recent U.S. Treasury (OFAC) regulatory change, TOEFL and GRE testing within Iran has been paused effective immediately. Iranian nationals may continue to test outside Iran where testing is available. Affected test takers will be contacted directly regarding cancellations and next steps. [ Find out more ]
+ ETS 
+ TOEFL 
+ Test Takers 
+ TOEFL iBT 
+ Test Content 
+ Test Content and Structure
+ <span class=\"heading2\">Test Section and Timing Overview</span></h2>\r\n<p>Use the table below to view the breakdown of each TOEFL iBT test section.<br>\r\n&nbsp;</p>\r\n"}}" id="text-8d3f3dec94" class="cmp-text">
+ Test Section and Timing Overview 
+ Use the table below to view the breakdown of each TOEFL iBT test section.
+ \r\n<tbody><tr><th scope=\"col\" style=\"text-align: left; width: 15.0%;\">Test Section</th>\r\n<th scope=\"col\" style=\"text-align: left;\">Task type</th>\r\n<th scope=\"col\" style=\"text-align: left;\">Number of items</th>\r\n<th scope=\"col\" style=\"text-align: left;\">Approx. Base Time</th>\r\n</tr><tr><td>Reading</td>\r\n<td style=\"text-align: left;\"><ul>\r\n<li>Complete the Words</li>\r\n<li>Read in Daily Life</li>\r\n<li>Read an Academic Passage</li>\r\n</ul>\r\n</td>\r\n<td style=\"text-align: left;\">50</td>\r\n<td style=\"text-align: left;\">30</td>\r\n</tr><tr><td>Listening</td>\r\n<td><ul>\r\n<li>Listen and Choose a Response</li>\r\n<li>Listen to a Conversation</li>\r\n<li>Listen to an Announcement</li>\r\n<li>Listen to an Academic Talk</li>\r\n</ul>\r\n</td>\r\n<td>47&nbsp;</td>\r\n<td>29</td>\r\n</tr><tr><td>Writing</td>\r\n<td><ul>\r\n<li>Build a Sentence</li>\r\n<li>Write an Email</li>\r\n<li>Write for an Academic Discussion</li>\r\n</ul>\r\n</td>\r\n<td>12</td>\r\n<td>23</td>\r\n</tr><tr><td>Speaking</td>\r\n<td><ul>\r\n<li>Listen and Repeat</li>\r\n<li>Take an Interview</li>\r\n</ul>\r\n</td>\r\n<td>11</td>\r\n<td>8</td>\r\n</tr></tbody></table>\r\n"}}" id="text-4e92ed4cc3" class="cmp-text">
+ Test Section 
+ Task type 
+ Number of items 
+ Approx. Base Time 
+ Reading 
+ Complete the Words
+ Read in Daily Life
+ Read an Academic Passage
+ 50 
+ 30 
+ Listening 
+ Listen and Choose a Response
+ Listen to a Conversation
+ Listen to an Announcement
+ Listen to an Academic Talk
+ 47  
+ 29 
+ Writing 
+ Build a Sentence
+ Write an Email
+ Write for an Academic Discussion
+ 12 
+ 23 
+ Speaking 
+ Listen and Repeat
+ Take an Interview
+ 11 
+ 8 
+ &nbsp;</p>\r\n<p><i>Test time does not include directions. Please allow approximately two hours to complete the test. As the test adapts, test time and items may vary.</i></p>\r\n"}}" id="text-a4e68652a8" class="cmp-text">
+ Test time does not include directions. Please allow approximately two hours to complete the test. As the test adapts, test time and items may vary. 
+ How to Prepare
+ Visit our <a href=\"/content/ets-org/language-master/en/home/toefl/test-takers/ibt/prepare.html\" target=\"_blank\">resources hub</a> to prepare for the TOEFL iBT test.</p>\r\n"}}" id="text-33e38d5f8f" class="cmp-text">
+ Visit our resources hub to prepare for the TOEFL iBT test.
+ Administration and testing options
+ The TOEFL iBT test is offered two ways:</p>\r\n<ul>\r\n<li><b>TOEFL iBT test:</b> on a computer at an authorized test center</li>\r\n<li><b>TOEFL iBT Home Edition:</b> on a computer at home, monitored by a live human proctor</li>\r\n</ul>\r\n"}}" id="text-aea907f21a" class="cmp-text">
+ The TOEFL iBT test is offered two ways:
+ TOEFL iBT test: on a computer at an authorized test center
+ TOEFL iBT Home Edition: on a computer at home, monitored by a live human proctor
+ Scoring
+ \r\n<li>Receive four section scores, as well as an overall score, on the 1 – 6 scale.</li>\r\n<li>The overall score will be the average of all four sections, rounded to the nearest half band <b>(for example, if the average of a student's section scores is 5.125, they will receive an overall score of 5).</b></li>\r\n<li>For a two-year transition period after January 2026, students will also receive a comparable overall score on the 0 – 120 scale.</li>\r\n<li>For more details on scoring visit our <a href=\"/content/ets-org/language-master/en/home/toefl/test-takers/ibt/scores/understand-scores.html\">Score Guidance</a> page.</li>\r\n</ul>\r\n"}}" id="text-82159133e6" class="cmp-text">
+ Receive four section scores, as well as an overall score, on the 1 – 6 scale.
+ The overall score will be the average of all four sections, rounded to the nearest half band (for example, if the average of a student's section scores is 5.125, they will receive an overall score of 5). 
+ For a two-year transition period after January 2026, students will also receive a comparable overall score on the 0 – 120 scale.
+ For more details on scoring visit our Score Guidance page.
+ Technical Documents
+ \r\n<li><a aria-label=\"View the TOEFL iBT Technical Manual, opens in new tab\" title=\"View the TOEFL iBT Technical Manual, opens in new tab\" target=\"_blank\" href=\"https://rr.ets.org/index.php/etsrr/article/view/28/17\">View the TOEFL iBT Technical Manual</a></li>\r\n<li><a aria-label=\"toefl ibt test specification pdf opens in new tab\" title=\"toefl ibt test specification pdf opens in new tab\" target=\"_blank\" href=\"/content/dam/ets-org/pdfs/toefl/toefl-ibt-test-specifications-2026.pdf\">View the TOEFL iBT Specification Document</a></li>\r\n</ul>\r\n"}}" id="text-58ef0f796f" class="cmp-text">
+ View the TOEFL iBT Technical Manual 
+ View the TOEFL iBT Specification Document 
+ Frequently Asked Questions
+ How are TOEFL iBT test items created? 
+ TOEFL iBT test items are developed through a collaborative effort of researchers, test developers, and psychometricians using a multi-step process. AI-assisted tools may support development, but all items undergo rigorous human review.</p>\r\n"}}" id="text-8aaed8aa9a" class="cmp-text">
+ TOEFL iBT test items are developed through a collaborative effort of researchers, test developers, and psychometricians using a multi-step process. AI-assisted tools may support development, but all items undergo rigorous human review.
+ What happens if I quit the test before completing it? 
+ If you don't complete at least one Reading question, one Listening question, one Speaking task and one Writing task, your test will not be scored. In other words, skipping any section means no sections will be scored.</p>\r\n"}}" id="text-4b1e5d75b7" class="cmp-text">
+ If you don't complete at least one Reading question, one Listening question, one Speaking task and one Writing task, your test will not be scored. In other words, skipping any section means no sections will be scored.
+ How can I make sure I properly answer the Speaking questions? 
+ Before the test, make sure you understand what the questions will ask and what raters look for. Review the Speaking Section page for additional information and tips.</p>\r\n"}}" id="text-92ef6b93ff" class="cmp-text">
+ Before the test, make sure you understand what the questions will ask and what raters look for. Review the Speaking Section page for additional information and tips.
+ Can I take notes during the test? 
+ Yes. At a test center, scratch paper and pencils are provided. For testing at home, use a small whiteboard or a blank sheet of paper in a transparent sheet protector with an erasable marker.</p>\r\n"}}" id="text-19b0d9de8a" class="cmp-text">
+ Yes. At a test center, scratch paper and pencils are provided. For testing at home, use a small whiteboard or a blank sheet of paper in a transparent sheet protector with an erasable marker.
+ Can I use writing assistance software during the test? 
+ Writing assistance software is not permitted during the TOEFL iBT test.</p>\r\n"}}" id="text-ad0cd6cf36" class="cmp-text">
+ Writing assistance software is not permitted during the TOEFL iBT test.
+ Is there a break during the test? 
+ There are no scheduled breaks during the TOEFL iBT test. Be sure to plan accordingly.</p>\r\n"}}" id="text-76d85fffea" class="cmp-text">
+ There are no scheduled breaks during the TOEFL iBT test. Be sure to plan accordingly.
+ Can I use my phone or other mobile device during the test? 
+ Mobile devices are not permitted during the test. At a test center, devices must be stored with personal items. For Home Edition, your device must be stored after check-in.</p>\r\n"}}" id="text-b3d15b5753" class="cmp-text">
+ Mobile devices are not permitted during the test. At a test center, devices must be stored with personal items. For Home Edition, your device must be stored after check-in.
+ Sign up for TOEFL updates
+ Stay up to date with the latest TOEFL news, announcements and articles
+ Sign up for updates 
+ Dialog box is opened
+ TOEFL Updates
+ To ensure we provide you with the most relevant content, please tell us a little more about yourself. Your choice helps us customize our communications to fit your needs.
+ I AM A TEST TAKER 
+ or 
+ I REPRESENT AN ORGANIZATION OR INSTITUTION 
+ Thank you for subscribing!
+ Close 
+ About ETS
+ About
+ AI at ETS
+ Careers
+ Disability Services
+ News
+ CEO Corner
+ ETS Capital
+ Company
+ Assessment Products
+ ETS Solutions
+ ETS Research Institute
+ Products
+ TOEFL
+ TOEIC
+ GRE
+ Praxis
+ View All
+ Subsidiaries
+ PSI
+ Edusoft
+ Kira Talent
+ Vericant
+ Wheebox
+ What are you looking for?
+ Region: 
+ Selected: United States (US) 
+ United States (US) en 
+ United States (US) 
+ Brazil (BR)
+ Canada (CA)
+ 中文 (CN)
+ Deutschland (DE)
+ Europe (EU)
+ France (FR)
+ India (IN)
+ 日本語 (JP)
+ 한국어 (KR)
+ Mexico (MX)
+ Portugal (PT)
+ España (ES)
+ Türkiye (TR)
+ United States (US)
+ Copyright © 2026 by ETS. All trademarks are the property of their respective owners.
+ Legal
+ Privacy & Security
+ ETS Trademarks
+ Consumer Health Data Privacy Policy
+ Title VI Compliance Statement
+ Accessibility
+ Cookies Settings
+ linkedin 
+ x

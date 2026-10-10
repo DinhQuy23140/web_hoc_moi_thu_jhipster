@@ -1,0 +1,1724 @@
+{
+ "3655437": {
+  "id": 3655437,
+  "text": "何でも食べるよ。",
+  "license": "CC BY 2.0 FR",
+  "owner": "tonymanga83",
+  "transcriptions": [
+   "[何|なん]でも[食|た]べるよ。"
+  ],
+  "translations": [
+   {
+    "id": 2100009,
+    "lang": "eng",
+    "text": "I eat everything.",
+    "direct": true,
+    "license": null
+   },
+   {
+    "id": 3844661,
+    "lang": "eng",
+    "text": "I'll eat anything.",
+    "direct": true,
+    "license": null
+   },
+   {
+    "id": 5852306,
+    "lang": "eng",
+    "text": "I eat anything.",
+    "direct": true,
+    "license": null
+   },
+   {
+    "id": 9035400,
+    "lang": "vie",
+    "text": "Tôi sẽ ăn bất cứ thứ gì.",
+    "direct": null,
+    "license": null
+   },
+   {
+    "id": 13340846,
+    "lang": "vie",
+    "text": "Tôi ăn mọi thứ.",
+    "direct": null,
+    "license": null
+   }
+  ],
+  "retrieved_at": "2026-10-10T08:15:21+00:00"
+ },
+ "2465641": {
+  "id": 2465641,
+  "text": "お昼はもう食べた？",
+  "license": "CC BY 2.0 FR",
+  "owner": "tommy_san",
+  "transcriptions": [
+   "お[昼|ひる]はもう[食|た]べた？"
+  ],
+  "translations": [
+   {
+    "id": 31190,
+    "lang": "eng",
+    "text": "Have you eaten lunch yet?",
+    "direct": true,
+    "license": null
+   },
+   {
+    "id": 31192,
+    "lang": "eng",
+    "text": "Have you eaten your lunch yet?",
+    "direct": true,
+    "license": null
+   },
+   {
+    "id": 1543546,
+    "lang": "eng",
+    "text": "Have you already had lunch?",
+    "direct": true,
+    "license": null
+   },
+   {
+    "id": 3199071,
+    "lang": "eng",
+    "text": "Have you had lunch?",
+    "direct": true,
+    "license": null
+   },
+   {
+    "id": 5915897,
+    "lang": "eng",
+    "text": "Have you already eaten lunch?",
+    "direct": true,
+    "license": null
+   },
+   {
+    "id": 7046382,
+    "lang": "eng",
+    "text": "Have you had lunch yet?",
+    "direct": true,
+    "license": null
+   },
+   {
+    "id": 11049742,
+    "lang": "eng",
+    "text": "Have you had your lunch?",
+    "direct": null,
+    "license": null
+   },
+   {
+    "id": 12243826,
+    "lang": "eng",
+    "text": "Have you eaten lunch already?",
+    "direct": null,
+    "license": null
+   },
+   {
+    "id": 3680858,
+    "lang": "eng",
+    "text": "Have you already had breakfast?",
+    "direct": null,
+    "license": null
+   },
+   {
+    "id": 2809762,
+    "lang": "eng",
+    "text": "Have you already eaten dinner?",
+    "direct": null,
+    "license": null
+   },
+   {
+    "id": 13249778,
+    "lang": "vie",
+    "text": "Bạn đã ăn trưa chưa?",
+    "direct": null,
+    "license": null
+   }
+  ],
+  "retrieved_at": "2026-10-10T08:15:23+00:00"
+ },
+ "492920": {
+  "id": 492920,
+  "text": "朝コーヒーを飲む。",
+  "license": "CC BY 2.0 FR",
+  "owner": "hectorvk",
+  "transcriptions": [
+   "[朝|あさ]コーヒーを[飲|の]む。"
+  ],
+  "translations": [
+   {
+    "id": 436571,
+    "lang": "eng",
+    "text": "I drink coffee in the morning.",
+    "direct": true,
+    "license": null
+   },
+   {
+    "id": 13344023,
+    "lang": "vie",
+    "text": "Tôi uống cà phê vào buổi sáng.",
+    "direct": null,
+    "license": null
+   }
+  ],
+  "retrieved_at": "2026-10-10T08:15:25+00:00"
+ },
+ "145655": {
+  "id": 145655,
+  "text": "寝る前にビールを飲むな。",
+  "license": "CC BY 2.0 FR",
+  "owner": "small_snow",
+  "transcriptions": [
+   "[寝|ね]る[前|まえ]にビールを[飲|の]むな。"
+  ],
+  "translations": [
+   {
+    "id": 268907,
+    "lang": "eng",
+    "text": "Don't drink beer before going to bed.",
+    "direct": true,
+    "license": null
+   },
+   {
+    "id": 3745373,
+    "lang": "eng",
+    "text": "Don't drink beer before bedtime.",
+    "direct": true,
+    "license": null
+   },
+   {
+    "id": 2416202,
+    "lang": "eng",
+    "text": "Don't drink beer before going to bed!",
+    "direct": null,
+    "license": null
+   },
+   {
+    "id": 337932,
+    "lang": "vie",
+    "text": "Đừng uống bia trước khi đi ngủ.",
+    "direct": null,
+    "license": null
+   },
+   {
+    "id": 9726085,
+    "lang": "vie",
+    "text": "Trước khi đi ngủ đừng có uống bia!",
+    "direct": null,
+    "license": null
+   }
+  ],
+  "retrieved_at": "2026-10-10T08:15:27+00:00"
+ },
+ "227004": {
+  "id": 227004,
+  "text": "お水をください。",
+  "license": "CC BY 2.0 FR",
+  "owner": "bunbuku",
+  "transcriptions": [
+   "お[水|みず]をください。"
+  ],
+  "translations": [
+   {
+    "id": 64352,
+    "lang": "eng",
+    "text": "Can I have some water, please?",
+    "direct": true,
+    "license": null
+   },
+   {
+    "id": 250149,
+    "lang": "eng",
+    "text": "Please give me some water.",
+    "direct": true,
+    "license": null
+   },
+   {
+    "id": 250150,
+    "lang": "eng",
+    "text": "Give me some water, please.",
+    "direct": true,
+    "license": null
+   },
+   {
+    "id": 270848,
+    "lang": "eng",
+    "text": "Some water, please.",
+    "direct": true,
+    "license": null
+   },
+   {
+    "id": 2132096,
+    "lang": "eng",
+    "text": "Water, please.",
+    "direct": true,
+    "license": null
+   },
+   {
+    "id": 8795105,
+    "lang": "vie",
+    "text": "Cho tôi xin ít nước.",
+    "direct": true,
+    "license": null
+   },
+   {
+    "id": 5161429,
+    "lang": "vie",
+    "text": "Cho tôi chút nước đi.",
+    "direct": null,
+    "license": null
+   }
+  ],
+  "retrieved_at": "2026-10-10T08:15:30+00:00"
+ },
+ "143712": {
+  "id": 143712,
+  "text": "水を一杯下さい。",
+  "license": "CC BY 2.0 FR",
+  "owner": "bunbuku",
+  "transcriptions": [
+   "[水|みず]を[一杯|いっ|ぱい][下|くだ]さい。"
+  ],
+  "translations": [
+   {
+    "id": 61457,
+    "lang": "eng",
+    "text": "Give me a glass of water, please.",
+    "direct": true,
+    "license": null
+   },
+   {
+    "id": 250147,
+    "lang": "eng",
+    "text": "Please give me a glass of water.",
+    "direct": true,
+    "license": null
+   },
+   {
+    "id": 270845,
+    "lang": "eng",
+    "text": "I'd like a glass of water, please.",
+    "direct": true,
+    "license": null
+   },
+   {
+    "id": 270854,
+    "lang": "eng",
+    "text": "A glass of water, please.",
+    "direct": true,
+    "license": null
+   },
+   {
+    "id": 387566,
+    "lang": "eng",
+    "text": "Please give me a cup of water.",
+    "direct": true,
+    "license": null
+   },
+   {
+    "id": 510433,
+    "lang": "vie",
+    "text": "Làm ơn cho tôi một cốc nước.",
+    "direct": true,
+    "license": null
+   },
+   {
+    "id": 9712997,
+    "lang": "vie",
+    "text": "Xin hãy cho tôi một cốc nước.",
+    "direct": true,
+    "license": null
+   },
+   {
+    "id": 9712998,
+    "lang": "vie",
+    "text": "Làm ơn hãy cho tôi một cốc nước.",
+    "direct": null,
+    "license": null
+   }
+  ],
+  "retrieved_at": "2026-10-10T08:15:32+00:00"
+ },
+ "12466854": {
+  "id": 12466854,
+  "text": "もう朝ご飯食べた？",
+  "license": "CC BY 2.0 FR",
+  "owner": "HAGNi",
+  "transcriptions": [
+   "もう[朝|あさ]ご[飯|はん][食|た]べた？"
+  ],
+  "translations": [
+   {
+    "id": 2432207,
+    "lang": "eng",
+    "text": "Have you had breakfast?",
+    "direct": null,
+    "license": null
+   },
+   {
+    "id": 2644124,
+    "lang": "eng",
+    "text": "Have you had breakfast yet?",
+    "direct": null,
+    "license": null
+   },
+   {
+    "id": 12466476,
+    "lang": "eng",
+    "text": "Did you have any breakfast?",
+    "direct": null,
+    "license": null
+   }
+  ],
+  "retrieved_at": "2026-10-10T08:15:33+00:00"
+ },
+ "2225443": {
+  "id": 2225443,
+  "text": "朝ご飯は何がいい？",
+  "license": "CC BY 2.0 FR",
+  "owner": "bunbuku",
+  "transcriptions": [
+   "[朝|あさ]ご[飯|はん]は[何|なに]がいい？"
+  ],
+  "translations": [
+   {
+    "id": 277779,
+    "lang": "eng",
+    "text": "What do you want for breakfast?",
+    "direct": true,
+    "license": null
+   }
+  ],
+  "retrieved_at": "2026-10-10T08:15:36+00:00"
+ },
+ "2446172": {
+  "id": 2446172,
+  "text": "学校は好き？",
+  "license": "CC BY 2.0 FR",
+  "owner": "tommy_san",
+  "transcriptions": [
+   "[学校|がっ|こう]は[好|す]き？"
+  ],
+  "translations": [
+   {
+    "id": 1098292,
+    "lang": "eng",
+    "text": "Do you like school?",
+    "direct": true,
+    "license": null
+   },
+   {
+    "id": 6639471,
+    "lang": "vie",
+    "text": "Cậu có thích trường học không?",
+    "direct": true,
+    "license": null
+   },
+   {
+    "id": 4109873,
+    "lang": "eng",
+    "text": "Do you like going to school?",
+    "direct": null,
+    "license": null
+   }
+  ],
+  "retrieved_at": "2026-10-10T08:15:38+00:00"
+ },
+ "5856349": {
+  "id": 5856349,
+  "text": "学校まで歩きます。",
+  "license": "CC BY 2.0 FR",
+  "owner": "Hic_Space",
+  "transcriptions": [
+   "[学校|がっ|こう]まで[歩|ある]きます。"
+  ],
+  "translations": [
+   {
+    "id": 9500437,
+    "lang": "eng",
+    "text": "I'll walk to school.",
+    "direct": true,
+    "license": null
+   },
+   {
+    "id": 515477,
+    "lang": "vie",
+    "text": "Tôi đi bộ đến trường.",
+    "direct": true,
+    "license": null
+   },
+   {
+    "id": 9510880,
+    "lang": "vie",
+    "text": "Tôi sẽ đi bộ tới trường.",
+    "direct": true,
+    "license": null
+   },
+   {
+    "id": 261668,
+    "lang": "eng",
+    "text": "I go to school on foot.",
+    "direct": null,
+    "license": null
+   },
+   {
+    "id": 320498,
+    "lang": "eng",
+    "text": "I walked to school.",
+    "direct": null,
+    "license": null
+   },
+   {
+    "id": 437011,
+    "lang": "eng",
+    "text": "I walk to school.",
+    "direct": null,
+    "license": null
+   },
+   {
+    "id": 9510879,
+    "lang": "vie",
+    "text": "Tôi sẽ đi bộ đến trường.",
+    "direct": null,
+    "license": null
+   }
+  ],
+  "retrieved_at": "2026-10-10T08:15:39+00:00"
+ },
+ "3050904": {
+  "id": 3050904,
+  "text": "母は高校の先生です。",
+  "license": "CC BY 2.0 FR",
+  "owner": "tommy_san",
+  "transcriptions": [
+   "[母|はは]は[高校|こう|こう]の[先生|せん|せい]です。"
+  ],
+  "translations": [
+   {
+    "id": 3050944,
+    "lang": "eng",
+    "text": "My mother is a high school teacher.",
+    "direct": true,
+    "license": null
+   },
+   {
+    "id": 10146673,
+    "lang": "vie",
+    "text": "Mẹ tôi là giáo viên dạy cấp 3.",
+    "direct": true,
+    "license": null
+   },
+   {
+    "id": 10146674,
+    "lang": "vie",
+    "text": "Mẹ tôi là giáo viên cấp 3.",
+    "direct": true,
+    "license": null
+   }
+  ],
+  "retrieved_at": "2026-10-10T08:15:42+00:00"
+ },
+ "13259054": {
+  "id": 13259054,
+  "text": "先生、こんにちは。",
+  "license": "CC BY 2.0 FR",
+  "owner": "atitarev",
+  "transcriptions": [
+   "[先生|せん|せい]、こんにちは。"
+  ],
+  "translations": [
+   {
+    "id": 8866026,
+    "lang": "eng",
+    "text": "Hello teacher!",
+    "direct": true,
+    "license": null
+   },
+   {
+    "id": 13547310,
+    "lang": "eng",
+    "text": "Hello, teacher.",
+    "direct": true,
+    "license": null
+   },
+   {
+    "id": 14032827,
+    "lang": "vie",
+    "text": "Xin chào, cô giáo.",
+    "direct": null,
+    "license": null
+   },
+   {
+    "id": 14032828,
+    "lang": "vie",
+    "text": "Xin chào, thầy/cô.",
+    "direct": null,
+    "license": null
+   }
+  ],
+  "retrieved_at": "2026-10-10T08:15:44+00:00"
+ },
+ "105678": {
+  "id": 105678,
+  "text": "彼は私の友達です。",
+  "license": "CC BY 2.0 FR",
+  "owner": "bunbuku",
+  "transcriptions": [
+   "[彼|かれ]は[私|わたし]の[友達|とも|だち]です。"
+  ],
+  "translations": [
+   {
+    "id": 298009,
+    "lang": "eng",
+    "text": "He is my friend.",
+    "direct": true,
+    "license": null
+   },
+   {
+    "id": 555114,
+    "lang": "eng",
+    "text": "He's my friend.",
+    "direct": true,
+    "license": null
+   },
+   {
+    "id": 1649054,
+    "lang": "eng",
+    "text": "She's my friend.",
+    "direct": null,
+    "license": null
+   },
+   {
+    "id": 2458877,
+    "lang": "eng",
+    "text": "He and I are friends.",
+    "direct": null,
+    "license": null
+   },
+   {
+    "id": 2496166,
+    "lang": "eng",
+    "text": "She is my friend.",
+    "direct": null,
+    "license": null
+   },
+   {
+    "id": 11452901,
+    "lang": "vie",
+    "text": "Anh ấy là bạn của tôi.",
+    "direct": null,
+    "license": null
+   }
+  ],
+  "retrieved_at": "2026-10-10T08:15:46+00:00"
+ },
+ "8635632": {
+  "id": 8635632,
+  "text": "新しい友達の名前は何？",
+  "license": "CC BY 2.0 FR",
+  "owner": "small_snow",
+  "transcriptions": [
+   "[新|あたら]しい[友達|とも|だち]の[名前|な|まえ]は[何|なに]？"
+  ],
+  "translations": [
+   {
+    "id": 3264735,
+    "lang": "eng",
+    "text": "What is your new friend's name?",
+    "direct": true,
+    "license": null
+   },
+   {
+    "id": 9001460,
+    "lang": "vie",
+    "text": "Tên người bạn mới của bạn là gì?",
+    "direct": true,
+    "license": null
+   },
+   {
+    "id": 6389369,
+    "lang": "eng",
+    "text": "What's your new friend called?",
+    "direct": null,
+    "license": null
+   }
+  ],
+  "retrieved_at": "2026-10-10T08:15:47+00:00"
+ },
+ "1005435": {
+  "id": 1005435,
+  "text": "家が見えます。",
+  "license": "CC BY 2.0 FR",
+  "owner": "mookeee",
+  "transcriptions": [
+   "[家|いえ]が[見|み]えます。"
+  ],
+  "translations": [
+   {
+    "id": 871785,
+    "lang": "eng",
+    "text": "I see a house.",
+    "direct": true,
+    "license": null
+   },
+   {
+    "id": 871789,
+    "lang": "eng",
+    "text": "I see the house.",
+    "direct": true,
+    "license": null
+   },
+   {
+    "id": 13173358,
+    "lang": "vie",
+    "text": "Tôi thấy một ngôi nhà.",
+    "direct": null,
+    "license": null
+   }
+  ],
+  "retrieved_at": "2026-10-10T08:15:50+00:00"
+ },
+ "4104541": {
+  "id": 4104541,
+  "text": "学校は家から遠いの？",
+  "license": "CC BY 2.0 FR",
+  "owner": "tommy_san",
+  "transcriptions": [
+   "[学校|がっ|こう]は[家|いえ]から[遠|とお]いの？"
+  ],
+  "translations": [
+   {
+    "id": 21530,
+    "lang": "eng",
+    "text": "Is your school far from your home?",
+    "direct": true,
+    "license": null
+   },
+   {
+    "id": 4184754,
+    "lang": "vie",
+    "text": "Trường bạn có ở xa nhà không?",
+    "direct": true,
+    "license": null
+   },
+   {
+    "id": 897255,
+    "lang": "eng",
+    "text": "Is your school far away from your house?",
+    "direct": null,
+    "license": null
+   }
+  ],
+  "retrieved_at": "2026-10-10T08:15:52+00:00"
+ },
+ "10001937": {
+  "id": 10001937,
+  "text": "明日は学校に行くの？",
+  "license": "CC BY 2.0 FR",
+  "owner": "bunbuku",
+  "transcriptions": [
+   "[明日|あした]は[学校|がっ|こう]に[行|い]くの？"
+  ],
+  "translations": [
+   {
+    "id": 68900,
+    "lang": "eng",
+    "text": "Are you going to school tomorrow?",
+    "direct": true,
+    "license": null
+   },
+   {
+    "id": 9027429,
+    "lang": "vie",
+    "text": "Ngày mai bạn có định đến trường không?",
+    "direct": null,
+    "license": null
+   },
+   {
+    "id": 9027430,
+    "lang": "vie",
+    "text": "Mai bạn có định tới trường không?",
+    "direct": null,
+    "license": null
+   }
+  ],
+  "retrieved_at": "2026-10-10T08:15:54+00:00"
+ },
+ "4562260": {
+  "id": 4562260,
+  "text": "英国へ行きたい。",
+  "license": "CC BY 2.0 FR",
+  "owner": "Kiraness",
+  "transcriptions": [
+   "[英国|えい|こく]へ[行|い]きたい。"
+  ],
+  "translations": [
+   {
+    "id": 4632194,
+    "lang": "eng",
+    "text": "I want to go to Britain.",
+    "direct": true,
+    "license": null
+   },
+   {
+    "id": 8956529,
+    "lang": "vie",
+    "text": "Tôi muốn đến nước Anh.",
+    "direct": true,
+    "license": null
+   },
+   {
+    "id": 939293,
+    "lang": "eng",
+    "text": "I want to go to England.",
+    "direct": null,
+    "license": null
+   }
+  ],
+  "retrieved_at": "2026-10-10T08:15:57+00:00"
+ },
+ "3488093": {
+  "id": 3488093,
+  "text": "うまく行った！",
+  "license": "CC BY 2.0 FR",
+  "owner": "arnab",
+  "transcriptions": [
+   "うまく[行|い]った！"
+  ],
+  "translations": [
+   {
+    "id": 2283736,
+    "lang": "eng",
+    "text": "It worked.",
+    "direct": true,
+    "license": null
+   },
+   {
+    "id": 13334004,
+    "lang": "vie",
+    "text": "Nó đã hoạt động.",
+    "direct": null,
+    "license": null
+   }
+  ],
+  "retrieved_at": "2026-10-10T08:15:59+00:00"
+ },
+ "633075": {
+  "id": 633075,
+  "text": "時々ＴＶを見る。",
+  "license": "CC BY 2.0 FR",
+  "owner": "blay_paul",
+  "transcriptions": [
+   "[時々|ときどき][ＴＶ|てれび]を[見|み]る。"
+  ],
+  "translations": [
+   {
+    "id": 264101,
+    "lang": "eng",
+    "text": "I watch TV now and then.",
+    "direct": true,
+    "license": null
+   },
+   {
+    "id": 8943085,
+    "lang": "vie",
+    "text": "Tôi thỉnh thoảng xem ti vi.",
+    "direct": true,
+    "license": null
+   },
+   {
+    "id": 8943086,
+    "lang": "vie",
+    "text": "Thỉnh thoảng tôi xem TV.",
+    "direct": true,
+    "license": null
+   }
+  ],
+  "retrieved_at": "2026-10-10T08:16:00+00:00"
+ },
+ "187572": {
+  "id": 187572,
+  "text": "何を見てるの？",
+  "license": "CC BY 2.0 FR",
+  "owner": "bunbuku",
+  "transcriptions": [
+   "[何|なに]を[見|み]てるの？"
+  ],
+  "translations": [
+   {
+    "id": 16256,
+    "lang": "eng",
+    "text": "What are you looking at?",
+    "direct": true,
+    "license": null
+   },
+   {
+    "id": 2645646,
+    "lang": "eng",
+    "text": "What're you looking at?",
+    "direct": true,
+    "license": null
+   },
+   {
+    "id": 7841308,
+    "lang": "eng",
+    "text": "What're you all looking at?",
+    "direct": true,
+    "license": null
+   },
+   {
+    "id": 9739392,
+    "lang": "vie",
+    "text": "Bạn đang nhìn cái gì vậy?",
+    "direct": true,
+    "license": null
+   },
+   {
+    "id": 1841548,
+    "lang": "eng",
+    "text": "What are you watching?",
+    "direct": null,
+    "license": null
+   },
+   {
+    "id": 2547474,
+    "lang": "eng",
+    "text": "What're you watching?",
+    "direct": null,
+    "license": null
+   },
+   {
+    "id": 16662,
+    "lang": "eng",
+    "text": "What are you staring at?",
+    "direct": null,
+    "license": null
+   },
+   {
+    "id": 3396893,
+    "lang": "eng",
+    "text": "What are you guys looking at?",
+    "direct": null,
+    "license": null
+   },
+   {
+    "id": 1841544,
+    "lang": "eng",
+    "text": "What do you see?",
+    "direct": null,
+    "license": null
+   },
+   {
+    "id": 2892503,
+    "lang": "eng",
+    "text": "What can you see?",
+    "direct": null,
+    "license": null
+   },
+   {
+    "id": 24676,
+    "lang": "eng",
+    "text": "What are you reading?",
+    "direct": null,
+    "license": null
+   },
+   {
+    "id": 2548014,
+    "lang": "eng",
+    "text": "What're you reading?",
+    "direct": null,
+    "license": null
+   },
+   {
+    "id": 7033260,
+    "lang": "eng",
+    "text": "What are you reading right now?",
+    "direct": null,
+    "license": null
+   },
+   {
+    "id": 9739393,
+    "lang": "vie",
+    "text": "Bạn đang nhìn cái gì thế?",
+    "direct": null,
+    "license": null
+   }
+  ],
+  "retrieved_at": "2026-10-10T08:16:03+00:00"
+ },
+ "translation_licenses": {
+  "13340846": {
+   "text": "Tôi ăn mọi thứ.",
+   "lang": "vie",
+   "license": "CC BY 2.0 FR"
+  },
+  "5852306": {
+   "text": "I eat anything.",
+   "lang": "eng",
+   "license": "CC BY 2.0 FR"
+  },
+  "13249778": {
+   "text": "Bạn đã ăn trưa chưa?",
+   "lang": "vie",
+   "license": "CC BY 2.0 FR"
+  },
+  "7046382": {
+   "text": "Have you had lunch yet?",
+   "lang": "eng",
+   "license": "CC BY 2.0 FR"
+  },
+  "13344023": {
+   "text": "Tôi uống cà phê vào buổi sáng.",
+   "lang": "vie",
+   "license": "CC BY 2.0 FR"
+  },
+  "436571": {
+   "text": "I drink coffee in the morning.",
+   "lang": "eng",
+   "license": "CC BY 2.0 FR"
+  },
+  "337932": {
+   "text": "Đừng uống bia trước khi đi ngủ.",
+   "lang": "vie",
+   "license": "CC BY 2.0 FR"
+  },
+  "268907": {
+   "text": "Don't drink beer before going to bed.",
+   "lang": "eng",
+   "license": "CC BY 2.0 FR"
+  },
+  "8795105": {
+   "text": "Cho tôi xin ít nước.",
+   "lang": "vie",
+   "license": "CC BY 2.0 FR"
+  },
+  "250149": {
+   "text": "Please give me some water.",
+   "lang": "eng",
+   "license": "CC BY 2.0 FR"
+  },
+  "510433": {
+   "text": "Làm ơn cho tôi một cốc nước.",
+   "lang": "vie",
+   "license": "CC BY 2.0 FR"
+  },
+  "61457": {
+   "text": "Give me a glass of water, please.",
+   "lang": "eng",
+   "license": "CC BY 2.0 FR"
+  },
+  "2644124": {
+   "text": "Have you had breakfast yet?",
+   "lang": "eng",
+   "license": "CC BY 2.0 FR"
+  },
+  "277779": {
+   "text": "What do you want for breakfast?",
+   "lang": "eng",
+   "license": "CC BY 2.0 FR"
+  },
+  "6639471": {
+   "text": "Cậu có thích trường học không?",
+   "lang": "vie",
+   "license": "CC BY 2.0 FR"
+  },
+  "1098292": {
+   "text": "Do you like school?",
+   "lang": "eng",
+   "license": "CC BY 2.0 FR"
+  },
+  "9510880": {
+   "text": "Tôi sẽ đi bộ tới trường.",
+   "lang": "vie",
+   "license": "CC BY 2.0 FR"
+  },
+  "9500437": {
+   "text": "I'll walk to school.",
+   "lang": "eng",
+   "license": "CC BY 2.0 FR"
+  },
+  "10146674": {
+   "text": "Mẹ tôi là giáo viên cấp 3.",
+   "lang": "vie",
+   "license": "CC BY 2.0 FR"
+  },
+  "3050944": {
+   "text": "My mother is a high school teacher.",
+   "lang": "eng",
+   "license": "CC BY 2.0 FR"
+  },
+  "14032828": {
+   "text": "Xin chào, thầy/cô.",
+   "lang": "vie",
+   "license": "CC BY 2.0 FR"
+  },
+  "13547310": {
+   "text": "Hello, teacher.",
+   "lang": "eng",
+   "license": "CC BY 2.0 FR"
+  },
+  "11452901": {
+   "text": "Anh ấy là bạn của tôi.",
+   "lang": "vie",
+   "license": "CC BY 2.0 FR"
+  },
+  "298009": {
+   "text": "He is my friend.",
+   "lang": "eng",
+   "license": "CC BY 2.0 FR"
+  },
+  "9001460": {
+   "text": "Tên người bạn mới của bạn là gì?",
+   "lang": "vie",
+   "license": "CC BY 2.0 FR"
+  },
+  "3264735": {
+   "text": "What is your new friend's name?",
+   "lang": "eng",
+   "license": "CC BY 2.0 FR"
+  },
+  "13173358": {
+   "text": "Tôi thấy một ngôi nhà.",
+   "lang": "vie",
+   "license": "CC BY 2.0 FR"
+  },
+  "871785": {
+   "text": "I see a house.",
+   "lang": "eng",
+   "license": "CC BY 2.0 FR"
+  },
+  "4184754": {
+   "text": "Trường bạn có ở xa nhà không?",
+   "lang": "vie",
+   "license": "CC BY 2.0 FR"
+  },
+  "21530": {
+   "text": "Is your school far from your home?",
+   "lang": "eng",
+   "license": "CC BY 2.0 FR"
+  },
+  "9027429": {
+   "text": "Ngày mai bạn có định đến trường không?",
+   "lang": "vie",
+   "license": "CC BY 2.0 FR"
+  },
+  "68900": {
+   "text": "Are you going to school tomorrow?",
+   "lang": "eng",
+   "license": "CC BY 2.0 FR"
+  },
+  "8956529": {
+   "text": "Tôi muốn đến nước Anh.",
+   "lang": "vie",
+   "license": "CC BY 2.0 FR"
+  },
+  "4632194": {
+   "text": "I want to go to Britain.",
+   "lang": "eng",
+   "license": "CC BY 2.0 FR"
+  },
+  "2283736": {
+   "text": "It worked.",
+   "lang": "eng",
+   "license": "CC BY 2.0 FR"
+  },
+  "8943086": {
+   "text": "Thỉnh thoảng tôi xem TV.",
+   "lang": "vie",
+   "license": "CC BY 2.0 FR"
+  },
+  "264101": {
+   "text": "I watch TV now and then.",
+   "lang": "eng",
+   "license": "CC BY 2.0 FR"
+  },
+  "9739392": {
+   "text": "Bạn đang nhìn cái gì vậy?",
+   "lang": "vie",
+   "license": "CC BY 2.0 FR"
+  },
+  "16256": {
+   "text": "What are you looking at?",
+   "lang": "eng",
+   "license": "CC BY 2.0 FR"
+  },
+  "2723491": {
+   "text": "I'm eating bread.",
+   "lang": "eng",
+   "license": "CC BY 2.0 FR"
+  },
+  "8962941": {
+   "text": "Tôi đang ăn bánh mì.",
+   "lang": "vie",
+   "license": "CC BY 2.0 FR"
+  },
+  "16380": {
+   "text": "Have you taken your medicine yet?",
+   "lang": "eng",
+   "license": "CC BY 2.0 FR"
+  },
+  "261814": {
+   "text": "I have breakfast every morning.",
+   "lang": "eng",
+   "license": "CC BY 2.0 FR"
+  },
+  "11330614": {
+   "text": "Tôi ăn điểm tâm mỗi sáng.",
+   "lang": "vie",
+   "license": "CC BY 2.0 FR"
+  },
+  "300638": {
+   "text": "Is he a teacher?",
+   "lang": "eng",
+   "license": "CC BY 2.0 FR"
+  },
+  "241603": {
+   "text": "I'm going to go home.",
+   "lang": "eng",
+   "license": "CC BY 2.0 FR"
+  },
+  "416367": {
+   "text": "Where are you going?",
+   "lang": "eng",
+   "license": "CC BY 2.0 FR"
+  },
+  "893126": {
+   "text": "Bạn đi đâu đấy?",
+   "lang": "vie",
+   "license": "CC BY 2.0 FR"
+  },
+  "2036345": {
+   "text": "I'm watching TV.",
+   "lang": "eng",
+   "license": "CC BY 2.0 FR"
+  },
+  "9132104": {
+   "text": "Tôi đang xem ti vi.",
+   "lang": "vie",
+   "license": "CC BY 2.0 FR"
+  },
+  "1907947": {
+   "text": "Do cats dream?",
+   "lang": "eng",
+   "license": "CC BY 2.0 FR"
+  },
+  "427988": {
+   "text": "Do you eat meat?",
+   "lang": "eng",
+   "license": "CC BY 2.0 FR"
+  },
+  "5121227": {
+   "text": "Is the water cold?",
+   "lang": "eng",
+   "license": "CC BY 2.0 FR"
+  },
+  "251708": {
+   "text": "My father is a teacher.",
+   "lang": "eng",
+   "license": "CC BY 2.0 FR"
+  },
+  "577172": {
+   "text": "Tom là bạn của tôi.",
+   "lang": "vie",
+   "license": "CC BY 2.0 FR"
+  },
+  "406604": {
+   "text": "Tom is my friend.",
+   "lang": "eng",
+   "license": "CC BY 2.0 FR"
+  },
+  "1548731": {
+   "text": "Căn nhà đó trông đẹp.",
+   "lang": "vie",
+   "license": "CC BY 2.0 FR"
+  },
+  "49382": {
+   "text": "That house looks nice.",
+   "lang": "eng",
+   "license": "CC BY 2.0 FR"
+  },
+  "1661053": {
+   "text": "I am watching a film.",
+   "lang": "eng",
+   "license": "CC BY 2.0 FR"
+  }
+ },
+ "4839619": {
+  "id": 4839619,
+  "text": "パンを食べています。",
+  "license": "CC BY 2.0 FR",
+  "owner": null,
+  "transcriptions": [
+   "パンを[食|た]べています。"
+  ],
+  "translations": [
+   {
+    "id": 2723491,
+    "lang": "eng",
+    "text": "I'm eating bread.",
+    "direct": true
+   },
+   {
+    "id": 4864604,
+    "lang": "eng",
+    "text": "I am eating bread.",
+    "direct": true
+   },
+   {
+    "id": 4864607,
+    "lang": "eng",
+    "text": "They are eating bread.",
+    "direct": true
+   },
+   {
+    "id": 8860712,
+    "lang": "eng",
+    "text": "We are eating bread.",
+    "direct": true
+   },
+   {
+    "id": 8962941,
+    "lang": "vie",
+    "text": "Tôi đang ăn bánh mì.",
+    "direct": true
+   },
+   {
+    "id": 8962942,
+    "lang": "vie",
+    "text": "Tôi đang ăn bánh mỳ.",
+    "direct": true
+   },
+   {
+    "id": 1867478,
+    "lang": "eng",
+    "text": "I eat bread.",
+    "direct": null
+   },
+   {
+    "id": 8866581,
+    "lang": "eng",
+    "text": "We're eating bread.",
+    "direct": null
+   }
+  ],
+  "retrieved_at": "2026-10-10T08:20:26+00:00"
+ },
+ "177528": {
+  "id": 177528,
+  "text": "もう薬を飲みましたか？",
+  "license": "CC BY 2.0 FR",
+  "owner": null,
+  "transcriptions": [
+   "もう[薬|くすり]を[飲|の]みましたか？"
+  ],
+  "translations": [
+   {
+    "id": 16380,
+    "lang": "eng",
+    "text": "Have you taken your medicine yet?",
+    "direct": true
+   }
+  ],
+  "retrieved_at": "2026-10-10T08:20:28+00:00"
+ },
+ "429432": {
+  "id": 429432,
+  "text": "私は毎朝朝ごはんを食べます。",
+  "license": "CC BY 2.0 FR",
+  "owner": null,
+  "transcriptions": [
+   "[私|わたし]は[毎朝|まい|あさ][朝|あさ]ごはんを[食|た]べます。"
+  ],
+  "translations": [
+   {
+    "id": 261814,
+    "lang": "eng",
+    "text": "I have breakfast every morning.",
+    "direct": true
+   },
+   {
+    "id": 464655,
+    "lang": "eng",
+    "text": "I eat breakfast every morning.",
+    "direct": true
+   },
+   {
+    "id": 11330614,
+    "lang": "vie",
+    "text": "Tôi ăn điểm tâm mỗi sáng.",
+    "direct": null
+   }
+  ],
+  "retrieved_at": "2026-10-10T08:20:30+00:00"
+ },
+ "103055": {
+  "id": 103055,
+  "text": "彼は先生ですか。",
+  "license": "CC BY 2.0 FR",
+  "owner": null,
+  "transcriptions": [
+   "[彼|かれ]は[先生|せん|せい]ですか。"
+  ],
+  "translations": [
+   {
+    "id": 300638,
+    "lang": "eng",
+    "text": "Is he a teacher?",
+    "direct": true
+   },
+   {
+    "id": 9400565,
+    "lang": "eng",
+    "text": "Is she a teacher?",
+    "direct": null
+   }
+  ],
+  "retrieved_at": "2026-10-10T08:20:31+00:00"
+ },
+ "172870": {
+  "id": 172870,
+  "text": "今から家に帰ります。",
+  "license": "CC BY 2.0 FR",
+  "owner": null,
+  "transcriptions": [
+   "[今|いま]から[家|いえ]に[帰|かえ]ります。"
+  ],
+  "translations": [
+   {
+    "id": 241603,
+    "lang": "eng",
+    "text": "I'm going to go home.",
+    "direct": true
+   },
+   {
+    "id": 2547192,
+    "lang": "eng",
+    "text": "I'm heading back home.",
+    "direct": null
+   }
+  ],
+  "retrieved_at": "2026-10-10T08:20:33+00:00"
+ },
+ "5320": {
+  "id": 5320,
+  "text": "どこに行きますか？",
+  "license": "CC BY 2.0 FR",
+  "owner": null,
+  "transcriptions": [
+   "どこに[行|い]きますか？"
+  ],
+  "translations": [
+   {
+    "id": 371443,
+    "lang": "eng",
+    "text": "Where are you going to?",
+    "direct": true
+   },
+   {
+    "id": 416367,
+    "lang": "eng",
+    "text": "Where are you going?",
+    "direct": true
+   },
+   {
+    "id": 2548475,
+    "lang": "eng",
+    "text": "Where're you going?",
+    "direct": true
+   },
+   {
+    "id": 2979710,
+    "lang": "eng",
+    "text": "Where are you guys going?",
+    "direct": true
+   },
+   {
+    "id": 893126,
+    "lang": "vie",
+    "text": "Bạn đi đâu đấy?",
+    "direct": true
+   },
+   {
+    "id": 669130,
+    "lang": "eng",
+    "text": "Where are you heading?",
+    "direct": null
+   },
+   {
+    "id": 6089829,
+    "lang": "eng",
+    "text": "Where else are you going to go?",
+    "direct": null
+   },
+   {
+    "id": 1201492,
+    "lang": "eng",
+    "text": "Where are you off to?",
+    "direct": null
+   },
+   {
+    "id": 1886642,
+    "lang": "eng",
+    "text": "Where are you going to go?",
+    "direct": null
+   }
+  ],
+  "retrieved_at": "2026-10-10T08:20:36+00:00"
+ },
+ "4272241": {
+  "id": 4272241,
+  "text": "わたしはテレビを見ています。",
+  "license": "CC BY 2.0 FR",
+  "owner": null,
+  "transcriptions": [
+   "わたしはテレビを[見|み]ています。"
+  ],
+  "translations": [
+   {
+    "id": 2036345,
+    "lang": "eng",
+    "text": "I'm watching TV.",
+    "direct": true
+   },
+   {
+    "id": 3498173,
+    "lang": "eng",
+    "text": "I'm watching television.",
+    "direct": true
+   },
+   {
+    "id": 39164,
+    "lang": "eng",
+    "text": "I watch television.",
+    "direct": null
+   },
+   {
+    "id": 2818678,
+    "lang": "eng",
+    "text": "I watch TV.",
+    "direct": null
+   },
+   {
+    "id": 4384881,
+    "lang": "eng",
+    "text": "I am watching television.",
+    "direct": null
+   },
+   {
+    "id": 6983348,
+    "lang": "eng",
+    "text": "I am watching TV.",
+    "direct": null
+   },
+   {
+    "id": 9132104,
+    "lang": "vie",
+    "text": "Tôi đang xem ti vi.",
+    "direct": null
+   },
+   {
+    "id": 9132105,
+    "lang": "vie",
+    "text": "Tôi đang coi ti vi.",
+    "direct": null
+   },
+   {
+    "id": 9132106,
+    "lang": "vie",
+    "text": "Tôi đang xem vô tuyến.",
+    "direct": null
+   }
+  ],
+  "retrieved_at": "2026-10-10T08:20:38+00:00"
+ },
+ "8982983": {
+  "id": 8982983,
+  "text": "猫は夢を見ますか？",
+  "license": "CC BY 2.0 FR",
+  "owner": null,
+  "transcriptions": [
+   "[猫|ねこ]は[夢|ゆめ]を[見|み]ますか？"
+  ],
+  "translations": [
+   {
+    "id": 1907947,
+    "lang": "eng",
+    "text": "Do cats dream?",
+    "direct": true
+   }
+  ],
+  "retrieved_at": "2026-10-10T08:20:40+00:00"
+ },
+ "629035": {
+  "id": 629035,
+  "text": "肉を食べますか。",
+  "license": "CC BY 2.0 FR",
+  "owner": null,
+  "transcriptions": [
+   "[肉|にく]を[食|た]べますか。"
+  ],
+  "translations": [
+   {
+    "id": 427988,
+    "lang": "eng",
+    "text": "Do you eat meat?",
+    "direct": true
+   }
+  ],
+  "retrieved_at": "2026-10-10T08:22:52+00:00"
+ },
+ "8796822": {
+  "id": 8796822,
+  "text": "水は冷たい？",
+  "license": "CC BY 2.0 FR",
+  "owner": null,
+  "transcriptions": [
+   "[水|みず]は[冷|つめ]たい？"
+  ],
+  "translations": [
+   {
+    "id": 5121227,
+    "lang": "eng",
+    "text": "Is the water cold?",
+    "direct": true
+   }
+  ],
+  "retrieved_at": "2026-10-10T08:22:54+00:00"
+ },
+ "10901727": {
+  "id": 10901727,
+  "text": "父は先生です。",
+  "license": "CC BY 2.0 FR",
+  "owner": null,
+  "transcriptions": [
+   "[父|ちち]は[先生|せん|せい]です。"
+  ],
+  "translations": [
+   {
+    "id": 251708,
+    "lang": "eng",
+    "text": "My father is a teacher.",
+    "direct": true
+   }
+  ],
+  "retrieved_at": "2026-10-10T08:22:56+00:00"
+ },
+ "3366952": {
+  "id": 3366952,
+  "text": "トムは私の友達だ。",
+  "license": "CC BY 2.0 FR",
+  "owner": null,
+  "transcriptions": [
+   "トムは[私|わたし]の[友達|とも|だち]だ。"
+  ],
+  "translations": [
+   {
+    "id": 406604,
+    "lang": "eng",
+    "text": "Tom is my friend.",
+    "direct": true
+   },
+   {
+    "id": 1164511,
+    "lang": "eng",
+    "text": "Tom is my buddy.",
+    "direct": true
+   },
+   {
+    "id": 2549441,
+    "lang": "eng",
+    "text": "Tom's my friend.",
+    "direct": true
+   },
+   {
+    "id": 3733198,
+    "lang": "eng",
+    "text": "Tom is a buddy of mine.",
+    "direct": true
+   },
+   {
+    "id": 37342,
+    "lang": "eng",
+    "text": "Tom is a friend of mine.",
+    "direct": null
+   },
+   {
+    "id": 5055494,
+    "lang": "eng",
+    "text": "Tom is a personal friend.",
+    "direct": null
+   },
+   {
+    "id": 2273294,
+    "lang": "eng",
+    "text": "Tom is my boyfriend.",
+    "direct": null
+   },
+   {
+    "id": 577172,
+    "lang": "vie",
+    "text": "Tom là bạn của tôi.",
+    "direct": null
+   }
+  ],
+  "retrieved_at": "2026-10-10T08:22:59+00:00"
+ },
+ "9405644": {
+  "id": 9405644,
+  "text": "あの家いいね。",
+  "license": "CC BY 2.0 FR",
+  "owner": null,
+  "transcriptions": [
+   "あの[家|いえ]いいね。"
+  ],
+  "translations": [
+   {
+    "id": 49382,
+    "lang": "eng",
+    "text": "That house looks nice.",
+    "direct": true
+   },
+   {
+    "id": 6357420,
+    "lang": "eng",
+    "text": "That's a nice house.",
+    "direct": true
+   },
+   {
+    "id": 12740140,
+    "lang": "eng",
+    "text": "I like that house.",
+    "direct": true
+   },
+   {
+    "id": 1548731,
+    "lang": "vie",
+    "text": "Căn nhà đó trông đẹp.",
+    "direct": null
+   }
+  ],
+  "retrieved_at": "2026-10-10T08:23:01+00:00"
+ },
+ "13164768": {
+  "id": 13164768,
+  "text": "映画を見ています。",
+  "license": "CC BY 2.0 FR",
+  "owner": null,
+  "transcriptions": [
+   "[映画|えい|が]を[見|み]ています。"
+  ],
+  "translations": [
+   {
+    "id": 1661053,
+    "lang": "eng",
+    "text": "I am watching a film.",
+    "direct": true
+   },
+   {
+    "id": 3667147,
+    "lang": "eng",
+    "text": "I'm watching a movie.",
+    "direct": true
+   }
+  ],
+  "retrieved_at": "2026-10-10T08:23:03+00:00"
+ }
+}

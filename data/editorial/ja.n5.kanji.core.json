@@ -1,0 +1,118 @@
+{
+  "node_id": "ja.n5.kanji.core",
+  "language": "ja",
+  "level": "N5",
+  "skill": "kanji",
+  "entry_type": "kanji",
+  "cefr_equiv": "A1 (estimated)",
+  "editor": "web_ngon_ngu editorial team",
+  "examples_from": "ja.n5.vocab.daily_life",
+  "entries": [
+    {"headword": "食", "han_viet": "thực", "search_readings": ["しょく", "じき", "たべる", "くう"],
+     "senses": [{"definition_native": "たべること。また、たべもの。", "register": "neutral", "domain": [],
+       "usage_notes_vi": "Âm Kun た(べる) trong động từ 食べる; âm On ショク dùng trong từ ghép Hán.",
+       "translations": [
+         {"target": "vi", "text": "ăn; đồ ăn", "equivalence": "close", "context_hint": "nghĩa chữ (Hán Việt: THỰC)", "priority": 1},
+         {"target": "en", "text": "eat; food", "equivalence": "exact", "context_hint": "character meaning", "priority": 1}],
+       "false_friend_note": null}],
+     "examples": [{"sense": 1, "ja": 4839619, "word": "食べ", "word_reading": "たべ"}, {"sense": 1, "ja": 629035, "word": "食べ", "word_reading": "たべ"}],
+     "topic_tags": ["food_drink"]},
+
+    {"headword": "水", "han_viet": "thủy", "search_readings": ["すい", "みず"],
+     "senses": [{"definition_native": "みず。", "register": "neutral", "domain": [],
+       "usage_notes_vi": "Đứng một mình đọc là みず (nước); âm On スイ trong từ ghép, ví dụ tên thứ Tư 水曜日.",
+       "translations": [
+         {"target": "vi", "text": "nước", "equivalence": "exact", "context_hint": "nghĩa chữ (Hán Việt: THỦY)", "priority": 1},
+         {"target": "en", "text": "water", "equivalence": "exact", "context_hint": "character meaning", "priority": 1}],
+       "false_friend_note": null}],
+     "examples": [{"sense": 1, "ja": 227004, "word": "水", "word_reading": "みず"}, {"sense": 1, "ja": 8796822, "word": "水", "word_reading": "みず"}],
+     "topic_tags": ["food_drink", "nature_weather"]},
+
+    {"headword": "学", "han_viet": "học", "search_readings": ["がく", "まなぶ"],
+     "senses": [{"definition_native": "まなぶこと。学問。", "register": "neutral", "domain": [],
+       "usage_notes_vi": "Ở N5 gặp chủ yếu trong 学校 (がっこう): âm ガク bị xúc âm hóa thành がっ.",
+       "translations": [
+         {"target": "vi", "text": "học; học vấn", "equivalence": "close", "context_hint": "nghĩa chữ (Hán Việt: HỌC)", "priority": 1},
+         {"target": "en", "text": "study; learning", "equivalence": "close", "context_hint": "character meaning", "priority": 1}],
+       "false_friend_note": null}],
+     "examples": [{"sense": 1, "ja": 2446172, "word": "学校", "word_reading": "がっこう"}, {"sense": 1, "ja": 5856349, "word": "学校", "word_reading": "がっこう"}],
+     "topic_tags": ["school_study"]},
+
+    {"headword": "校", "han_viet": "hiệu", "search_readings": ["こう"],
+     "senses": [{"definition_native": "学校。", "register": "neutral", "domain": [],
+       "usage_notes_vi": "Hán Việt thường gặp là HIỆU (学校 = học hiệu). Nghĩa 'hiệu đính' (校正) thuộc cấp cao hơn, không dạy ở N5.",
+       "translations": [
+         {"target": "vi", "text": "trường học", "equivalence": "close", "context_hint": "nghĩa chữ (Hán Việt: HIỆU)", "priority": 1},
+         {"target": "en", "text": "school", "equivalence": "exact", "context_hint": "character meaning", "priority": 1}],
+       "false_friend_note": null}],
+     "examples": [{"sense": 1, "ja": 4104541, "word": "学校", "word_reading": "がっこう"}, {"sense": 1, "ja": 10001937, "word": "学校", "word_reading": "がっこう"}],
+     "topic_tags": ["school_study"]},
+
+    {"headword": "先", "han_viet": "tiên", "search_readings": ["せん", "さき"],
+     "senses": [{"definition_native": "さき。まえ。", "register": "neutral", "domain": [],
+       "usage_notes_vi": "Ở N5 gặp trong 先生 (せんせい: người sinh ra trước → thầy/cô).",
+       "translations": [
+         {"target": "vi", "text": "trước; phía trước", "equivalence": "close", "context_hint": "nghĩa chữ (Hán Việt: TIÊN)", "priority": 1},
+         {"target": "en", "text": "before; ahead; previous", "equivalence": "close", "context_hint": "character meaning", "priority": 1}],
+       "false_friend_note": null}],
+     "examples": [{"sense": 1, "ja": 10901727, "word": "先生", "word_reading": "せんせい"}, {"sense": 1, "ja": 13259054, "word": "先生", "word_reading": "せんせい"}],
+     "topic_tags": ["school_study", "people_family"]},
+
+    {"headword": "生", "han_viet": "sinh", "search_readings": ["せい", "しょう", "いきる", "うまれる", "なま"],
+     "senses": [{"definition_native": "いきること。うまれること。", "register": "neutral", "domain": [],
+       "usage_notes_vi": "Chữ có rất nhiều cách đọc; ở N5 cần nhớ セイ (先生), う(まれる). Nghĩa 'sống/chưa nấu' (なま) học ở cấp sau.",
+       "translations": [
+         {"target": "vi", "text": "sống; sinh ra", "equivalence": "close", "context_hint": "nghĩa chữ (Hán Việt: SINH)", "priority": 1},
+         {"target": "en", "text": "life; birth", "equivalence": "close", "context_hint": "character meaning", "priority": 1}],
+       "false_friend_note": null}],
+     "examples": [{"sense": 1, "ja": 10901727, "word": "先生", "word_reading": "せんせい"}, {"sense": 1, "ja": 13259054, "word": "先生", "word_reading": "せんせい"}],
+     "topic_tags": ["people_family"]},
+
+    {"headword": "友", "han_viet": "hữu", "search_readings": ["ゆう", "とも"],
+     "senses": [{"definition_native": "とも。ともだち。", "register": "neutral", "domain": [],
+       "usage_notes_vi": "Ở N5 gặp trong 友達 (ともだち); chữ 達 thuộc cấp cao hơn nên luôn kèm furigana.",
+       "translations": [
+         {"target": "vi", "text": "bạn", "equivalence": "exact", "context_hint": "nghĩa chữ (Hán Việt: HỮU)", "priority": 1},
+         {"target": "en", "text": "friend", "equivalence": "exact", "context_hint": "character meaning", "priority": 1}],
+       "false_friend_note": null}],
+     "examples": [{"sense": 1, "ja": 3366952, "word": "友達", "word_reading": "ともだち"}, {"sense": 1, "ja": 8635632, "word": "友達", "word_reading": "ともだち"}],
+     "topic_tags": ["people_family"]},
+
+    {"headword": "行", "han_viet": "hành", "search_readings": ["こう", "ぎょう", "いく", "ゆく", "おこなう"],
+     "senses": [
+       {"definition_native": "いくこと。", "register": "neutral", "domain": [],
+        "usage_notes_vi": "Âm Kun い(く) trong động từ 行く — nghĩa chính ở N5.",
+        "translations": [
+          {"target": "vi", "text": "đi", "equivalence": "exact", "context_hint": "nghĩa chữ (Hán Việt: HÀNH)", "priority": 1},
+          {"target": "en", "text": "going; journey", "equivalence": "close", "context_hint": "character meaning", "priority": 1}],
+        "false_friend_note": null},
+       {"definition_native": "おこなうこと。", "register": "formal", "domain": [],
+        "usage_notes_vi": "Nghĩa 'tiến hành' (行う) thuộc cấp N4 trở lên; chưa có ví dụ ở N5.",
+        "translations": [
+          {"target": "vi", "text": "tiến hành; thực hiện", "equivalence": "close", "context_hint": "nghĩa chữ trong 行う", "priority": 1},
+          {"target": "en", "text": "carry out; conduct", "equivalence": "close", "context_hint": "character meaning", "priority": 1}],
+        "false_friend_note": null}],
+     "examples": [{"sense": 1, "ja": 5320, "word": "行き", "word_reading": "いき"}, {"sense": 1, "ja": 10001937, "word": "行く", "word_reading": "いく"}],
+     "topic_tags": ["travel_transport", "daily_life"]},
+
+    {"headword": "見", "han_viet": "kiến", "search_readings": ["けん", "みる", "みえる", "みせる"],
+     "senses": [{"definition_native": "みること。", "register": "neutral", "domain": [],
+       "usage_notes_vi": "Âm Kun み(る) trong 見る; tiếng Việt có từ Hán Việt 'kiến' (ý kiến, kiến thức).",
+       "translations": [
+         {"target": "vi", "text": "nhìn; xem", "equivalence": "close", "context_hint": "nghĩa chữ (Hán Việt: KIẾN)", "priority": 1},
+         {"target": "en", "text": "see; look at", "equivalence": "exact", "context_hint": "character meaning", "priority": 1}],
+       "false_friend_note": null}],
+     "examples": [{"sense": 1, "ja": 4272241, "word": "見て", "word_reading": "みて"}, {"sense": 1, "ja": 13164768, "word": "見て", "word_reading": "みて"}],
+     "topic_tags": ["daily_life"]},
+
+    {"headword": "何", "han_viet": "hà", "search_readings": ["か", "なに", "なん"],
+     "senses": [{"definition_native": "なに。わからないものをたずねる語。", "register": "neutral", "domain": [],
+       "usage_notes_vi": "Đọc なに hoặc なん tùy âm theo sau (なんですか, なにを).",
+       "translations": [
+         {"target": "vi", "text": "cái gì; gì", "equivalence": "exact", "context_hint": "nghĩa chữ (Hán Việt: HÀ)", "priority": 1},
+         {"target": "en", "text": "what", "equivalence": "exact", "context_hint": "character meaning", "priority": 1}],
+       "false_friend_note": null}],
+     "examples": [{"sense": 1, "ja": 8635632, "word": "何", "word_reading": "なに"}],
+     "topic_tags": ["daily_life"]}
+  ]
+}

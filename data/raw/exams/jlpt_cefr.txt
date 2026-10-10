@@ -1,0 +1,139 @@
+https://www.jlpt.jp/e/about/cefr_reference.html	200	2026-10-10T08:53:19+00:00
+Indication of the CEFR Level for Reference | JLPT Japanese-Language Proficiency Test 
+ Jumps to the header 
+ Jumps to the menu 
+ Jumps to the text 
+ Page Top 
+ Start of Header 
+ Start of Menu 
+ Home > What is the Japanese-Language Proficiency Test? > Indication of the CEFR Level for Reference
+ Start of Text 
+ Contents
+ 1. Introduction 
+ 2. Method for Linking the JLPT Total Score to the CEFR Level 
+ 3. Correspondence of the JLPT Total Score to the CEFR Level 
+ 4. Score Reports from the December 2025 JLPT 
+ 5. FAQs about Reference Indication of the CEFR Level 
+ 1. Introduction
+ In 2001, the CEFR (Common European Framework of Reference for Languages: Learning, teaching, assessment ) was published by the Council of Europe as the reference framework intended for common use in learning, teaching, and assessment for languages in Europe.
+ In the CEFR, foreign language proficiency is divided into six (6) levels of A1, A2, B1, B2, C1 and C2 (C2 being the highest level) . The foreign language proficiency of a person at each level is indicated by the illustrative descriptors formatted as "can-do."
+ The CEFR has been translated into as many as forty (40) languages, and is now widely used as an international framework able to show foreign language proficiency on a common basis across languages and borders.
+ For the Japanese language, Japan's Agency for Cultural Affairs has released 「日本語教育の参照枠」（報告） (Report: Reference Framework for Japanese-Language Education; available in Japanese only), and the Japan Foundation has developed the JF Standard for Japanese-Language Education , as the frameworks for learning, teaching, and assessment for the Japanese language, both based on the CEFR.
+ The Agency Report noted that as the content of Japanese-language learning and education continues to diversify, it has become necessary to develop and make available common indicators for Japanese language proficiency as assessed by various tests. In response to the Agency Report, we decided to add the CEFR level as reference information to JLPT score reports, after carrying out various verification work so that JLPT test-takers and other JLPT stakeholders can apply the JLPT test results to the international framework (CEFR) and use the CEFR level as a reference from the December 2025 JLPT.
+ <Important Announcement > 
+ The indication of the CEFR level as a reference on the JLPT score reports was scheduled to start from the July 2025 JLPT, in accordance with the "News" dated July 21, 2023 .
+ All the procedures for the indication of the CEFR level as a reference have been completed, and we hereby announce the linking of the JLPT and CEFR level as follows, but to provide ample time for everyone who uses the results of JLPT to be adequately informed and prepare for this introduction, the start date has been changed to the December 2025 JLPT.
+ We apologize for any inconvenience this may cause, and ask for your understanding.
+ 2. Method for Linking the JLPT Total Score to the CEFR Level
+ For more information on the method for linking the JLPT to the CEFR, refer to the report 「日本語能力試験のCEFRレベル参考表示に向けて―対応付けの手続きを中心に―」 (For Reference Indication of the CEFR Level for the JLPT; on the Linking Procedures; available in Japanese only) released in February 2024.
+ The "standard setting" outlined in this report was implemented at the Japan Foundation in October 2024. In the standard setting session, experts from Japan and abroad familiar with the CEFR, testing and assessment, and the stages of development of Japanese language learners’ abilities judged the CEFR levels (A1 to C1) of JLPT "Reading" and "Listening" test questions for each level (N5 to N1). Based on those results, an analysis was conducted and cut scores were set for the CEFR level on the JLPT total score.
+ 3. Correspondence of the JLPT Total Score to the CEFR Level
+ Figure 1: Correspondence of the JLPT Total Score (N5 to N1) to the CEFR Level (A1 to C1) 
+ PDF File 
+ The reference indication of the CEFR level for the JLPT will be performed as follows.
+ (1) Indication is only shown for those who have passed each level of the JLPT. 
+ For the JLPT, examinees are determined to have failed if there is even one scoring section where the score is below the sectional pass mark, no matter how high the total score he/she might have. In such cases, the CEFR level will also not be shown. 
+ (2) The CEFR level corresponding to the total score of each JLPT level is shown for reference. 
+ The total score is the sum of the scores by scoring section. The total scores for N1, N2 and N3 comprises the scores of "Language Knowledge (Vocabulary/Grammar)," "Reading" and "Listening," while the total scores for N4 and N5 comprises the scores of "Language Knowledge (Vocabulary/Grammar) ・ Reading" and "Listening."
+ Specific reference indications are as follows. 
+ For N5, a total score of 80 or higher is indicated as A1 level. 
+ For N4, a total score of 90 or higher is indicated as A2 level. 
+ For N3, a total score of 95 to 103 is indicated as A2 level, and 104 or higher as B1 level. 
+ For N2, a total score of 90 to 111 is indicated as B1 level, and 112 or higher is indicated as B2 level. 
+ For N1, a total score of 100 to 141 is indicated as B2 level, and 142 or higher as C1 level. 
+ (3) The CEFR level is indicated for reference for the competence tested by the JLPT. 
+ The "Language Knowledge (Vocabulary/Grammar)," "Reading" and "Listening" tested by the JLPT correspond to the "Linguistic" and "Reception" in the CEFR . It does not include skills such as "Production (speaking and writing)" and "Interaction" that are not tested by the JLPT. 
+ 4. Score Reports from the December 2025 JLPT
+ As shown in the examples below, the CEFR level is notified as one type of reference information.
+ The CEFR level corresponding to the total score will be indicated for examinees who passed the test. For examinees who did not pass the test (including those with a total score that is higher than the overall pass mark but there is even one scoring section where the score is below the sectional pass mark), the CEFR level will not be shown, and a "＊" will be shown instead.
+ *The following examples are for examinees overseas. For examinees in Japan, a percentile rank is not shown.
+ [Example of notification to examinees who passed the test (N4)]
+ 得点区分別得点 （ とくてんくぶんべつとくてん ） 
+Scores by Scoring Section 
+ 総合得点 （ そうごうとくてん ） 
+Total Score 
+ 言語知識 （ げんごちしき ） （ 文字 （ もじ ） ・ 語彙 （ ごい ） ・ 文法 （ ぶんぽう ） ）・ 読解 （ どっかい ） 
+ Language Knowledge (Vocabulary/Grammar)・Reading 
+ 聴解 （ ちょうかい ） 
+Listening 
+ 100／180 
+ 60／120 
+ 40／60 
+ 参考情報 （ さんこうじょうほう ） 　Reference Information *
+ 正答率 （ せいとうりつ ） 
+Percentage of Correct Responses 
+ パーセンタイル
+ 順位 （ じゅんい ） 
+Percentile Rank 
+ CEFRレベル
+（ 言語能力 （ げんごのうりょく ） ・ 受容活動能力 （ じゅようかつどうのうりょく ） ）
+ CEFR Level
+（Linguistic, Reception） 
+ 文字 （ もじ ） ・ 語彙 （ ごい ） 
+Vocabulary 
+ 文法 （ ぶんぽう ） 
+Grammar 
+ 読解 （ どっかい ） 
+Reading 
+ B 
+ B 
+ A 
+ 71.4 
+ A2 
+ [Example of notification to examinees who did not pass the test (N4)]
+ 得点区分別得点 （ とくてんくぶんべつとくてん ） 
+Scores by Scoring Section 
+ 総合得点 （ そうごうとくてん ） 
+Total Score 
+ 言語知識 （ げんごちしき ） （ 文字 （ もじ ） ・ 語彙 （ ごい ） ・ 文法 （ ぶんぽう ） ）・ 読解 （ どっかい ） 
+ Language Knowledge (Vocabulary/Grammar)・Reading 
+ 聴解 （ ちょうかい ） 
+Listening 
+ 45／180 
+ 30／120 
+ 15／60 
+ 参考情報 （ さんこうじょうほう ） 　Reference Information *
+ 正答率 （ せいとうりつ ） 
+Percentage of Correct Responses 
+ パーセンタイル
+ 順位 （ じゅんい ） 
+Percentile Rank 
+ CEFRレベル
+（ 言語能力 （ げんごのうりょく ） ・ 受容活動能力 （ じゅようかつどうのうりょく ） ）
+ CEFR Level
+（Linguistic, Reception） 
+ 文字 （ もじ ） ・ 語彙 （ ごい ） 
+Vocabulary 
+ 文法 （ ぶんぽう ） 
+Grammar 
+ 読解 （ どっかい ） 
+Reading 
+ C 
+ C 
+ C 
+ * 
+ * 
+ *About the reference information
+ Percentage of Correct Responses 
+ Indicates "percentage of correct responses" in each category.
+ A Percentage of correct responses is 67% or higher
+ B Percentage of correct responses is between 34% and 66%
+ C Percentage of correct responses is less than 34%
+ Percentile Rank 
+ Indicates the percentage of examinees with a score lower than yours in the six latest tests, including the one you took, on the Certificate of Result and Scores of examinees who passed the test overseas (excluding those who were exempt from the Listening section). It will not be shown for those who did not pass the test (the rank is indicated as ＊).
+ CEFR Level
+(Linguistic, Reception) 
+ Indicates CEFR level corresponding to the total score. It will not be shown for those who did not pass the test (the level is indicated as ＊).
+ 5. FAQs about Reference Indication of the CEFR Level
+ Please see the FAQ "7. Reference Indication of Common European Framework of Reference for Languages (CEFR) level."
+ Contact:
+ Center for Japanese-Language Testing,
+ The Japan Foundation
+ E-mail: jlpt_sankou＠jpf.go.jp
+ (When sending an e-mail, please enter a half-width character "@" instead of a full-width character "＠.")
+ ＊Outside Japan, the test may be held only in July or December in some cities. Click here for the test schedule in your city. 
+ End of Text
+ Site Policy 
+ Privacy Policy 
+ Sitemap 
+ Links

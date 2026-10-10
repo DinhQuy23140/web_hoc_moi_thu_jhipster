@@ -1,0 +1,73 @@
+{
+  "retrieved_at": "2026-10-10T09:00:48+00:00",
+  "licenses": [
+    {
+      "repo": "jamsinclair/open-anki-jlpt-decks",
+      "license": "MIT",
+      "url": "https://github.com/jamsinclair/open-anki-jlpt-decks/blob/main/LICENSE"
+    },
+    {
+      "repo": "davidluzgouveia/kanji-data",
+      "license": "MIT",
+      "url": "https://github.com/davidluzgouveia/kanji-data/blob/master/LICENSE"
+    },
+    {
+      "repo": "openlanguageprofiles/olp-en-cefrj",
+      "license": "unknown",
+      "status": 404
+    }
+  ],
+  "olp_terms": {
+    "cefrj-vocabulary-profile-1.5.csv": "CEFR-J terms: free for research and commercial use with citation; (c) Tono Laboratory, TUFS",
+    "cefrj-grammar-profile-20180315.csv": "CEFR-J terms: free for research and commercial use with citation; (c) Tono Laboratory, TUFS",
+    "octanove-vocabulary-profile-c1c2-1.0.csv": "CC BY-SA 4.0 (Octanove Labs)"
+  },
+  "ja_vocab_per_level": {
+    "source": "https://raw.githubusercontent.com/jamsinclair/open-anki-jlpt-decks/main/src/{lvl}.csv",
+    "unit": "rows",
+    "counts": {
+      "n5": 718,
+      "n4": 668,
+      "n3": 2140,
+      "n2": 1906,
+      "n1": 2699
+    }
+  },
+  "ja_kanji_per_level": {
+    "source": "https://raw.githubusercontent.com/davidluzgouveia/kanji-data/master/kanji.json",
+    "field": "jlpt_new",
+    "counts": {
+      "n5": 79,
+      "n4": 166,
+      "n3": 367,
+      "n2": 367,
+      "n1": 1232
+    }
+  },
+  "en_vocab_per_level": {
+    "source": [
+      "https://raw.githubusercontent.com/openlanguageprofiles/olp-en-cefrj/master/cefrj-vocabulary-profile-1.5.csv",
+      "https://raw.githubusercontent.com/openlanguageprofiles/olp-en-cefrj/master/octanove-vocabulary-profile-c1c2-1.0.csv"
+    ],
+    "unit": "headword+pos",
+    "counts": {
+      "A1": 1164,
+      "A2": 1411,
+      "B1": 2446,
+      "B2": 2778,
+      "C1": 1111,
+      "C2": 1025
+    }
+  },
+  "en_grammar_per_level": {
+    "source": "https://raw.githubusercontent.com/openlanguageprofiles/olp-en-cefrj/master/cefrj-grammar-profile-20180315.csv",
+    "field": "CEFR-J Level (sublevels merged)",
+    "counts": {
+      "A1": 63,
+      "A2": 32,
+      "B1": 41,
+      "B2": 34,
+      "un": 330
+    }
+  }
+}

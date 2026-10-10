@@ -1,0 +1,510 @@
+{
+  "node_id": "ja.n5.vocab.daily_life",
+  "language": "ja",
+  "entry_type": "word",
+  "level": "N5",
+  "cefr_equiv": "A1 (estimated)",
+  "skill": "vocab",
+  "translation_pairs": ["ja-vi", "ja-en"],
+  "editor": "web_ngon_ngu editorial",
+  "entries": [
+    {
+      "headword": "食べる",
+      "reading": "たべる",
+      "pos": "v1,vt",
+      "jlpt_list_expr": "食べる",
+      "inflections": [["食べます", "たべます"], ["食べた", "たべた"], ["食べない", "たべない"], ["食べて", "たべて"], ["食べなかった", "たべなかった"], ["食べました", "たべました"], ["食べたい", "たべたい"]],
+      "variants": [],
+      "senses": [
+        {
+          "definition_native": "食べ物を口に入れて、かんで、のみこむ。",
+          "register": "neutral",
+          "domain": [],
+          "usage_notes_vi": "Dùng cho đồ ăn. Đồ uống và thuốc dùng 飲む. Tôn kính: 召し上がる; khiêm nhường: いただく.",
+          "translations": [
+            {"target": "vi", "text": "ăn", "equivalence": "exact", "context_hint": "ăn thức ăn nói chung", "priority": 1},
+            {"target": "en", "text": "to eat", "equivalence": "exact", "context_hint": "eating food in general", "priority": 1}
+          ],
+          "false_friend_note": null
+        },
+        {
+          "definition_native": "仕事やお金で、生活していく。",
+          "register": "neutral",
+          "domain": [],
+          "usage_notes_vi": "Thường ở dạng 〜で食べていく. Nghĩa mở rộng, ít gặp ở N5.",
+          "translations": [
+            {"target": "vi", "text": "sống bằng, kiếm sống bằng", "equivalence": "close", "context_hint": "〜で食べていく: sống nhờ một nghề hay khoản thu nhập", "priority": 1},
+            {"target": "en", "text": "to live on (e.g. a salary)", "equivalence": "close", "context_hint": "earning a living", "priority": 1}
+          ],
+          "false_friend_note": null
+        }
+      ],
+      "examples": [
+        {"sense": 1, "ja": 4839619, "vi": 8962941, "en": 2723491},
+        {"sense": 1, "ja": 629035, "vi_editorial": "Bạn có ăn thịt không?", "en": 427988}
+      ],
+      "collocations": ["ご飯を食べる", "肉を食べる", "パンを食べる"],
+      "synonyms": ["召し上がる", "いただく", "食う"],
+      "antonyms": [],
+      "related": ["飲む", "朝ご飯"],
+      "topic_tags": ["daily_life", "food"],
+      "exercise_hints": ["multiple_choice", "fill_blank", "listening"],
+      "vi_keys_extra": [],
+      "alias_keys": [],
+      "conflicts": []
+    },
+    {
+      "headword": "飲む",
+      "reading": "のむ",
+      "pos": "v5m,vt",
+      "jlpt_list_expr": "飲む",
+      "wiktionary_page": "のむ",
+      "inflections": [["飲みます", "のみます"], ["飲んだ", "のんだ"], ["飲まない", "のまない"], ["飲んで", "のんで"], ["飲まなかった", "のまなかった"], ["飲みました", "のみました"], ["飲みたい", "のみたい"]],
+      "variants": [["呑む", "のむ"]],
+      "senses": [
+        {
+          "definition_native": "水やお茶などを口から体に入れる。薬にも使う。",
+          "register": "neutral",
+          "domain": [],
+          "usage_notes_vi": "Dùng cho đồ uống và cả thuốc (薬を飲む). 呑む là cách viết khác, sắc thái 'nuốt chửng'.",
+          "translations": [
+            {"target": "vi", "text": "uống", "equivalence": "exact", "context_hint": "đồ uống: nước, trà, cà phê, rượu bia", "priority": 1},
+            {"target": "vi", "text": "uống (thuốc)", "equivalence": "exact", "context_hint": "薬を飲む: uống thuốc, kể cả thuốc viên", "priority": 2},
+            {"target": "en", "text": "to drink", "equivalence": "exact", "context_hint": "beverages", "priority": 1},
+            {"target": "en", "text": "to take (medicine)", "equivalence": "exact", "context_hint": "薬を飲む", "priority": 2}
+          ],
+          "false_friend_note": "Súp, canh trong tiếng Nhật thường đi với 飲む (スープを飲む, 味噌汁を飲む), trong khi tiếng Việt nói 'ăn súp', 'ăn canh'."
+        },
+        {
+          "definition_native": "相手の要求や条件を受け入れる。",
+          "register": "neutral",
+          "domain": ["đàm phán", "kinh doanh"],
+          "usage_notes_vi": "Nghĩa mở rộng: 条件を飲む, 要求を飲む. Trình độ cao hơn N5.",
+          "translations": [
+            {"target": "vi", "text": "chấp nhận (yêu cầu, điều kiện)", "equivalence": "close", "context_hint": "đàm phán: 条件を飲む, 要求を飲む", "priority": 1},
+            {"target": "en", "text": "to accept (a demand, conditions)", "equivalence": "close", "context_hint": "negotiation", "priority": 1}
+          ],
+          "false_friend_note": null
+        }
+      ],
+      "examples": [
+        {"sense": 1, "ja": 492920, "vi": 13344023, "en": 436571},
+        {"sense": 1, "ja": 177528, "vi_editorial": "Bạn đã uống thuốc chưa?", "en": 16380}
+      ],
+      "collocations": ["水を飲む", "薬を飲む", "コーヒーを飲む", "お酒を飲む"],
+      "synonyms": ["召し上がる", "いただく"],
+      "antonyms": [],
+      "related": ["食べる", "水"],
+      "topic_tags": ["daily_life", "food"],
+      "exercise_hints": ["multiple_choice", "fill_blank", "listening"],
+      "vi_keys_extra": ["uống thuốc"],
+      "alias_keys": [],
+      "conflicts": [
+        {"field": "sources.wiktionary", "detail": "Trang Wiktionary 飲む chỉ là chuyển hướng ({{ja-see|のむ}}); nội dung lấy từ trang のむ.", "resolution": "Dùng trang のむ làm nguồn Wiktionary.", "resolved": true}
+      ]
+    },
+    {
+      "headword": "水",
+      "reading": "みず",
+      "pos": "n",
+      "jlpt_list_expr": "水",
+      "inflections": [],
+      "variants": [["お水", "おみず"]],
+      "senses": [
+        {
+          "definition_native": "飲んだり洗ったりするのに使う、色のない液体。ふつう、つめたいものをいう。",
+          "register": "neutral",
+          "domain": [],
+          "usage_notes_vi": "お水 là cách nói lịch sự (nhà hàng, cửa hàng). Đọc すい trong 水曜日 (thứ Tư) là mục riêng.",
+          "translations": [
+            {"target": "vi", "text": "nước", "equivalence": "exact", "context_hint": "nước nói chung, nước uống", "priority": 1},
+            {"target": "vi", "text": "nước lạnh, nước nguội", "equivalence": "partial", "context_hint": "khi đối lập với お湯 (nước nóng)", "priority": 2},
+            {"target": "en", "text": "water", "equivalence": "exact", "context_hint": "water in general, drinking water", "priority": 1},
+            {"target": "en", "text": "cold water", "equivalence": "partial", "context_hint": "as opposed to お湯 (hot water)", "priority": 2}
+          ],
+          "false_friend_note": "水 chỉ nước ở nhiệt độ thường hoặc lạnh; nước nóng là お湯. Chữ 'nước' trong 'đất nước', 'nước mắm', 'nước ngọt' không dịch bằng 水."
+        },
+        {
+          "definition_native": "体の中などにたまる液体。",
+          "register": "neutral",
+          "domain": ["y tế"],
+          "usage_notes_vi": "Ví dụ: 膝に水がたまる (khớp gối bị tích dịch). Trình độ cao hơn N5.",
+          "translations": [
+            {"target": "vi", "text": "dịch, chất lỏng (trong cơ thể)", "equivalence": "partial", "context_hint": "ngữ cảnh y tế: tích dịch", "priority": 1},
+            {"target": "en", "text": "fluid; liquid", "equivalence": "close", "context_hint": "esp. in animal tissue", "priority": 1}
+          ],
+          "false_friend_note": null
+        },
+        {
+          "definition_native": "大雨などで川などからあふれた水。",
+          "register": "written",
+          "domain": [],
+          "usage_notes_vi": "Nghĩa 'lũ'; trong đời sống thường dùng 洪水 hoặc 大水.",
+          "translations": [
+            {"target": "vi", "text": "lũ, nước lũ", "equivalence": "partial", "context_hint": "thiên tai, nước dâng", "priority": 1},
+            {"target": "en", "text": "flood; floodwaters", "equivalence": "close", "context_hint": "natural disaster", "priority": 1}
+          ],
+          "false_friend_note": null
+        }
+      ],
+      "examples": [
+        {"sense": 1, "ja": 227004, "vi": 8795105, "en": 250149},
+        {"sense": 1, "ja": 8796822, "vi_editorial": "Nước có lạnh không?", "en": 5121227}
+      ],
+      "collocations": ["水を飲む", "冷たい水", "お水をください"],
+      "synonyms": [],
+      "antonyms": ["お湯"],
+      "related": ["飲む"],
+      "topic_tags": ["daily_life", "food"],
+      "exercise_hints": ["multiple_choice", "fill_blank", "listening"],
+      "vi_keys_extra": ["nước lạnh", "nước lũ"],
+      "alias_keys": [],
+      "conflicts": []
+    },
+    {
+      "headword": "朝ご飯",
+      "reading": "あさごはん",
+      "romaji_segments": ["asa", "gohan"],
+      "pos": "n",
+      "jlpt_list_expr": "朝御飯",
+      "inflections": [],
+      "variants": [["朝御飯", "あさごはん"], ["朝ごはん", "あさごはん"]],
+      "senses": [
+        {
+          "definition_native": "朝に食べる食事。",
+          "register": "neutral",
+          "domain": [],
+          "usage_notes_vi": "朝ご飯を食べる = ăn sáng. Trang trọng/văn viết: 朝食（ちょうしょく）. 朝飯（あさめし）thân mật, chủ yếu nam giới dùng.",
+          "translations": [
+            {"target": "vi", "text": "bữa sáng", "equivalence": "exact", "context_hint": "bữa ăn buổi sáng", "priority": 1},
+            {"target": "vi", "text": "điểm tâm", "equivalence": "exact", "context_hint": "cách nói trang trọng hơn hoặc phương ngữ", "priority": 2},
+            {"target": "en", "text": "breakfast", "equivalence": "exact", "context_hint": "morning meal", "priority": 1}
+          ],
+          "false_friend_note": null
+        }
+      ],
+      "examples": [
+        {"sense": 1, "ja": 429432, "vi": 11330614, "en": 261814},
+        {"sense": 1, "ja": 12466854, "vi_editorial": "Bạn đã ăn sáng chưa?", "en": 2644124}
+      ],
+      "collocations": ["朝ご飯を食べる", "朝ご飯を作る"],
+      "synonyms": ["朝食", "朝飯"],
+      "antonyms": [],
+      "related": ["食べる"],
+      "topic_tags": ["daily_life", "food", "time"],
+      "exercise_hints": ["multiple_choice", "fill_blank", "listening"],
+      "vi_keys_extra": ["ăn sáng"],
+      "alias_keys": [],
+      "conflicts": [
+        {"field": "headword", "detail": "open-anki-jlpt-decks ghi 朝御飯; JMdict (Jisho) liệt kê 朝ごはん, 朝ご飯, 朝御飯; Wiktionary đặt trang chính ở 朝ご飯 và liệt kê 朝御飯, 朝ごはん là dạng khác.", "resolution": "Chọn 朝ご飯 làm headword theo Wiktionary và JMdict; 朝御飯, 朝ごはん đưa vào variants.", "resolved": true}
+      ]
+    },
+    {
+      "headword": "学校",
+      "reading": "がっこう",
+      "pos": "n",
+      "jlpt_list_expr": "学校",
+      "inflections": [],
+      "variants": [],
+      "senses": [
+        {
+          "definition_native": "子どもや学生が先生から勉強をならうところ。",
+          "register": "neutral",
+          "domain": ["giáo dục"],
+          "usage_notes_vi": "学校に行く = đi học. Đơn vị đếm: 〜校. Trường đại học thường gọi là 大学.",
+          "translations": [
+            {"target": "vi", "text": "trường học", "equivalence": "exact", "context_hint": "cơ sở giáo dục", "priority": 1},
+            {"target": "vi", "text": "trường", "equivalence": "close", "context_hint": "nói gọn trong câu: 学校まで歩く = đi bộ đến trường", "priority": 2},
+            {"target": "en", "text": "school", "equivalence": "exact", "context_hint": "educational institution", "priority": 1}
+          ],
+          "false_friend_note": null
+        }
+      ],
+      "examples": [
+        {"sense": 1, "ja": 2446172, "vi": 6639471, "en": 1098292},
+        {"sense": 1, "ja": 5856349, "vi": 9510880, "en": 9500437}
+      ],
+      "collocations": ["学校に行く", "学校が終わる", "学校を休む"],
+      "synonyms": [],
+      "antonyms": [],
+      "related": ["先生", "行く", "友達"],
+      "topic_tags": ["daily_life", "school"],
+      "exercise_hints": ["multiple_choice", "fill_blank", "listening"],
+      "vi_keys_extra": ["đi học"],
+      "alias_keys": [],
+      "conflicts": []
+    },
+    {
+      "headword": "先生",
+      "reading": "せんせい",
+      "pos": "n",
+      "jlpt_list_expr": "先生",
+      "inflections": [],
+      "variants": [],
+      "senses": [
+        {
+          "definition_native": "学校などで、人に勉強を教える人。",
+          "register": "neutral",
+          "domain": ["giáo dục"],
+          "usage_notes_vi": "Khi nói về nghề của chính mình, người Nhật thường dùng 教師（きょうし）thay vì 先生.",
+          "translations": [
+            {"target": "vi", "text": "giáo viên", "equivalence": "exact", "context_hint": "nghề dạy học", "priority": 1},
+            {"target": "vi", "text": "thầy giáo, cô giáo", "equivalence": "close", "context_hint": "khi biết giới tính người dạy", "priority": 2},
+            {"target": "en", "text": "teacher; instructor", "equivalence": "exact", "context_hint": "profession", "priority": 1}
+          ],
+          "false_friend_note": null
+        },
+        {
+          "definition_native": "教師や医者、弁護士などを呼ぶときや、名前の後ろにつけて使うことば。",
+          "register": "honorific",
+          "domain": ["giáo dục", "y tế", "pháp luật"],
+          "usage_notes_vi": "Gắn sau tên: 田中先生 = thầy/cô Tanaka, bác sĩ Tanaka. Dùng để gọi trực tiếp: 先生、... = Thưa thầy/cô, ...",
+          "translations": [
+            {"target": "vi", "text": "thầy, cô (cách xưng hô)", "equivalence": "close", "context_hint": "gọi trực tiếp giáo viên", "priority": 1},
+            {"target": "vi", "text": "bác sĩ (cách xưng hô)", "equivalence": "close", "context_hint": "trong bệnh viện, phòng khám", "priority": 2},
+            {"target": "vi", "text": "ngài, ông, bà (với luật sư, nhà văn, chính khách)", "equivalence": "partial", "context_hint": "kính xưng với người có chuyên môn", "priority": 3},
+            {"target": "en", "text": "sensei (title for teachers, doctors, lawyers, etc.)", "equivalence": "explanatory", "context_hint": "form of address / suffix", "priority": 1}
+          ],
+          "false_friend_note": null
+        }
+      ],
+      "examples": [
+        {"sense": 1, "ja": 10901727, "vi_editorial": "Bố tôi là giáo viên.", "en": 251708},
+        {"sense": 2, "ja": 13259054, "vi": 14032828, "en": 13547310}
+      ],
+      "collocations": ["学校の先生", "日本語の先生", "先生に聞く"],
+      "synonyms": ["教師"],
+      "antonyms": ["学生", "生徒"],
+      "related": ["学校"],
+      "topic_tags": ["daily_life", "school", "people"],
+      "exercise_hints": ["multiple_choice", "fill_blank", "listening"],
+      "vi_keys_extra": ["thầy giáo", "cô giáo"],
+      "alias_keys": ["sensee"],
+      "conflicts": []
+    },
+    {
+      "headword": "友達",
+      "reading": "ともだち",
+      "pos": "n",
+      "jlpt_list_expr": "友達",
+      "inflections": [],
+      "variants": [["友だち", "ともだち"]],
+      "senses": [
+        {
+          "definition_native": "いっしょに遊んだり話したりする、仲のいい人。",
+          "register": "neutral",
+          "domain": [],
+          "usage_notes_vi": "達 vốn là hậu tố số nhiều nhưng 友達 dùng được cho một người. Lịch sự: お友達; trang trọng: 友人（ゆうじん）.",
+          "translations": [
+            {"target": "vi", "text": "bạn, bạn bè", "equivalence": "exact", "context_hint": "người thân thiết, bạn bè", "priority": 1},
+            {"target": "en", "text": "friend", "equivalence": "exact", "context_hint": "friend; companion", "priority": 1}
+          ],
+          "false_friend_note": null
+        }
+      ],
+      "examples": [
+        {"sense": 1, "ja": 3366952, "vi": 577172, "en": 406604},
+        {"sense": 1, "ja": 8635632, "vi": 9001460, "en": 3264735}
+      ],
+      "collocations": ["友達になる", "友達ができる", "友達と遊ぶ"],
+      "synonyms": ["友人"],
+      "antonyms": [],
+      "related": ["学校"],
+      "topic_tags": ["daily_life", "people"],
+      "exercise_hints": ["multiple_choice", "fill_blank", "listening"],
+      "vi_keys_extra": [],
+      "alias_keys": ["tomodati"],
+      "conflicts": []
+    },
+    {
+      "headword": "家",
+      "reading": "いえ",
+      "pos": "n",
+      "jlpt_list_expr": "家",
+      "inflections": [],
+      "variants": [],
+      "senses": [
+        {
+          "definition_native": "人が住むための建物。",
+          "register": "neutral",
+          "domain": [],
+          "usage_notes_vi": "家 còn đọc là うち (nhà mình, gia đình mình, sắc thái thân mật hơn) — tách thành mục riêng.",
+          "translations": [
+            {"target": "vi", "text": "ngôi nhà, căn nhà", "equivalence": "exact", "context_hint": "toà nhà để ở", "priority": 1},
+            {"target": "en", "text": "house; residence", "equivalence": "exact", "context_hint": "building", "priority": 1}
+          ],
+          "false_friend_note": null
+        },
+        {
+          "definition_native": "自分が住んでいるところ。家族といっしょにくらすところ。",
+          "register": "neutral",
+          "domain": [],
+          "usage_notes_vi": "家に帰る = về nhà. Trong hội thoại, người Nhật hay nói うち cho nghĩa này.",
+          "translations": [
+            {"target": "vi", "text": "nhà (của mình)", "equivalence": "close", "context_hint": "nơi mình sống: về nhà, ở nhà", "priority": 1},
+            {"target": "vi", "text": "gia đình", "equivalence": "partial", "context_hint": "hộ gia đình", "priority": 2},
+            {"target": "en", "text": "home; household", "equivalence": "close", "context_hint": "one's home, family", "priority": 1}
+          ],
+          "false_friend_note": null
+        },
+        {
+          "definition_native": "先祖からつづいている家族のつながり。",
+          "register": "written",
+          "domain": ["lịch sử", "văn hoá"],
+          "usage_notes_vi": "Nghĩa văn hoá–lịch sử (gia tộc, dòng họ). Trình độ cao hơn N5.",
+          "translations": [
+            {"target": "vi", "text": "dòng họ, gia tộc", "equivalence": "close", "context_hint": "truyền thống, thừa kế", "priority": 1},
+            {"target": "en", "text": "lineage; family name", "equivalence": "close", "context_hint": "ancestral family", "priority": 1}
+          ],
+          "false_friend_note": null
+        }
+      ],
+      "examples": [
+        {"sense": 1, "ja": 9405644, "vi_editorial": "Căn nhà kia đẹp nhỉ.", "en": 49382},
+        {"sense": 2, "ja": 4104541, "vi": 4184754, "en": 21530}
+      ],
+      "collocations": ["家に帰る", "家を出る", "大きい家"],
+      "synonyms": ["住まい"],
+      "antonyms": [],
+      "related": ["学校"],
+      "topic_tags": ["daily_life", "home"],
+      "exercise_hints": ["multiple_choice", "fill_blank", "listening"],
+      "vi_keys_extra": ["nhà"],
+      "alias_keys": [],
+      "conflicts": [
+        {"field": "reading", "detail": "JMdict và Wiktionary ghi 家 có hai cách đọc phổ biến là いえ và うち; danh sách JLPT N5 (open-anki-jlpt-decks) ghi いえ.", "resolution": "Mục này dùng いえ; うち sẽ là mục riêng (khác reading nên không trùng).", "resolved": true},
+        {"field": "examples[0].translations.vi", "detail": "Bản dịch Tatoeba #1548731 'Căn nhà đó trông đẹp.' thêm 'trông' và bỏ sắc thái ね.", "resolution": "Thay bằng bản dịch biên tập 'Căn nhà kia đẹp nhỉ.'", "resolved": true}
+      ]
+    },
+    {
+      "headword": "行く",
+      "reading": "いく",
+      "pos": "v5k-s,vi",
+      "jlpt_list_expr": "行く",
+      "alt_readings": ["ゆく"],
+      "inflections": [["行きます", "いきます"], ["行った", "いった"], ["行かない", "いかない"], ["行って", "いって"], ["行かなかった", "いかなかった"], ["行きました", "いきました"], ["行きたい", "いきたい"], ["行こう", "いこう"]],
+      "variants": [["往く", "いく"]],
+      "senses": [
+        {
+          "definition_native": "今いるところから、ほかのところへうごく。",
+          "register": "neutral",
+          "domain": [],
+          "usage_notes_vi": "Thể て/た bất quy tắc: 行って, 行った (không phải 行いて). 〜に/へ行く = đi đến .... Tôn kính: いらっしゃる; khiêm nhường: 参る.",
+          "translations": [
+            {"target": "vi", "text": "đi", "equivalence": "exact", "context_hint": "di chuyển đến nơi khác", "priority": 1},
+            {"target": "vi", "text": "đến", "equivalence": "close", "context_hint": "khi có đích đến: 学校に行く = đến trường, đi học", "priority": 2},
+            {"target": "en", "text": "to go", "equivalence": "exact", "context_hint": "move to another place", "priority": 1}
+          ],
+          "false_friend_note": null
+        },
+        {
+          "definition_native": "物事がすすむ。「うまくいく」のように使う。",
+          "register": "neutral",
+          "domain": [],
+          "usage_notes_vi": "Thường viết bằng kana: うまくいく (suôn sẻ). Trình độ cao hơn N5.",
+          "translations": [
+            {"target": "vi", "text": "(việc) diễn ra, tiến triển", "equivalence": "close", "context_hint": "うまくいく = suôn sẻ, thành công", "priority": 1},
+            {"target": "en", "text": "to go (well, badly); to turn out", "equivalence": "close", "context_hint": "how things proceed", "priority": 1}
+          ],
+          "false_friend_note": null
+        },
+        {
+          "definition_native": "「〜ていく」の形で、だんだん変わりつづけることをあらわす。",
+          "register": "neutral",
+          "domain": [],
+          "usage_notes_vi": "Trợ động từ sau thể て, viết bằng kana: 寒くなっていく = ngày càng lạnh dần. Mẫu ngữ pháp khoảng N4 (estimated).",
+          "translations": [
+            {"target": "vi", "text": "dần dần, ngày càng (sau thể て)", "equivalence": "explanatory", "context_hint": "〜ていく: thay đổi tiếp diễn về sau", "priority": 1},
+            {"target": "en", "text": "to go on ...; to gradually ...", "equivalence": "explanatory", "context_hint": "after the te-form", "priority": 1}
+          ],
+          "false_friend_note": null
+        }
+      ],
+      "examples": [
+        {"sense": 1, "ja": 5320, "vi": 893126, "en": 416367},
+        {"sense": 1, "ja": 10001937, "vi": 9027429, "en": 68900}
+      ],
+      "collocations": ["学校に行く", "会社に行く", "旅行に行く"],
+      "synonyms": ["いらっしゃる", "参る"],
+      "antonyms": ["来る"],
+      "related": ["学校"],
+      "topic_tags": ["daily_life", "movement"],
+      "exercise_hints": ["multiple_choice", "fill_blank", "listening"],
+      "vi_keys_extra": ["đi học"],
+      "alias_keys": [],
+      "conflicts": [
+        {"field": "learning.level", "detail": "Thẻ JLPT trên Jisho gồm cả jlpt-n1 và jlpt-n5; open-anki-jlpt-decks chỉ ghi N5 (いく; ゆく).", "resolution": "Chọn N5 (level thấp nhất mà từ xuất hiện, hai nguồn đồng thuận).", "resolved": true},
+        {"field": "senses", "detail": "JMdict có thêm các nghĩa tiếng lóng/nhạy cảm (cực khoái, phê thuốc) và nghĩa 'qua đời' (thường viết 逝く).", "resolution": "Không đưa vào lô học N5; cần quyết định riêng cho tính năng dịch.", "resolved": false}
+      ]
+    },
+    {
+      "headword": "見る",
+      "reading": "みる",
+      "pos": "v1,vt",
+      "jlpt_list_expr": "見る",
+      "inflections": [["見ます", "みます"], ["見た", "みた"], ["見ない", "みない"], ["見て", "みて"], ["見なかった", "みなかった"], ["見ました", "みました"], ["見たい", "みたい"]],
+      "variants": [["観る", "みる"], ["視る", "みる"]],
+      "senses": [
+        {
+          "definition_native": "目で、物の形や色などを知る。テレビや映画などを楽しむ。",
+          "register": "neutral",
+          "domain": [],
+          "usage_notes_vi": "見る = chủ động nhìn/xem; 見える = tự nhìn thấy được. 観る hay dùng cho phim, kịch. 夢を見る = nằm mơ.",
+          "translations": [
+            {"target": "vi", "text": "xem", "equivalence": "close", "context_hint": "TV, phim, ảnh, trận đấu", "priority": 1},
+            {"target": "vi", "text": "nhìn", "equivalence": "close", "context_hint": "hướng mắt vào một vật", "priority": 2},
+            {"target": "vi", "text": "thấy", "equivalence": "partial", "context_hint": "đã từng thấy (見たことがある); 'nhìn thấy' tự phát thường dùng 見える", "priority": 3},
+            {"target": "en", "text": "to see; to look; to watch", "equivalence": "close", "context_hint": "visual perception", "priority": 1}
+          ],
+          "false_friend_note": null
+        },
+        {
+          "definition_native": "よくしらべる。",
+          "register": "neutral",
+          "domain": [],
+          "usage_notes_vi": "Ví dụ: 答えを見る (xem đáp án), 様子を見る (theo dõi tình hình).",
+          "translations": [
+            {"target": "vi", "text": "xem xét, kiểm tra", "equivalence": "close", "context_hint": "đánh giá, kiểm tra", "priority": 1},
+            {"target": "en", "text": "to examine; to check", "equivalence": "close", "context_hint": "assessment", "priority": 1}
+          ],
+          "false_friend_note": null
+        },
+        {
+          "definition_native": "人のせわをする。",
+          "register": "neutral",
+          "domain": [],
+          "usage_notes_vi": "子どもを見る = trông trẻ; 面倒を見る = chăm sóc.",
+          "translations": [
+            {"target": "vi", "text": "trông, chăm sóc", "equivalence": "close", "context_hint": "trông trẻ, trông nhà", "priority": 1},
+            {"target": "en", "text": "to look after", "equivalence": "close", "context_hint": "take care of", "priority": 1}
+          ],
+          "false_friend_note": null
+        },
+        {
+          "definition_native": "「〜てみる」の形で、ためしにすることをあらわす。",
+          "register": "neutral",
+          "domain": [],
+          "usage_notes_vi": "Trợ động từ sau thể て, viết bằng kana: 食べてみる = ăn thử. Mẫu ngữ pháp khoảng N4 (estimated).",
+          "translations": [
+            {"target": "vi", "text": "thử (làm gì)", "equivalence": "explanatory", "context_hint": "〜てみる: làm thử", "priority": 1},
+            {"target": "en", "text": "to try ...", "equivalence": "explanatory", "context_hint": "after the te-form", "priority": 1}
+          ],
+          "false_friend_note": null
+        }
+      ],
+      "examples": [
+        {"sense": 1, "ja": 4272241, "vi": 9132104, "en": 2036345},
+        {"sense": 1, "ja": 13164768, "vi_editorial": "Tôi đang xem phim.", "en": 1661053}
+      ],
+      "collocations": ["テレビを見る", "映画を見る", "夢を見る"],
+      "synonyms": ["ご覧になる", "拝見する"],
+      "antonyms": [],
+      "related": [],
+      "topic_tags": ["daily_life", "hobby"],
+      "exercise_hints": ["multiple_choice", "fill_blank", "listening"],
+      "vi_keys_extra": ["xem phim", "xem ti vi"],
+      "alias_keys": [],
+      "conflicts": []
+    }
+  ]
+}

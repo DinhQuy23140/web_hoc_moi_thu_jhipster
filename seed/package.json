@@ -1,0 +1,11 @@
+{
+  "name": "lingora-seed",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Content dataset generator for Lingora (output in out/, imported into MySQL by the Spring Boot backend)",
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs",
+    "check": "node check.mjs"
+  }
+}

@@ -1,0 +1,110 @@
+{
+ "counters": {
+  "ja.n5.kanji": 10,
+  "ja.n5.vocab": 10
+ },
+ "ids": {
+  "ja|何||kanji": "ja.n5.kanji.00010",
+  "ja|先||kanji": "ja.n5.kanji.00005",
+  "ja|先生|せんせい|n": "ja.n5.vocab.00006",
+  "ja|友||kanji": "ja.n5.kanji.00007",
+  "ja|友達|ともだち|n": "ja.n5.vocab.00007",
+  "ja|学||kanji": "ja.n5.kanji.00003",
+  "ja|学校|がっこう|n": "ja.n5.vocab.00005",
+  "ja|家|いえ|n": "ja.n5.vocab.00008",
+  "ja|朝ご飯|あさごはん|n": "ja.n5.vocab.00004",
+  "ja|校||kanji": "ja.n5.kanji.00004",
+  "ja|水||kanji": "ja.n5.kanji.00002",
+  "ja|水|みず|n": "ja.n5.vocab.00003",
+  "ja|生||kanji": "ja.n5.kanji.00006",
+  "ja|行||kanji": "ja.n5.kanji.00008",
+  "ja|行く|いく|v5k-s,vi": "ja.n5.vocab.00009",
+  "ja|見||kanji": "ja.n5.kanji.00009",
+  "ja|見る|みる|v1,vt": "ja.n5.vocab.00010",
+  "ja|食||kanji": "ja.n5.kanji.00001",
+  "ja|食べる|たべる|v1,vt": "ja.n5.vocab.00001",
+  "ja|飲む|のむ|v5m,vt": "ja.n5.vocab.00002"
+ },
+ "versions": {
+  "ja.n5.kanji.00001": {
+   "hash": "ea37e6270bdcd368915b95ec75bc30506b0818500e66c3689b7169448e3cdb6e",
+   "version": 1
+  },
+  "ja.n5.kanji.00002": {
+   "hash": "8b68486868f0ae0f5866c83ad0b4dedededb532a7a79de5c588ee2ffd41e38a4",
+   "version": 1
+  },
+  "ja.n5.kanji.00003": {
+   "hash": "27368515f351462f093ae263f08e005f4d6a7ec154962b5ab7b08cb349e61f0a",
+   "version": 1
+  },
+  "ja.n5.kanji.00004": {
+   "hash": "40d53092c24de4a117e739a0a78c2b45f3442f38643234f5faa1ffa4c82b8d9c",
+   "version": 1
+  },
+  "ja.n5.kanji.00005": {
+   "hash": "660e31713ee5fa261b87be72af1b9c798178f5cfc3392971918222e53702a01b",
+   "version": 1
+  },
+  "ja.n5.kanji.00006": {
+   "hash": "14d2bbfa09dab914b96249cf3bc921189d05fb8c8b21eed7f1293211bc9e1217",
+   "version": 1
+  },
+  "ja.n5.kanji.00007": {
+   "hash": "dba6eaa309c056098388c2bdae7290d6a4030e4e173b4830b8e4305b9716ea48",
+   "version": 1
+  },
+  "ja.n5.kanji.00008": {
+   "hash": "3a745127252d3ddbb03c96dd5ff2ea412be7c0cf11c898a57a3466878cc815f2",
+   "version": 1
+  },
+  "ja.n5.kanji.00009": {
+   "hash": "40f790109ecbc762c17b6f26e06a8e8ccce496158f982e68f69e5c2eafab9af1",
+   "version": 1
+  },
+  "ja.n5.kanji.00010": {
+   "hash": "e4f3ba20a6659da45ac09694a2944e828b47f17013c476eed92b5044d170fb55",
+   "version": 1
+  },
+  "ja.n5.vocab.00001": {
+   "hash": "3e86d7aa7e03be915044d1609d3c0dcd7e1f7ad9cf695b54face582ddc3350ae",
+   "version": 1
+  },
+  "ja.n5.vocab.00002": {
+   "hash": "1249797605f1b3c567806e6cf2098fae362ea9ef0d9b029aaa194076964d2099",
+   "version": 1
+  },
+  "ja.n5.vocab.00003": {
+   "hash": "30165cbca8cb1842429dbf690645579a728aa23e1cbbffde6de953b481255b8d",
+   "version": 1
+  },
+  "ja.n5.vocab.00004": {
+   "hash": "d68cd7dba1738493d1236761e6313f1328c53788b3b71180aa0ce6ee386335c8",
+   "version": 1
+  },
+  "ja.n5.vocab.00005": {
+   "hash": "b075a1733418bcb53c6755d64c4d8d8b1a4f51ffbe00af87cdf389e9fd8ab89d",
+   "version": 1
+  },
+  "ja.n5.vocab.00006": {
+   "hash": "71df0ec6c26241b6be86ce67e1c2446c75ab6c0c975047f03750e78fe0e911e2",
+   "version": 1
+  },
+  "ja.n5.vocab.00007": {
+   "hash": "ef043f2c3476fe8c027301c34db8457528bc4f2970af05183dca0c8c3cee375a",
+   "version": 1
+  },
+  "ja.n5.vocab.00008": {
+   "hash": "8c2cbe57d94fc4f61a034bf2bb1265faf6c25b0502a6656c7889c7b7641d9ed1",
+   "version": 1
+  },
+  "ja.n5.vocab.00009": {
+   "hash": "9d39c5d7f2c9a867ceaaeb09bdba2df859def80d65ebc70b640fa0aa541cb277",
+   "version": 1
+  },
+  "ja.n5.vocab.00010": {
+   "hash": "1a70905e4a644b89d995241e0ad0b8ffab4a0645000980b7cb03bd64014a8af8",
+   "version": 1
+  }
+ }
+}

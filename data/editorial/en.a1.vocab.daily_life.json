@@ -1,0 +1,167 @@
+{
+  "node_id": "en.a1.vocab.daily_life",
+  "language": "en",
+  "level": "A1",
+  "skill": "vocab",
+  "entry_type": "word",
+  "cefr_equiv": "A1",
+  "editor": "web_ngon_ngu editorial team",
+  "proper_nouns": ["tom"],
+  "entries": [
+    {"headword": "eat", "pos": "verb", "ipa": {"uk": "/iːt/", "us": "/it/"}, "ja_link": "食べる",
+     "inflections": ["eats", "ate", "eaten", "eating"],
+     "senses": [{"definition_native": "to put food in your mouth and swallow it", "register": "neutral", "domain": [],
+       "usage_notes_vi": "Quá khứ bất quy tắc: ate – eaten. 'have breakfast/lunch' tự nhiên hơn 'eat breakfast' trong hội thoại.",
+       "translations": [
+         {"target": "vi", "text": "ăn", "equivalence": "exact", "context_hint": "hành động ăn nói chung", "priority": 1},
+         {"target": "ja", "text": "食べる", "equivalence": "exact", "context_hint": "動作一般", "priority": 1}],
+       "false_friend_note": null}],
+     "examples": [
+       {"sense": 1, "en": 8586627, "vi": 13634916, "ja": 8591157},
+       {"sense": 1, "en": 6358715, "vi": 13333895, "ja": 9511233}],
+     "collocations": ["eat breakfast", "eat lunch", "eat dinner"], "synonyms": [], "antonyms": [],
+     "topic_tags": ["daily_life", "food_drink"], "exercise_hints": ["meaning_choice", "irregular_past", "fill_blank"]},
+
+    {"headword": "drink", "pos": "verb", "ipa": {"uk": "/ˈdɹɪŋk/", "us": "/ˈdɹɪŋk/"}, "ja_link": "飲む",
+     "inflections": ["drinks", "drank", "drunk", "drinking"],
+     "senses": [{"definition_native": "to take a liquid into your mouth and swallow it", "register": "neutral", "domain": [],
+       "usage_notes_vi": "Không có tân ngữ, 'drink' thường hiểu là uống rượu bia (He doesn't drink).",
+       "translations": [
+         {"target": "vi", "text": "uống", "equivalence": "exact", "context_hint": "uống chất lỏng", "priority": 1},
+         {"target": "ja", "text": "飲む", "equivalence": "exact", "context_hint": "液体を飲む", "priority": 1}],
+       "false_friend_note": null}],
+     "examples": [
+       {"sense": 1, "en": 7422789, "vi": 13333861, "ja": 12829769},
+       {"sense": 1, "en": 10204225, "vi": 13339872, "ja": 10645750}],
+     "collocations": ["drink water", "drink coffee", "drink tea"], "synonyms": [], "antonyms": [],
+     "topic_tags": ["daily_life", "food_drink"], "exercise_hints": ["meaning_choice", "irregular_past", "fill_blank"]},
+
+    {"headword": "water", "pos": "noun", "ipa": {"uk": "/ˈwɔː.tə/", "us": "/ˈwɔ.tɚ/"}, "ja_link": "水",
+     "inflections": [],
+     "senses": [{"definition_native": "the clear liquid that falls as rain and that people drink", "register": "neutral", "domain": [],
+       "usage_notes_vi": "Danh từ không đếm được: some water, a glass of water (không nói 'a water' trừ khi gọi đồ uống).",
+       "translations": [
+         {"target": "vi", "text": "nước", "equivalence": "exact", "context_hint": "nước uống, nước nói chung", "priority": 1},
+         {"target": "ja", "text": "水", "equivalence": "close", "context_hint": "冷たい水（お湯は別語）", "priority": 1}],
+       "false_friend_note": "Tiếng Việt 'nước' còn nghĩa 'quốc gia' (country) — nghĩa đó không dịch là water. Tiếng Nhật phân biệt 水 (nước lạnh) và お湯 (nước nóng)."}],
+     "examples": [
+       {"sense": 1, "en": 2132096, "vi": 8795105, "ja": 143718},
+       {"sense": 1, "en": 12512236, "vi": 13341165, "ja_editorial": "水とは何ですか。"}],
+     "collocations": ["a glass of water", "cold water", "hot water"], "synonyms": [], "antonyms": [],
+     "topic_tags": ["daily_life", "food_drink"], "exercise_hints": ["meaning_choice", "countable_uncountable"]},
+
+    {"headword": "breakfast", "pos": "noun", "ipa": {"uk": "/ˈbɹɛk.fəst/", "us": "/ˈbɹɛk.fəst/"}, "ja_link": "朝ご飯",
+     "inflections": ["breakfasts"],
+     "senses": [{"definition_native": "the first meal of the day", "register": "neutral", "domain": [],
+       "usage_notes_vi": "Thường không dùng mạo từ: have breakfast, after breakfast.",
+       "translations": [
+         {"target": "vi", "text": "bữa sáng", "equivalence": "exact", "context_hint": "bữa ăn đầu ngày", "priority": 1},
+         {"target": "vi", "text": "điểm tâm", "equivalence": "close", "context_hint": "văn viết, trang trọng hơn", "priority": 2},
+         {"target": "ja", "text": "朝ご飯", "equivalence": "exact", "context_hint": "日常会話", "priority": 1},
+         {"target": "ja", "text": "朝食", "equivalence": "exact", "context_hint": "書き言葉・ホテル等", "priority": 2}],
+       "false_friend_note": null}],
+     "examples": [
+       {"sense": 1, "en": 11933214, "vi": 13339813, "ja": 12622089},
+       {"sense": 1, "en": 2432207, "vi": 5767767, "ja": 12466854}],
+     "collocations": ["have breakfast", "after breakfast", "before breakfast"], "synonyms": [], "antonyms": [],
+     "topic_tags": ["daily_life", "food_drink"], "exercise_hints": ["meaning_choice", "article_usage"]},
+
+    {"headword": "school", "pos": "noun", "ipa": {"uk": "/skuːl/", "us": "/skul/"}, "ja_link": "学校",
+     "inflections": ["schools"],
+     "senses": [{"definition_native": "a place where children go to learn", "register": "neutral", "domain": [],
+       "usage_notes_vi": "'go to school / at school' (không mạo từ) khi nói về việc đi học; 'the school' khi nói về tòa nhà cụ thể.",
+       "translations": [
+         {"target": "vi", "text": "trường học", "equivalence": "exact", "context_hint": "nơi học sinh đến học", "priority": 1},
+         {"target": "vi", "text": "trường", "equivalence": "close", "context_hint": "cách nói ngắn", "priority": 2},
+         {"target": "ja", "text": "学校", "equivalence": "exact", "context_hint": "教育機関一般", "priority": 1}],
+       "false_friend_note": null}],
+     "examples": [
+       {"sense": 1, "en": 13320607, "vi": 13333753, "ja": 2160969},
+       {"sense": 1, "en": 13886982, "vi": 13888064, "ja_editorial": "彼女はよく学校を休みます。"}],
+     "collocations": ["go to school", "at school", "after school"], "synonyms": [], "antonyms": [],
+     "topic_tags": ["daily_life", "school_study"], "exercise_hints": ["meaning_choice", "article_usage"]},
+
+    {"headword": "teacher", "pos": "noun", "ipa": {"uk": "/ˈtiː.t͡ʃəː/", "us": "/ˈti.t͡ʃɚ/"}, "ja_link": "先生",
+     "inflections": ["teachers"],
+     "senses": [{"definition_native": "a person whose job is to teach", "register": "neutral", "domain": [],
+       "usage_notes_vi": "Là nghề nghiệp; khi xưng hô trực tiếp người bản ngữ thường dùng Mr./Ms. + họ.",
+       "translations": [
+         {"target": "vi", "text": "giáo viên", "equivalence": "exact", "context_hint": "nghề nghiệp", "priority": 1},
+         {"target": "vi", "text": "thầy giáo, cô giáo", "equivalence": "close", "context_hint": "theo giới tính, khẩu ngữ", "priority": 2},
+         {"target": "ja", "text": "先生", "equivalence": "close", "context_hint": "呼称・日常語", "priority": 1},
+         {"target": "ja", "text": "教師", "equivalence": "exact", "context_hint": "職業名", "priority": 2}],
+       "false_friend_note": "Gọi 'Teacher!' như 'Thầy ơi!' nghe không tự nhiên ở nhiều nước nói tiếng Anh; 先生 tiếng Nhật còn dùng cho bác sĩ, luật sư."}],
+     "examples": [
+       {"sense": 1, "en": 13547310, "vi": 14032828, "ja": 13259054},
+       {"sense": 1, "en": 263111, "vi": 12099264, "ja": 151445}],
+     "collocations": ["English teacher", "my teacher", "a good teacher"], "synonyms": [], "antonyms": ["student"],
+     "topic_tags": ["school_study", "people_family"], "exercise_hints": ["meaning_choice", "plural"]},
+
+    {"headword": "friend", "pos": "noun", "ipa": {"uk": "/fɹɛnd/", "us": "/fɹɛnd/"}, "ja_link": "友達",
+     "inflections": ["friends"],
+     "senses": [{"definition_native": "a person you know well and like", "register": "neutral", "domain": [],
+       "usage_notes_vi": "'make friends (with)' = kết bạn; 'best friend' = bạn thân nhất.",
+       "translations": [
+         {"target": "vi", "text": "bạn", "equivalence": "exact", "context_hint": "người bạn", "priority": 1},
+         {"target": "vi", "text": "bạn bè", "equivalence": "close", "context_hint": "số nhiều, chung chung", "priority": 2},
+         {"target": "ja", "text": "友達", "equivalence": "exact", "context_hint": "日常語", "priority": 1}],
+       "false_friend_note": null}],
+     "examples": [
+       {"sense": 1, "en": 481593, "vi": 8951804, "ja": 1081318},
+       {"sense": 1, "en": 2896776, "vi": 13769919, "ja_editorial": "私には友達がいます。"}],
+     "collocations": ["best friend", "make friends", "a good friend"], "synonyms": [], "antonyms": [],
+     "topic_tags": ["people_family"], "exercise_hints": ["meaning_choice", "spelling"],
+     "alias_keys": ["freind"]},
+
+    {"headword": "house", "pos": "noun", "ipa": {"uk": "/haʊ̯s/", "us": "/haʊ̯s/"}, "ja_link": "家",
+     "inflections": ["houses"],
+     "senses": [{"definition_native": "a building where people live", "register": "neutral", "domain": [],
+       "usage_notes_vi": "'house' là tòa nhà; 'home' là nơi mình sống (tổ ấm): go home, không nói 'go to house'.",
+       "translations": [
+         {"target": "vi", "text": "nhà, ngôi nhà, căn nhà", "equivalence": "exact", "context_hint": "tòa nhà để ở", "priority": 1},
+         {"target": "ja", "text": "家", "equivalence": "close", "context_hint": "いえ：建物としての家", "priority": 1}],
+       "false_friend_note": null}],
+     "examples": [
+       {"sense": 1, "en": 10871973, "vi": 13339852, "ja": 10619352},
+       {"sense": 1, "en": 13424403, "vi": 13465077, "ja_editorial": "どの家ですか。"}],
+     "collocations": ["a big house", "at my house", "a new house"], "synonyms": ["home"], "antonyms": [],
+     "topic_tags": ["daily_life", "people_family"], "exercise_hints": ["meaning_choice", "house_vs_home"]},
+
+    {"headword": "go", "pos": "verb", "ipa": {"uk": "/ɡəʊ/", "us": "/ɡoʊ/"}, "ja_link": "行く",
+     "inflections": ["goes", "went", "gone", "going"],
+     "senses": [{"definition_native": "to move or travel to a place", "register": "neutral", "domain": [],
+       "usage_notes_vi": "go to + nơi chốn (go to school), nhưng go home / go there không có 'to'. Quá khứ: went – gone.",
+       "translations": [
+         {"target": "vi", "text": "đi", "equivalence": "exact", "context_hint": "di chuyển tới nơi khác", "priority": 1},
+         {"target": "ja", "text": "行く", "equivalence": "exact", "context_hint": "移動", "priority": 1}],
+       "false_friend_note": null}],
+     "examples": [
+       {"sense": 1, "en": 6619660, "vi": 13682586, "ja": 195365},
+       {"sense": 1, "en": 13723872, "vi": 10708479, "ja_editorial": "遊びに行きなさい。"}],
+     "collocations": ["go to school", "go home", "go shopping"], "synonyms": [], "antonyms": ["come"],
+     "topic_tags": ["daily_life", "travel_transport"], "exercise_hints": ["meaning_choice", "irregular_past", "preposition"]},
+
+    {"headword": "see", "pos": "verb", "ipa": {"uk": "/siː/", "us": "/si/"}, "ja_link": "見る",
+     "inflections": ["sees", "saw", "seen", "seeing"],
+     "senses": [
+       {"definition_native": "to notice something with your eyes", "register": "neutral", "domain": [],
+        "usage_notes_vi": "'see' là thấy (không chủ ý); 'look at' là nhìn (chủ ý); 'watch' là xem (TV, phim).",
+        "translations": [
+          {"target": "vi", "text": "thấy, nhìn thấy", "equivalence": "exact", "context_hint": "nhận biết bằng mắt", "priority": 1},
+          {"target": "vi", "text": "xem", "equivalence": "partial", "context_hint": "xem phim ở rạp (see a movie)", "priority": 2},
+          {"target": "ja", "text": "見る", "equivalence": "close", "context_hint": "目で見る", "priority": 1},
+          {"target": "ja", "text": "見える", "equivalence": "close", "context_hint": "自然に目に入る", "priority": 2}],
+        "false_friend_note": null},
+       {"definition_native": "to meet or visit someone", "register": "informal", "domain": [],
+        "usage_notes_vi": "Cụm chào tạm biệt: See you (later/tomorrow/Monday).",
+        "translations": [
+          {"target": "vi", "text": "gặp", "equivalence": "exact", "context_hint": "gặp mặt ai đó", "priority": 1},
+          {"target": "ja", "text": "会う", "equivalence": "exact", "context_hint": "人に会う", "priority": 1}],
+        "false_friend_note": null}],
+     "examples": [
+       {"sense": 1, "en": 3806575, "vi": 3806611, "ja": 5018736},
+       {"sense": 2, "en": 3822336, "vi": 13634541, "ja": 7486209}],
+     "collocations": ["see a movie", "see you later", "see a doctor"], "synonyms": [], "antonyms": [],
+     "topic_tags": ["daily_life"], "exercise_hints": ["meaning_choice", "irregular_past", "see_look_watch"]}
+  ]
+}

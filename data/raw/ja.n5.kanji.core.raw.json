@@ -1,0 +1,580 @@
+{
+ "node_id": "ja.n5.kanji.core",
+ "items": {
+  "食": {
+   "kanjidic2": {
+    "url": "http://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "retrieved_at": "2026-10-10T09:08:10+00:00",
+    "data": {
+     "grade": 2,
+     "strokes": 9,
+     "freq": 328,
+     "jlpt_old": 4,
+     "on": [
+      "ショク",
+      "ジキ"
+     ],
+     "kun": [
+      "く.う",
+      "く.らう",
+      "た.べる",
+      "は.む"
+     ],
+     "vietnam": [
+      "Thực",
+      "Tự"
+     ],
+     "meanings_en": [
+      "eat",
+      "food"
+     ]
+    }
+   },
+   "kanji_data": {
+    "url": "https://raw.githubusercontent.com/davidluzgouveia/kanji-data/master/kanji.json",
+    "retrieved_at": "2026-10-10T09:11:00+00:00",
+    "data": {
+     "strokes": 9,
+     "grade": 2,
+     "freq": 328,
+     "jlpt_old": 4,
+     "jlpt_new": 5,
+     "meanings": [
+      "Eat",
+      "Food"
+     ],
+     "readings_on": [
+      "しょく",
+      "じき"
+     ],
+     "readings_kun": [
+      "く.う",
+      "く.らう",
+      "た.べる",
+      "は.む"
+     ]
+    }
+   }
+  },
+  "水": {
+   "kanjidic2": {
+    "url": "http://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "retrieved_at": "2026-10-10T09:08:10+00:00",
+    "data": {
+     "grade": 1,
+     "strokes": 4,
+     "freq": 223,
+     "jlpt_old": 4,
+     "on": [
+      "スイ"
+     ],
+     "kun": [
+      "みず",
+      "みず-"
+     ],
+     "vietnam": [
+      "Thủy"
+     ],
+     "meanings_en": [
+      "water"
+     ]
+    }
+   },
+   "kanji_data": {
+    "url": "https://raw.githubusercontent.com/davidluzgouveia/kanji-data/master/kanji.json",
+    "retrieved_at": "2026-10-10T09:11:00+00:00",
+    "data": {
+     "strokes": 4,
+     "grade": 1,
+     "freq": 223,
+     "jlpt_old": 4,
+     "jlpt_new": 5,
+     "meanings": [
+      "Water"
+     ],
+     "readings_on": [
+      "すい"
+     ],
+     "readings_kun": [
+      "みず",
+      "みず-"
+     ]
+    }
+   }
+  },
+  "学": {
+   "kanjidic2": {
+    "url": "http://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "retrieved_at": "2026-10-10T09:08:10+00:00",
+    "data": {
+     "grade": 1,
+     "strokes": 8,
+     "freq": 63,
+     "jlpt_old": 4,
+     "on": [
+      "ガク"
+     ],
+     "kun": [
+      "まな.ぶ"
+     ],
+     "vietnam": [
+      "Học"
+     ],
+     "meanings_en": [
+      "study",
+      "learning",
+      "science"
+     ]
+    }
+   },
+   "kanji_data": {
+    "url": "https://raw.githubusercontent.com/davidluzgouveia/kanji-data/master/kanji.json",
+    "retrieved_at": "2026-10-10T09:11:00+00:00",
+    "data": {
+     "strokes": 8,
+     "grade": 1,
+     "freq": 63,
+     "jlpt_old": 4,
+     "jlpt_new": 5,
+     "meanings": [
+      "Study",
+      "Learning",
+      "Science"
+     ],
+     "readings_on": [
+      "がく"
+     ],
+     "readings_kun": [
+      "まな.ぶ"
+     ]
+    }
+   }
+  },
+  "校": {
+   "kanjidic2": {
+    "url": "http://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "retrieved_at": "2026-10-10T09:08:10+00:00",
+    "data": {
+     "grade": 1,
+     "strokes": 10,
+     "freq": 294,
+     "jlpt_old": 4,
+     "on": [
+      "コウ",
+      "キョウ"
+     ],
+     "kun": [],
+     "vietnam": [
+      "Giáo",
+      "Hiệu",
+      "Hào"
+     ],
+     "meanings_en": [
+      "exam",
+      "school",
+      "printing",
+      "proof",
+      "correction"
+     ]
+    }
+   },
+   "kanji_data": {
+    "url": "https://raw.githubusercontent.com/davidluzgouveia/kanji-data/master/kanji.json",
+    "retrieved_at": "2026-10-10T09:11:00+00:00",
+    "data": {
+     "strokes": 10,
+     "grade": 1,
+     "freq": 294,
+     "jlpt_old": 4,
+     "jlpt_new": 5,
+     "meanings": [
+      "Exam",
+      "School",
+      "Printing",
+      "Proof",
+      "Correction"
+     ],
+     "readings_on": [
+      "こう",
+      "きょう"
+     ],
+     "readings_kun": []
+    }
+   }
+  },
+  "先": {
+   "kanjidic2": {
+    "url": "http://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "retrieved_at": "2026-10-10T09:08:10+00:00",
+    "data": {
+     "grade": 1,
+     "strokes": 6,
+     "freq": 173,
+     "jlpt_old": 4,
+     "on": [
+      "セン"
+     ],
+     "kun": [
+      "さき",
+      "ま.ず"
+     ],
+     "vietnam": [
+      "Tiên",
+      "Tiến"
+     ],
+     "meanings_en": [
+      "before",
+      "ahead",
+      "previous",
+      "future",
+      "precedence"
+     ]
+    }
+   },
+   "kanji_data": {
+    "url": "https://raw.githubusercontent.com/davidluzgouveia/kanji-data/master/kanji.json",
+    "retrieved_at": "2026-10-10T09:11:00+00:00",
+    "data": {
+     "strokes": 6,
+     "grade": 1,
+     "freq": 173,
+     "jlpt_old": 4,
+     "jlpt_new": 5,
+     "meanings": [
+      "Before",
+      "Ahead",
+      "Previous",
+      "Future",
+      "Precedence"
+     ],
+     "readings_on": [
+      "せん"
+     ],
+     "readings_kun": [
+      "さき",
+      "ま.ず"
+     ]
+    }
+   }
+  },
+  "生": {
+   "kanjidic2": {
+    "url": "http://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "retrieved_at": "2026-10-10T09:08:10+00:00",
+    "data": {
+     "grade": 1,
+     "strokes": 5,
+     "freq": 29,
+     "jlpt_old": 4,
+     "on": [
+      "セイ",
+      "ショウ"
+     ],
+     "kun": [
+      "い.きる",
+      "い.かす",
+      "い.ける",
+      "う.まれる",
+      "うま.れる",
+      "う.まれ",
+      "うまれ",
+      "う.む",
+      "お.う",
+      "は.える",
+      "は.やす",
+      "き",
+      "なま",
+      "なま-",
+      "な.る",
+      "な.す",
+      "む.す",
+      "-う"
+     ],
+     "vietnam": [
+      "Sanh",
+      "Sinh"
+     ],
+     "meanings_en": [
+      "life",
+      "genuine",
+      "birth"
+     ]
+    }
+   },
+   "kanji_data": {
+    "url": "https://raw.githubusercontent.com/davidluzgouveia/kanji-data/master/kanji.json",
+    "retrieved_at": "2026-10-10T09:11:00+00:00",
+    "data": {
+     "strokes": 5,
+     "grade": 1,
+     "freq": 29,
+     "jlpt_old": 4,
+     "jlpt_new": 5,
+     "meanings": [
+      "Life",
+      "Genuine",
+      "Birth"
+     ],
+     "readings_on": [
+      "せい",
+      "しょう"
+     ],
+     "readings_kun": [
+      "い.きる",
+      "い.かす",
+      "い.ける",
+      "う.まれる",
+      "うま.れる",
+      "う.まれ",
+      "うまれ",
+      "う.む",
+      "お.う",
+      "は.える",
+      "は.やす",
+      "き",
+      "なま",
+      "なま-",
+      "な.る",
+      "な.す",
+      "む.す",
+      "-う"
+     ]
+    }
+   }
+  },
+  "友": {
+   "kanjidic2": {
+    "url": "http://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "retrieved_at": "2026-10-10T09:08:10+00:00",
+    "data": {
+     "grade": 2,
+     "strokes": 4,
+     "freq": 622,
+     "jlpt_old": 4,
+     "on": [
+      "ユウ"
+     ],
+     "kun": [
+      "とも"
+     ],
+     "vietnam": [
+      "Hữu"
+     ],
+     "meanings_en": [
+      "friend"
+     ]
+    }
+   },
+   "kanji_data": {
+    "url": "https://raw.githubusercontent.com/davidluzgouveia/kanji-data/master/kanji.json",
+    "retrieved_at": "2026-10-10T09:11:00+00:00",
+    "data": {
+     "strokes": 4,
+     "grade": 2,
+     "freq": 622,
+     "jlpt_old": 4,
+     "jlpt_new": 5,
+     "meanings": [
+      "Friend"
+     ],
+     "readings_on": [
+      "ゆう"
+     ],
+     "readings_kun": [
+      "とも"
+     ]
+    }
+   }
+  },
+  "行": {
+   "kanjidic2": {
+    "url": "http://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "retrieved_at": "2026-10-10T09:08:10+00:00",
+    "data": {
+     "grade": 2,
+     "strokes": 6,
+     "freq": 20,
+     "jlpt_old": 4,
+     "on": [
+      "コウ",
+      "ギョウ",
+      "アン"
+     ],
+     "kun": [
+      "い.く",
+      "ゆ.く",
+      "-ゆ.き",
+      "-ゆき",
+      "-い.き",
+      "-いき",
+      "おこな.う",
+      "おこ.なう"
+     ],
+     "vietnam": [
+      "Hành",
+      "Hạnh",
+      "Hàng",
+      "Hạng"
+     ],
+     "meanings_en": [
+      "going",
+      "journey",
+      "carry out",
+      "conduct",
+      "act",
+      "line",
+      "row",
+      "bank"
+     ]
+    }
+   },
+   "kanji_data": {
+    "url": "https://raw.githubusercontent.com/davidluzgouveia/kanji-data/master/kanji.json",
+    "retrieved_at": "2026-10-10T09:11:00+00:00",
+    "data": {
+     "strokes": 6,
+     "grade": 2,
+     "freq": 20,
+     "jlpt_old": 4,
+     "jlpt_new": 5,
+     "meanings": [
+      "Going",
+      "Journey",
+      "Carry Out",
+      "Conduct",
+      "Act",
+      "Line",
+      "Row",
+      "Bank"
+     ],
+     "readings_on": [
+      "こう",
+      "ぎょう",
+      "あん"
+     ],
+     "readings_kun": [
+      "い.く",
+      "ゆ.く",
+      "-ゆ.き",
+      "-ゆき",
+      "-い.き",
+      "-いき",
+      "おこな.う",
+      "おこ.なう"
+     ]
+    }
+   }
+  },
+  "見": {
+   "kanjidic2": {
+    "url": "http://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "retrieved_at": "2026-10-10T09:08:10+00:00",
+    "data": {
+     "grade": 1,
+     "strokes": 7,
+     "freq": 22,
+     "jlpt_old": 4,
+     "on": [
+      "ケン"
+     ],
+     "kun": [
+      "み.る",
+      "み.える",
+      "み.せる"
+     ],
+     "vietnam": [
+      "Kiến",
+      "Hiện"
+     ],
+     "meanings_en": [
+      "see",
+      "hopes",
+      "chances",
+      "idea",
+      "opinion",
+      "look at",
+      "visible"
+     ]
+    }
+   },
+   "kanji_data": {
+    "url": "https://raw.githubusercontent.com/davidluzgouveia/kanji-data/master/kanji.json",
+    "retrieved_at": "2026-10-10T09:11:00+00:00",
+    "data": {
+     "strokes": 7,
+     "grade": 1,
+     "freq": 22,
+     "jlpt_old": 4,
+     "jlpt_new": 5,
+     "meanings": [
+      "See",
+      "Hopes",
+      "Chances",
+      "Idea",
+      "Opinion",
+      "Look At",
+      "Visible"
+     ],
+     "readings_on": [
+      "けん"
+     ],
+     "readings_kun": [
+      "み.る",
+      "み.える",
+      "み.せる"
+     ]
+    }
+   }
+  },
+  "何": {
+   "kanjidic2": {
+    "url": "http://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "retrieved_at": "2026-10-10T09:08:10+00:00",
+    "data": {
+     "grade": 2,
+     "strokes": 7,
+     "freq": 340,
+     "jlpt_old": 4,
+     "on": [
+      "カ"
+     ],
+     "kun": [
+      "なに",
+      "なん",
+      "なに-",
+      "なん-"
+     ],
+     "vietnam": [
+      "Hà"
+     ],
+     "meanings_en": [
+      "what"
+     ]
+    }
+   },
+   "kanji_data": {
+    "url": "https://raw.githubusercontent.com/davidluzgouveia/kanji-data/master/kanji.json",
+    "retrieved_at": "2026-10-10T09:11:00+00:00",
+    "data": {
+     "strokes": 7,
+     "grade": 2,
+     "freq": 340,
+     "jlpt_old": 4,
+     "jlpt_new": 5,
+     "meanings": [
+      "What"
+     ],
+     "readings_on": [
+      "か"
+     ],
+     "readings_kun": [
+      "なに",
+      "なん",
+      "なに-",
+      "なん-"
+     ]
+    }
+   }
+  }
+ }
+}

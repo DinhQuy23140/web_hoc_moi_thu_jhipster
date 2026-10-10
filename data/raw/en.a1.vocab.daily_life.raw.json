@@ -1,0 +1,2761 @@
+{
+ "node_id": "en.a1.vocab.daily_life",
+ "retrieved_at": "2026-10-10T09:21:21+00:00",
+ "ngsl_columns": [
+  "Lemma",
+  "SFI Rank",
+  "SFI",
+  "Adjusted Frequency per Million (U)"
+ ],
+ "items": {
+  "eat": {
+   "cefrj": {
+    "url": "https://github.com/openlanguageprofiles/olp-en-cefrj",
+    "retrieved_at": "2026-10-10T09:21:21+00:00",
+    "rows": [
+     {
+      "headword": "eat",
+      "pos": "verb",
+      "CEFR": "A1",
+      "CoreInventory 1": "",
+      "CoreInventory 2": "",
+      "Threshold": ""
+     }
+    ]
+   },
+   "ngsl": {
+    "url": "https://www.newgeneralservicelist.com/s/NGSL_12_stats.csv",
+    "retrieved_at": "2026-10-10T09:21:21+00:00",
+    "rows": [
+     {
+      "rank": 476,
+      "Lemma": "eat",
+      "SFI Rank": "476",
+      "SFI": "63.19",
+      "Adjusted Frequency per Million (U)": "209"
+     }
+    ]
+   },
+   "wiktionary": {
+    "url": "https://en.wiktionary.org/wiki/eat#English",
+    "status": 200,
+    "retrieved_at": "2026-10-10T09:21:22+00:00",
+    "ipa": [
+     "{{IPA|en|/iːt/}}",
+     "{{IPA|en|/it/}}"
+    ],
+    "headword_templates": [
+     "{{en-verb|+|+|ate,et<l:dialectal>,~<l:obsolete>|n,etten<l:dialectal>,ate<l:nonstandard>}}",
+     "{{en-noun}}"
+    ],
+    "pos_headers": [
+     "Pronunciation",
+     "Verb",
+     "Conjugation",
+     "Derived terms",
+     "Related terms",
+     "Translations",
+     "See also",
+     "Noun",
+     "Anagrams"
+    ]
+   },
+   "tatoeba": {
+    "url": "https://tatoeba.org/en/api_v0/search?from=eng&to=vie&query=eat&orphans=no&unapproved=no&sort=words",
+    "status": 200,
+    "retrieved_at": "2026-10-10T09:22:10+00:00",
+    "sentences": [
+     {
+      "id": 8586627,
+      "text": "Finish eating.",
+      "license": "CC BY 2.0 FR",
+      "owner": "CK",
+      "translations": [
+       {
+        "id": 8591157,
+        "lang": "jpn",
+        "text": "食べ終えなさい。",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "small_snow",
+        "transcriptions": [
+         "[食|た]べ[終|お]えなさい。"
+        ]
+       },
+       {
+        "id": 13634916,
+        "lang": "vie",
+        "text": "Ăn xong đi đã.",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "leucammieuvu",
+        "transcriptions": []
+       }
+      ]
+     },
+     {
+      "id": 6702019,
+      "text": "She eats.",
+      "license": "CC BY 2.0 FR",
+      "owner": "grindeldore",
+      "translations": [
+       {
+        "id": 12095242,
+        "lang": "vie",
+        "text": "Là.",
+        "direct": null,
+        "license": "CC BY 2.0 FR",
+        "owner": "mqd",
+        "transcriptions": []
+       },
+       {
+        "id": 12095244,
+        "lang": "vie",
+        "text": "Nó là.",
+        "direct": null,
+        "license": "CC BY 2.0 FR",
+        "owner": "mqd",
+        "transcriptions": []
+       },
+       {
+        "id": 12095245,
+        "lang": "vie",
+        "text": "Cô ấy là.",
+        "direct": null,
+        "license": "CC BY 2.0 FR",
+        "owner": "mqd",
+        "transcriptions": []
+       }
+      ]
+     },
+     {
+      "id": 6702018,
+      "text": "He eats.",
+      "license": "CC BY 2.0 FR",
+      "owner": "grindeldore",
+      "translations": [
+       {
+        "id": 4642828,
+        "lang": "jpn",
+        "text": "彼は食べています。",
+        "direct": null,
+        "license": "CC BY 2.0 FR",
+        "owner": "dbahasa",
+        "transcriptions": [
+         "[彼|かれ]は[食|た]べています。"
+        ]
+       },
+       {
+        "id": 12095242,
+        "lang": "vie",
+        "text": "Là.",
+        "direct": null,
+        "license": "CC BY 2.0 FR",
+        "owner": "mqd",
+        "transcriptions": []
+       },
+       {
+        "id": 12095244,
+        "lang": "vie",
+        "text": "Nó là.",
+        "direct": null,
+        "license": "CC BY 2.0 FR",
+        "owner": "mqd",
+        "transcriptions": []
+       }
+      ]
+     },
+     {
+      "id": 6358715,
+      "text": "Please eat.",
+      "license": "CC BY 2.0 FR",
+      "owner": "CK",
+      "translations": [
+       {
+        "id": 9511216,
+        "lang": "jpn",
+        "text": "どうぞお召し上がりください。",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "small_snow",
+        "transcriptions": [
+         "どうぞお[召|め]し[上|あ]がりください。"
+        ]
+       },
+       {
+        "id": 9511233,
+        "lang": "jpn",
+        "text": "どうぞ召し上がってください。",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "small_snow",
+        "transcriptions": [
+         "どうぞ[召|め]し[上|あ]がってください。"
+        ]
+       },
+       {
+        "id": 13333895,
+        "lang": "vie",
+        "text": "Hãy ăn đi.",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "leucammieuvu",
+        "transcriptions": []
+       }
+      ]
+     },
+     {
+      "id": 4768107,
+      "text": "Eat it.",
+      "license": "CC BY 2.0 FR",
+      "owner": "garborg",
+      "translations": [
+       {
+        "id": 8957153,
+        "lang": "vie",
+        "text": "Ăn đi.",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "dotheduyet1999",
+        "transcriptions": []
+       },
+       {
+        "id": 8957154,
+        "lang": "vie",
+        "text": "Ăn nó đi.",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "dotheduyet1999",
+        "transcriptions": []
+       },
+       {
+        "id": 9101667,
+        "lang": "jpn",
+        "text": "食べましょう。",
+        "direct": null,
+        "license": "CC BY 2.0 FR",
+        "owner": "tontonton",
+        "transcriptions": [
+         "[食|た]べましょう。"
+        ]
+       }
+      ]
+     },
+     {
+      "id": 1495917,
+      "text": "Eat slowly.",
+      "license": "CC BY 2.0 FR",
+      "owner": "CK",
+      "translations": [
+       {
+        "id": 5241324,
+        "lang": "jpn",
+        "text": "ゆっくり食べて。",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "nihonjin",
+        "transcriptions": [
+         "ゆっくり[食|た]べて。"
+        ]
+       },
+       {
+        "id": 13339774,
+        "lang": "vie",
+        "text": "Ăn chậm thôi.",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "leucammieuvu",
+        "transcriptions": []
+       },
+       {
+        "id": 145836,
+        "lang": "jpn",
+        "text": "食事はゆっくりとるようにしなさい。",
+        "direct": null,
+        "license": "CC BY 2.0 FR",
+        "owner": "bunbuku",
+        "transcriptions": [
+         "[食事|しょく|じ]はゆっくりとるようにしなさい。"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  },
+  "drink": {
+   "cefrj": {
+    "url": "https://github.com/openlanguageprofiles/olp-en-cefrj",
+    "retrieved_at": "2026-10-10T09:22:10+00:00",
+    "rows": [
+     {
+      "headword": "drink",
+      "pos": "noun",
+      "CEFR": "A1",
+      "CoreInventory 1": "Food and drink",
+      "CoreInventory 2": "",
+      "Threshold": "Food and drink"
+     },
+     {
+      "headword": "drink",
+      "pos": "verb",
+      "CEFR": "A1",
+      "CoreInventory 1": "",
+      "CoreInventory 2": "",
+      "Threshold": ""
+     }
+    ]
+   },
+   "ngsl": {
+    "url": "https://www.newgeneralservicelist.com/s/NGSL_12_stats.csv",
+    "retrieved_at": "2026-10-10T09:22:10+00:00",
+    "rows": [
+     {
+      "rank": 655,
+      "Lemma": "drink",
+      "SFI Rank": "655",
+      "SFI": "61.66",
+      "Adjusted Frequency per Million (U)": "147"
+     }
+    ]
+   },
+   "wiktionary": {
+    "url": "https://en.wiktionary.org/wiki/drink#English",
+    "status": 200,
+    "retrieved_at": "2026-10-10T09:22:11+00:00",
+    "ipa": [
+     "{{IPA|en|/ˈdɹɪŋk/|[ˈd͡ɹ̝ʷɪŋk]|~|[ˈd̠͡ɹ̠˔ʷɪŋk]}}",
+     "{{IPA|en|/ˈdɹiŋk/|[d͡ɹ̝ʷiŋk]|~|[ˈd̠͡ɹ̠˔ʷiŋk]|;|[d͡ɹ̝ʷɪ̝ŋk]|~|[ˈd̠͡ɹ̠˔ʷɪ̝ŋk]|a=Upper Midwestern US,Western US,CA}}",
+     "{{IPA|en|/ˈdɹæŋk/|[ˈd͡ɹ̝ʷæŋk]|~|[ˈd̠͡ɹ̠˔ʷæŋk]|a=non-æ-tensing}}",
+     "{{IPA|en|/ˈdɹeɪ̯ŋk/|[d͡ɹ̝ʷeɪ̯ŋk]|~|[ˈd̠͡ɹ̠˔ʷeɪ̯ŋk]|;|/ˈdɹɛ̃ŋk/|[d͡ɹ̝ʷɛ̃ŋk]|~|[ˈd̠͡ɹ̠˔ʷɛ̃ŋk]|a=æ-tensing}}"
+    ],
+    "headword_templates": [
+     "{{en-verb|~s|~ing|drank,drunk<l:Southern US>,~ed<l:nonstandard>|drunk,drunken<l:chiefly,archaic>,drank<l:dialectal>,~ed<l:all,nonstandard,archaic,or,obsolete>,~en,dranken}}",
+     "{{en-noun|~}}"
+    ],
+    "pos_headers": [
+     "Alternative forms",
+     "Pronunciation",
+     "Verb",
+     "Derived terms",
+     "Related terms",
+     "Descendants",
+     "Translations",
+     "Noun",
+     "Usage notes",
+     "Synonyms",
+     "Derived terms",
+     "Descendants",
+     "Translations"
+    ]
+   },
+   "tatoeba": {
+    "url": "https://tatoeba.org/en/api_v0/search?from=eng&to=vie&query=drink&orphans=no&unapproved=no&sort=words",
+    "status": 200,
+    "retrieved_at": "2026-10-10T09:22:48+00:00",
+    "sentences": [
+     {
+      "id": 7422789,
+      "text": "Drink this.",
+      "license": "CC BY 2.0 FR",
+      "owner": "CK",
+      "translations": [
+       {
+        "id": 12829768,
+        "lang": "jpn",
+        "text": "これを飲むんだ。",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "small_snow",
+        "transcriptions": [
+         "これを[飲|の]むんだ。"
+        ]
+       },
+       {
+        "id": 12829769,
+        "lang": "jpn",
+        "text": "これを飲め。",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "small_snow",
+        "transcriptions": [
+         "これを[飲|の]め。"
+        ]
+       },
+       {
+        "id": 13333861,
+        "lang": "vie",
+        "text": "Uống cái này đi.",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "leucammieuvu",
+        "transcriptions": []
+       }
+      ]
+     },
+     {
+      "id": 4707795,
+      "text": "Drink something.",
+      "license": "CC BY 2.0 FR",
+      "owner": "AlanF_US",
+      "translations": [
+       {
+        "id": 9314866,
+        "lang": "jpn",
+        "text": "何か飲みなさい。",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "small_snow",
+        "transcriptions": [
+         "[何|なに]か[飲|の]みなさい。"
+        ]
+       },
+       {
+        "id": 9314867,
+        "lang": "jpn",
+        "text": "何か飲んで。",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "small_snow",
+        "transcriptions": [
+         "[何|なに]か[飲|の]んで。"
+        ]
+       },
+       {
+        "id": 13682623,
+        "lang": "vie",
+        "text": "Uống gì đó đi.",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "leucammieuvu",
+        "transcriptions": []
+       }
+      ]
+     },
+     {
+      "id": 2111187,
+      "text": "Tom drinks.",
+      "license": "CC BY 2.0 FR",
+      "owner": "CK",
+      "translations": [
+       {
+        "id": 7490665,
+        "lang": "jpn",
+        "text": "トムはお酒を飲む。",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "Ninja",
+        "transcriptions": [
+         "トムはお[酒|さけ]を[飲|の]む。"
+        ]
+       },
+       {
+        "id": 13338434,
+        "lang": "vie",
+        "text": "Tom uống.",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "leucammieuvu",
+        "transcriptions": []
+       }
+      ]
+     },
+     {
+      "id": 13723833,
+      "text": "Who drinks beer?",
+      "license": "CC BY 2.0 FR",
+      "owner": "an_hien",
+      "translations": [
+       {
+        "id": 12052553,
+        "lang": "vie",
+        "text": "Ai uống bia?",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "mqd",
+        "transcriptions": []
+       }
+      ]
+     },
+     {
+      "id": 10216188,
+      "text": "Ziri drinks beer.",
+      "license": "CC BY 2.0 FR",
+      "owner": "Amastan",
+      "translations": [
+       {
+        "id": 13437770,
+        "lang": "vie",
+        "text": "Ziri uống bia.",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "leucammieuvu",
+        "transcriptions": []
+       }
+      ]
+     },
+     {
+      "id": 10204225,
+      "text": "Drink your juice.",
+      "license": "CC BY 2.0 FR",
+      "owner": "Amastan",
+      "translations": [
+       {
+        "id": 10645750,
+        "lang": "jpn",
+        "text": "ジュースを飲んで。",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "hansolo",
+        "transcriptions": [
+         "ジュースを[飲|の]んで。"
+        ]
+       },
+       {
+        "id": 13339872,
+        "lang": "vie",
+        "text": "Uống nước ép của bạn đi.",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "leucammieuvu",
+        "transcriptions": []
+       }
+      ]
+     }
+    ]
+   }
+  },
+  "water": {
+   "cefrj": {
+    "url": "https://github.com/openlanguageprofiles/olp-en-cefrj",
+    "retrieved_at": "2026-10-10T09:22:48+00:00",
+    "rows": [
+     {
+      "headword": "water",
+      "pos": "noun",
+      "CEFR": "A1",
+      "CoreInventory 1": "",
+      "CoreInventory 2": "",
+      "Threshold": "Food and drink"
+     },
+     {
+      "headword": "water",
+      "pos": "verb",
+      "CEFR": "B2",
+      "CoreInventory 1": "",
+      "CoreInventory 2": "",
+      "Threshold": ""
+     }
+    ]
+   },
+   "ngsl": {
+    "url": "https://www.newgeneralservicelist.com/s/NGSL_12_stats.csv",
+    "retrieved_at": "2026-10-10T09:22:48+00:00",
+    "rows": [
+     {
+      "rank": 322,
+      "Lemma": "water",
+      "SFI Rank": "322",
+      "SFI": "64.87",
+      "Adjusted Frequency per Million (U)": "307"
+     }
+    ]
+   },
+   "wiktionary": {
+    "url": "https://en.wiktionary.org/wiki/water#English",
+    "status": 200,
+    "retrieved_at": "2026-10-10T09:22:49+00:00",
+    "ipa": [
+     "{{IPA|en|/ˈwɔː.tə/|[ˈwo̞ː.tʰə]|a=RP}}",
+     "{{IPA|en|/ˈwɔː.ʔə/|a=Cockney}}",
+     "{{IPA|en|/ˈwa.tɐ/|a=Northumbria}}",
+     "{{IPA|en|/ˈwa.tə/|a=Yorkshire}}",
+     "{{IPA|en|/ˈwɔ.tɚ/|[ˈwɔ.ɾɚ]|a=non-cot-caught}}",
+     "{{IPA|en|/ˈwɑ.tɚ/|[ˈwɑ.ɾɚ]|/ˈwɒ-/|[ˈwɒ-]|a=cot-caught}}",
+     "{{IPA|en|/ˈwʊ.tɚ/|[ˈwʊ.ɾɚ]|a=Baltimore,Philadelphia}}",
+     "{{IPA|en|/ˈwoː.tə/|[ˈwoː.ɾə]|a=AU,NZ}}",
+     "{{IPA|en|[ˈwoː.ʔɐ]|[-ʔə]|a=Estuary English}}",
+     "{{IPA|en|[ˈwoʊ̯.ʔə]|[ˈwɔo̯.ɾɐ]|a=Cockney}}",
+     "{{IPA|en|/ˈwæ.tə/|a=Northern England,dated; obsolete elsewhere}}, {{IPAchar|[ˈwa.tʰə]|[-ɾɚ]}}",
+     "{{IPA|en|/ˈwɔ.təɾ/|a=Scotland}}, {{IPAchar|[ˈwɔ.təɾ]}}",
+     "{{IPA|en|[ˈwɔə̯.ɾə]|[-ɾɚ]|a=NYC}}",
+     "{{IPA|en|/ˈwʊ.tɚ/|[ˈwʊ.ɾɚ]|a=Philadelphia,Baltimore}}, {{enPR|wo͝otər}}",
+     "{{IPA|en|/ˈwɔɹ.tɚ/|[ˈwɔɹ.ɾɚ]|a=Western Pennsylvania}}, {{enPR|wôrtər}}",
+     "{{IPA|en|/ˈwɔː.tɚ/|[ˈwɒː.θ̠ɚ]|[ˈwɔː.ʔɚ]|a=Ireland}}",
+     "{{IPA|en|[ˈwɔ(ː).ʈə(ɾ)]|[ˈʋɔ(ː)-]|a=India}}",
+     "{{IPA|en|[ˈʋäː.ʈ(ə)ɾ(ɯ)]|[ˈwäː-]|a=Tamil Nadu}}",
+     "{{IPA|en|/ˈwoː.tə/|[ˈwɔː.tə]|a=South Africa}}",
+     "{{IPA|en|/ˈwɔ.tə/|a=SG,Malaysia}}",
+     "{{IPA|en|/ˈwɐː.t̪ɛɾ/|a=Philippines}}"
+    ],
+    "headword_templates": [
+     "{{en-noun|~}}",
+     "{{en-verb}}"
+    ],
+    "pos_headers": [
+     "Pronunciation",
+     "Noun",
+     "Alternative forms",
+     "Derived terms",
+     "Descendants",
+     "Translations",
+     "Verb",
+     "Derived terms",
+     "Translations",
+     "Further reading",
+     "Anagrams"
+    ]
+   },
+   "tatoeba": {
+    "url": "https://tatoeba.org/en/api_v0/search?from=eng&to=vie&query=water&orphans=no&unapproved=no&sort=words",
+    "status": 200,
+    "retrieved_at": "2026-10-10T09:23:24+00:00",
+    "sentences": [
+     {
+      "id": 2132096,
+      "text": "Water, please.",
+      "license": "CC BY 2.0 FR",
+      "owner": "AlanF_US",
+      "translations": [
+       {
+        "id": 143718,
+        "lang": "jpn",
+        "text": "水をください。",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "bunbuku",
+        "transcriptions": [
+         "[水|みず]をください。"
+        ]
+       },
+       {
+        "id": 227004,
+        "lang": "jpn",
+        "text": "お水をください。",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "bunbuku",
+        "transcriptions": [
+         "お[水|みず]をください。"
+        ]
+       },
+       {
+        "id": 8795105,
+        "lang": "vie",
+        "text": "Cho tôi xin ít nước.",
+        "direct": null,
+        "license": "CC BY 2.0 FR",
+        "owner": "dotheduyet1999",
+        "transcriptions": []
+       }
+      ]
+     },
+     {
+      "id": 14024957,
+      "text": "Hot water, please.",
+      "license": "CC BY 2.0 FR",
+      "owner": "rul",
+      "translations": [
+       {
+        "id": 14034867,
+        "lang": "vie",
+        "text": "Vui lòng cho nước nóng.",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "nhuttan2004",
+        "transcriptions": []
+       }
+      ]
+     },
+     {
+      "id": 13602638,
+      "text": "Is water blue?",
+      "license": "CC BY 2.0 FR",
+      "owner": "frpzzd",
+      "translations": [
+       {
+        "id": 13603222,
+        "lang": "vie",
+        "text": "Nước có xanh không?",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "leucammieuvu",
+        "transcriptions": []
+       }
+      ]
+     },
+     {
+      "id": 13375001,
+      "text": "That's water.",
+      "license": "CC BY 2.0 FR",
+      "owner": "EugeneGS",
+      "translations": [
+       {
+        "id": 13380117,
+        "lang": "vie",
+        "text": "Đây là nước.",
+        "direct": null,
+        "license": "CC BY 2.0 FR",
+        "owner": "leucammieuvu",
+        "transcriptions": []
+       }
+      ]
+     },
+     {
+      "id": 12512236,
+      "text": "What is water?",
+      "license": "CC BY 2.0 FR",
+      "owner": "rul",
+      "translations": [
+       {
+        "id": 13341165,
+        "lang": "vie",
+        "text": "Nước là gì?",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "leucammieuvu",
+        "transcriptions": []
+       }
+      ]
+     },
+     {
+      "id": 9044822,
+      "text": "Paper absorbs water.",
+      "license": "CC BY 2.0 FR",
+      "owner": "Amastan",
+      "translations": [
+       {
+        "id": 9785018,
+        "lang": "jpn",
+        "text": "紙は水を吸います。",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "small_snow",
+        "transcriptions": [
+         "[紙|かみ]は[水|みず]を[吸|す]います。"
+        ]
+       },
+       {
+        "id": 13340233,
+        "lang": "vie",
+        "text": "Giấy thì hấp thụ nước.",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "leucammieuvu",
+        "transcriptions": []
+       },
+       {
+        "id": 13340235,
+        "lang": "vie",
+        "text": "Giấy thấm nước.",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "leucammieuvu",
+        "transcriptions": []
+       }
+      ]
+     }
+    ]
+   }
+  },
+  "breakfast": {
+   "cefrj": {
+    "url": "https://github.com/openlanguageprofiles/olp-en-cefrj",
+    "retrieved_at": "2026-10-10T09:23:24+00:00",
+    "rows": [
+     {
+      "headword": "breakfast",
+      "pos": "noun",
+      "CEFR": "A1",
+      "CoreInventory 1": "Food and drink",
+      "CoreInventory 2": "",
+      "Threshold": "Food and drink"
+     }
+    ]
+   },
+   "ngsl": {
+    "url": "https://www.newgeneralservicelist.com/s/NGSL_12_stats.csv",
+    "retrieved_at": "2026-10-10T09:23:24+00:00",
+    "rows": [
+     {
+      "rank": 1819,
+      "Lemma": "breakfast",
+      "SFI Rank": "1819",
+      "SFI": "56.13",
+      "Adjusted Frequency per Million (U)": "41"
+     }
+    ]
+   },
+   "wiktionary": {
+    "url": "https://en.wiktionary.org/wiki/breakfast#English",
+    "status": 200,
+    "retrieved_at": "2026-10-10T09:23:25+00:00",
+    "ipa": [
+     "{{IPA|en|/ˈbɹɛk.fəst/}}",
+     "{{IPA|en|/ˈbɹeɪkˌfæst/|a=GA}}",
+     "{{IPA|en|/ˈbreɪkˌfɑːst/|a=RP}}"
+    ],
+    "headword_templates": [
+     "{{en-noun|~}}",
+     "{{en-verb}}"
+    ],
+    "pos_headers": [
+     "Etymology",
+     "Pronunciation",
+     "Noun",
+     "Usage notes",
+     "Derived terms",
+     "Descendants",
+     "Translations",
+     "See also",
+     "Verb",
+     "Synonyms",
+     "Translations",
+     "Anagrams"
+    ]
+   },
+   "tatoeba": {
+    "url": "https://tatoeba.org/en/api_v0/search?from=eng&to=vie&query=breakfast&orphans=no&unapproved=no&sort=words",
+    "status": 200,
+    "retrieved_at": "2026-10-10T09:24:22+00:00",
+    "sentences": [
+     {
+      "id": 11933214,
+      "text": "How was breakfast?",
+      "license": "CC BY 2.0 FR",
+      "owner": "CK",
+      "translations": [
+       {
+        "id": 12622089,
+        "lang": "jpn",
+        "text": "朝食はどうでしたか",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "MdMV",
+        "transcriptions": [
+         "[朝食|ちょう|しょく]はどうでしたか"
+        ]
+       },
+       {
+        "id": 12622094,
+        "lang": "jpn",
+        "text": "朝食はどうだったか",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "MdMV",
+        "transcriptions": [
+         "[朝食|ちょう|しょく]はどうだったか"
+        ]
+       },
+       {
+        "id": 12622096,
+        "lang": "jpn",
+        "text": "朝食はどうだった?",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "MdMV",
+        "transcriptions": [
+         "[朝食|ちょう|しょく]はどうだった?"
+        ]
+       },
+       {
+        "id": 13339813,
+        "lang": "vie",
+        "text": "Bữa sáng thế nào?",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "leucammieuvu",
+        "transcriptions": []
+       }
+      ]
+     },
+     {
+      "id": 4870573,
+      "text": "Is breakfast included?",
+      "license": "CC BY 2.0 FR",
+      "owner": "zvzuibqx",
+      "translations": [
+       {
+        "id": 8726938,
+        "lang": "jpn",
+        "text": "朝食はついてますか？",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "bunbuku",
+        "transcriptions": [
+         "[朝食|ちょう|しょく]はついてますか？"
+        ]
+       },
+       {
+        "id": 13599318,
+        "lang": "vie",
+        "text": "Có kèm bữa sáng không?",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "leucammieuvu",
+        "transcriptions": []
+       },
+       {
+        "id": 205652,
+        "lang": "jpn",
+        "text": "それには朝食は含まれていますか。",
+        "direct": null,
+        "license": "CC BY 2.0 FR",
+        "owner": null,
+        "transcriptions": [
+         "それには[朝食|ちょう|しょく]は[含|ふく]まれていますか。"
+        ]
+       }
+      ]
+     },
+     {
+      "id": 2870747,
+      "text": "Tom had breakfast.",
+      "license": "CC BY 2.0 FR",
+      "owner": "Amastan",
+      "translations": [
+       {
+        "id": 13640326,
+        "lang": "vie",
+        "text": "Tom đã ăn sáng.",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "leucammieuvu",
+        "transcriptions": []
+       }
+      ]
+     },
+     {
+      "id": 2922456,
+      "text": "I just finished breakfast.",
+      "license": "CC BY 2.0 FR",
+      "owner": "odango_daisuki",
+      "translations": [
+       {
+        "id": 2921193,
+        "lang": "jpn",
+        "text": "今朝食が済んだところです。",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "tommy_san",
+        "transcriptions": [
+         "[今|いま][朝食|ちょう|しょく]が[済|す]んだところです。"
+        ]
+       },
+       {
+        "id": 3449200,
+        "lang": "jpn",
+        "text": "ちょうど朝食を終えたところです。",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "arnab",
+        "transcriptions": [
+         "ちょうど[朝食|ちょう|しょく]を[終|お]えたところです。"
+        ]
+       },
+       {
+        "id": 9092629,
+        "lang": "jpn",
+        "text": "ちょうど朝ごはんを食べたとこだよ。",
+        "direct": null,
+        "license": "CC BY 2.0 FR",
+        "owner": "bunbuku",
+        "transcriptions": [
+         "ちょうど[朝|あさ]ごはんを[食|た]べたとこだよ。"
+        ]
+       },
+       {
+        "id": 159493,
+        "lang": "jpn",
+        "text": "私はちょうど朝食を済ませたところです。",
+        "direct": null,
+        "license": "CC BY 2.0 FR",
+        "owner": "arnab",
+        "transcriptions": [
+         "[私|わたし]はちょうど[朝食|ちょう|しょく]を[済|す]ませたところです。"
+        ]
+       },
+       {
+        "id": 9374908,
+        "lang": "vie",
+        "text": "Tôi vừa ăn bữa sáng xong.",
+        "direct": null,
+        "license": "CC BY 2.0 FR",
+        "owner": "dotheduyet1999",
+        "transcriptions": []
+       },
+       {
+        "id": 9374911,
+        "lang": "vie",
+        "text": "Tôi vừa ăn xong bữa sáng.",
+        "direct": null,
+        "license": "CC BY 2.0 FR",
+        "owner": "dotheduyet1999",
+        "transcriptions": []
+       }
+      ]
+     },
+     {
+      "id": 2432207,
+      "text": "Have you had breakfast?",
+      "license": "CC BY 2.0 FR",
+      "owner": "loghaD",
+      "translations": [
+       {
+        "id": 5767767,
+        "lang": "vie",
+        "text": "Em ăn sáng chưa?",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "yippe",
+        "transcriptions": []
+       },
+       {
+        "id": 126190,
+        "lang": "jpn",
+        "text": "朝食はもう済ませましたか。",
+        "direct": null,
+        "license": "CC BY 2.0 FR",
+        "owner": "small_snow",
+        "transcriptions": [
+         "[朝食|ちょう|しょく]はもう[済|す]ませましたか。"
+        ]
+       },
+       {
+        "id": 4975794,
+        "lang": "jpn",
+        "text": "あなたはもう朝食をとりましたか？",
+        "direct": null,
+        "license": "CC BY 2.0 FR",
+        "owner": "rachie",
+        "transcriptions": [
+         "あなたはもう[朝食|ちょう|しょく]をとりましたか？"
+        ]
+       },
+       {
+        "id": 12466854,
+        "lang": "jpn",
+        "text": "もう朝ご飯食べた？",
+        "direct": null,
+        "license": "CC BY 2.0 FR",
+        "owner": "HAGNi",
+        "transcriptions": [
+         "もう[朝|あさ]ご[飯|はん][食|た]べた？"
+        ]
+       }
+      ]
+     },
+     {
+      "id": 42897,
+      "text": "Does that include breakfast?",
+      "license": "CC BY 2.0 FR",
+      "owner": "sundown",
+      "translations": [
+       {
+        "id": 205652,
+        "lang": "jpn",
+        "text": "それには朝食は含まれていますか。",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": null,
+        "transcriptions": [
+         "それには[朝食|ちょう|しょく]は[含|ふく]まれていますか。"
+        ]
+       },
+       {
+        "id": 8726938,
+        "lang": "jpn",
+        "text": "朝食はついてますか？",
+        "direct": null,
+        "license": "CC BY 2.0 FR",
+        "owner": "bunbuku",
+        "transcriptions": [
+         "[朝食|ちょう|しょく]はついてますか？"
+        ]
+       },
+       {
+        "id": 13599318,
+        "lang": "vie",
+        "text": "Có kèm bữa sáng không?",
+        "direct": null,
+        "license": "CC BY 2.0 FR",
+        "owner": "leucammieuvu",
+        "transcriptions": []
+       }
+      ]
+     }
+    ]
+   }
+  },
+  "school": {
+   "cefrj": {
+    "url": "https://github.com/openlanguageprofiles/olp-en-cefrj",
+    "retrieved_at": "2026-10-10T09:24:22+00:00",
+    "rows": [
+     {
+      "headword": "school",
+      "pos": "noun",
+      "CEFR": "A1",
+      "CoreInventory 1": "Things in the town, shops and shopping",
+      "CoreInventory 2": "",
+      "Threshold": ""
+     }
+    ]
+   },
+   "ngsl": {
+    "url": "https://www.newgeneralservicelist.com/s/NGSL_12_stats.csv",
+    "retrieved_at": "2026-10-10T09:24:22+00:00",
+    "rows": [
+     {
+      "rank": 146,
+      "Lemma": "school",
+      "SFI Rank": "146",
+      "SFI": "68.05",
+      "Adjusted Frequency per Million (U)": "638"
+     }
+    ]
+   },
+   "wiktionary": {
+    "url": "https://en.wiktionary.org/wiki/school#English",
+    "status": 200,
+    "retrieved_at": "2026-10-10T09:24:23+00:00",
+    "ipa": [
+     "{{IPA|en|/skuːl/|[skuːɫ]|a=RP}}",
+     "{{IPA|en|/skul/|[skuɫ]|a=GA}}",
+     "{{IPA|en|/skʉːl/|[skʉːɫ]|a=AU,NZ}}",
+     "{{IPA|en|/skʉl/|a=Scotland,Northern Ireland,pull-pool}}",
+     "{{IPA|en|/skɪʉːl/|a=Local Dublin}}",
+     "{{IPA|en|/(ɪ)sk(h)uːl/|a=Indic}}"
+    ],
+    "headword_templates": [
+     "{{en-noun|~}}",
+     "{{en-verb}}",
+     "{{en-noun}}",
+     "{{en-verb}}"
+    ],
+    "pos_headers": [
+     "Pronunciation",
+     "Alternative forms",
+     "Noun",
+     "Hyponyms",
+     "Coordinate terms",
+     "Derived terms",
+     "Descendants",
+     "Translations",
+     "Verb",
+     "Derived terms",
+     "Translations",
+     "Alternative forms",
+     "Noun",
+     "Translations",
+     "Verb",
+     "Synonyms",
+     "Further reading",
+     "Anagrams"
+    ]
+   },
+   "tatoeba": {
+    "url": "https://tatoeba.org/en/api_v0/search?from=eng&to=vie&query=school&orphans=no&unapproved=no&sort=words",
+    "status": 200,
+    "retrieved_at": "2026-10-10T09:24:55+00:00",
+    "sentences": [
+     {
+      "id": 9115093,
+      "text": "Yanni transferred schools.",
+      "license": "CC BY 2.0 FR",
+      "owner": "Amastan",
+      "translations": [
+       {
+        "id": 13344325,
+        "lang": "vie",
+        "text": "Yanni đã chuyển trường.",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "leucammieuvu",
+        "transcriptions": []
+       }
+      ]
+     },
+     {
+      "id": 6003012,
+      "text": "Tom disliked school.",
+      "license": "CC BY 2.0 FR",
+      "owner": "CK",
+      "translations": [
+       {
+        "id": 11365156,
+        "lang": "jpn",
+        "text": "トムは学校が大嫌いだった。",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "bunbuku",
+        "transcriptions": [
+         "トムは[学校|がっ|こう]が[大嫌|だい|きら]いだった。"
+        ]
+       },
+       {
+        "id": 13340817,
+        "lang": "vie",
+        "text": "Tom không thích trường học.",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "leucammieuvu",
+        "transcriptions": []
+       }
+      ]
+     },
+     {
+      "id": 4747564,
+      "text": "I hate school.",
+      "license": "CC BY 2.0 FR",
+      "owner": "CK",
+      "translations": [
+       {
+        "id": 13598673,
+        "lang": "vie",
+        "text": "Tôi ghét trường học.",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "leucammieuvu",
+        "transcriptions": []
+       }
+      ]
+     },
+     {
+      "id": 3216164,
+      "text": "School bores me.",
+      "license": "CC BY 2.0 FR",
+      "owner": "Hybrid",
+      "translations": [
+       {
+        "id": 13640310,
+        "lang": "vie",
+        "text": "Trường học làm tôi chán.",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "leucammieuvu",
+        "transcriptions": []
+       }
+      ]
+     },
+     {
+      "id": 13886982,
+      "text": "She often misses school.",
+      "license": "CC BY 2.0 FR",
+      "owner": "araneo",
+      "translations": [
+       {
+        "id": 13888064,
+        "lang": "vie",
+        "text": "Cô ấy thường nghỉ học.",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "leucammieuvu",
+        "transcriptions": []
+       },
+       {
+        "id": 108870,
+        "lang": "jpn",
+        "text": "彼は学校をよく休む。",
+        "direct": null,
+        "license": "CC BY 2.0 FR",
+        "owner": "bunbuku",
+        "transcriptions": [
+         "[彼|かれ]は[学校|がっ|こう]をよく[休|やす]む。"
+        ]
+       }
+      ]
+     },
+     {
+      "id": 13320607,
+      "text": "Where's the school?",
+      "license": "CC BY 2.0 FR",
+      "owner": "rul",
+      "translations": [
+       {
+        "id": 13333753,
+        "lang": "vie",
+        "text": "Trường học ở đâu?",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "leucammieuvu",
+        "transcriptions": []
+       },
+       {
+        "id": 2160969,
+        "lang": "jpn",
+        "text": "学校はどこですか？",
+        "direct": null,
+        "license": "CC BY 2.0 FR",
+        "owner": "faraway9911",
+        "transcriptions": [
+         "[学校|がっ|こう]はどこですか？"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  },
+  "teacher": {
+   "cefrj": {
+    "url": "https://github.com/openlanguageprofiles/olp-en-cefrj",
+    "retrieved_at": "2026-10-10T09:24:55+00:00",
+    "rows": [
+     {
+      "headword": "teacher",
+      "pos": "noun",
+      "CEFR": "A1",
+      "CoreInventory 1": "Education",
+      "CoreInventory 2": "Work and Jobs",
+      "Threshold": "Education"
+     }
+    ]
+   },
+   "ngsl": {
+    "url": "https://www.newgeneralservicelist.com/s/NGSL_12_stats.csv",
+    "retrieved_at": "2026-10-10T09:24:55+00:00",
+    "rows": [
+     {
+      "rank": 496,
+      "Lemma": "teacher",
+      "SFI Rank": "496",
+      "SFI": "62.98",
+      "Adjusted Frequency per Million (U)": "199"
+     }
+    ]
+   },
+   "wiktionary": {
+    "url": "https://en.wiktionary.org/wiki/teacher#English",
+    "status": 200,
+    "retrieved_at": "2026-10-10T09:24:56+00:00",
+    "ipa": [
+     "{{IPA|en|/ˈtiː.t͡ʃəː/|[ˈtʰɪi̯.t͡ʃəː]|a=RP}}",
+     "{{IPA|en|/ˈti.t͡ʃɚ/|[ˈtʰɪi̯.t͡ʃɚ]|~|[ˈtʰɪi̯.t͡ʃɹ̩]|a=GA,[[w:Standard Canadian English|Standard Canadian]]}}"
+    ],
+    "headword_templates": [
+     "{{en-noun}}"
+    ],
+    "pos_headers": [
+     "Etymology",
+     "Pronunciation",
+     "Noun",
+     "Synonyms",
+     "Derived terms",
+     "Translations",
+     "Anagrams"
+    ]
+   },
+   "tatoeba": {
+    "url": "https://tatoeba.org/en/api_v0/search?from=eng&to=vie&query=teacher&orphans=no&unapproved=no&sort=words",
+    "status": 200,
+    "retrieved_at": "2026-10-10T09:25:59+00:00",
+    "sentences": [
+     {
+      "id": 13547310,
+      "text": "Hello, teacher.",
+      "license": "CC BY 2.0 FR",
+      "owner": "LeviHighway",
+      "translations": [
+       {
+        "id": 13259054,
+        "lang": "jpn",
+        "text": "先生、こんにちは。",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "atitarev",
+        "transcriptions": [
+         "[先生|せん|せい]、こんにちは。"
+        ]
+       },
+       {
+        "id": 14032827,
+        "lang": "vie",
+        "text": "Xin chào, cô giáo.",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "nhuttan2004",
+        "transcriptions": []
+       },
+       {
+        "id": 14032828,
+        "lang": "vie",
+        "text": "Xin chào, thầy/cô.",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "nhuttan2004",
+        "transcriptions": []
+       }
+      ]
+     },
+     {
+      "id": 6874270,
+      "text": "We're teachers.",
+      "license": "CC BY 2.0 FR",
+      "owner": "CK",
+      "translations": [
+       {
+        "id": 151445,
+        "lang": "jpn",
+        "text": "私達は先生です。",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "Luornu",
+        "transcriptions": [
+         "[私|わたし][達|たち]は[先生|せん|せい]です。"
+        ]
+       },
+       {
+        "id": 9997331,
+        "lang": "jpn",
+        "text": "私達は教師です。",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "small_snow",
+        "transcriptions": [
+         "[私|わたし][達|たち]は[教師|きょう|し]です。"
+        ]
+       },
+       {
+        "id": 1510026,
+        "lang": "vie",
+        "text": "chúng tôi là giáo viên.",
+        "direct": null,
+        "license": "CC BY 2.0 FR",
+        "owner": "trieuho",
+        "transcriptions": []
+       },
+       {
+        "id": 12099264,
+        "lang": "vie",
+        "text": "Chúng tôi là giáo viên.",
+        "direct": null,
+        "license": "CC BY 2.0 FR",
+        "owner": "mqd",
+        "transcriptions": []
+       }
+      ]
+     },
+     {
+      "id": 6358247,
+      "text": "Are you teachers?",
+      "license": "CC BY 2.0 FR",
+      "owner": "CK",
+      "translations": [
+       {
+        "id": 8699721,
+        "lang": "jpn",
+        "text": "皆さんは教員なんですか？",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "bunbuku",
+        "transcriptions": [
+         "[皆|みな]さんは[教員|きょう|いん]なんですか？"
+        ]
+       },
+       {
+        "id": 13340767,
+        "lang": "vie",
+        "text": "Bạn là giáo viên à?",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "leucammieuvu",
+        "transcriptions": []
+       },
+       {
+        "id": 13340768,
+        "lang": "vie",
+        "text": "Các bạn là giáo viên à?",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "leucammieuvu",
+        "transcriptions": []
+       }
+      ]
+     },
+     {
+      "id": 2713754,
+      "text": "They're teachers.",
+      "license": "CC BY 2.0 FR",
+      "owner": "CK",
+      "translations": [
+       {
+        "id": 13640365,
+        "lang": "vie",
+        "text": "Họ là giáo viên.",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "leucammieuvu",
+        "transcriptions": []
+       },
+       {
+        "id": 95132,
+        "lang": "jpn",
+        "text": "彼女たちは先生です。",
+        "direct": null,
+        "license": "CC BY 2.0 FR",
+        "owner": null,
+        "transcriptions": [
+         "[彼女|かの|じょ]たちは[先生|せん|せい]です。"
+        ]
+       },
+       {
+        "id": 96700,
+        "lang": "jpn",
+        "text": "彼らは先生です。",
+        "direct": null,
+        "license": "CC BY 2.0 FR",
+        "owner": null,
+        "transcriptions": [
+         "[彼|かれ]らは[先生|せん|せい]です。"
+        ]
+       },
+       {
+        "id": 10300924,
+        "lang": "jpn",
+        "text": "彼らは教師だ。",
+        "direct": null,
+        "license": "CC BY 2.0 FR",
+        "owner": "bunbuku",
+        "transcriptions": [
+         "[彼|かれ]らは[教師|きょう|し]だ。"
+        ]
+       },
+       {
+        "id": 11133889,
+        "lang": "jpn",
+        "text": "あの方達は先生なんです。",
+        "direct": null,
+        "license": "CC BY 2.0 FR",
+        "owner": "bunbuku",
+        "transcriptions": [
+         "あの[方|かた][達|たち]は[先生|せん|せい]なんです。"
+        ]
+       }
+      ]
+     },
+     {
+      "id": 307003,
+      "text": "They are teachers.",
+      "license": "CC BY 2.0 FR",
+      "owner": "adjusting",
+      "translations": [
+       {
+        "id": 95132,
+        "lang": "jpn",
+        "text": "彼女たちは先生です。",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": null,
+        "transcriptions": [
+         "[彼女|かの|じょ]たちは[先生|せん|せい]です。"
+        ]
+       },
+       {
+        "id": 96700,
+        "lang": "jpn",
+        "text": "彼らは先生です。",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": null,
+        "transcriptions": [
+         "[彼|かれ]らは[先生|せん|せい]です。"
+        ]
+       },
+       {
+        "id": 10300924,
+        "lang": "jpn",
+        "text": "彼らは教師だ。",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "bunbuku",
+        "transcriptions": [
+         "[彼|かれ]らは[教師|きょう|し]だ。"
+        ]
+       },
+       {
+        "id": 11133889,
+        "lang": "jpn",
+        "text": "あの方達は先生なんです。",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "bunbuku",
+        "transcriptions": [
+         "あの[方|かた][達|たち]は[先生|せん|せい]なんです。"
+        ]
+       },
+       {
+        "id": 13640365,
+        "lang": "vie",
+        "text": "Họ là giáo viên.",
+        "direct": null,
+        "license": "CC BY 2.0 FR",
+        "owner": "leucammieuvu",
+        "transcriptions": []
+       }
+      ]
+     },
+     {
+      "id": 263111,
+      "text": "We are teachers.",
+      "license": "CC BY 2.0 FR",
+      "owner": "CK",
+      "translations": [
+       {
+        "id": 151445,
+        "lang": "jpn",
+        "text": "私達は先生です。",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "Luornu",
+        "transcriptions": [
+         "[私|わたし][達|たち]は[先生|せん|せい]です。"
+        ]
+       },
+       {
+        "id": 9997331,
+        "lang": "jpn",
+        "text": "私達は教師です。",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "small_snow",
+        "transcriptions": [
+         "[私|わたし][達|たち]は[教師|きょう|し]です。"
+        ]
+       },
+       {
+        "id": 1510026,
+        "lang": "vie",
+        "text": "chúng tôi là giáo viên.",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "trieuho",
+        "transcriptions": []
+       },
+       {
+        "id": 12099264,
+        "lang": "vie",
+        "text": "Chúng tôi là giáo viên.",
+        "direct": null,
+        "license": "CC BY 2.0 FR",
+        "owner": "mqd",
+        "transcriptions": []
+       }
+      ]
+     }
+    ]
+   }
+  },
+  "friend": {
+   "cefrj": {
+    "url": "https://github.com/openlanguageprofiles/olp-en-cefrj",
+    "retrieved_at": "2026-10-10T09:25:59+00:00",
+    "rows": [
+     {
+      "headword": "friend",
+      "pos": "noun",
+      "CEFR": "A1",
+      "CoreInventory 1": "Personal information",
+      "CoreInventory 2": "",
+      "Threshold": "Relations with other people"
+     }
+    ]
+   },
+   "ngsl": {
+    "url": "https://www.newgeneralservicelist.com/s/NGSL_12_stats.csv",
+    "retrieved_at": "2026-10-10T09:25:59+00:00",
+    "rows": [
+     {
+      "rank": 208,
+      "Lemma": "friend",
+      "SFI Rank": "208",
+      "SFI": "66.7",
+      "Adjusted Frequency per Million (U)": "468"
+     }
+    ]
+   },
+   "wiktionary": {
+    "url": "https://en.wiktionary.org/wiki/friend#English",
+    "status": 200,
+    "retrieved_at": "2026-10-10T09:26:00+00:00",
+    "ipa": [
+     "{{IPA|en|/fɹɛnd/|[fɹ̥ɛnd]|[fɹ̥ɛnd̥]}}",
+     "{{IPA|en|/frɪnd/|a=dialectal,especially with <<pin-pen>>|ref={{R:Bingham IP|75}}}}<!--not just pin-pen-->"
+    ],
+    "headword_templates": [
+     "{{en-noun}}",
+     "{{en-verb}}"
+    ],
+    "pos_headers": [
+     "Alternative forms",
+     "Etymology",
+     "Pronunciation",
+     "Noun",
+     "Usage notes",
+     "Synonyms",
+     "Antonyms",
+     "Derived terms",
+     "Descendants",
+     "Translations",
+     "Verb",
+     "Translations",
+     "References",
+     "Further reading",
+     "Anagrams"
+    ]
+   },
+   "tatoeba": {
+    "url": "https://tatoeba.org/en/api_v0/search?from=eng&to=vie&query=friend&orphans=no&unapproved=no&sort=words",
+    "status": 200,
+    "retrieved_at": "2026-10-10T09:26:30+00:00",
+    "sentences": [
+     {
+      "id": 12882790,
+      "text": "Hello, friend.",
+      "license": "CC BY 2.0 FR",
+      "owner": "rul",
+      "translations": [
+       {
+        "id": 14032832,
+        "lang": "vie",
+        "text": "Xin chào bạn.",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "nhuttan2004",
+        "transcriptions": []
+       }
+      ]
+     },
+     {
+      "id": 10314836,
+      "text": "Hello, friends!",
+      "license": "CC BY 2.0 FR",
+      "owner": "timur_seber",
+      "translations": [
+       {
+        "id": 14032842,
+        "lang": "vie",
+        "text": "Xin chào những người bạn!",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "nhuttan2004",
+        "transcriptions": []
+       }
+      ]
+     },
+     {
+      "id": 2896776,
+      "text": "I have friends.",
+      "license": "CC BY 2.0 FR",
+      "owner": "migl",
+      "translations": [
+       {
+        "id": 13769919,
+        "lang": "vie",
+        "text": "Tôi có bạn bè.",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "leucammieuvu",
+        "transcriptions": []
+       }
+      ]
+     },
+     {
+      "id": 812817,
+      "text": "I need friends.",
+      "license": "CC BY 2.0 FR",
+      "owner": "Zifre",
+      "translations": [
+       {
+        "id": 829660,
+        "lang": "jpn",
+        "text": "私には友達が必要です。",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "arihato",
+        "transcriptions": [
+         "[私|わたし]には[友達|とも|だち]が[必要|ひつ|よう]です。"
+        ]
+       },
+       {
+        "id": 8839344,
+        "lang": "vie",
+        "text": "Tôi cần những người bạn.",
+        "direct": null,
+        "license": "CC BY 2.0 FR",
+        "owner": "dotheduyet1999",
+        "transcriptions": []
+       }
+      ]
+     },
+     {
+      "id": 481593,
+      "text": "Are they friends?",
+      "license": "CC BY 2.0 FR",
+      "owner": "CM",
+      "translations": [
+       {
+        "id": 1081318,
+        "lang": "jpn",
+        "text": "彼らは友達なんですか。",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "bunbuku",
+        "transcriptions": [
+         "[彼|かれ]らは[友達|とも|だち]なんですか。"
+        ]
+       },
+       {
+        "id": 8951804,
+        "lang": "vie",
+        "text": "Họ có phải là bạn của nhau không?",
+        "direct": null,
+        "license": "CC BY 2.0 FR",
+        "owner": "dotheduyet1999",
+        "transcriptions": []
+       }
+      ]
+     },
+     {
+      "id": 13511022,
+      "text": "Books are my friends.",
+      "license": "CC BY 2.0 FR",
+      "owner": "Adelpa",
+      "translations": [
+       {
+        "id": 13513653,
+        "lang": "vie",
+        "text": "Sách là người bạn của tôi.",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "leucammieuvu",
+        "transcriptions": []
+       }
+      ]
+     }
+    ]
+   }
+  },
+  "house": {
+   "cefrj": {
+    "url": "https://github.com/openlanguageprofiles/olp-en-cefrj",
+    "retrieved_at": "2026-10-10T09:26:30+00:00",
+    "rows": [
+     {
+      "headword": "house",
+      "pos": "noun",
+      "CEFR": "A1",
+      "CoreInventory 1": "Things in the town, shops and shopping",
+      "CoreInventory 2": "",
+      "Threshold": "House and home, environment"
+     },
+     {
+      "headword": "house",
+      "pos": "verb",
+      "CEFR": "C1",
+      "notes": ""
+     }
+    ]
+   },
+   "ngsl": {
+    "url": "https://www.newgeneralservicelist.com/s/NGSL_12_stats.csv",
+    "retrieved_at": "2026-10-10T09:26:30+00:00",
+    "rows": [
+     {
+      "rank": 165,
+      "Lemma": "house",
+      "SFI Rank": "165",
+      "SFI": "67.57",
+      "Adjusted Frequency per Million (U)": "572"
+     }
+    ]
+   },
+   "wiktionary": {
+    "url": "https://en.wiktionary.org/wiki/house#English",
+    "status": 200,
+    "retrieved_at": "2026-10-10T09:26:31+00:00",
+    "ipa": [
+     "{{IPA|en|/haʊ̯s/|[haʊ̯s]|a=RP,GA}}",
+     "{{IPA|en|/haws/|a=SSBE}}",
+     "{{IPA|en|/hæʊ̯s/|[hæʊ̯s]|a=Southern US,Midland US,Mid-Atlantic US,NYC,AU,NZ,[[w:Fronting (sound change)|/aʊ̯/-fronting]]}}",
+     "{{IPA|en|/hɐʊ̯s/|[hɐʊ̯s]|;|/hɜʊ̯s/|;|[hɜʊ̯s]|;|/hʌʊ̯s/|[hʌʊ̯s]|;|/həʊ̯s/|[həʊ̯s]}}",
+     "{{IPA|en|/haːs/|a=Pittsburgh,ZA,[[w:Monophthongization|/aʊ̯/-monophthongization]]}}",
+     "{{IPA|en|/hʌʉ̯s/|[hʌʉ̯s]|a=Scotland}}",
+     "{{IPA|en|/hɛʊ̯s/|[hɛʊ̯s]|a=Standard Irish,Dublin}}",
+     "{{IPA|en|/hɐʏ̯s/|[hɐʏ̯s]|a=Ulster}}",
+     "{{IPA|en|/hɐʊ̯s/|[hɐʊ̯s]|a=Munster,Cork}}",
+     "{{IPA|en|/huːs/|[huːs]|a=Geordie}}",
+     "{{IPA|en|/haʊz/}}",
+     "{{IPA|en|/haʊs/}}"
+    ],
+    "headword_templates": [
+     "{{en-noun|~|s|housen<l:dialectal>|hice<l:chiefly,humorous>}}",
+     "{{en-verb}}",
+     "{{en-noun|-}}"
+    ],
+    "pos_headers": [
+     "Alternative forms",
+     "Pronunciation",
+     "Noun",
+     "Synonyms",
+     "Hypernyms",
+     "Hyponyms",
+     "Derived terms",
+     "Descendants",
+     "Translations",
+     "Further reading",
+     "Pronunciation",
+     "Verb",
+     "Synonyms",
+     "Derived terms",
+     "Translations",
+     "Pronunciation",
+     "Noun",
+     "Descendants",
+     "Translations"
+    ]
+   },
+   "tatoeba": {
+    "url": "https://tatoeba.org/en/api_v0/search?from=eng&to=vie&query=house&orphans=no&unapproved=no&sort=words",
+    "status": 200,
+    "retrieved_at": "2026-10-10T09:27:03+00:00",
+    "sentences": [
+     {
+      "id": 13424403,
+      "text": "Which house?",
+      "license": "CC BY 2.0 FR",
+      "owner": "jan_Lupelo",
+      "translations": [
+       {
+        "id": 13465077,
+        "lang": "vie",
+        "text": "Nhà nào?",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "leucammieuvu",
+        "transcriptions": []
+       }
+      ]
+     },
+     {
+      "id": 13895375,
+      "text": "Clean the house.",
+      "license": "CC BY 2.0 FR",
+      "owner": "frpzzd",
+      "translations": [
+       {
+        "id": 13896229,
+        "lang": "vie",
+        "text": "Dọn nhà đi.",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "leucammieuvu",
+        "transcriptions": []
+       }
+      ]
+     },
+     {
+      "id": 13580140,
+      "text": "I build houses.",
+      "license": "CC BY 2.0 FR",
+      "owner": "rul",
+      "translations": [
+       {
+        "id": 13581098,
+        "lang": "vie",
+        "text": "Tôi xây nhà.",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "leucammieuvu",
+        "transcriptions": []
+       }
+      ]
+     },
+     {
+      "id": 10871973,
+      "text": "Leave this house.",
+      "license": "CC BY 2.0 FR",
+      "owner": "CK",
+      "translations": [
+       {
+        "id": 10619351,
+        "lang": "jpn",
+        "text": "この家から出てけ。",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "small_snow",
+        "transcriptions": [
+         "この[家|いえ]から[出|で]てけ。"
+        ]
+       },
+       {
+        "id": 10619352,
+        "lang": "jpn",
+        "text": "この家から出ていきなさい。",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "small_snow",
+        "transcriptions": [
+         "この[家|いえ]から[出|で]ていきなさい。"
+        ]
+       },
+       {
+        "id": 13339852,
+        "lang": "vie",
+        "text": "Ra khỏi nhà ngay.",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "leucammieuvu",
+        "transcriptions": []
+       }
+      ]
+     },
+     {
+      "id": 4943531,
+      "text": "The house collapsed.",
+      "license": "CC BY 2.0 FR",
+      "owner": "AlanF_US",
+      "translations": [
+       {
+        "id": 13599314,
+        "lang": "vie",
+        "text": "Ngôi nhà sụp đổ.",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "leucammieuvu",
+        "transcriptions": []
+       },
+       {
+        "id": 13599315,
+        "lang": "vie",
+        "text": "Căn nhà sập xuống.",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "leucammieuvu",
+        "transcriptions": []
+       }
+      ]
+     },
+     {
+      "id": 13453427,
+      "text": "Who bought their house?",
+      "license": "CC BY 2.0 FR",
+      "owner": "rul",
+      "translations": [
+       {
+        "id": 13901193,
+        "lang": "vie",
+        "text": "Ai đã mua nhà của họ?",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "leucammieuvu",
+        "transcriptions": []
+       }
+      ]
+     }
+    ]
+   }
+  },
+  "go": {
+   "cefrj": {
+    "url": "https://github.com/openlanguageprofiles/olp-en-cefrj",
+    "retrieved_at": "2026-10-10T09:27:03+00:00",
+    "rows": [
+     {
+      "headword": "go",
+      "pos": "noun",
+      "CEFR": "B1",
+      "CoreInventory 1": "",
+      "CoreInventory 2": "",
+      "Threshold": ""
+     },
+     {
+      "headword": "go",
+      "pos": "verb",
+      "CEFR": "A1",
+      "CoreInventory 1": "",
+      "CoreInventory 2": "",
+      "Threshold": ""
+     }
+    ]
+   },
+   "ngsl": {
+    "url": "https://www.newgeneralservicelist.com/s/NGSL_12_stats.csv",
+    "retrieved_at": "2026-10-10T09:27:03+00:00",
+    "rows": [
+     {
+      "rank": 31,
+      "Lemma": "go",
+      "SFI Rank": "31",
+      "SFI": "75.13",
+      "Adjusted Frequency per Million (U)": "3260"
+     }
+    ]
+   },
+   "wiktionary": {
+    "url": "https://en.wiktionary.org/wiki/go#English",
+    "status": 200,
+    "retrieved_at": "2026-10-10T09:27:04+00:00",
+    "ipa": [
+     "{{IPA|en|/ɡəʊ/|a=RP}}",
+     "{{IPA|en|/ɡə/|a=weak form}}",
+     "{{IPA|en|/ɡu/ [ɡʊw]|a={{w|West Midlands}}}}",
+     "{{IPA|en|/ɡæn/|a=Northumbria}}",
+     "{{IPA|en|/ɡo/|a=Scotland}}",
+     "{{IPA|en|/ɡoː/|a=Wales,non-toe-tow}}",
+     "{{IPA|en|/ɡoʊ/|a=GA}}",
+     "{{IPA|en|[ɡoː]|a=CA}}",
+     "{{IPA|en|[ɡəʉ]|a=Australia}}",
+     "{{IPA|en|[ɡɐʉ]|a=New Zealand}}"
+    ],
+    "headword_templates": [
+     "{{en-verb|go<goes,,went:yode[obsolete]:goed[nonstandard],gone:went[nonstandard]>}}",
+     "{{en-noun|~|es}}",
+     "{{en-adj|-}}",
+     "{{en-noun|-}}"
+    ],
+    "pos_headers": [
+     "Pronunciation",
+     "Alternative forms",
+     "Verb",
+     "Usage notes",
+     "Conjugation",
+     "Derived terms",
+     "Descendants",
+     "Translations",
+     "Noun",
+     "Derived terms",
+     "Translations",
+     "Adjective",
+     "Alternative forms",
+     "Noun",
+     "Derived terms",
+     "Translations",
+     "Further reading",
+     "Anagrams"
+    ]
+   },
+   "tatoeba": {
+    "url": "https://tatoeba.org/en/api_v0/search?from=eng&to=vie&query=go&orphans=no&unapproved=no&sort=words",
+    "status": 200,
+    "retrieved_at": "2026-10-10T09:28:19+00:00",
+    "sentences": [
+     {
+      "id": 2877272,
+      "text": "Go.",
+      "license": "CC BY 2.0 FR",
+      "owner": "CM",
+      "translations": [
+       {
+        "id": 7421985,
+        "lang": "jpn",
+        "text": "行け。",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "Ninja",
+        "transcriptions": [
+         "[行|い]け。"
+        ]
+       },
+       {
+        "id": 7421986,
+        "lang": "jpn",
+        "text": "行きなさい。",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "Ninja",
+        "transcriptions": [
+         "[行|い]きなさい。"
+        ]
+       },
+       {
+        "id": 9842776,
+        "lang": "jpn",
+        "text": "行け！",
+        "direct": null,
+        "license": "CC BY 2.0 FR",
+        "owner": "KK_kaku_",
+        "transcriptions": [
+         "[行|い]け！"
+        ]
+       },
+       {
+        "id": 139208,
+        "lang": "jpn",
+        "text": "行きましょう。",
+        "direct": null,
+        "license": "CC BY 2.0 FR",
+        "owner": "kurisutofu",
+        "transcriptions": [
+         "[行|い]きましょう。"
+        ]
+       },
+       {
+        "id": 13246486,
+        "lang": "jpn",
+        "text": "今すぐ！",
+        "direct": null,
+        "license": "CC BY 2.0 FR",
+        "owner": "Tamark",
+        "transcriptions": [
+         "[今|いま]すぐ！"
+        ]
+       },
+       {
+        "id": 5339133,
+        "lang": "vie",
+        "text": "đi thôi!",
+        "direct": null,
+        "license": "CC BY 2.0 FR",
+        "owner": "Leviszta",
+        "transcriptions": []
+       },
+       {
+        "id": 11535022,
+        "lang": "vie",
+        "text": "Đi đi!",
+        "direct": null,
+        "license": "CC BY 2.0 FR",
+        "owner": "OneJanuary",
+        "transcriptions": []
+       }
+      ]
+     },
+     {
+      "id": 1148335,
+      "text": "Go!",
+      "license": "CC BY 2.0 FR",
+      "owner": "cntrational",
+      "translations": [
+       {
+        "id": 9842776,
+        "lang": "jpn",
+        "text": "行け！",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "KK_kaku_",
+        "transcriptions": [
+         "[行|い]け！"
+        ]
+       },
+       {
+        "id": 11535022,
+        "lang": "vie",
+        "text": "Đi đi!",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "OneJanuary",
+        "transcriptions": []
+       },
+       {
+        "id": 139208,
+        "lang": "jpn",
+        "text": "行きましょう。",
+        "direct": null,
+        "license": "CC BY 2.0 FR",
+        "owner": "kurisutofu",
+        "transcriptions": [
+         "[行|い]きましょう。"
+        ]
+       },
+       {
+        "id": 147770,
+        "lang": "jpn",
+        "text": "出て行け！",
+        "direct": null,
+        "license": "CC BY 2.0 FR",
+        "owner": "bunbuku",
+        "transcriptions": [
+         "[出|で]て[行|い]け！"
+        ]
+       },
+       {
+        "id": 7577203,
+        "lang": "jpn",
+        "text": "出ろ！",
+        "direct": null,
+        "license": "CC BY 2.0 FR",
+        "owner": "Shake",
+        "transcriptions": [
+         "[出|で]ろ！"
+        ]
+       },
+       {
+        "id": 8608840,
+        "lang": "jpn",
+        "text": "退け！",
+        "direct": null,
+        "license": "CC BY 2.0 FR",
+        "owner": "mochico",
+        "transcriptions": [
+         "[退|ど]け！"
+        ]
+       },
+       {
+        "id": 200699,
+        "lang": "jpn",
+        "text": "どっか行け。",
+        "direct": null,
+        "license": "CC BY 2.0 FR",
+        "owner": "bunbuku",
+        "transcriptions": [
+         "どっか[行|い]け。"
+        ]
+       },
+       {
+        "id": 197239,
+        "lang": "jpn",
+        "text": "ファイトだ。",
+        "direct": null,
+        "license": "CC BY 2.0 FR",
+        "owner": "mookeee",
+        "transcriptions": [
+         "ファイトだ。"
+        ]
+       },
+       {
+        "id": 7421985,
+        "lang": "jpn",
+        "text": "行け。",
+        "direct": null,
+        "license": "CC BY 2.0 FR",
+        "owner": "Ninja",
+        "transcriptions": [
+         "[行|い]け。"
+        ]
+       },
+       {
+        "id": 7421986,
+        "lang": "jpn",
+        "text": "行きなさい。",
+        "direct": null,
+        "license": "CC BY 2.0 FR",
+        "owner": "Ninja",
+        "transcriptions": [
+         "[行|い]きなさい。"
+        ]
+       },
+       {
+        "id": 13246486,
+        "lang": "jpn",
+        "text": "今すぐ！",
+        "direct": null,
+        "license": "CC BY 2.0 FR",
+        "owner": "Tamark",
+        "transcriptions": [
+         "[今|いま]すぐ！"
+        ]
+       }
+      ]
+     },
+     {
+      "id": 13723872,
+      "text": "Go play!",
+      "license": "CC BY 2.0 FR",
+      "owner": "an_hien",
+      "translations": [
+       {
+        "id": 10708479,
+        "lang": "vie",
+        "text": "Đi chơi đi!",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "MrOhno",
+        "transcriptions": []
+       }
+      ]
+     },
+     {
+      "id": 10005778,
+      "text": "Go faster!",
+      "license": "CC BY 2.0 FR",
+      "owner": "ddnktr",
+      "translations": [
+       {
+        "id": 13657201,
+        "lang": "vie",
+        "text": "Đi nhanh lên.",
+        "direct": null,
+        "license": "CC BY 2.0 FR",
+        "owner": "leucammieuvu",
+        "transcriptions": []
+       }
+      ]
+     },
+     {
+      "id": 6619660,
+      "text": "Go straight.",
+      "license": "CC BY 2.0 FR",
+      "owner": "CK",
+      "translations": [
+       {
+        "id": 195365,
+        "lang": "jpn",
+        "text": "まっすぐ行け。",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "Take32",
+        "transcriptions": [
+         "まっすぐ[行|い]け。"
+        ]
+       },
+       {
+        "id": 13682586,
+        "lang": "vie",
+        "text": "Đi thẳng.",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "leucammieuvu",
+        "transcriptions": []
+       },
+       {
+        "id": 145004,
+        "lang": "jpn",
+        "text": "真っ直ぐ行きなさい。",
+        "direct": null,
+        "license": "CC BY 2.0 FR",
+        "owner": "bunbuku",
+        "transcriptions": [
+         "[真|ま]っ[直|す]ぐ[行|い]きなさい。"
+        ]
+       }
+      ]
+     },
+     {
+      "id": 6576479,
+      "text": "Let go.",
+      "license": "CC BY 2.0 FR",
+      "owner": "Eccles17",
+      "translations": [
+       {
+        "id": 13333885,
+        "lang": "vie",
+        "text": "Đi thôi.",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "leucammieuvu",
+        "transcriptions": []
+       },
+       {
+        "id": 125388,
+        "lang": "jpn",
+        "text": "諦めてしまえ。",
+        "direct": null,
+        "license": "CC BY 2.0 FR",
+        "owner": null,
+        "transcriptions": [
+         "[諦|あきら]めてしまえ。"
+        ]
+       },
+       {
+        "id": 1457484,
+        "lang": "jpn",
+        "text": "放っといて。",
+        "direct": null,
+        "license": "CC BY 2.0 FR",
+        "owner": "marcelostockle",
+        "transcriptions": [
+         "[放|ほう]っといて。"
+        ]
+       },
+       {
+        "id": 3488297,
+        "lang": "jpn",
+        "text": "諦めろ。",
+        "direct": null,
+        "license": "CC BY 2.0 FR",
+        "owner": "arnab",
+        "transcriptions": [
+         "[諦|あきら]めろ。"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  },
+  "see": {
+   "cefrj": {
+    "url": "https://github.com/openlanguageprofiles/olp-en-cefrj",
+    "retrieved_at": "2026-10-10T09:28:19+00:00",
+    "rows": [
+     {
+      "headword": "see",
+      "pos": "verb",
+      "CEFR": "A1",
+      "CoreInventory 1": "",
+      "CoreInventory 2": "",
+      "Threshold": ""
+     }
+    ]
+   },
+   "ngsl": {
+    "url": "https://www.newgeneralservicelist.com/s/NGSL_12_stats.csv",
+    "retrieved_at": "2026-10-10T09:28:19+00:00",
+    "rows": [
+     {
+      "rank": 50,
+      "Lemma": "see",
+      "SFI Rank": "50",
+      "SFI": "73.48",
+      "Adjusted Frequency per Million (U)": "2226"
+     }
+    ]
+   },
+   "wiktionary": {
+    "url": "https://en.wiktionary.org/wiki/see#English",
+    "status": 200,
+    "retrieved_at": "2026-10-10T09:28:20+00:00",
+    "ipa": [
+     "{{IPA|en|/siː/}}",
+     "{{IPA|en|/si/|a=GA,CA}}"
+    ],
+    "headword_templates": [
+     "{{en-verb|+|+|saw,~n<l:dialectal>,~nt<l:dialectal>,~d<l:dialectal>|n,~nt<l:dialectal>,~d<l:dialectal>,saw<l:dialectal>,sawn#Etymology_2<l:dialectal or [[eye dialect]]>}}",
+     "{{en-noun}}",
+     "{{en-noun}}"
+    ],
+    "pos_headers": [
+     "Pronunciation",
+     "Verb",
+     "Conjugation",
+     "Synonyms",
+     "Derived terms",
+     "Descendants",
+     "Translations",
+     "Interjection",
+     "Translations",
+     "See also",
+     "Noun",
+     "Derived terms",
+     "Related terms",
+     "Translations",
+     "See also",
+     "Noun",
+     "Derived terms",
+     "Further reading",
+     "Anagrams"
+    ]
+   },
+   "tatoeba": {
+    "url": "https://tatoeba.org/en/api_v0/search?from=eng&to=vie&query=see&orphans=no&unapproved=no&sort=words",
+    "status": 200,
+    "retrieved_at": "2026-10-10T09:29:07+00:00",
+    "sentences": [
+     {
+      "id": 11836538,
+      "text": "I see nothing.",
+      "license": "CC BY 2.0 FR",
+      "owner": "ddnktr",
+      "translations": [
+       {
+        "id": 227443,
+        "lang": "jpn",
+        "text": "オレには何も見えないぞ。",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "bunbuku",
+        "transcriptions": [
+         "オレには[何|なに]も[見|み]えないぞ。"
+        ]
+       },
+       {
+        "id": 158136,
+        "lang": "jpn",
+        "text": "私は何も見えません。",
+        "direct": null,
+        "license": "CC BY 2.0 FR",
+        "owner": "tommy_san",
+        "transcriptions": [
+         "[私|わたし]は[何|なに]も[見|み]えません。"
+        ]
+       },
+       {
+        "id": 414129,
+        "lang": "jpn",
+        "text": "私は何も見えない。",
+        "direct": null,
+        "license": "CC BY 2.0 FR",
+        "owner": "mookeee",
+        "transcriptions": [
+         "[私|わたし]は[何|なに]も[見|み]えない。"
+        ]
+       },
+       {
+        "id": 679927,
+        "lang": "jpn",
+        "text": "私は何も見ません。",
+        "direct": null,
+        "license": "CC BY 2.0 FR",
+        "owner": "arihato",
+        "transcriptions": [
+         "[私|わたし]は[何|なに]も[見|み]ません。"
+        ]
+       },
+       {
+        "id": 679931,
+        "lang": "jpn",
+        "text": "私は何も見られません。",
+        "direct": null,
+        "license": "CC BY 2.0 FR",
+        "owner": "arihato",
+        "transcriptions": [
+         "[私|わたし]は[何|なに]も[見|み]られません。"
+        ]
+       },
+       {
+        "id": 626098,
+        "lang": "vie",
+        "text": "Tôi chẳng nhìn thấy gì cả.",
+        "direct": null,
+        "license": "CC BY 2.0 FR",
+        "owner": "Alta",
+        "transcriptions": []
+       }
+      ]
+     },
+     {
+      "id": 7428274,
+      "text": "See you tonight!",
+      "license": "CC BY 2.0 FR",
+      "owner": "MarijnKp",
+      "translations": [
+       {
+        "id": 11373426,
+        "lang": "vie",
+        "text": "Hẹn gặp bạn tối nay.",
+        "direct": null,
+        "license": "CC BY 2.0 FR",
+        "owner": "chaule3",
+        "transcriptions": []
+       }
+      ]
+     },
+     {
+      "id": 3822336,
+      "text": "See you Monday.",
+      "license": "CC BY 2.0 FR",
+      "owner": "CK",
+      "translations": [
+       {
+        "id": 7486207,
+        "lang": "jpn",
+        "text": "月曜日に会おう。",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "Ninja",
+        "transcriptions": [
+         "[月曜日|げつ|よう|び]に[会|あ]おう。"
+        ]
+       },
+       {
+        "id": 7486209,
+        "lang": "jpn",
+        "text": "月曜日に会いましょう。",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "Ninja",
+        "transcriptions": [
+         "[月曜日|げつ|よう|び]に[会|あ]いましょう。"
+        ]
+       },
+       {
+        "id": 10489401,
+        "lang": "jpn",
+        "text": "また、月曜日ね。",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "small_snow",
+        "transcriptions": [
+         "また、[月曜日|げつ|よう|び]ね。"
+        ]
+       },
+       {
+        "id": 13634541,
+        "lang": "vie",
+        "text": "Gặp lại bạn vào thứ Hai nhé.",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "leucammieuvu",
+        "transcriptions": []
+       }
+      ]
+     },
+     {
+      "id": 3806575,
+      "text": "Come and see!",
+      "license": "CC BY 2.0 FR",
+      "owner": "eric_vandenburg",
+      "translations": [
+       {
+        "id": 3806611,
+        "lang": "vie",
+        "text": "Lại đây xem này!",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "letuananh",
+        "transcriptions": []
+       },
+       {
+        "id": 5018736,
+        "lang": "jpn",
+        "text": "見に来て。",
+        "direct": null,
+        "license": "CC BY 2.0 FR",
+        "owner": "huizi99",
+        "transcriptions": [
+         "[見|み]に[来|き]て。"
+        ]
+       }
+      ]
+     },
+     {
+      "id": 2648979,
+      "text": "See you tonight.",
+      "license": "CC BY 2.0 FR",
+      "owner": "CK",
+      "translations": [
+       {
+        "id": 11373426,
+        "lang": "vie",
+        "text": "Hẹn gặp bạn tối nay.",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "chaule3",
+        "transcriptions": []
+       }
+      ]
+     },
+     {
+      "id": 2245192,
+      "text": "Come and see.",
+      "license": "CC BY 2.0 FR",
+      "owner": "CK",
+      "translations": [
+       {
+        "id": 5018736,
+        "lang": "jpn",
+        "text": "見に来て。",
+        "direct": true,
+        "license": "CC BY 2.0 FR",
+        "owner": "huizi99",
+        "transcriptions": [
+         "[見|み]に[来|き]て。"
+        ]
+       },
+       {
+        "id": 3806611,
+        "lang": "vie",
+        "text": "Lại đây xem này!",
+        "direct": null,
+        "license": "CC BY 2.0 FR",
+        "owner": "letuananh",
+        "transcriptions": []
+       }
+      ]
+     }
+    ]
+   }
+  }
+ }
+}
