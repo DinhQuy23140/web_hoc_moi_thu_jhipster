@@ -48,7 +48,7 @@ public final class Gamification {
 
     /** ISO-8601 week id, e.g. {@code 2026-W41}. */
     public static String weekId(LocalDate d) {
-        return String.format("%d-W%02d", d.get(IsoFields.WEEK_BASED_YEAR), d.get(IsoFields.WEEK_OF_WEEK_BASED_YEAR));
+        return "%d-W%02d".formatted(d.get(IsoFields.WEEK_BASED_YEAR), d.get(IsoFields.WEEK_OF_WEEK_BASED_YEAR));
     }
 
     private record Achievement(String id, Predicate<UserProfile> test) {}
