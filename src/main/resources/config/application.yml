@@ -236,3 +236,11 @@ application:
     app-id: ${FIREBASE_APP_ID:}
   rate-limit:
     auth-per-minute: 20
+  registration:
+    require-activation: ${LINGORA_REQUIRE_ACTIVATION:true}
+  admin:
+    email: ${LINGORA_ADMIN_EMAIL:}
+    password: ${LINGORA_ADMIN_PASSWORD:}
+  security:
+    # Space-separated origins allowed to embed the app in an iframe; empty = nobody.
+    frame-ancestors: ${LINGORA_FRAME_ANCESTORS:}

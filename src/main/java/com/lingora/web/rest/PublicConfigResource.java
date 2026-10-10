@@ -43,6 +43,7 @@ public class PublicConfigResource {
             o.put("googleClientId", properties.getGoogle().getClientId());
         }
         o.put("storageEnabled", media.isEnabled());
+        o.put("requireActivation", properties.getRegistration().isRequireActivation());
         return ResponseEntity.ok().cacheControl(CacheControl.maxAge(Duration.ofMinutes(5)).cachePublic()).body(o);
     }
 }

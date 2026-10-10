@@ -82,7 +82,7 @@ public class AccountResource {
         }
         User user = userService.registerUser(managedUserVM, managedUserVM.getPassword());
         profileService.create(user, managedUserVM.getFirstName(), true, false);
-        mailService.sendActivationEmail(user);
+        if (!user.isActivated()) mailService.sendActivationEmail(user);
     }
 
     /**

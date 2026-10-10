@@ -39,12 +39,17 @@ public class SecurityConfiguration {
         "https://identitytoolkit.googleapis.com https://securetoken.googleapis.com; " +
         "frame-src https://accounts.google.com/gsi/ https://*.firebaseapp.com https://*.web.app https://www.youtube.com https://www.youtube-nocookie.com; " +
         "worker-src 'self' blob:; " +
-        "object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'";
+        "object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors ";
 
     private final JHipsterProperties jHipsterProperties;
 
-    public SecurityConfiguration(JHipsterProperties jHipsterProperties) {
+    /** Sites allowed to embed the app in an iframe (e.g. {@code https://huggingface.co} for a Space page). */
+    private final String frameAncestors;
+
+    public SecurityConfiguration(JHipsterProperties jHipsterProperties, ApplicationProperties applicationProperties) {
         this.jHipsterProperties = jHipsterProperties;
+        String ancestors = applicationProperties.getSecurity().getFrameAncestors();
+        this.frameAncestors = ancestors == null ? "" : ancestors.trim();
     }
 
     @Bean
@@ -59,8 +64,13 @@ public class SecurityConfiguration {
             .addFilterAfter(new SpaWebFilter(), BasicAuthenticationFilter.class)
             .headers(headers ->
                 headers
-                    .contentSecurityPolicy(csp -> csp.policyDirectives(CONTENT_SECURITY_POLICY))
-                    .frameOptions(frame -> frame.deny())
+                    .contentSecurityPolicy(csp ->
+                        csp.policyDirectives(CONTENT_SECURITY_POLICY + (frameAncestors.isEmpty() ? "'none'" : "'self' " + frameAncestors))
+                    )
+                    .frameOptions(frame -> {
+                        if (frameAncestors.isEmpty()) frame.deny();
+                        else frame.disable();
+                    })
                     .referrerPolicy(referrer -> referrer.policy(ReferrerPolicyHeaderWriter.ReferrerPolicy.STRICT_ORIGIN_WHEN_CROSS_ORIGIN))
                     .permissionsPolicyHeader(permissions ->
                         permissions.policy("camera=(), geolocation=(), microphone=(self), payment=(), usb=()")

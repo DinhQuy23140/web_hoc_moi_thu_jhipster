@@ -4,6 +4,7 @@ import { Router, RouterLink } from '@angular/router';
 import { AuthService, PASSWORD_RULE } from '../../core/auth.service';
 import { I18N_PIPES } from '../../core/i18n.pipes';
 import { I18nService } from '../../core/i18n.service';
+import { PublicConfigService } from '../../core/public-config.service';
 import { IconComponent } from '../../shared/icon.component';
 import { AuthLayoutComponent } from './auth-layout.component';
 import { GoogleButtonComponent } from './google-button.component';
@@ -62,6 +63,7 @@ export class RegisterPage {
   private readonly auth = inject(AuthService);
   private readonly router = inject(Router);
   private readonly i18n = inject(I18nService);
+  private readonly config = inject(PublicConfigService);
 
   protected readonly name = signal('');
   protected readonly email = signal('');
@@ -81,7 +83,13 @@ export class RegisterPage {
     }
     await this.run(async () => {
       await this.auth.register(this.name(), this.email(), this.password());
-      await this.router.navigateByUrl('/verify-email');
+      const { requireActivation } = await this.config.get();
+      if (requireActivation === false) {
+        await this.auth.login(this.email(), this.password());
+        await this.router.navigateByUrl('/dashboard');
+      } else {
+        await this.router.navigateByUrl('/verify-email');
+      }
     });
   }
 

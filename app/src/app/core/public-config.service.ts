@@ -15,6 +15,8 @@ export interface PublicConfig {
   /** Google Identity Services client id (used when Firebase is not configured). */
   googleClientId: string;
   storageEnabled: boolean;
+  /** False when new accounts are active right away (no activation email). */
+  requireActivation: boolean;
 }
 
 /** Runtime configuration published by the backend (`/api/public/config`). */
@@ -26,7 +28,7 @@ export class PublicConfigService {
   get(): Promise<PublicConfig> {
     this.cached ??= this.api.get<PublicConfig>('/public/config').catch(() => {
       this.cached = null;
-      return { firebase: null, googleClientId: '', storageEnabled: false };
+      return { firebase: null, googleClientId: '', storageEnabled: false, requireActivation: true };
     });
     return this.cached;
   }

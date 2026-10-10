@@ -18,6 +18,9 @@ public class ApplicationProperties {
     private final Firebase firebase = new Firebase();
     private final Mail mail = new Mail();
     private final RateLimit rateLimit = new RateLimit();
+    private final Registration registration = new Registration();
+    private final Admin admin = new Admin();
+    private final Security security = new Security();
 
     /** Time zone used when the client does not send one (streaks, daily stats, weekly leaderboard). */
     private String defaultZone = "Asia/Ho_Chi_Minh";
@@ -50,6 +53,18 @@ public class ApplicationProperties {
 
     public RateLimit getRateLimit() {
         return rateLimit;
+    }
+
+    public Registration getRegistration() {
+        return registration;
+    }
+
+    public Admin getAdmin() {
+        return admin;
+    }
+
+    public Security getSecurity() {
+        return security;
     }
 
     public String getDefaultZone() {
@@ -224,6 +239,61 @@ public class ApplicationProperties {
 
         public void setAuthPerMinute(int authPerMinute) {
             this.authPerMinute = authPerMinute;
+        }
+    }
+
+    public static class Registration {
+
+        /** When false, new accounts are active right away (for deployments without an SMTP server). */
+        private boolean requireActivation = true;
+
+        public boolean isRequireActivation() {
+            return requireActivation;
+        }
+
+        public void setRequireActivation(boolean requireActivation) {
+            this.requireActivation = requireActivation;
+        }
+    }
+
+    /** Administrator account ensured at startup when both values are set (bootstraps a fresh production database). */
+    public static class Admin {
+
+        private String email = "";
+        private String password = "";
+
+        public boolean isConfigured() {
+            return email != null && !email.isBlank() && password != null && !password.isBlank();
+        }
+
+        public String getEmail() {
+            return email;
+        }
+
+        public void setEmail(String email) {
+            this.email = email;
+        }
+
+        public String getPassword() {
+            return password;
+        }
+
+        public void setPassword(String password) {
+            this.password = password;
+        }
+    }
+
+    public static class Security {
+
+        /** Space-separated origins allowed to embed the app in an iframe; empty means nobody. */
+        private String frameAncestors = "";
+
+        public String getFrameAncestors() {
+            return frameAncestors;
+        }
+
+        public void setFrameAncestors(String frameAncestors) {
+            this.frameAncestors = frameAncestors;
         }
     }
 

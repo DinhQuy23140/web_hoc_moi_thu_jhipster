@@ -1,5 +1,6 @@
 package com.lingora.service;
 
+import com.lingora.config.ApplicationProperties;
 import com.lingora.config.Constants;
 import com.lingora.domain.Authority;
 import com.lingora.domain.User;
@@ -41,16 +42,20 @@ public class UserService {
 
     private final CacheManager cacheManager;
 
+    private final ApplicationProperties applicationProperties;
+
     public UserService(
         UserRepository userRepository,
         PasswordEncoder passwordEncoder,
         AuthorityRepository authorityRepository,
-        CacheManager cacheManager
+        CacheManager cacheManager,
+        ApplicationProperties applicationProperties
     ) {
         this.userRepository = userRepository;
         this.passwordEncoder = passwordEncoder;
         this.authorityRepository = authorityRepository;
         this.cacheManager = cacheManager;
+        this.applicationProperties = applicationProperties;
     }
 
     public Optional<User> activateRegistration(String key) {
@@ -116,10 +121,12 @@ public class UserService {
         }
         newUser.setImageUrl(userDTO.getImageUrl());
         newUser.setLangKey(userDTO.getLangKey());
-        // new user is not active
-        newUser.setActivated(false);
-        // new user gets registration key
-        newUser.setActivationKey(RandomUtil.generateActivationKey());
+        if (applicationProperties.getRegistration().isRequireActivation()) {
+            newUser.setActivated(false);
+            newUser.setActivationKey(RandomUtil.generateActivationKey());
+        } else {
+            newUser.setActivated(true);
+        }
         Set<Authority> authorities = new HashSet<>();
         authorityRepository.findById(AuthoritiesConstants.USER).ifPresent(authorities::add);
         newUser.setAuthorities(authorities);
@@ -179,6 +186,38 @@ public class UserService {
     }
 
     public record GoogleAccount(User user, boolean created) {}
+
+    /**
+     * Makes sure an activated administrator exists for {@code email}. A new account gets {@code password};
+     * an existing one keeps its password and only gains the admin role.
+     */
+    public AdminAccount ensureAdmin(String email, String password) {
+        String normalized = email.trim().toLowerCase(Locale.ROOT);
+        Set<Authority> roles = new HashSet<>();
+        authorityRepository.findById(AuthoritiesConstants.ADMIN).ifPresent(roles::add);
+        authorityRepository.findById(AuthoritiesConstants.USER).ifPresent(roles::add);
+        Optional<User> existing = userRepository.findOneWithAuthoritiesByEmailIgnoreCase(normalized);
+        if (existing.isPresent()) {
+            User user = existing.orElseThrow();
+            user.getAuthorities().addAll(roles);
+            user.setActivated(true);
+            this.clearUserCaches(user);
+            return new AdminAccount(user, false);
+        }
+        User user = new User();
+        user.setLogin(normalized.length() <= 50 ? normalized : normalized.substring(0, 50));
+        user.setEmail(normalized);
+        user.setFirstName("Admin");
+        user.setLangKey(Constants.DEFAULT_LANGUAGE);
+        user.setPassword(passwordEncoder.encode(password));
+        user.setActivated(true);
+        user.setAuthorities(roles);
+        userRepository.save(user);
+        this.clearUserCaches(user);
+        return new AdminAccount(user, true);
+    }
+
+    public record AdminAccount(User user, boolean created) {}
 
     private boolean removeNonActivatedUser(User existingUser) {
         if (existingUser.isActivated()) {
