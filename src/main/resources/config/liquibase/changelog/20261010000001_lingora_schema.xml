@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="utf-8"?>
+<databaseChangeLog
+    xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-latest.xsd">
+
+    <!--
+        Lingora schema.
+        Content: language → certificate / course → course_unit → lesson → lesson_block → exercise,
+                 vocabulary and grammar_point are shared and referenced from lesson blocks,
+                 certificate → exam → exam_section → exercise.
+        Learner data hangs off jhi_user: user_profile, course_progress, lesson_progress, user_vocab,
+                 day_stat, attempt.
+        Localized texts ({vi, en, ja}) and variable-shape payloads are stored in JSON columns.
+    -->
+    <changeSet id="20261010000001-content" author="lingora">
+        <createTable tableName="language">
+            <column name="id" type="varchar(8)"><constraints primaryKey="true" nullable="false"/></column>
+            <column name="code" type="varchar(8)"><constraints nullable="false"/></column>
+            <column name="name" type="json"><constraints nullable="false"/></column>
+            <column name="native_name" type="varchar(60)"/>
+            <column name="flag" type="varchar(16)"/>
+            <column name="speech_lang" type="varchar(16)"/>
+            <column name="levels" type="json"/>
+            <column name="position" type="int" defaultValueNumeric="0"><constraints nullable="false"/></column>
+            <column name="active" type="boolean" defaultValueBoolean="true"><constraints nullable="false"/></column>
+        </createTable>
+
+        <createTable tableName="certificate">
+            <column name="id" type="varchar(40)"><constraints primaryKey="true" nullable="false"/></column>
+            <column name="language_id" type="varchar(8)"><constraints nullable="false" foreignKeyName="fk_certificate_language" references="language(id)"/></column>
+            <column name="code" type="varchar(40)"><constraints nullable="false"/></column>
+            <column name="name" type="varchar(120)"><constraints nullable="false"/></column>
+            <column name="full_name" type="varchar(255)"/>
+            <column name="organizer" type="varchar(255)"/>
+            <column name="color" type="varchar(16)"/>
+            <column name="position" type="int" defaultValueNumeric="0"><constraints nullable="false"/></column>
+            <column name="duration_minutes" type="int"/>
+            <column name="website" type="varchar(255)"/>
+            <column name="description" type="json"/>
+            <column name="levels" type="json"/>
+            <column name="sections" type="json"/>
+            <column name="scoring" type="json"/>
+            <column name="validity" type="json"/>
+            <column name="tips" type="json"/>
+        </createTable>
+
+        <createTable tableName="course">
+            <column name="id" type="varchar(40)"><constraints primaryKey="true" nullable="false"/></column>
+            <column name="language_id" type="varchar(8)"><constraints nullable="false" foreignKeyName="fk_course_language" references="language(id)"/></column>
+            <column name="certificate_id" type="varchar(40)"><constraints nullable="true" foreignKeyName="fk_course_certificate" references="certificate(id)"/></column>
+            <column name="level" type="varchar(16)"/>
+            <column name="cefr" type="varchar(16)"/>
+            <column name="emoji" type="varchar(16)"/>
+            <column name="color" type="varchar(16)"/>
+            <column name="cover_url" type="varchar(512)"/>
+            <column name="difficulty" type="int" defaultValueNumeric="1"/>
+            <column name="title" type="json"><constraints nullable="false"/></column>
+            <column name="subtitle" type="json"/>
+            <column name="description" type="json"/>
+            <column name="outcomes" type="json"/>
+            <column name="tags" type="json"/>
+            <column name="unit_count" type="int" defaultValueNumeric="0"/>
+            <column name="lesson_count" type="int" defaultValueNumeric="0"/>
+            <column name="vocab_count" type="int" defaultValueNumeric="0"/>
+            <column name="estimated_hours" type="int" defaultValueNumeric="0"/>
+            <column name="position" type="int" defaultValueNumeric="0"><constraints nullable="false"/></column>
+            <column name="published" type="boolean" defaultValueBoolean="true"><constraints nullable="false"/></column>
+        </createTable>
+        <createIndex tableName="course" indexName="ix_course_published_position">
+            <column name="published"/>
+            <column name="position"/>
+        </createIndex>
+
+        <!-- Extra courses recommended for a certificate besides the ones that target it directly. -->
+        <createTable tableName="certificate_course">
+            <column name="certificate_id" type="varchar(40)"><constraints nullable="false" foreignKeyName="fk_cert_course_certificate" references="certificate(id)" deleteCascade="true"/></column>
+            <column name="course_id" type="varchar(40)"><constraints nullable="false" foreignKeyName="fk_cert_course_course" references="course(id)" deleteCascade="true"/></column>
+        </createTable>
+        <addPrimaryKey tableName="certificate_course" columnNames="certificate_id, course_id"/>
+
+        <createTable tableName="course_unit">
+            <column name="id" type="varchar(60)"><constraints primaryKey="true" nullable="false"/></column>
+            <column name="course_id" type="varchar(40)"><constraints nullable="false" foreignKeyName="fk_unit_course" references="course(id)" deleteCascade="true"/></column>
+            <column name="position" type="int"><constraints nullable="false"/></column>
+            <column name="title" type="json"><constraints nullable="false"/></column>
+            <column name="description" type="json"/>
+        </createTable>
+        <createIndex tableName="course_unit" indexName="ix_unit_course_position">
+            <column name="course_id"/>
+            <column name="position"/>
+        </createIndex>
+
+        <createTable tableName="lesson">
+            <column name="id" type="varchar(80)"><constraints primaryKey="true" nullable="false"/></column>
+            <column name="course_id" type="varchar(40)"><constraints nullable="false" foreignKeyName="fk_lesson_course" references="course(id)" deleteCascade="true"/></column>
+            <column name="unit_id" type="varchar(60)"><constraints nullable="false" foreignKeyName="fk_lesson_unit" references="course_unit(id)" deleteCascade="true"/></column>
+            <column name="language_id" type="varchar(8)"><constraints nullable="false"/></column>
+            <column name="position" type="int"><constraints nullable="false"/></column>
+            <column name="title" type="json"><constraints nullable="false"/></column>
+            <column name="minutes" type="int" defaultValueNumeric="5"/>
+            <column name="xp" type="int" defaultValueNumeric="10"/>
+            <column name="kinds" type="json"/>
+        </createTable>
+        <createIndex tableName="lesson" indexName="ix_lesson_unit_position">
+            <column name="unit_id"/>
+            <column name="position"/>
+        </createIndex>
+
+        <createTable tableName="vocabulary">
+            <column name="id" type="varchar(80)"><constraints primaryKey="true" nullable="false"/></column>
+            <column name="language_id" type="varchar(8)"><constraints nullable="false" foreignKeyName="fk_vocab_language" references="language(id)"/></column>
+            <column name="word" type="varchar(255)"><constraints nullable="false"/></column>
+            <column name="word_lc" type="varchar(255)"><constraints nullable="false"/></column>
+            <column name="reading" type="varchar(255)"/>
+            <column name="romaji" type="varchar(255)"/>
+            <column name="ipa" type="varchar(255)"/>
+            <column name="pos" type="varchar(64)"/>
+            <column name="meaning" type="json"><constraints nullable="false"/></column>
+            <column name="example" type="text"/>
+            <column name="example_reading" type="text"/>
+            <column name="example_meaning" type="json"/>
+            <column name="level" type="varchar(16)"/>
+            <column name="topic" type="varchar(120)"/>
+            <column name="tags" type="json"/>
+            <column name="audio_url" type="varchar(512)"/>
+            <column name="image_url" type="varchar(512)"/>
+        </createTable>
+        <createIndex tableName="vocabulary" indexName="ix_vocab_lang_level_word">
+            <column name="language_id"/>
+            <column name="level"/>
+            <column name="word_lc"/>
+        </createIndex>
+        <createIndex tableName="vocabulary" indexName="ix_vocab_lang_word">
+            <column name="language_id"/>
+            <column name="word_lc"/>
+        </createIndex>
+
+        <createTable tableName="grammar_point">
+            <column name="id" type="varchar(80)"><constraints primaryKey="true" nullable="false"/></column>
+            <column name="language_id" type="varchar(8)"><constraints nullable="false" foreignKeyName="fk_grammar_language" references="language(id)"/></column>
+            <column name="title" type="varchar(255)"><constraints nullable="false"/></column>
+            <column name="structure" type="varchar(512)"/>
+            <column name="explanation" type="json"/>
+            <column name="examples" type="json"/>
+            <column name="note" type="json"/>
+        </createTable>
+
+        <!-- type-specific fields (passage, script, prompts, video...) live in `data`. -->
+        <createTable tableName="lesson_block">
+            <column name="id" type="bigint" autoIncrement="true"><constraints primaryKey="true" nullable="false"/></column>
+            <column name="lesson_id" type="varchar(80)"><constraints nullable="false" foreignKeyName="fk_block_lesson" references="lesson(id)" deleteCascade="true"/></column>
+            <column name="position" type="int"><constraints nullable="false"/></column>
+            <column name="type" type="varchar(16)"><constraints nullable="false"/></column>
+            <column name="title" type="json"/>
+            <column name="data" type="json"/>
+        </createTable>
+        <createIndex tableName="lesson_block" indexName="ix_block_lesson_position">
+            <column name="lesson_id"/>
+            <column name="position"/>
+        </createIndex>
+
+        <createTable tableName="lesson_block_vocabulary">
+            <column name="lesson_block_id" type="bigint"><constraints nullable="false" foreignKeyName="fk_lbv_block" references="lesson_block(id)" deleteCascade="true"/></column>
+            <column name="vocabulary_id" type="varchar(80)"><constraints nullable="false" foreignKeyName="fk_lbv_vocabulary" references="vocabulary(id)" deleteCascade="true"/></column>
+            <column name="position" type="int"><constraints nullable="false"/></column>
+        </createTable>
+        <addPrimaryKey tableName="lesson_block_vocabulary" columnNames="lesson_block_id, vocabulary_id"/>
+
+        <createTable tableName="lesson_block_grammar">
+            <column name="lesson_block_id" type="bigint"><constraints nullable="false" foreignKeyName="fk_lbg_block" references="lesson_block(id)" deleteCascade="true"/></column>
+            <column name="grammar_point_id" type="varchar(80)"><constraints nullable="false" foreignKeyName="fk_lbg_grammar" references="grammar_point(id)" deleteCascade="true"/></column>
+            <column name="position" type="int"><constraints nullable="false"/></column>
+        </createTable>
+        <addPrimaryKey tableName="lesson_block_grammar" columnNames="lesson_block_id, grammar_point_id"/>
+
+        <createTable tableName="exam">
+            <column name="id" type="varchar(60)"><constraints primaryKey="true" nullable="false"/></column>
+            <column name="certificate_id" type="varchar(40)"><constraints nullable="false" foreignKeyName="fk_exam_certificate" references="certificate(id)" deleteCascade="true"/></column>
+            <column name="language_id" type="varchar(8)"><constraints nullable="false"/></column>
+            <column name="level" type="varchar(16)"/>
+            <column name="title" type="json"><constraints nullable="false"/></column>
+            <column name="duration_minutes" type="int"/>
+            <column name="pass_percent" type="int"/>
+            <column name="question_count" type="int" defaultValueNumeric="0"/>
+            <column name="position" type="int" defaultValueNumeric="0"><constraints nullable="false"/></column>
+        </createTable>
+        <createIndex tableName="exam" indexName="ix_exam_certificate_position">
+            <column name="certificate_id"/>
+            <column name="position"/>
+        </createIndex>
+
+        <createTable tableName="exam_section">
+            <column name="id" type="bigint" autoIncrement="true"><constraints primaryKey="true" nullable="false"/></column>
+            <column name="exam_id" type="varchar(60)"><constraints nullable="false" foreignKeyName="fk_section_exam" references="exam(id)" deleteCascade="true"/></column>
+            <column name="position" type="int"><constraints nullable="false"/></column>
+            <column name="kind" type="varchar(16)"><constraints nullable="false"/></column>
+            <column name="title" type="json"/>
+            <column name="passage" type="text"/>
+        </createTable>
+
+        <!-- A question belongs either to a lesson block or to an exam section. -->
+        <createTable tableName="exercise">
+            <column name="id" type="varchar(100)"><constraints primaryKey="true" nullable="false"/></column>
+            <column name="lesson_block_id" type="bigint"><constraints nullable="true" foreignKeyName="fk_exercise_block" references="lesson_block(id)" deleteCascade="true"/></column>
+            <column name="exam_section_id" type="bigint"><constraints nullable="true" foreignKeyName="fk_exercise_section" references="exam_section(id)" deleteCascade="true"/></column>
+            <column name="position" type="int"><constraints nullable="false"/></column>
+            <column name="type" type="varchar(20)"><constraints nullable="false"/></column>
+            <column name="instruction" type="json"/>
+            <column name="question" type="text"/>
+            <column name="hint" type="varchar(512)"/>
+            <column name="prompt" type="json"/>
+            <column name="options" type="json"/>
+            <column name="labels" type="json"/>
+            <column name="answers" type="json"/>
+            <column name="correct" type="boolean"/>
+            <column name="pairs" type="json"/>
+            <column name="audio_text" type="text"/>
+            <column name="audio_url" type="varchar(512)"/>
+            <column name="explanation" type="json"/>
+        </createTable>
+        <createIndex tableName="exercise" indexName="ix_exercise_block">
+            <column name="lesson_block_id"/>
+            <column name="position"/>
+        </createIndex>
+        <createIndex tableName="exercise" indexName="ix_exercise_section">
+            <column name="exam_section_id"/>
+            <column name="position"/>
+        </createIndex>
+    </changeSet>
+
+    <changeSet id="20261010000001-learner" author="lingora">
+        <createTable tableName="user_profile">
+            <column name="user_id" type="bigint"><constraints primaryKey="true" nullable="false" foreignKeyName="fk_profile_user" references="jhi_user(id)" deleteCascade="true"/></column>
+            <column name="display_name" type="varchar(60)"><constraints nullable="false"/></column>
+            <column name="photo_url" type="varchar(512)"/>
+            <column name="ui_locale" type="varchar(5)" defaultValue="vi"/>
+            <column name="target_language" type="varchar(8)" defaultValue="en"/>
+            <column name="daily_goal" type="int" defaultValueNumeric="15"/>
+            <column name="xp" type="int" defaultValueNumeric="0"><constraints nullable="false"/></column>
+            <column name="weekly_xp" type="int" defaultValueNumeric="0"><constraints nullable="false"/></column>
+            <column name="week_id" type="varchar(10)"/>
+            <column name="streak" type="int" defaultValueNumeric="0"><constraints nullable="false"/></column>
+            <column name="longest_streak" type="int" defaultValueNumeric="0"><constraints nullable="false"/></column>
+            <column name="streak_freezes" type="int" defaultValueNumeric="0"><constraints nullable="false"/></column>
+            <column name="last_active_date" type="date"/>
+            <column name="lessons_completed" type="int" defaultValueNumeric="0"><constraints nullable="false"/></column>
+            <column name="words_learned" type="int" defaultValueNumeric="0"><constraints nullable="false"/></column>
+            <column name="total_minutes" type="double" defaultValueNumeric="0"><constraints nullable="false"/></column>
+            <column name="achievements" type="json"/>
+            <column name="password_set" type="boolean" defaultValueBoolean="true"><constraints nullable="false"/></column>
+            <column name="google_linked" type="boolean" defaultValueBoolean="false"><constraints nullable="false"/></column>
+            <column name="created_at" type="${datetimeType}"><constraints nullable="false"/></column>
+        </createTable>
+        <createIndex tableName="user_profile" indexName="ix_profile_week_xp">
+            <column name="week_id"/>
+            <column name="weekly_xp"/>
+        </createIndex>
+
+        <createTable tableName="course_progress">
+            <column name="id" type="bigint" autoIncrement="true"><constraints primaryKey="true" nullable="false"/></column>
+            <column name="user_id" type="bigint"><constraints nullable="false" foreignKeyName="fk_cprogress_user" references="jhi_user(id)" deleteCascade="true"/></column>
+            <column name="course_id" type="varchar(40)"><constraints nullable="false" foreignKeyName="fk_cprogress_course" references="course(id)" deleteCascade="true"/></column>
+            <column name="last_lesson_id" type="varchar(80)"/>
+            <column name="percent" type="int" defaultValueNumeric="0"><constraints nullable="false"/></column>
+            <column name="started_at" type="${datetimeType}"><constraints nullable="false"/></column>
+            <column name="updated_at" type="${datetimeType}"><constraints nullable="false"/></column>
+        </createTable>
+        <addUniqueConstraint tableName="course_progress" columnNames="user_id, course_id" constraintName="ux_cprogress_user_course"/>
+        <createIndex tableName="course_progress" indexName="ix_cprogress_user_updated">
+            <column name="user_id"/>
+            <column name="updated_at"/>
+        </createIndex>
+
+        <createTable tableName="lesson_progress">
+            <column name="id" type="bigint" autoIncrement="true"><constraints primaryKey="true" nullable="false"/></column>
+            <column name="user_id" type="bigint"><constraints nullable="false" foreignKeyName="fk_lprogress_user" references="jhi_user(id)" deleteCascade="true"/></column>
+            <column name="course_id" type="varchar(40)"><constraints nullable="false"/></column>
+            <column name="lesson_id" type="varchar(80)"><constraints nullable="false" foreignKeyName="fk_lprogress_lesson" references="lesson(id)" deleteCascade="true"/></column>
+            <column name="best_score" type="int" defaultValueNumeric="0"><constraints nullable="false"/></column>
+            <column name="attempts" type="int" defaultValueNumeric="0"><constraints nullable="false"/></column>
+            <column name="completed_at" type="${datetimeType}"><constraints nullable="false"/></column>
+        </createTable>
+        <addUniqueConstraint tableName="lesson_progress" columnNames="user_id, lesson_id" constraintName="ux_lprogress_user_lesson"/>
+        <createIndex tableName="lesson_progress" indexName="ix_lprogress_user_course">
+            <column name="user_id"/>
+            <column name="course_id"/>
+        </createIndex>
+
+        <createTable tableName="user_vocab">
+            <column name="id" type="bigint" autoIncrement="true"><constraints primaryKey="true" nullable="false"/></column>
+            <column name="user_id" type="bigint"><constraints nullable="false" foreignKeyName="fk_uvocab_user" references="jhi_user(id)" deleteCascade="true"/></column>
+            <column name="vocabulary_id" type="varchar(80)"><constraints nullable="false" foreignKeyName="fk_uvocab_vocabulary" references="vocabulary(id)" deleteCascade="true"/></column>
+            <column name="language_id" type="varchar(8)"><constraints nullable="false"/></column>
+            <column name="status" type="varchar(12)"><constraints nullable="false"/></column>
+            <column name="ease" type="double"><constraints nullable="false"/></column>
+            <column name="interval_days" type="double"><constraints nullable="false"/></column>
+            <column name="reps" type="int" defaultValueNumeric="0"><constraints nullable="false"/></column>
+            <column name="lapses" type="int" defaultValueNumeric="0"><constraints nullable="false"/></column>
+            <column name="due_at" type="${datetimeType}"><constraints nullable="false"/></column>
+            <column name="stability" type="double"/>
+            <column name="difficulty" type="double"/>
+            <column name="last_review" type="${datetimeType}"/>
+            <column name="correct_count" type="int" defaultValueNumeric="0"><constraints nullable="false"/></column>
+            <column name="wrong_count" type="int" defaultValueNumeric="0"><constraints nullable="false"/></column>
+            <column name="updated_at" type="${datetimeType}"><constraints nullable="false"/></column>
+        </createTable>
+        <addUniqueConstraint tableName="user_vocab" columnNames="user_id, vocabulary_id" constraintName="ux_uvocab_user_vocab"/>
+        <createIndex tableName="user_vocab" indexName="ix_uvocab_user_lang_due">
+            <column name="user_id"/>
+            <column name="language_id"/>
+            <column name="due_at"/>
+        </createIndex>
+        <createIndex tableName="user_vocab" indexName="ix_uvocab_user_lang_updated">
+            <column name="user_id"/>
+            <column name="language_id"/>
+            <column name="updated_at"/>
+        </createIndex>
+
+        <createTable tableName="day_stat">
+            <column name="id" type="bigint" autoIncrement="true"><constraints primaryKey="true" nullable="false"/></column>
+            <column name="user_id" type="bigint"><constraints nullable="false" foreignKeyName="fk_daystat_user" references="jhi_user(id)" deleteCascade="true"/></column>
+            <column name="day" type="date"><constraints nullable="false"/></column>
+            <column name="minutes" type="double" defaultValueNumeric="0"><constraints nullable="false"/></column>
+            <column name="xp" type="int" defaultValueNumeric="0"><constraints nullable="false"/></column>
+            <column name="lessons" type="int" defaultValueNumeric="0"><constraints nullable="false"/></column>
+            <column name="exercises" type="int" defaultValueNumeric="0"><constraints nullable="false"/></column>
+        </createTable>
+        <addUniqueConstraint tableName="day_stat" columnNames="user_id, day" constraintName="ux_daystat_user_day"/>
+
+        <createTable tableName="attempt">
+            <column name="id" type="bigint" autoIncrement="true"><constraints primaryKey="true" nullable="false"/></column>
+            <column name="user_id" type="bigint"><constraints nullable="false" foreignKeyName="fk_attempt_user" references="jhi_user(id)" deleteCascade="true"/></column>
+            <column name="kind" type="varchar(16)"><constraints nullable="false"/></column>
+            <column name="ref_id" type="varchar(100)"/>
+            <column name="title" type="varchar(255)"/>
+            <column name="score" type="int" defaultValueNumeric="0"><constraints nullable="false"/></column>
+            <column name="correct_count" type="int" defaultValueNumeric="0"><constraints nullable="false"/></column>
+            <column name="total" type="int" defaultValueNumeric="0"><constraints nullable="false"/></column>
+            <column name="duration_sec" type="int" defaultValueNumeric="0"><constraints nullable="false"/></column>
+            <column name="created_at" type="${datetimeType}"><constraints nullable="false"/></column>
+        </createTable>
+        <createIndex tableName="attempt" indexName="ix_attempt_user_created">
+            <column name="user_id"/>
+            <column name="created_at"/>
+        </createIndex>
+
+        <!-- Mistake notebook: a wrong answer stays until answered correctly twice in a row. -->
+        <createTable tableName="mistake">
+            <column name="id" type="bigint" autoIncrement="true"><constraints primaryKey="true" nullable="false"/></column>
+            <column name="user_id" type="bigint"><constraints nullable="false" foreignKeyName="fk_mistake_user" references="jhi_user(id)" deleteCascade="true"/></column>
+            <column name="mistake_key" type="varchar(300)"><constraints nullable="false"/></column>
+            <column name="language_id" type="varchar(8)"><constraints nullable="false"/></column>
+            <column name="source" type="varchar(16)"><constraints nullable="false"/></column>
+            <column name="ref_id" type="varchar(200)"/>
+            <column name="title" type="varchar(200)"/>
+            <column name="exercise" type="json"><constraints nullable="false"/></column>
+            <column name="wrong" type="int" defaultValueNumeric="1"><constraints nullable="false"/></column>
+            <column name="streak" type="int" defaultValueNumeric="0"><constraints nullable="false"/></column>
+            <column name="last_wrong" type="${datetimeType}"><constraints nullable="false"/></column>
+        </createTable>
+        <addUniqueConstraint tableName="mistake" columnNames="user_id, mistake_key" constraintName="ux_mistake_user_key"/>
+        <createIndex tableName="mistake" indexName="ix_mistake_user_lang_last">
+            <column name="user_id"/>
+            <column name="language_id"/>
+            <column name="last_wrong"/>
+        </createIndex>
+    </changeSet>
+</databaseChangeLog>

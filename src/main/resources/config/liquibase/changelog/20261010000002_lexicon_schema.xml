@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<databaseChangeLog
+    xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-latest.xsd">
+
+    <!--
+        Lexicon: curated, source-tracked dictionary data shared by learning, exam prep, search and translation.
+        Loaded from data/jsonl/*.jsonl by data/scripts/import_mysql.py; lex_entry.doc keeps the full JSONL record.
+        lex_node → lex_entry → lex_sense → lex_sense_translation; lex_entry also owns forms, examples, relations,
+        tags, search keys, sources and conflicts. lex_entry.vocabulary_id links to the app's vocabulary row.
+
+        Plain SQL because column-level collations are needed: tables default to utf8mb4_0900_as_ci (Vietnamese
+        diacritics are significant: uống ≠ trường), while Japanese text and normalized search keys use utf8mb4_bin
+        since the 0900 collations treat か/が and hiragana/katakana as equal. Foreign keys into existing tables
+        (language_id, vocabulary_id) must keep the referenced columns' utf8mb4_0900_ai_ci.
+    -->
+    <changeSet id="20261010000002-lexicon" author="lingora">
+        <sql dbms="mysql">
+CREATE TABLE lex_node (
+  node_id     VARCHAR(128) NOT NULL,
+  language_id VARCHAR(8)   COLLATE utf8mb4_0900_ai_ci NOT NULL,
+  level       VARCHAR(16)  NOT NULL,
+  skill       VARCHAR(32)  NOT NULL,
+  topic       VARCHAR(64)  NOT NULL,
+  created_at  DATETIME(6)  NOT NULL DEFAULT CURRENT_TIMESTAMP(6),
+  PRIMARY KEY (node_id),
+  KEY ix_lex_node_lang_level (language_id, level, skill),
+  CONSTRAINT fk_lex_node_language FOREIGN KEY (language_id) REFERENCES language (id)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_as_ci;
+
+CREATE TABLE lex_entry (
+  id               VARCHAR(64)  NOT NULL,
+  node_id          VARCHAR(128) NOT NULL,
+  language_id      VARCHAR(8)   COLLATE utf8mb4_0900_ai_ci NOT NULL,
+  vocabulary_id    VARCHAR(80)  COLLATE utf8mb4_0900_ai_ci NULL,
+  entry_type       VARCHAR(16)  NOT NULL,
+  headword         VARCHAR(191) COLLATE utf8mb4_bin NOT NULL,
+  reading          VARCHAR(191) COLLATE utf8mb4_bin NOT NULL DEFAULT '',
+  romaji           VARCHAR(191) NULL,
+  pos              VARCHAR(64)  NOT NULL DEFAULT '',
+  level            VARCHAR(16)  NOT NULL,
+  cefr_equiv       VARCHAR(32)  NULL,
+  difficulty       TINYINT      NULL,
+  frequency_rank   INT          NULL,
+  skill            VARCHAR(32)  NOT NULL,
+  audio_url        VARCHAR(512) NULL,
+  exam_level       VARCHAR(16)  NULL,
+  boost            DECIMAL(5,2) NOT NULL DEFAULT 1.00,
+  do_not_translate BOOLEAN      NOT NULL DEFAULT FALSE,
+  glossary         BOOLEAN      NOT NULL DEFAULT FALSE,
+  preferred_vi     VARCHAR(255) NULL,
+  needs_review     BOOLEAN      NOT NULL DEFAULT FALSE,
+  status           VARCHAR(12)  NOT NULL DEFAULT 'draft',
+  version          INT          NOT NULL DEFAULT 1,
+  doc              JSON         NOT NULL,
+  content_hash     CHAR(64)     NOT NULL,
+  created_at       DATETIME(6)  NOT NULL DEFAULT CURRENT_TIMESTAMP(6),
+  updated_at       DATETIME(6)  NOT NULL DEFAULT CURRENT_TIMESTAMP(6) ON UPDATE CURRENT_TIMESTAMP(6),
+  PRIMARY KEY (id),
+  UNIQUE KEY ux_lex_entry_lemma (language_id, headword, reading, pos),
+  KEY ix_lex_entry_node (node_id),
+  KEY ix_lex_entry_level (language_id, level, skill, status),
+  KEY ix_lex_entry_review (needs_review, status),
+  KEY ix_lex_entry_vocabulary (vocabulary_id),
+  CONSTRAINT fk_lex_entry_node FOREIGN KEY (node_id) REFERENCES lex_node (node_id),
+  CONSTRAINT fk_lex_entry_language FOREIGN KEY (language_id) REFERENCES language (id),
+  CONSTRAINT fk_lex_entry_vocabulary FOREIGN KEY (vocabulary_id) REFERENCES vocabulary (id) ON DELETE SET NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_as_ci;
+
+CREATE TABLE lex_form (
+  entry_id  VARCHAR(64)  NOT NULL,
+  form_type VARCHAR(12)  NOT NULL,
+  form      VARCHAR(191) COLLATE utf8mb4_bin NOT NULL,
+  position  INT          NOT NULL,
+  PRIMARY KEY (entry_id, form_type, form),
+  KEY ix_lex_form_form (form),
+  CONSTRAINT fk_lex_form_entry FOREIGN KEY (entry_id) REFERENCES lex_entry (id) ON DELETE CASCADE
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_as_ci;
+
+CREATE TABLE lex_sense (
+  sense_id          VARCHAR(80) NOT NULL,
+  entry_id          VARCHAR(64) NOT NULL,
+  position          INT         NOT NULL,
+  definition_native TEXT COLLATE utf8mb4_bin NOT NULL,
+  register          VARCHAR(16) NOT NULL,
+  domain            JSON        NOT NULL,
+  usage_notes_vi    TEXT        NULL,
+  false_friend_note TEXT        NULL,
+  PRIMARY KEY (sense_id),
+  KEY ix_lex_sense_entry (entry_id, position),
+  CONSTRAINT fk_lex_sense_entry FOREIGN KEY (entry_id) REFERENCES lex_entry (id) ON DELETE CASCADE
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_as_ci;
+
+CREATE TABLE lex_sense_translation (
+  id           BIGINT       NOT NULL AUTO_INCREMENT,
+  sense_id     VARCHAR(80)  NOT NULL,
+  target       VARCHAR(8)   NOT NULL,
+  text         VARCHAR(500) NOT NULL,
+  equivalence  VARCHAR(16)  NOT NULL,
+  context_hint VARCHAR(500) NULL,
+  priority     TINYINT      NOT NULL,
+  PRIMARY KEY (id),
+  KEY ix_lex_tr_sense (sense_id, target, priority),
+  KEY ix_lex_tr_text (target, text(100)),
+  CONSTRAINT fk_lex_tr_sense FOREIGN KEY (sense_id) REFERENCES lex_sense (sense_id) ON DELETE CASCADE
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_as_ci;
+
+CREATE TABLE lex_example (
+  id                 BIGINT        NOT NULL AUTO_INCREMENT,
+  entry_id           VARCHAR(64)   NOT NULL,
+  sense_id           VARCHAR(80)   NULL,
+  position           INT           NOT NULL,
+  text               VARCHAR(1000) COLLATE utf8mb4_bin NOT NULL,
+  reading            VARCHAR(1000) COLLATE utf8mb4_bin NULL,
+  tr_vi              VARCHAR(1000) NULL,
+  tr_en              VARCHAR(1000) NULL,
+  tr_ja              VARCHAR(1000) COLLATE utf8mb4_bin NULL,
+  alignment_verified BOOLEAN       NOT NULL DEFAULT FALSE,
+  source             VARCHAR(500)  NULL,
+  license            VARCHAR(64)   NULL,
+  PRIMARY KEY (id),
+  KEY ix_lex_example_entry (entry_id, position),
+  KEY ix_lex_example_sense (sense_id),
+  CONSTRAINT fk_lex_example_entry FOREIGN KEY (entry_id) REFERENCES lex_entry (id) ON DELETE CASCADE,
+  CONSTRAINT fk_lex_example_sense FOREIGN KEY (sense_id) REFERENCES lex_sense (sense_id) ON DELETE CASCADE
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_as_ci;
+
+CREATE TABLE lex_relation (
+  entry_id VARCHAR(64)  NOT NULL,
+  rel_type VARCHAR(16)  NOT NULL,
+  value    VARCHAR(191) COLLATE utf8mb4_bin NOT NULL,
+  position INT          NOT NULL,
+  PRIMARY KEY (entry_id, rel_type, value),
+  KEY ix_lex_relation_value (rel_type, value),
+  CONSTRAINT fk_lex_relation_entry FOREIGN KEY (entry_id) REFERENCES lex_entry (id) ON DELETE CASCADE
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_as_ci;
+
+CREATE TABLE lex_tag (
+  entry_id VARCHAR(64) NOT NULL,
+  tag_type VARCHAR(16) NOT NULL,
+  value    VARCHAR(64) NOT NULL,
+  PRIMARY KEY (entry_id, tag_type, value),
+  KEY ix_lex_tag_value (tag_type, value),
+  CONSTRAINT fk_lex_tag_entry FOREIGN KEY (entry_id) REFERENCES lex_entry (id) ON DELETE CASCADE
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_as_ci;
+
+CREATE TABLE lex_search_key (
+  id       BIGINT       NOT NULL AUTO_INCREMENT,
+  entry_id VARCHAR(64)  NOT NULL,
+  key_type VARCHAR(12)  NOT NULL,
+  key_norm VARCHAR(191) COLLATE utf8mb4_bin NOT NULL,
+  boost    DECIMAL(5,2) NOT NULL DEFAULT 1.00,
+  PRIMARY KEY (id),
+  UNIQUE KEY ux_lex_search_key (entry_id, key_type, key_norm),
+  KEY ix_lex_search_prefix (key_norm),
+  CONSTRAINT fk_lex_search_entry FOREIGN KEY (entry_id) REFERENCES lex_entry (id) ON DELETE CASCADE
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_as_ci;
+
+CREATE TABLE lex_source (
+  id           BIGINT        NOT NULL AUTO_INCREMENT,
+  entry_id     VARCHAR(64)   NOT NULL,
+  position     INT           NOT NULL,
+  name         VARCHAR(255)  NOT NULL,
+  url          VARCHAR(1000) NULL,
+  license      VARCHAR(64)   NOT NULL,
+  retrieved_at DATETIME(6)   NULL,
+  share_alike  BOOLEAN       NOT NULL DEFAULT FALSE,
+  attribution  VARCHAR(1000) NULL,
+  PRIMARY KEY (id),
+  KEY ix_lex_source_entry (entry_id, position),
+  KEY ix_lex_source_license (license),
+  CONSTRAINT fk_lex_source_entry FOREIGN KEY (entry_id) REFERENCES lex_entry (id) ON DELETE CASCADE
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_as_ci;
+
+CREATE TABLE lex_conflict (
+  id         BIGINT       NOT NULL AUTO_INCREMENT,
+  entry_id   VARCHAR(64)  NOT NULL,
+  field      VARCHAR(128) NOT NULL,
+  detail     TEXT         NOT NULL,
+  resolution TEXT         NULL,
+  resolved   BOOLEAN      NOT NULL DEFAULT FALSE,
+  PRIMARY KEY (id),
+  KEY ix_lex_conflict_entry (entry_id),
+  KEY ix_lex_conflict_open (resolved),
+  CONSTRAINT fk_lex_conflict_entry FOREIGN KEY (entry_id) REFERENCES lex_entry (id) ON DELETE CASCADE
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_as_ci;
+
+CREATE TABLE lex_import_batch (
+  id          BIGINT       NOT NULL AUTO_INCREMENT,
+  file_name   VARCHAR(255) NOT NULL,
+  total       INT          NOT NULL,
+  inserted    INT          NOT NULL,
+  updated     INT          NOT NULL,
+  unchanged   INT          NOT NULL,
+  started_at  DATETIME(6)  NOT NULL,
+  finished_at DATETIME(6)  NOT NULL,
+  PRIMARY KEY (id)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_as_ci;
+        </sql>
+        <rollback>
+            <dropTable tableName="lex_import_batch"/>
+            <dropTable tableName="lex_conflict"/>
+            <dropTable tableName="lex_source"/>
+            <dropTable tableName="lex_search_key"/>
+            <dropTable tableName="lex_tag"/>
+            <dropTable tableName="lex_relation"/>
+            <dropTable tableName="lex_example"/>
+            <dropTable tableName="lex_sense_translation"/>
+            <dropTable tableName="lex_sense"/>
+            <dropTable tableName="lex_form"/>
+            <dropTable tableName="lex_entry"/>
+            <dropTable tableName="lex_node"/>
+        </rollback>
+    </changeSet>
+</databaseChangeLog>

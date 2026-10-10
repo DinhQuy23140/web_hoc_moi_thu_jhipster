@@ -1,0 +1,3 @@
+id;login;password_hash;first_name;last_name;email;image_url;activated;lang_key;created_by;created_date;last_modified_by
+1;admin@lingora.dev;$2a$10$1O8ErnMZq3lG9dIWitNvPugNH/uw92O8StuCMg61ILYkcvT98/Nvy;Admin;;admin@lingora.dev;;true;vi;system;2026-01-01 00:00:00;system
+2;learner@lingora.dev;$2a$10$/Afhl4px1kr54V.aNTU0DucgA78/B7OIkpriakDEtudv4KwRgk4l.;Learner;;learner@lingora.dev;;true;vi;system;2026-01-01 00:00:00;system

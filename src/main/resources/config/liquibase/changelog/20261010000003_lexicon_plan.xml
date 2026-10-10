@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<databaseChangeLog
+    xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-latest.xsd">
+
+    <!--
+        Lexicon PLAN: levels (JLPT N5-N1, CEFR A1-C2) with can-do statements and reference volumes, the
+        {lang}.{level}.{skill}.{topic} node graph with prerequisites, exam formats/scoring, exam-to-CEFR mappings,
+        and foundation/sprint roadmaps. Loaded from data/plan/plan.json by data/scripts/import_plan.py.
+        Same collation rules as 20261010000002_lexicon_schema.xml (language_id keeps utf8mb4_0900_ai_ci).
+    -->
+    <changeSet id="20261010000003-lexicon-plan" author="lingora">
+        <sql dbms="mysql">
+ALTER TABLE lex_node
+  ADD COLUMN title_vi   VARCHAR(255) NULL AFTER topic,
+  ADD COLUMN position   INT          NOT NULL DEFAULT 0 AFTER title_vi,
+  ADD COLUMN exam_tags  JSON         NULL AFTER position,
+  ADD COLUMN updated_at DATETIME(6)  NOT NULL DEFAULT CURRENT_TIMESTAMP(6) ON UPDATE CURRENT_TIMESTAMP(6);
+
+CREATE TABLE lex_plan_source (
+  id           VARCHAR(64)  NOT NULL,
+  name         VARCHAR(255) NOT NULL,
+  url          VARCHAR(512) NULL,
+  license      VARCHAR(128) NOT NULL,
+  reliability  VARCHAR(128) NOT NULL,
+  retrieved_at DATETIME(6)  NULL,
+  share_alike  TINYINT(1)   NOT NULL DEFAULT 0,
+  attribution  VARCHAR(512) NULL,
+  reachable    TINYINT(1)   NOT NULL DEFAULT 1,
+  PRIMARY KEY (id)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_as_ci;
+
+CREATE TABLE lex_topic (
+  id        VARCHAR(64)  NOT NULL,
+  title_vi  VARCHAR(128) NOT NULL,
+  min_order INT          NOT NULL,
+  PRIMARY KEY (id)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_as_ci;
+
+CREATE TABLE lex_level (
+  id           VARCHAR(16)  NOT NULL,
+  language_id  VARCHAR(8)   COLLATE utf8mb4_0900_ai_ci NOT NULL,
+  code         VARCHAR(16)  NOT NULL,
+  framework    VARCHAR(16)  NOT NULL,
+  name         VARCHAR(64)  NOT NULL,
+  position     INT          NOT NULL,
+  cefr_ref     VARCHAR(16)  NULL,
+  cefr_basis   VARCHAR(255) NULL,
+  summary_vi   TEXT         NOT NULL,
+  volumes      JSON         NOT NULL,
+  est_weeks    INT          NULL,
+  needs_review TINYINT(1)   NOT NULL DEFAULT 1,
+  doc          JSON         NOT NULL,
+  updated_at   DATETIME(6)  NOT NULL DEFAULT CURRENT_TIMESTAMP(6) ON UPDATE CURRENT_TIMESTAMP(6),
+  PRIMARY KEY (id),
+  UNIQUE KEY ux_lex_level_lang_code (language_id, code),
+  CONSTRAINT fk_lex_level_language FOREIGN KEY (language_id) REFERENCES language (id)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_as_ci;
+
+CREATE TABLE lex_level_can_do (
+  id        BIGINT       NOT NULL AUTO_INCREMENT,
+  level_id  VARCHAR(16)  NOT NULL,
+  position  INT          NOT NULL,
+  skill     VARCHAR(32)  NOT NULL,
+  text_vi   TEXT         NOT NULL,
+  basis     VARCHAR(128) NOT NULL,
+  source_id VARCHAR(64)  NOT NULL,
+  PRIMARY KEY (id),
+  KEY ix_lex_can_do_level (level_id, position),
+  CONSTRAINT fk_lex_can_do_level FOREIGN KEY (level_id) REFERENCES lex_level (id) ON DELETE CASCADE,
+  CONSTRAINT fk_lex_can_do_source FOREIGN KEY (source_id) REFERENCES lex_plan_source (id)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_as_ci;
+
+CREATE TABLE lex_node_prereq (
+  node_id          VARCHAR(128) NOT NULL,
+  requires_node_id VARCHAR(128) NOT NULL,
+  PRIMARY KEY (node_id, requires_node_id),
+  KEY ix_lex_node_prereq_requires (requires_node_id),
+  CONSTRAINT fk_lex_prereq_node FOREIGN KEY (node_id) REFERENCES lex_node (node_id) ON DELETE CASCADE,
+  CONSTRAINT fk_lex_prereq_requires FOREIGN KEY (requires_node_id) REFERENCES lex_node (node_id) ON DELETE CASCADE
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_as_ci;
+
+CREATE TABLE lex_exam (
+  id            VARCHAR(16)  NOT NULL,
+  language_id   VARCHAR(8)   COLLATE utf8mb4_0900_ai_ci NOT NULL,
+  name          VARCHAR(255) NOT NULL,
+  levels        JSON         NULL,
+  total_minutes INT          NULL,
+  sections      JSON         NULL,
+  scoring       JSON         NULL,
+  pass_rule_vi  TEXT         NULL,
+  notes_vi      TEXT         NULL,
+  source_ids    JSON         NOT NULL,
+  needs_review  TINYINT(1)   NOT NULL DEFAULT 1,
+  updated_at    DATETIME(6)  NOT NULL DEFAULT CURRENT_TIMESTAMP(6) ON UPDATE CURRENT_TIMESTAMP(6),
+  PRIMARY KEY (id),
+  CONSTRAINT fk_lex_exam_language FOREIGN KEY (language_id) REFERENCES language (id)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_as_ci;
+
+CREATE TABLE lex_exam_mapping (
+  id           BIGINT       NOT NULL AUTO_INCREMENT,
+  exam_id      VARCHAR(16)  NOT NULL,
+  position     INT          NOT NULL,
+  exam_level   VARCHAR(32)  NULL,
+  score_min    DECIMAL(5,1) NULL,
+  score_max    DECIMAL(5,1) NULL,
+  cefr         VARCHAR(8)   NULL,
+  basis        VARCHAR(16)  NOT NULL,
+  condition_vi VARCHAR(255) NULL,
+  source_id    VARCHAR(64)  NOT NULL,
+  PRIMARY KEY (id),
+  KEY ix_lex_exam_mapping_exam (exam_id, position),
+  CONSTRAINT fk_lex_mapping_exam FOREIGN KEY (exam_id) REFERENCES lex_exam (id) ON DELETE CASCADE,
+  CONSTRAINT fk_lex_mapping_source FOREIGN KEY (source_id) REFERENCES lex_plan_source (id)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_as_ci;
+
+CREATE TABLE lex_roadmap (
+  id          VARCHAR(64)  NOT NULL,
+  language_id VARCHAR(8)   COLLATE utf8mb4_0900_ai_ci NOT NULL,
+  kind        VARCHAR(16)  NOT NULL,
+  exam_id     VARCHAR(16)  NULL,
+  target      VARCHAR(16)  NOT NULL,
+  title_vi    VARCHAR(255) NOT NULL,
+  params      JSON         NOT NULL,
+  phases      JSON         NOT NULL,
+  status      VARCHAR(12)  NOT NULL DEFAULT 'draft',
+  version     INT          NOT NULL DEFAULT 1,
+  updated_at  DATETIME(6)  NOT NULL DEFAULT CURRENT_TIMESTAMP(6) ON UPDATE CURRENT_TIMESTAMP(6),
+  PRIMARY KEY (id),
+  KEY ix_lex_roadmap_lang_kind (language_id, kind),
+  CONSTRAINT fk_lex_roadmap_language FOREIGN KEY (language_id) REFERENCES language (id),
+  CONSTRAINT fk_lex_roadmap_exam FOREIGN KEY (exam_id) REFERENCES lex_exam (id)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_as_ci;
+
+CREATE TABLE lex_roadmap_step (
+  roadmap_id VARCHAR(64)  NOT NULL,
+  position   INT          NOT NULL,
+  phase      VARCHAR(16)  NOT NULL,
+  node_id    VARCHAR(128) NULL,
+  note_vi    VARCHAR(255) NULL,
+  PRIMARY KEY (roadmap_id, position),
+  KEY ix_lex_roadmap_step_node (node_id),
+  CONSTRAINT fk_lex_step_roadmap FOREIGN KEY (roadmap_id) REFERENCES lex_roadmap (id) ON DELETE CASCADE,
+  CONSTRAINT fk_lex_step_node FOREIGN KEY (node_id) REFERENCES lex_node (node_id)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_as_ci;
+        </sql>
+        <rollback>
+            <dropTable tableName="lex_roadmap_step"/>
+            <dropTable tableName="lex_roadmap"/>
+            <dropTable tableName="lex_exam_mapping"/>
+            <dropTable tableName="lex_exam"/>
+            <dropTable tableName="lex_node_prereq"/>
+            <dropTable tableName="lex_level_can_do"/>
+            <dropTable tableName="lex_level"/>
+            <dropTable tableName="lex_topic"/>
+            <dropTable tableName="lex_plan_source"/>
+            <sql dbms="mysql">ALTER TABLE lex_node DROP COLUMN updated_at, DROP COLUMN exam_tags, DROP COLUMN position, DROP COLUMN title_vi;</sql>
+        </rollback>
+    </changeSet>
+</databaseChangeLog>

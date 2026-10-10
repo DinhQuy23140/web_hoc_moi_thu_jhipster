@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<databaseChangeLog
+    xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-latest.xsd">
+
+    <!-- Unfinished lessons / mock exams, so a learner can resume on any device. -->
+    <changeSet id="20261010000002-sessions" author="lingora">
+        <createTable tableName="learning_session">
+            <column name="id" type="bigint" autoIncrement="true"><constraints primaryKey="true" nullable="false"/></column>
+            <column name="user_id" type="bigint"><constraints nullable="false" foreignKeyName="fk_session_user" references="jhi_user(id)" deleteCascade="true"/></column>
+            <column name="kind" type="varchar(16)"><constraints nullable="false"/></column>
+            <column name="ref_id" type="varchar(100)"><constraints nullable="false"/></column>
+            <column name="course_id" type="varchar(100)"/>
+            <column name="language_id" type="varchar(8)"/>
+            <column name="title" type="varchar(200)"/>
+            <column name="position" type="int" defaultValueNumeric="0"><constraints nullable="false"/></column>
+            <column name="total" type="int" defaultValueNumeric="0"><constraints nullable="false"/></column>
+            <column name="state" type="json"/>
+            <column name="created_at" type="${datetimeType}"><constraints nullable="false"/></column>
+            <column name="updated_at" type="${datetimeType}"><constraints nullable="false"/></column>
+        </createTable>
+        <addUniqueConstraint tableName="learning_session" columnNames="user_id, kind, ref_id" constraintName="ux_session_user_kind_ref"/>
+        <createIndex tableName="learning_session" indexName="ix_session_user_updated">
+            <column name="user_id"/>
+            <column name="updated_at"/>
+        </createIndex>
+    </changeSet>
+
+    <!-- Site-wide banners managed by admins. -->
+    <changeSet id="20261010000002-announcements" author="lingora">
+        <createTable tableName="announcement">
+            <column name="id" type="bigint" autoIncrement="true"><constraints primaryKey="true" nullable="false"/></column>
+            <column name="message" type="json"><constraints nullable="false"/></column>
+            <column name="level" type="varchar(16)" defaultValue="info"><constraints nullable="false"/></column>
+            <column name="link_url" type="varchar(500)"/>
+            <column name="active" type="boolean" defaultValueBoolean="true"><constraints nullable="false"/></column>
+            <column name="starts_at" type="${datetimeType}"/>
+            <column name="ends_at" type="${datetimeType}"/>
+            <column name="created_at" type="${datetimeType}"><constraints nullable="false"/></column>
+            <column name="updated_at" type="${datetimeType}"><constraints nullable="false"/></column>
+        </createTable>
+    </changeSet>
+
+    <!-- Every admin write (content, users, announcements) for accountability. -->
+    <changeSet id="20261010000002-audit" author="lingora">
+        <createTable tableName="admin_audit">
+            <column name="id" type="bigint" autoIncrement="true"><constraints primaryKey="true" nullable="false"/></column>
+            <column name="actor_id" type="bigint"/>
+            <column name="actor_login" type="varchar(254)"/>
+            <column name="method" type="varchar(8)"><constraints nullable="false"/></column>
+            <column name="path" type="varchar(500)"><constraints nullable="false"/></column>
+            <column name="status" type="int" defaultValueNumeric="0"><constraints nullable="false"/></column>
+            <column name="ip" type="varchar(64)"/>
+            <column name="created_at" type="${datetimeType}"><constraints nullable="false"/></column>
+        </createTable>
+        <createIndex tableName="admin_audit" indexName="ix_audit_created">
+            <column name="created_at"/>
+        </createIndex>
+    </changeSet>
+
+    <!-- Accounts suspended by an admin (kept apart from jhi_user.activated, which means "email confirmed"). -->
+    <changeSet id="20261010000002-account-lock" author="lingora">
+        <createTable tableName="account_lock">
+            <column name="user_id" type="bigint"><constraints primaryKey="true" nullable="false" foreignKeyName="fk_lock_user" references="jhi_user(id)" deleteCascade="true"/></column>
+            <column name="reason" type="varchar(500)"/>
+            <column name="locked_by" type="varchar(254)"/>
+            <column name="locked_at" type="${datetimeType}"><constraints nullable="false"/></column>
+        </createTable>
+    </changeSet>
+</databaseChangeLog>
