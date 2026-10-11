@@ -1,0 +1,250 @@
+nurse|y tá
+o'clock|giờ (đúng)
+October|tháng Mười
+of|của
+off|tắt; rời khỏi
+officer|sĩ quan; viên chức
+often|thường xuyên
+OK|ổn, được
+Olympics|Thế vận hội
+on|trên; bật
+once|một lần; một khi
+one|một
+only|chỉ, duy nhất
+opera|nhạc kịch opera
+or|hoặc
+orange|quả cam; màu cam
+other|khác
+our|của chúng tôi
+ours|của chúng tôi
+out|ra ngoài
+outside|bên ngoài
+over|qua; trên; kết thúc
+own|của riêng; sở hữu
+owner|chủ sở hữu
+p.m.|buổi chiều, tối (sau 12 giờ trưa)
+page|trang
+paint|sơn; vẽ
+painting|bức tranh
+pair|đôi, cặp
+palace|cung điện
+pants|quần dài
+paper|giấy
+paragraph|đoạn văn
+pardon|xin lỗi, xin nhắc lại; tha thứ
+parent|cha mẹ
+partner|đối tác, bạn đời
+party|bữa tiệc; đảng
+past|quá khứ; qua
+peace|hòa bình
+pen|bút mực
+pencil|bút chì
+people|mọi người
+period|giai đoạn; tiết học
+person|người
+personal|cá nhân
+pet|thú cưng
+phone|điện thoại
+photo|bức ảnh
+piano|đàn piano
+pick|chọn; hái
+picnic|chuyến dã ngoại
+picture|bức tranh, bức ảnh
+piece|mảnh, miếng
+pig|con lợn
+pink|màu hồng
+pizza|bánh pizza
+place|nơi; đặt
+plan|kế hoạch; lên kế hoạch
+plane|máy bay
+player|người chơi, cầu thủ
+please|làm ơn
+pleasure|niềm vui
+pocket|túi áo, túi quần
+poem|bài thơ
+point|điểm; chỉ
+pool|bể bơi
+poor|nghèo; tội nghiệp
+pop|nhạc pop; nổ bốp
+post|bài đăng; gửi thư
+poster|áp phích
+potato|khoai tây
+practice|luyện tập
+pray|cầu nguyện
+present|món quà; hiện tại; trình bày
+pretty|xinh đẹp; khá
+prince|hoàng tử
+princess|công chúa
+problem|vấn đề
+program|chương trình
+purple|màu tím
+push|đẩy
+put|đặt, để
+quarter|một phần tư; 15 phút
+question|câu hỏi
+quickly|nhanh chóng
+rabbit|con thỏ
+radio|đài, radio
+rainy|có mưa
+rat|con chuột cống
+'re|là (viết tắt của are)
+reader|người đọc
+reading|việc đọc
+ready|sẵn sàng
+real|thật
+really|thực sự
+reason|lý do
+red|màu đỏ
+remember|nhớ
+repeat|lặp lại
+reporter|phóng viên
+result|kết quả
+ribbon|dải ruy băng
+rich|giàu
+ride|cưỡi, đi (xe)
+ring|chiếc nhẫn; reo
+role|vai trò
+rose|hoa hồng
+row|hàng; chèo thuyền
+rule|quy tắc; cai trị
+ruler|thước kẻ; người cai trị
+run|chạy
+'s|là (viết tắt của is)
+sad|buồn
+sailor|thủy thủ
+salad|món sa-lát
+same|giống nhau
+sandwich|bánh mì kẹp
+Saturday|thứ Bảy
+saw|cái cưa; đã thấy
+say|nói
+science|khoa học
+scientist|nhà khoa học
+seat|chỗ ngồi
+second|thứ hai; giây
+section|phần, mục
+see|nhìn thấy
+self|bản thân
+sell|bán
+sentence|câu; kết án
+September|tháng Chín
+set|bộ; đặt
+seven|số bảy
+seventeen|mười bảy
+seventy|bảy mươi
+shake|lắc
+she|cô ấy
+sheep|con cừu
+shelf|cái kệ
+ship|con tàu
+shoe|giày
+shopping|mua sắm
+should|nên
+shoulder|vai
+show|chương trình; cho xem
+shower|vòi sen; tắm
+sick|ốm
+side|bên, phía
+sight|thị lực; cảnh
+sign|biển báo; ký tên
+sing|hát
+singer|ca sĩ
+sir|ngài, thưa ông
+site|địa điểm; trang web
+six|số sáu
+sixteen|mười sáu
+sixty|sáu mươi
+skirt|váy
+slow|chậm
+smart|thông minh
+smell|mùi; ngửi
+smith|thợ rèn
+smoke|khói; hút thuốc
+smoking|việc hút thuốc
+snake|con rắn
+snowy|có tuyết
+so|vì vậy; rất
+soccer|bóng đá
+social|xã hội
+solve|giải quyết
+some|một vài, một ít
+someone|ai đó
+something|cái gì đó
+son|con trai
+song|bài hát
+soon|sớm, chẳng bao lâu
+sorry|xin lỗi; tiếc
+soup|súp, canh
+special|đặc biệt
+speech|bài phát biểu
+spell|đánh vần; câu thần chú
+sport|thể thao
+spot|chỗ; vết; phát hiện
+spy|gián điệp
+stage|sân khấu; giai đoạn
+star|ngôi sao
+stay|ở lại
+step|bước
+still|vẫn; tĩnh lặng
+stone|hòn đá
+store|cửa hàng; lưu trữ
+story|câu chuyện
+straight|thẳng
+strange|kỳ lạ
+strict|nghiêm khắc
+strong|mạnh
+study|học
+subway|tàu điện ngầm
+successful|thành công
+sugar|đường
+suggestion|gợi ý
+sum|tổng
+Sunday|Chủ Nhật
+sunshine|ánh nắng
+super|siêu, tuyệt
+sure|chắc chắn
+surf|lướt sóng; lướt web
+surprise|sự ngạc nhiên; làm ngạc nhiên
+sweet|ngọt; kẹo
+swim|bơi
+swimming|bơi lội
+swimming pool|bể bơi
+talk|nói chuyện
+tea|trà
+teach|dạy
+technology|công nghệ
+telephone|điện thoại
+television|tivi
+tell|kể, nói
+temple|ngôi đền, chùa
+ten|số mười
+tennis|quần vợt
+terrible|kinh khủng
+test|bài kiểm tra
+than|hơn
+thank|cảm ơn
+thanks|lời cảm ơn
+that|đó, kia; rằng
+the|mạo từ xác định
+theater|nhà hát
+their|của họ
+them|họ (tân ngữ)
+then|sau đó
+there|ở đó
+these|những cái này
+they|họ
+thick|dày
+thin|mỏng; gầy
+thing|đồ vật, điều
+think|nghĩ
+thirteen|mười ba
+thirty|ba mươi
+this|này, cái này
+those|những cái đó
+three|số ba
+through|xuyên qua
+throw|ném
+Thursday|thứ Năm
+tiger|con hổ
+tight|chật, chặt
+time|thời gian; lần

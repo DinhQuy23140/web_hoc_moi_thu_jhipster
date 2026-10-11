@@ -1,0 +1,250 @@
+a|một (mạo từ)
+a.m.|buổi sáng (trước 12 giờ trưa)
+about|về, khoảng
+above|phía trên, ở trên
+action|hành động
+activity|hoạt động
+actor|diễn viên
+add|thêm, cộng
+address|địa chỉ; gửi tới, giải quyết
+after|sau, sau khi
+afternoon|buổi chiều
+again|lại, lần nữa
+age|tuổi
+ago|trước đây
+agree|đồng ý
+airplane|máy bay
+album|album
+all|tất cả
+all right|ổn, được
+almost|gần như, suýt
+alone|một mình
+along|dọc theo
+already|đã, rồi
+also|cũng
+am|là (dùng với I)
+an|một (mạo từ, trước nguyên âm)
+and|và
+another|khác, thêm một
+answer|câu trả lời; trả lời
+any|bất kỳ, nào
+anybody|bất kỳ ai
+anyone|bất kỳ ai
+anything|bất cứ thứ gì
+April|tháng Tư
+apron|tạp dề
+are|là (dùng với you, we, they)
+around|xung quanh, khoảng
+art|nghệ thuật
+article|bài báo; mạo từ
+as|như, khi, vì
+ask|hỏi, yêu cầu
+at|tại, ở, vào lúc
+August|tháng Tám
+aunt|cô, dì, bác gái
+awake|thức, tỉnh
+away|xa, đi khỏi
+back|phía sau; lưng; trở lại
+bad|xấu, tồi
+bag|túi, cặp
+ball|quả bóng
+banana|quả chuối
+band|ban nhạc; dải
+bar|quán bar; thanh
+baseball|bóng chày
+basketball|bóng rổ
+bat|gậy; con dơi
+bath|bồn tắm; sự tắm
+bathroom|phòng tắm
+be|thì, là, ở
+bean|hạt đậu
+bear|con gấu; chịu đựng
+because|bởi vì
+become|trở thành
+bedroom|phòng ngủ
+bee|con ong
+beef|thịt bò
+before|trước, trước khi
+begin|bắt đầu
+behind|phía sau
+believe|tin, tin tưởng
+bell|cái chuông
+below|bên dưới
+beside|bên cạnh
+best|tốt nhất
+better|tốt hơn
+between|giữa
+bicycle|xe đạp
+birth|sự ra đời
+birthday|sinh nhật
+biscuit|bánh quy
+black|màu đen
+blank|trống, để trống
+block|khối; tòa nhà; chặn
+blow|thổi; cú đánh
+blue|màu xanh dương
+board|tấm bảng; lên (tàu, xe)
+boat|thuyền
+body|cơ thể
+bone|xương
+bookstore|hiệu sách
+both|cả hai
+bottle|cái chai
+bottom|đáy, phần dưới cùng
+bowl|cái bát
+box|cái hộp
+boy|cậu bé, con trai
+boyfriend|bạn trai
+brain|bộ não
+break|làm vỡ; giờ nghỉ
+breathe|thở
+bright|sáng, sáng sủa
+bring|mang đến
+broken|bị vỡ, bị hỏng
+brown|màu nâu
+brush|bàn chải; chải
+bucket|cái xô
+build|xây dựng
+building|tòa nhà
+burger|bánh mì kẹp thịt
+business|kinh doanh, công việc
+but|nhưng
+butter|bơ
+butterfly|con bướm
+button|cái nút, cúc áo
+by|bởi, bằng, cạnh
+bye|tạm biệt
+cafe|quán cà phê
+cake|bánh ngọt
+call|gọi; cuộc gọi
+camp|cắm trại; trại
+can|có thể; lon, hộp
+candy|kẹo
+cap|mũ lưỡi trai
+card|thẻ, tấm thiệp
+care|sự chăm sóc; quan tâm
+careful|cẩn thận
+carefully|một cách cẩn thận
+carry|mang, xách
+cartoon|phim hoạt hình
+case|trường hợp; cái hộp
+catch|bắt, chụp
+CD|đĩa CD
+CD player|máy phát đĩa CD
+celebrate|ăn mừng, kỷ niệm
+celebration|lễ kỷ niệm
+character|nhân vật; tính cách
+check|kiểm tra
+cheese|phô mai
+chocolate|sô-cô-la
+choose|chọn
+church|nhà thờ
+circle|hình tròn; khoanh tròn
+class|lớp học
+classmate|bạn cùng lớp
+classroom|phòng học
+climb|leo, trèo
+clock|đồng hồ
+closed|đóng cửa
+cloth|vải
+clothes|quần áo
+cloudy|nhiều mây
+club|câu lạc bộ
+coach|huấn luyện viên; huấn luyện
+coat|áo khoác
+code|mã
+coffee|cà phê
+coke|nước cô-ca
+collection|bộ sưu tập
+college|trường cao đẳng, đại học
+color|màu sắc; tô màu
+computer|máy tính
+contest|cuộc thi
+conversation|cuộc trò chuyện
+cookie|bánh quy
+cool|mát mẻ; tuyệt
+cop|cảnh sát
+copy|bản sao; sao chép
+corn|ngô
+correct|đúng; sửa
+couch|ghế sofa
+could|có thể (quá khứ của can)
+course|khóa học
+cousin|anh chị em họ
+cover|che phủ; bìa
+cream|kem
+cry|khóc
+culture|văn hóa
+cup|cái cốc, tách
+cut|cắt
+cute|dễ thương
+dad|bố
+daddy|bố (cách gọi thân mật)
+dancing|khiêu vũ, nhảy múa
+dark|tối
+date|ngày tháng; cuộc hẹn
+daughter|con gái
+day|ngày
+dear|thân mến
+December|tháng Mười Hai
+describe|mô tả
+design|thiết kế
+desk|bàn làm việc, bàn học
+dictionary|từ điển
+did|đã làm (quá khứ của do)
+difference|sự khác biệt
+different|khác nhau
+difficult|khó
+dig|đào
+dining room|phòng ăn
+dinner|bữa tối
+dirty|bẩn
+discuss|thảo luận
+dish|cái đĩa; món ăn
+do|làm
+does|làm (ngôi thứ ba số ít)
+doing|đang làm
+doll|búp bê
+dollar|đô-la
+down|xuống
+drama|kịch, phim truyền hình
+dream|giấc mơ; mơ
+drink|uống; đồ uống
+driver|tài xế
+drop|làm rơi; giọt
+drum|cái trống
+due|đến hạn
+DVD|đĩa DVD
+each|mỗi
+each other|lẫn nhau
+ear|tai
+easy|dễ
+eat|ăn
+eight|số tám
+eighteen|mười tám
+eighty|tám mươi
+either|một trong hai; cũng (không)
+elementary|sơ cấp, tiểu học
+eleven|mười một
+else|khác
+end|kết thúc; điểm cuối
+engineer|kỹ sư
+enjoy|thích, tận hưởng
+evening|buổi tối
+event|sự kiện
+every|mỗi, mọi
+everybody|mọi người
+everyday|hằng ngày
+everyone|mọi người
+everything|mọi thứ
+everywhere|mọi nơi
+example|ví dụ
+excellent|xuất sắc
+excited|hào hứng
+excuse|lời bào chữa; tha lỗi
+factory|nhà máy
+fair|công bằng; hội chợ
+fairy|tiên, nàng tiên
+false|sai
+famous|nổi tiếng
+fan|người hâm mộ; cái quạt

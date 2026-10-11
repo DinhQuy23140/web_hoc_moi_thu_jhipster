@@ -1,0 +1,250 @@
+surely|adverb
+surface|noun
+surgeon|noun
+surgery|noun
+surprisingly|adverb
+surround|verb
+surrounding|adjective
+survival|noun
+survivor|noun
+suspect|noun, verb
+suspicion|noun
+swarm|noun
+swear|verb
+sweatshirt|noun
+swell|verb
+swimmer|noun
+switch|noun, verb
+swollen|adjective
+sword|noun
+sympathy|noun
+symptom|noun
+syndrome|noun
+systematic|adjective
+tablet|noun
+takeaway|noun
+takeoff|noun
+tale|noun
+talented|adjective
+talkative|adjective
+tank|noun
+taste|noun, verb
+tasteless|adjective
+tasty|adjective
+teaching|noun
+teammate|noun
+teamwork|noun
+tease|noun, verb
+technique|noun
+technological|adjective
+teen|noun
+telecommunications|noun
+telegram|noun
+teller|noun
+temper|noun, verb
+temporary|adjective
+tempt|verb
+tend|verb
+tendency|noun
+tense|adjective, noun
+tension|noun
+tent|noun
+term|noun
+terminal|noun
+terribly|adverb
+terrific|adjective
+terrified|adjective
+terror|noun
+terrorism|noun
+thankful|adjective
+theft|noun
+thirst|noun, verb
+thorough|adjective
+threat|noun
+threatening|adjective
+thriller|noun
+throughout|preposition
+thumb|noun
+thump|verb
+thunder|noun
+thunderous|adjective
+thus|adverb
+tick|noun, verb
+tide|noun
+tighten|verb
+tightly|adverb
+tile|noun
+timely|adjective
+tin|noun
+tiny|adjective
+tire|verb
+tiring|adjective
+tissue|noun
+tobacco|noun
+tongue|noun
+toothpaste|noun
+tornado|noun
+toss|verb
+total|adjective, noun
+totally|adverb
+tourism|noun
+tournament|noun
+trace|noun, verb
+tracksuit|noun
+traditionally|adverb
+traffic jam|noun
+tragedy|noun
+tragic|adjective
+trail|noun, verb
+transfer|noun, verb
+transform|verb
+transformation|noun
+transitional|adjective
+translate|verb
+transport|noun, verb
+transportation|noun
+trash|noun
+travel agent|noun
+treat|noun, verb
+treatment|noun
+tremble|verb
+tremendous|adjective
+trend|noun
+trigger|noun
+trim|noun
+triumph|noun
+tropical|adjective
+trumpet|noun
+trustworthy|adjective
+tumble|verb
+tuna|noun
+turbulence|noun
+turning|noun
+turtle|noun
+twin|noun
+twist|noun, verb
+typical|adjective
+typically|adverb
+unable|adjective
+unafraid|adjective
+unbelievable|adjective
+uncertainty|noun
+unclear|adjective
+uncontrollable|adjective
+uncover|verb
+underage|adjective
+undergo|verb
+underneath|adverb, preposition
+underpants|noun
+undo|verb
+undress|verb
+unemployed|adjective
+unexpected|adjective
+unexpectedly|adverb
+unfairly|adverb
+unfit|adjective
+unfold|verb
+unfortunate|adjective
+unfriendly|adjective
+unheard|adjective
+unify|verb
+uninterested|adjective
+uninteresting|adjective
+union|noun
+unique|adjective
+unite|verb
+universe|noun
+unless|conjunction
+unlikely|adjective
+unlucky|adjective
+unpack|verb
+unpredictable|adjective
+unrelated|adjective
+untidy|adjective
+unusually|adverb
+unwanted|adjective
+unwell|adjective
+update|noun, verb
+uplifted|adjective
+upload|verb
+upper|adjective
+up-to-date|adjective
+upward|adjective
+urge|noun, verb
+urgent|adjective
+usage|noun
+used to|modal verb
+useless|adjective
+vague|adjective
+vain|adjective
+valuable|adjective
+van|noun
+variety|noun
+various|adjective
+vary|verb
+vast|adjective
+vegetarian|adjective, noun
+vehicle|noun
+vein|noun
+vessel|noun
+vet|noun
+via|preposition
+vice|adjective
+vice president|noun
+victim|noun
+victory|noun
+video clip|noun
+viewpoint|noun
+violence|noun
+violently|adverb
+virtual|adjective
+virus|noun
+visa|noun
+visible|adjective
+vision|noun
+visual|adjective
+visually|adverb
+vivid|adjective
+vividly|adverb
+volcano|noun
+volume|noun
+vowel|noun
+voyage|noun
+wagon|noun
+ward|noun
+wardrobe|noun
+warmly|adverb
+warmth|noun
+warn|verb
+warning|noun
+warrior|noun
+washbowl|noun
+wasteful|adjective
+waterfall|noun
+wax|noun, verb
+weakness|noun
+weapon|noun
+weather forecast|noun
+webcam|noun
+weird|adjective
+well-dressed|adjective
+westward|adverb
+wetland|noun
+whale|noun
+whenever|adverb, conjunction
+wherever|conjunction
+whether|conjunction
+whichever|determiner, pronoun
+whisper|noun, verb
+whistle|noun, verb
+whoever|pronoun
+widespread|adjective
+wildlife|noun
+wildly|adverb
+willingness|noun
+windscreen|noun
+windsurfing|noun
+wing|noun
+wire|noun, verb
+wither|verb
+witness|noun, verb

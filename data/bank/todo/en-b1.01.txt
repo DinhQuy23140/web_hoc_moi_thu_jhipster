@@ -1,0 +1,250 @@
+abandon|verb
+able|adjective
+abnormal|adjective
+aboard|adverb, preposition
+aborigine|noun
+absence|noun
+absent|adjective
+absolute|adjective, noun
+absolutely|adverb
+absorb|verb
+abstract|adjective
+abundance|noun
+abundant|adjective
+academy|noun
+accent|noun
+acceptance|noun
+access|noun, verb
+accessible|adjective
+accessory|noun
+accidental|adjective
+accidentally|adverb
+accompany|verb
+accomplish|verb
+according to|preposition
+accuracy|noun
+accurate|adjective
+accurately|adverb
+accuse|verb
+accustom|verb
+ache|noun, verb
+achievement|noun
+acknowledge|verb
+acknowledgment|noun
+acquaintance|noun
+active|adjective
+actress|noun
+ad|noun
+adapt|verb
+addressee|noun
+administration|noun
+admiration|noun
+admission|noun
+adopt|verb
+adorable|adjective
+advance|noun, verb
+adverb|noun
+adverbial|adjective
+advert|noun
+advertise|verb
+adviser|noun
+aerobics|noun
+affect|verb
+affection|noun
+afterward|adverb
+afterwards|adverb
+aggressive|adjective
+agricultural|adjective
+agriculture|noun
+aid|noun, verb
+aim|noun, verb
+air conditioning|noun
+air force|noun
+airline|noun
+alcohol|noun
+alcoholic|adjective, noun
+alike|adjective, adverb
+allergic|adjective
+allowance|noun
+aloud|adverb
+alphabet|noun
+altogether|adverb
+amazed|adjective
+amazing|adjective
+ambitious|adjective
+ambulance|noun
+amount|noun
+amusing|adjective
+analysis|noun
+analyze|verb
+anger|noun
+angle|noun, verb
+animated|adjective
+animation|noun
+announce|verb
+announcement|noun
+annoyance|noun
+annoyed|adjective
+annual|adjective
+annually|adverb
+ant|noun
+anti|adjective
+antique|adjective, noun
+antonym|noun
+anxiously|adverb
+anyhow|adverb
+ape|noun
+apology|noun
+apparent|adjective
+appeal|noun, verb
+appetite|noun
+applaud|verb
+applause|noun
+application|noun
+appoint|verb
+appreciation|noun
+approach|noun, verb
+approval|noun
+approve|verb
+architect|noun
+arise|verb
+arithmetic|noun
+army|noun
+arrange|verb
+arrangement|noun
+arrest|noun, verb
+arrival|noun
+arrow|noun
+artist|noun
+artistic|adjective
+ashamed|adjective
+aside|adverb
+aspect|noun
+aspirin|noun
+assignment|noun
+assist|verb
+assistance|noun
+associate|verb
+assume|verb
+astronomer|noun
+athletic|adjective
+Atlantic|adjective
+atmosphere|noun
+atomic|adjective
+attachment|noun
+attain|verb
+attend|verb
+attract|verb
+attraction|noun
+authority|noun
+auxiliary|adjective
+available|adjective
+avenue|noun
+aware|adjective
+awareness|noun
+awesome|adjective
+awkward|adjective
+babysit|verb
+babysitter|noun
+backache|noun
+backpack|noun
+backpacker|noun
+backpacking|noun
+bacon|noun
+baggage|noun
+baker|noun
+bakery|noun
+bald|adjective, verb
+bandage|noun
+bang|noun, verb
+bank account|noun
+bare|adjective, verb
+barely|adverb
+bark|noun, verb
+barman|noun
+barrel|noun
+basement|noun
+basin|noun
+basis|noun
+bathe|verb
+battle|noun
+beard|noun
+beast|noun
+beat|noun, verb
+beautifully|adverb
+beaver|noun
+because of|preposition
+bedside|noun
+behalf|noun
+behave|verb
+belief|noun
+beloved|adjective
+beneath|preposition
+benefit|noun, verb
+bent|adjective
+bet|verb
+bilingual|adjective
+bin|noun
+biochemistry|noun
+biography|noun
+biology|noun
+bishop|noun
+bitter|adjective
+bleed|verb
+blend|noun, verb
+bless|verb
+blessing|noun
+blind|adjective
+blog|noun
+blogger|noun
+blush|noun, verb
+boast|verb, noun
+bold|adjective, noun
+boldly|adverb
+bomb|noun, verb
+bond|noun
+booking|noun
+boom|noun
+boot|noun
+border|noun
+bore|verb
+boredom|noun
+bounce|noun, verb
+bound|adjective
+bow|noun, verb
+boxing|noun
+bracelet|noun
+brainstorming|noun
+brand-new|adjective
+brass|noun
+bravely|adverb
+breast|noun
+breath|noun
+breathless|adjective
+breed|noun, verb
+breeding|noun
+brick|noun
+briefly|adverb
+brightly|adverb
+broad|adjective
+broccoli|noun
+bronze|noun
+brotherhood|noun
+bubble|noun
+buddy|noun
+builder|noun
+bull|noun
+bullet|noun
+bulletin|noun
+bump|verb
+bunch|noun
+burden|noun, verb
+bureau|noun
+burglar|noun
+burning|adjective
+burst|verb, noun
+bust|verb
+butcher|noun, verb
+buyer|noun
+cabbage|noun
+cabin|noun

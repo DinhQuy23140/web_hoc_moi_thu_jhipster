@@ -1,0 +1,166 @@
+会|CỐI, HỘI, HỤI|Meeting, Meet, Party, Association
+同|ĐỒNG|Same, Agree, Equal
+事|SỰ|Matter, Thing, Fact, Business
+自|TỰ|Oneself
+社|XÃ|Company, Firm, Office, Association
+発|BÁT, PHÁT|Departure, Discharge, Publish, Emit
+者|GIẢ|Someone, Person
+地|ĐỊA|Ground, Earth
+業|NGHIỆP|Business, Vocation, Arts, Performance
+方|PHƯƠNG|Direction, Person, Alternative
+新|TÂN|New
+場|TRÀNG, TRƯỜNG|Location, Place
+員|VIÊN, VÂN|Employee, Member, Number, The One In Charge
+立|LẬP|Stand Up, Rise, Set Up, Erect
+開|KHAI|Open, Unfold, Unseal
+手|THỦ|Hand
+力|LỰC|Power, Strength, Strong, Strain
+問|VẤN|Question, Ask, Problem
+代|ĐẠI|Substitute, Change, Convert, Replace
+明|MINH|Bright, Light
+動|ĐỘNG|Move, Motion, Change, Confusion
+京|KINH|Capital, 10**16
+目|MỤC|Eye, Class, Look, Insight
+通|THÔNG|Traffic, Pass Through, Avenue, Commute
+言|NGÔN, NGÂN|Say, Word
+理|LÝ|Logic, Arrangement, Reason, Justice
+体|THỂ|Body, Substance, Object, Reality
+田|ĐIỀN|Rice Field, Rice Paddy
+主|CHỦ|Lord, Chief, Master, Main Thing
+題|ĐỀ|Topic, Subject
+意|Ý|Idea, Mind, Heart, Taste
+不|BẤT, PHẦU, PHỦ, PHI|Negative, Non-, Bad, Ugly
+作|TÁC|Make, Production, Prepare, Build
+用|DỤNG|Utilize, Business, Service, Use
+度|ĐỘ, ĐẠC|Degrees, Occurrence, Time, Counter For Occurrences
+強|CƯỜNG, CƯỠNG, CÀNG, CƯỚNG, CƯỢNG, GÀN, GÀNG, GẮNG, GƯƠNG, GƯỢNG, NGƯỢNG|Strong
+公|CÔNG|Public, Prince, Official, Governmental
+持|TRÌ|Hold, Have
+野|DÃ|Plains, Field, Rustic, Civilian Life
+以|DĨ|By Means Of, Because, In View Of, Compared With
+思|TƯ, TỨ, TAI|Think
+家|GIA, CÔ|House, Home, Family, Professional
+世|THẾ|Generation, World, Society, Public
+多|ĐA|Many, Frequent, Much
+正|CHÁNH, CHÍNH|Correct, Justice, Righteous, 10**40
+安|AN|Relax, Cheap, Low, Quiet
+院|VIỆN|Inst., Institution, Temple, Mansion
+心|TÂM|Heart, Mind, Spirit
+界|GIỚI|World, Boundary
+教|GIÁO|Teach, Faith, Doctrine
+文|VĂN, VẤN|Sentence, Literature, Style, Art
+元|NGUYÊN|Beginning, Former Time, Origin
+重|TRỌNG, TRÙNG|Heavy, Important, Esteem, Respect
+近|CẬN, CẤN, KÝ|Near, Early, Akin, Tantamount
+考|KHẢO|Consider, Think Over
+画|HOẠCH|Brush-stroke, Picture
+海|HẢI|Sea, Ocean
+売|MẠI, XÁC, XẠC|Sell
+知|TRI|Know, Wisdom
+道|ĐẠO, ĐÁO|Road-way, Street, District, Journey
+集|TẬP|Gather, Meet, Congregate, Swarm
+別|BIỆT|Separate, Branch Off, Diverge, Fork
+物|VẬT|Thing, Object, Matter
+使|SỬ, SỨ|Use, Send On A Mission, Order, Messenger
+品|PHẨM|Goods, Refinement, Dignity, Article
+計|KẾ, KÊ|Plot, Plan, Scheme, Measure
+死|TỬ|Death, Die
+特|ĐẶC|Special
+私|TƯ|Private, I, Me
+始|THỦY, THÍ|Commence, Begin
+朝|TRIÊU, TRIỀU|Morning, Dynasty, Regime, Epoch
+運|VẬN|Carry, Luck, Destiny, Fate
+終|CHUNG|End, Finish
+台|THAI, ĐÀI, DI|Pedestal, A Stand, Counter For Machines And Vehicles
+広|QUẢNG|Wide, Broad, Spacious
+住|TRỤ|Dwell, Reside, Live, Inhabit
+真|CHÂN|True, Reality, Buddhist Sect
+有|HỮU, DỰU|Possess, Have, Exist, Happen
+口|KHẨU|Mouth
+少|THIỂU, THIẾU|Few, Little
+町|ĐINH|Town, Village, Block, Street
+料|LIÊU, LIỆU|Fee, Materials
+工|CÔNG|Craft, Construction
+建|KIẾN, KIỂN|Build
+空|KHÔNG, KHỐNG, KHỔNG|Empty, Sky, Void, Vacant
+急|CẤP|Hurry, Emergency, Sudden, Steep
+止|CHỈ|Stop, Halt
+送|TỐNG|Escort, Send
+切|THIẾT, THẾ|Cut, Cutoff, Be Sharp
+転|CHUYỂN|Revolve, Turn Around, Change
+研|NGHIÊN, NGHIỄN, NGHIẾN, NGHIỀN, NGHIỆN|Polish, Study Of, Sharpen
+足|TÚC|Leg, Foot, Be Sufficient, Counter For Pairs Of Footwear
+究|CỨU|Research, Study
+楽|LẠC, NHẠC|Music, Comfort, Ease
+起|KHỞI|Rouse, Wake Up, Get Up
+着|KHÁN|Don, Arrive, Wear, Counter For Suits Of Clothing
+店|ĐIẾM|Store, Shop
+病|BỆNH|Ill, Sick
+質|CHẤT, CHÍ|Substance, Quality, Matter, Temperament
+待|ĐÃI|Wait, Depend On
+試|THÍ|Test, Try, Attempt, Experiment
+族|TỘC|Tribe, Family
+銀|NGÂN|Silver
+早|TẢO|Early, Fast
+映|ÁNH|Reflect, Reflection, Projection
+親|THÂN, THẤN|Parent, Intimacy, Relative, Familiarity
+験|NGHIỆM|Verification, Effect, Testing
+英|ANH|England, English, Hero, Outstanding
+医|Ế, Y, Ỷ, I, Ỉ|Doctor, Medicine
+仕|SĨ|Attend, Doing, Official, Serve
+去|KHỨ, KHU|Gone, Past, Quit, Leave
+味|VỊ|Flavor, Taste
+写|TẢ|Copy, Be Photographed, Describe
+字|TỰ|Character, Letter, Word, Section Of Village
+答|ĐÁP|Solution, Answer
+夜|DẠ|Night, Evening
+音|ÂM|Sound, Noise
+注|CHÚ|Pour, Irrigate, Shed (tears), Flow Into
+帰|QUY|Homecoming, Arrive At, Lead To, Result In
+古|CỔ|Old
+歌|CA|Song, Sing
+買|MÃI|Buy
+悪|ÁC, Ố, ÓC|Bad, Vice, Rascal, False
+図|ĐỒ, VI|Map, Drawing, Plan, Extraordinary
+週|CHU|Week
+室|THẤT|Room, Apartment, Chamber, Greenhouse
+歩|BỘ|Walk, Counter For Steps
+風|PHONG|Wind, Air, Style, Manner
+紙|CHỈ|Paper
+黒|HẮC|Black
+花|HOA|Flower
+春|XUÂN|Springtime, Spring (season)
+赤|XÍCH, THÍCH|Red
+青|THANH|Blue, Green
+館|QUÁN|Building, Mansion, Large Building, Palace
+屋|ỐC|Roof, House, Shop, Dealer
+色|SẮC|Color
+走|TẨU|Run
+秋|THU|Autumn
+夏|HẠ, GIẠ, GIÁ|Summer
+習|TẬP|Learn
+駅|DỊCH|Station
+洋|DƯƠNG|Ocean, Sea, Foreign, Western Style
+旅|LỮ|Trip, Travel
+服|PHỤC|Clothing, Admit, Obey, Discharge
+夕|TỊCH|Evening
+借|TÁ|Borrow, Rent
+曜|DIỆU|Weekday
+飲|ẤM, ẨM, HẨM, ỠM|Drink, Smoke, Take
+肉|NHỤC, NHỤ, NẬU|Meat
+貸|THẢI, THẮC|Lend
+堂|ĐƯỜNG|Public Chamber, Hall
+鳥|ĐIỂU|Bird, Chicken
+飯|PHẠN, PHÃN|Meal, Boiled Rice
+勉|MIỄN|Exertion, Endeavour, Encourage, Strive
+冬|ĐÔNG|Winter
+昼|TRÚ|Daytime, Noon
+茶|TRÀ|Tea
+弟|ĐỆ, ĐỄ|Younger Brother, Faithful Service To Elders
+牛|NGƯU|Cow
+魚|NGƯ|Fish
+兄|HUYNH|Elder Brother, Big Brother
+犬|KHUYỂN|Dog
+妹|MUỘI|Younger Sister
+姉|TỈ, TỶ, CHỊ|Elder Sister
+漢|HÁN|Sino-, China

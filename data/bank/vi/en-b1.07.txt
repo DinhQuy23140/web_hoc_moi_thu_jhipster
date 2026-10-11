@@ -1,0 +1,250 @@
+republic|nước cộng hòa
+reputation|danh tiếng
+require|yêu cầu
+requirement|yêu cầu
+rescue|giải cứu
+researcher|nhà nghiên cứu
+resemble|giống
+reservation|sự đặt chỗ
+reserve|đặt trước; khu bảo tồn
+resident|cư dân
+residential|thuộc khu dân cư
+resist|chống lại
+resolve|giải quyết
+resort|khu nghỉ dưỡng
+resource|tài nguyên
+respectable|đáng kính
+respond|phản hồi
+responsibility|trách nhiệm
+responsible|có trách nhiệm
+restore|khôi phục
+restrict|hạn chế
+retain|giữ lại
+retell|kể lại
+retrospect|sự hồi tưởng
+reunification|sự thống nhất lại
+reunify|thống nhất lại
+revise|ôn tập; sửa đổi
+revision|sự ôn tập; sự sửa đổi
+reward|phần thưởng
+rewrite|viết lại
+rid|loại bỏ
+riddle|câu đố
+ridiculous|lố bịch
+ripe|chín
+rise|tăng lên; mọc
+risk|rủi ro
+roadside|lề đường
+robot|người máy
+rolling|nhấp nhô
+rotten|thối rữa
+rough|thô ráp; gần đúng
+routine|thói quen hằng ngày
+rubber|cao su; cục tẩy
+rubbish|rác
+rudely|thô lỗ
+runaway|kẻ bỏ trốn
+runway|đường băng
+sacred|thiêng liêng
+sadness|nỗi buồn
+safari|chuyến đi săn ngắm thú
+safeguard|bảo vệ
+safely|an toàn
+safety|sự an toàn
+salesman|nhân viên bán hàng
+salmon|cá hồi
+sand|cát
+sandal|dép xăng-đan
+satellite|vệ tinh
+satisfaction|sự hài lòng
+satisfied|hài lòng
+saucepan|cái xoong
+saucer|đĩa lót tách
+scan|quét
+scare|làm sợ
+scared|sợ hãi
+scary|đáng sợ
+scatter|rải rác
+scenic|có phong cảnh đẹp
+scholar|học giả
+schoolmate|bạn cùng trường
+schoolteacher|giáo viên
+science fiction|khoa học viễn tưởng
+scold|mắng
+scope|phạm vi
+score|điểm số; ghi bàn
+scratch|cào, gãi; vết xước
+sculpture|tác phẩm điêu khắc
+seawater|nước biển
+seaweed|rong biển
+secondary school|trường trung học
+second-hand|đồ cũ
+secretly|bí mật
+secure|an toàn; bảo đảm
+security|an ninh
+seize|nắm lấy; tịch thu
+select|chọn lọc; lựa chọn
+selection|sự lựa chọn
+selfish|ích kỷ
+self-service|tự phục vụ
+sensation|cảm giác; sự náo động
+separation|sự chia cắt
+sequence|trình tự
+series|loạt, bộ
+serious|nghiêm trọng; nghiêm túc
+server|máy chủ; người phục vụ
+service|dịch vụ
+session|phiên, buổi
+setting|bối cảnh
+settle|định cư; giải quyết
+settlement|khu định cư; sự giải quyết
+settler|người định cư
+severe|nghiêm trọng
+severely|nghiêm trọng
+sex|giới tính
+shadowy|mờ ám
+shallow|nông
+shame|sự xấu hổ
+shameful|đáng xấu hổ
+sharp|sắc bén
+shave|cạo râu
+sheer|hoàn toàn
+sheet|tờ; ga trải giường
+shelter|nơi trú ẩn
+sheriff|cảnh sát trưởng
+shift|ca làm việc; thay đổi
+shiny|sáng bóng
+shiver|run rẩy
+shocked|sốc
+shocking|gây sốc
+shopper|người mua sắm
+shortage|sự thiếu hụt
+shortly|sớm, ngay
+shrimp|con tôm
+sickness|bệnh tật
+sidewalk|vỉa hè
+sigh|thở dài
+signal|tín hiệu
+signature|chữ ký
+significance|tầm quan trọng
+signpost|biển chỉ đường
+silent|im lặng
+silk|lụa
+similarity|sự giống nhau
+similarly|tương tự
+simplify|đơn giản hóa
+simultaneously|đồng thời
+skeleton|bộ xương
+skin|da
+slavery|chế độ nô lệ
+sleeve|tay áo
+slight|nhẹ, nhỏ
+slightly|một chút
+slip|trượt
+slogan|khẩu hiệu
+slope|con dốc
+slot|khe; khung giờ
+smoker|người hút thuốc
+sneeze|hắt hơi
+snowboard|ván trượt tuyết
+snowstorm|bão tuyết
+soap opera|phim truyền hình dài tập
+social networking|mạng xã hội
+socially|về mặt xã hội
+soil|đất
+solid|rắn; vững chắc
+somehow|bằng cách nào đó
+someplace|ở đâu đó
+sometime|một lúc nào đó
+sometimes|đôi khi
+soothe|xoa dịu
+sophomore|sinh viên năm hai
+sore|đau
+sorrow|nỗi buồn
+sort|loại; sắp xếp
+soul|linh hồn
+sour|chua
+southeast|đông nam
+southern|phía nam
+southwest|tây nam
+sparkle|sự lấp lánh
+specialist|chuyên gia
+specialize|chuyên về
+specially|đặc biệt
+spectacular|ngoạn mục
+spectator|khán giả
+spelling|chính tả
+sphere|hình cầu; lĩnh vực
+spice|gia vị
+spicy|cay
+spider|con nhện
+spinach|rau chân vịt
+spiral|xoắn ốc
+spirit|tinh thần
+spiritual|thuộc tinh thần
+spoil|làm hỏng; chiều hư
+sponge|bọt biển
+sponsor|nhà tài trợ; tài trợ
+sports|thuộc thể thao
+sportsmanship|tinh thần thể thao
+stable|ổn định
+stall|quầy hàng
+standard|tiêu chuẩn
+stare|nhìn chằm chằm
+status|địa vị; trạng thái
+steadily|đều đặn
+steam|hơi nước
+steel|thép
+steep|dốc
+stem|bắt nguồn
+stick|cây gậy; dán
+sticker|nhãn dán
+sticky|dính
+stir|khuấy
+storage|kho chứa
+stormy|có bão
+storyteller|người kể chuyện
+strain|căng thẳng; sự căng
+strangely|kỳ lạ
+strategic|chiến lược
+straw|rơm; ống hút
+strawberry|dâu tây
+stream|dòng suối; phát trực tuyến
+strengthen|củng cố
+stress|căng thẳng; nhấn mạnh
+stressed|căng thẳng
+stressful|gây căng thẳng
+stretch|kéo dài, duỗi
+stricken|bị tác động nặng
+strip|dải; lột
+stripe|sọc
+struggle|đấu tranh
+stubborn|bướng bỉnh
+stuck|bị mắc kẹt
+studio|phòng thu
+stuffed|nhồi
+stumble|vấp
+stun|làm choáng váng
+stunning|tuyệt đẹp
+stupid|ngu ngốc
+stylish|sành điệu
+submarine|tàu ngầm
+substantial|đáng kể
+substitute|thay thế
+suddenly|đột nhiên
+suffer|chịu đựng
+sufficient|đủ
+suffix|hậu tố
+suicide|tự tử
+summarize|tóm tắt
+summit|đỉnh; hội nghị thượng đỉnh
+sunbathe|tắm nắng
+sundial|đồng hồ mặt trời
+sunrise|bình minh
+sunset|hoàng hôn
+superior|vượt trội
+superstition|mê tín
+supporter|người ủng hộ
+supportive|hỗ trợ
+suppose|cho rằng
+supposedly|cho là

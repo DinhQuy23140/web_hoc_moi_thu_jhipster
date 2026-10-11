@@ -1,0 +1,250 @@
+hundred|một trăm
+hunter|thợ săn
+ID|giấy tờ tùy thân
+ID card|chứng minh nhân dân, thẻ căn cước
+illegal|bất hợp pháp
+image|hình ảnh
+imagination|trí tưởng tượng
+impact|tác động
+impatient|thiếu kiên nhẫn
+importance|tầm quan trọng
+importantly|quan trọng là
+impossible|không thể
+impress|gây ấn tượng
+improve|cải thiện
+inch|inch (2,54 cm)
+include|bao gồm
+increase|tăng
+indeed|thực sự
+independence|sự độc lập
+indicate|chỉ ra
+indoor|trong nhà
+inexpensive|không đắt
+injure|làm bị thương
+inner|bên trong
+insect|côn trùng
+inspiration|nguồn cảm hứng
+instant|ngay lập tức; ăn liền
+instead|thay vào đó
+instrument|nhạc cụ; dụng cụ
+intelligence|trí thông minh; tình báo
+intelligent|thông minh
+interest|sự quan tâm; lãi suất
+international|quốc tế
+invade|xâm lược
+invention|phát minh
+invite|mời
+issue|vấn đề; phát hành
+itself|chính nó
+jam|mứt; kẹt xe
+jelly|thạch
+joke|trò đùa; nói đùa
+joy|niềm vui
+junior|cấp dưới; trẻ hơn
+junk|đồ bỏ đi
+killer|kẻ giết người
+kilo|ki-lô-gam
+kilogram|ki-lô-gam
+kilometer|ki-lô-mét
+kindly|tử tế
+kingdom|vương quốc
+kit|bộ dụng cụ
+knock|gõ cửa
+labor|lao động
+lack|sự thiếu
+lamp|đèn
+land|đất; hạ cánh
+landscape|phong cảnh
+lane|làn đường; ngõ
+last|cuối cùng; kéo dài
+latest|mới nhất
+latter|cái sau
+law|luật pháp
+lawyer|luật sư
+laziness|sự lười biếng
+lead|dẫn dắt; chì
+learner|người học
+least|ít nhất
+leather|da thuộc
+left-hand|bên tay trái
+leisure|thời gian rảnh
+lemon|quả chanh
+lemonade|nước chanh
+less|ít hơn
+level|cấp độ
+liberty|sự tự do
+license|cấp phép
+lie|nói dối; nằm
+lifestyle|lối sống
+likely|có khả năng
+lip|môi
+liter|lít
+lively|sôi nổi
+load|tải; chất hàng
+local|địa phương
+lock|khóa
+logical|hợp lý, logic
+loose|lỏng
+lose|mất; thua
+lost|bị lạc; bị mất
+loudly|ầm ĩ, to
+lover|người yêu
+low|thấp
+luckily|may mắn thay
+lunchtime|giờ ăn trưa
+lyric|trữ tình; lời bài hát
+mad|điên; tức giận
+magic|phép thuật
+main course|món chính
+mainly|chủ yếu
+major|chính, chủ yếu; chuyên ngành
+maker|nhà sản xuất
+make-up|đồ trang điểm
+male|nam, giống đực
+mall|trung tâm mua sắm
+manage|quản lý; xoay xở
+manager|người quản lý
+manner|cách thức; cách cư xử
+mark|điểm; đánh dấu
+married|đã kết hôn
+marry|kết hôn
+marvelous|tuyệt diệu
+material|vật liệu
+max|tối đa
+meaning|ý nghĩa
+medal|huy chương
+medical|y tế
+melon|dưa
+member|thành viên
+mention|đề cập
+menu|thực đơn
+metal|kim loại
+meter|mét; đồng hồ đo
+method|phương pháp
+midday|giữa trưa
+midnight|nửa đêm
+might|có thể, có lẽ
+military|quân sự
+million|triệu
+mineral water|nước khoáng
+mirror|gương
+missing|mất tích, bị thiếu
+mix|trộn
+model|người mẫu; mô hình
+modern|hiện đại
+mood|tâm trạng
+mosque|nhà thờ Hồi giáo
+mostly|chủ yếu
+motorway|đường cao tốc
+MP3 player|máy nghe nhạc MP3
+Ms.|cô, bà (xưng hô)
+mug|cốc có quai
+murder|giết người
+mushroom|nấm
+musical|thuộc âm nhạc; nhạc kịch
+myself|chính tôi
+mysterious|bí ẩn
+mystery|điều bí ẩn
+napkin|khăn ăn
+nation|quốc gia
+national|quốc gia
+native|bản xứ
+nature|thiên nhiên; bản chất
+nearly|gần như
+necessary|cần thiết
+negative|tiêu cực
+net|lưới; ròng
+next|tiếp theo
+next to|bên cạnh
+no one|không ai
+nobody|không ai
+noon|buổi trưa
+normal|bình thường
+north|phía bắc
+notice|thông báo; nhận thấy
+noun|danh từ
+nowadays|ngày nay
+oak|cây sồi
+occupation|nghề nghiệp
+offer|đề nghị; lời mời
+official|chính thức; viên chức
+oil|dầu
+olive oil|dầu ô liu
+Olympic|thuộc Thế vận hội
+omelet|trứng tráng
+onion|hành tây
+operate|vận hành; phẫu thuật
+opinion|ý kiến
+opportunity|cơ hội
+oppose|phản đối
+opposite|đối diện; trái ngược
+organize|tổ chức
+organized|ngăn nắp, có tổ chức
+original|nguyên bản; bản gốc
+orphan|trẻ mồ côi
+ourselves|chính chúng tôi
+out of|ra khỏi
+oven|lò nướng
+overseas|ở nước ngoài
+overweight|thừa cân
+pacific|hòa bình; Thái Bình Dương
+pack|đóng gói; gói
+painter|họa sĩ
+pal|bạn
+pan|cái chảo
+panic|hoảng loạn
+part|phần
+partly|một phần
+pass|vượt qua; đi qua
+passage|đoạn văn; lối đi
+passenger|hành khách
+pasta|mì Ý
+path|con đường mòn
+patient|kiên nhẫn; bệnh nhân
+PC|máy tính cá nhân
+pea|đậu Hà Lan
+peaceful|yên bình
+pear|quả lê
+pence|đồng xu (Anh)
+penfriend|bạn qua thư
+pepper|hạt tiêu; ớt chuông
+perfect|hoàn hảo
+perfectly|một cách hoàn hảo
+perform|biểu diễn; thực hiện
+perfume|nước hoa
+perhaps|có lẽ
+permission|sự cho phép
+personality|tính cách
+petrol|xăng
+petrol station|trạm xăng
+photograph|bức ảnh; chụp ảnh
+photographer|nhiếp ảnh gia
+photography|nhiếp ảnh
+physical|thể chất
+physically|về mặt thể chất
+pile|đống
+pilgrim|người hành hương
+pill|viên thuốc
+pilot|phi công
+pity|lòng thương hại; điều đáng tiếc
+planet|hành tinh
+plant|cây; trồng
+plate|cái đĩa
+playful|vui tươi, tinh nghịch
+playground|sân chơi
+pleasant|dễ chịu
+pleased|hài lòng
+pleasing|làm hài lòng
+plenty|nhiều
+plural|số nhiều
+plus|cộng; cộng thêm
+police|cảnh sát
+police officer|nhân viên cảnh sát
+police station|đồn cảnh sát
+policeman|cảnh sát viên (nam)
+policewoman|nữ cảnh sát
+political|chính trị
+pollute|làm ô nhiễm
+popular|phổ biến
+portrait|chân dung
+position|vị trí

@@ -1,0 +1,250 @@
+文芸|ぶんげい|noun|literature, art and literature
+文献|ぶんけん|noun|literature, books (reference)
+噴水|ふんすい|noun|water fountain
+分数|ぶんすう|noun, adjective|fraction (in math)
+文体|ぶんたい|noun|literary style
+分布|ぶんぷ|noun, suru-verb|distribution
+文房具|ぶんぼうぐ|noun|stationery
+文脈|ぶんみゃく|noun|context
+分量|ぶんりょう|noun, suru-verb|amount, quantity
+分類|ぶんるい|noun, suru-verb|classification
+閉会|へいかい|noun, suru-verb|closure
+平気|へいき|na-adjective, noun|coolness, calmness, unconcern
+並行|へいこう|noun, suru-verb|(going) side by side, concurrent, at the same time
+平日|へいじつ|adverb, noun|weekday
+兵隊|へいたい|noun|soldier
+平凡|へいぼん|na-adjective, noun|common, ordinary
+平野|へいや|noun|plain, open field
+凹む|へこむ|verb|to be dented, to be indented
+へそ|へそ|noun|navel, belly-button
+隔てる|へだてる|verb|to be shut out
+別荘|べっそう|noun|villa; vacation home; summer cottage
+別々|べつべつ|adjective, na-adjective|separately, individually
+ベテラン|ベテラン|noun, adjective|veteran
+ヘリコプター|ヘリコプター|noun|helicopter
+編集|へんしゅう|noun, suru-verb|editing, compilation, editorial (e.g., committee)
+便所|べんじょ|noun|toilet, lavatory
+ペンチ|ペンチ|noun|pliers (lit: pinchers)
+ボーナス|ボーナス|noun|bonus
+防～|ぼう～|noun, prefix|~ prevention
+望遠鏡|ぼうえんきょう|noun|telescope
+方角|ほうがく|noun|direction, way
+箒|ほうき|noun|broom
+方言|ほうげん|noun|dialect
+坊さん|ぼうさん|noun|Buddhist priest, monk
+防止|ぼうし|noun, suffix|prevention, check
+方針|ほうしん|noun|objective, plan, policy
+法則|ほうそく|noun|law, rule
+包帯|ほうたい|noun, suru-verb|bandage
+膨大|ぼうだい|na-adjective, noun|enormous, extensive
+包丁|ほうちょう|noun|kitchen knife, carving knife
+方程式|ほうていしき|noun|equation
+防犯|ぼうはん|noun, adjective|prevention of crime
+方面|ほうめん|noun, suffix|direction; area
+坊や|ぼうや|noun|boy
+放る|ほうる|verb|to let go
+朗らか|ほがらか|na-adjective|bright, cheerful, melodious
+牧場|ぼくじょう|noun|farm (livestock); pasture land
+牧畜|ぼくちく|noun|stock-farming
+保健|ほけん|noun|health preservation, hygiene, sanitation
+募集|ぼしゅう|noun, suru-verb|recruitment
+干す|ほす|verb|to air, to dry, to drink up
+ポスター|ポスター|noun|poster
+北極|ほっきょく|noun|North Pole
+坊っちゃん|ぼっちゃん|noun|son (of others)
+解く|ほどく|verb|to unfasten
+掘る|ほる|verb|to dig, to excavate
+彫る|ほる|verb|to carve, to chisel
+ぼろ|ぼろ|prefix|rag, tattered clothes
+盆|ぼん|noun|Festival of the Dead; tray
+盆地|ぼんち|noun|basin (e.g., between mountains)
+ほんの～|ほんの～|adjective|mere, just
+本部|ほんぶ|noun|headquarters
+本来|ほんらい|adverb, noun|essentially, naturally, by nature
+まあまあ|まあまあ|adjective, na-adjective|okay; so-so; decent
+毎～|まい～|prefix|every ~
+枚数|まいすう|noun|the number of flat things
+毎度|まいど|adverb, noun|each time, common service-sector greeting
+まく|まく|verb|to wind, to coil, to roll
+枕|まくら|noun, suffix|pillow
+曲げる|まげる|verb|to bend, to crook, to lean
+まごまご|まごまご|noun, adverb|confused, be at a loss
+摩擦|まさつ|noun, suru-verb|friction; rubbing; chafe
+まざる|まざる|verb|to be mixed, to be blended with, to associate with
+まじる|まじる|verb|to be mixed, to be blended with, to associate with
+マスク|マスク|noun|mask
+まぜる|まぜる|verb|to mix, to stir
+またぐ|またぐ|verb|to straddle
+跨ぐ|またぐ|verb|to step over/across, to stride over/across, to cross to stretch over, to span, to bridge, to saddle, to straddle
+待合室|まちあいしつ|noun|waiting room
+待ち合わせる|まちあわせる|verb|to rendezvous, to meet at a prearranged place and time
+街角|まちかど|noun|street corner
+真っ暗|まっくら|na-adjective, noun|total darkness
+真っ黒|まっくろ|na-adjective, adjective|pitch black
+真っ青|まっさお|na-adjective, noun|deep blue, ghastly pale
+真っ先|まっさき|noun|foremost, beginning
+真っ白|まっしろ|na-adjective, adjective|pure white
+祭る|まつる|verb|to deify, to enshrine
+窓口|まどぐち|noun|(ticket) window
+真似る|まねる|verb|to mimic, to imitate
+まぶた|まぶた|noun|eyelids
+マフラー|マフラー|noun|a winter scarf
+間も無く|まもなく|adverb|soon, in a short time
+間もなく|まもなく|adverb|soon, shortly, before long, in a short time, in a little while
+マラソン|マラソン|noun|marathon
+稀|まれ|na-adjective|rare, seldom
+回り道|まわりみち|noun, suru-verb|detour
+満員|まんいん|noun, adjective|full house, no vacancy, sold out
+マンション|マンション|noun|multistory apartment house, condominium
+満点|まんてん|noun, adjective|perfect score
+未～|み～|prefix|not yet ~
+見上げる|みあげる|verb|to look up at, to admire
+見送る|みおくる|verb|to see off; to escort; to let pass
+見下ろす|みおろす|verb|to overlook, to look down on something
+見掛け|みかけ|noun, adjective|outward appearance
+三日月|みかづき|noun|crescent moon
+岬|みさき|noun|cape (on coast)
+みじめ|みじめ|na-adjective|sad, pitiful, wretched
+惨めな|みじめな|expression|miserable, wretched, unhappy, sad, pitiable
+ミシン|ミシン|noun|sewing machine
+自ら|みずから|noun, adverb|for one's self, personally
+水着|みずぎ|noun|bathing suit (woman's)
+店屋|みせや|noun|store, shop
+見出し|みだし|noun|heading, index
+道順|みちじゅん|noun|itinerary, route
+みっともない|みっともない|i-adjective|shameful, indecent
+見詰める|みつめる|verb|to stare at, to gaze at
+見直す|みなおす|verb|to look over again, to review
+見慣れる|みなれる|verb|to become used to seeing, to be familiar with
+醜い|みにくい|i-adjective|ugly
+実る|みのる|verb|to bear fruit, to ripen
+身分|みぶん|noun|position, status
+見本|みほん|noun, adjective|sample
+見舞う|みまう|verb|to ask after (health), to visit
+未満|みまん|suffix, noun|less than, insufficient
+名字|みょうじ|noun|surname, family name
+ミリ|ミリ|prefix, noun|milli-
+民間|みんかん|adjective, noun|private, civilian
+民主～|みんしゅ～|noun|democratic
+民謡|みんよう|noun|folk song, popular song
+無限|むげん|noun, adjective|infinite
+無地|むじ|adjective, noun|plain
+無数|むすう|adjective, na-adjective|countless number, infinite number
+紫|むらさき|noun, adjective|purple color, violet
+群れ|むれ|noun|crowd, flock, herd
+姪|めい|noun|niece
+名～|めい～|counter, noun|famous ~
+名作|めいさく|noun|masterpiece
+名所|めいしょ|noun|famous place
+迷信|めいしん|noun|superstition
+命ずる|めいずる|verb|to command, to appoint
+名物|めいぶつ|noun|famous product, special product, speciality
+銘々|めいめい|adverb, adjective|each, individual
+恵まれる|めぐまれる|verb|to be blessed with, to be rich in
+巡る|めぐる|verb|to go around
+目指す|めざす|verb|to aim at, to have an eye on
+目覚し|めざまし|noun|alarm-clock
+目下|めした|noun|at present, now
+目印|めじるし|noun|mark, sign, landmark
+めちゃくちゃ|めちゃくちゃ|na-adjective, noun|absurd, messed up, wrecked
+めっきり|めっきり|adverb|remarkably
+めでたい|めでたい|i-adjective|happy, propitious, joyous
+メニュー|メニュー|noun|menu
+めまい|めまい|noun|dizziness, giddiness
+目安|めやす|noun|criterion, aim
+免税|めんぜい|noun, suru-verb|tax exemption
+面積|めんせき|noun|area
+面倒臭い|めんどうくさい|i-adjective|bother to do, tiresome
+モーター|モーター|noun|motor
+儲かる|もうかる|verb|to be profitable, to yield a profit
+儲ける|もうける|verb|to earn, to have (bear, beget) a child
+申し訳ない|もうしわけない|expression, i-adjective|inexcusable, I am sorry
+木材|もくざい|noun|lumber, timber, wood
+目次|もくじ|noun|table of contents
+潜る|もぐる|verb|to dive, to pass through; to evade, to hide
+もしかしたら|もしかしたら|expression, adverb|perhaps, maybe, by some chance
+もたれる|もたれる|verb|to lean against, to lean on
+凭れる|もたれる|verb|to lean against, to lean on, to recline on
+モダン|モダン|na-adjective, noun|modern
+餅|もち|noun|sticky rice cake
+モデル|モデル|noun|a fashion model
+元々|もともと|adverb, adjective|originally, by nature, from the start
+物置|ものおき|noun|storage room
+物語る|ものがたる|verb|to tell, to indicate
+物差し|ものさし|noun|ruler, measure
+物凄い|ものすごい|i-adjective|earth-shattering, staggering, to a very great extent
+モノレール|モノレール|noun|monorail
+紅葉|もみじ|noun, suru-verb|(Japanese) maple
+揉む|もむ|verb|to rub, to crumple (up), to wrinkle
+もやす|もやす|verb|to burn
+催し|もよおし|noun|event, festivities, function
+盛る|もる|verb|to serve (food); to fill up; to prescribe
+問答|もんどう|noun, suru-verb|questions and answers, dialogue
+やかましい|やかましい|i-adjective|to be fussy, to be overly critical
+喧しい|やかましい|i-adjective|noisy, loud, clamorous, boisterous
+夜間|やかん|noun, adverb|at night, nighttime
+やかん|やかん|noun|kettle
+役者|やくしゃ|noun|actor
+役所|やくしょ|noun|government office, public office
+役人|やくにん|noun|government official
+薬品|やくひん|noun|medicine(s), chemical(s)
+役目|やくめ|noun|duty, business
+火傷|やけど|noun, suru-verb|burn, scald
+夜行|やこう|noun, suru-verb|night train, night travel
+矢印|やじるし|noun|directing arrow
+やたらに|やたらに|expression|randomly, recklessly, blindly
+薬局|やっきょく|noun|pharmacy, drugstore
+やっつける|やっつける|verb|to attack (an enemy), to beat, to finish off
+やっぱり|やっぱり|adverb|after all, anyway
+家主|やぬし|noun|landlord
+破く|やぶく|verb|to tear
+やむをえない|やむをえない|expression, i-adjective|cannot be helped, unavoidable
+軟らかい|やわらかい|i-adjective|soft, tender, limp
+夕刊|ゆうかん|noun|evening paper
+郵送|ゆうそう|noun, suru-verb|mailing
+夕立|ゆうだち|noun|(sudden) evening shower (rain)
+夕日|ゆうひ|noun|(in) the evening sun, setting sun
+悠々|ゆうゆう|adjective, adverb|quiet, calm, leisurely
+有料|ゆうりょう|adjective, noun|admission-paid, toll
+浴衣|ゆかた|noun|bathrobe, informal summer kimono
+行方|ゆくえ|noun|one's whereabouts
+湯気|ゆげ|noun|steam
+輸血|ゆけつ|noun, suru-verb|blood transfusion
+輸送|ゆそう|noun, suru-verb|transport, transportation
+油断|ゆだん|noun, suru-verb|negligence, unpreparedness
+湯飲み|ゆのみ|noun|teacup
+湯飲|ゆのみ|noun|teacup
+緩い|ゆるい|i-adjective|loose, lenient, slow
+溶岩|ようがん|noun|lava
+用語|ようご|noun|term, terminology
+要旨|ようし|noun|gist, essentials, summary
+幼児|ようじ|noun|infant, baby, child
+容積|ようせき|noun|capacity, volume
+幼稚|ようち|noun, na-adjective|infancy, childish, infantile
+幼稚園|ようちえん|noun|kindergarten
+用途|ようと|noun|use, usefulness
+洋品店|ようひんてん|noun|clothes store
+養分|ようぶん|noun|nourishment, nutrient
+羊毛|ようもう|noun, adjective|wool
+漸く|ようやく|adverb|at last, finally, hardly
+要領|ようりょう|noun|gist, essentials, outline
+翌～|よく～|prefix|next ~
+欲張り|よくばり|noun, na-adjective|greedy
+余計|よけい|na-adjective, adverb|too much, unnecessary, abundance, surplus, excess, superfluity
+よこす|よこす|verb, auxiliary|to send, to forward; to hand over (e.g., money)
+よごす|よごす|verb|(1) to disgrace, to dishonour, (2) to pollute, to contaminate, to soil, to make dirty, to stain
+余所|よそ|noun, adjective|another place, somewhere else, strange parts
+四つ角|よつかど|noun|four corners, crossroads
+酔っ払い|よっぱらい|noun|drunkard
+予備|よび|noun, adjective|preparation, spare
+呼び掛ける|よびかける|verb|to call out to, to accost, to address (crowd), to appeal
+呼び出す|よびだす|verb|to summon, to call (e.g., phone)
+蘇る|よみがえる|verb|to be resurrected, to be revived
+慶ぶ|よろこぶ|verb|to be delighted, to be glad
+来日|らいにち|noun, suru-verb|coming to Japan, visit to Japan
+落第|らくだい|noun, suru-verb|failure, dropping out of a class
+ラッシュアワー|ラッシュアワー|noun|rush hour
+欄|らん|noun, suffix|column of text (e.g., as in a newspaper)
+ランチ|ランチ|noun|lunch
+ランニング|ランニング|noun|running; tank top
+乱暴|らんぼう|noun, na-adjective|rude, violent, rough

@@ -1,0 +1,250 @@
+a|determiner
+a.m.|adverb
+about|adverb, preposition
+above|adjective, adverb, preposition
+action|noun
+activity|noun
+actor|noun
+add|verb
+address|noun, verb
+after|adverb, conjunction, preposition
+afternoon|noun
+again|adverb
+age|noun
+ago|adverb
+agree|verb
+airplane|noun
+album|noun
+all|adverb, determiner, pronoun
+all right|adjective, adverb
+almost|adverb
+alone|adjective, adverb
+along|adverb, preposition
+already|adverb
+also|adverb
+am|verb
+an|determiner
+and|conjunction
+another|determiner, pronoun
+answer|noun, verb
+any|determiner, pronoun
+anybody|pronoun
+anyone|pronoun
+anything|pronoun
+April|noun
+apron|noun
+are|verb
+around|adverb, preposition
+art|noun
+article|noun
+as|conjunction, preposition
+ask|verb
+at|preposition
+August|noun
+aunt|noun
+awake|adjective
+away|adverb
+back|adjective, adverb, noun
+bad|adjective
+bag|noun
+ball|noun
+banana|noun
+band|noun
+bar|noun, verb
+baseball|noun
+basketball|noun
+bat|noun, verb
+bath|noun
+bathroom|noun
+be|verb
+bean|noun
+bear|noun, verb
+because|conjunction
+become|verb
+bedroom|noun
+bee|noun
+beef|noun
+before|adverb, conjunction, preposition
+begin|verb
+behind|adverb, preposition
+believe|verb
+bell|noun
+below|adverb, preposition
+beside|preposition
+best|adjective, adverb
+better|adjective, adverb
+between|preposition
+bicycle|noun
+birth|noun
+birthday|noun
+biscuit|noun
+black|adjective, noun
+blank|adjective
+block|noun, verb
+blow|noun, verb
+blue|adjective, noun
+board|noun, verb
+boat|noun
+body|noun
+bone|noun
+bookstore|noun
+both|adverb, determiner, pronoun
+bottle|noun, verb
+bottom|noun
+bowl|noun, verb
+box|noun
+boy|noun
+boyfriend|noun
+brain|noun
+break|noun, verb
+breathe|verb
+bright|adjective
+bring|verb
+broken|adjective
+brown|adjective, noun
+brush|noun, verb
+bucket|noun
+build|verb
+building|noun
+burger|noun
+business|noun
+but|conjunction, preposition
+butter|noun
+butterfly|noun
+button|noun
+by|preposition
+bye|noun
+cafe|noun
+cake|noun
+call|noun, verb
+camp|noun, verb
+can|modal verb, noun
+candy|noun
+cap|noun
+card|noun
+care|noun, verb
+careful|adjective
+carefully|adverb
+carry|verb
+cartoon|noun
+case|noun
+catch|noun, verb
+CD|noun
+CD player|noun
+celebrate|verb
+celebration|noun
+character|noun
+check|noun, verb
+cheese|noun
+chocolate|noun
+choose|verb
+church|noun
+circle|noun, verb
+class|noun, verb
+classmate|noun
+classroom|noun
+climb|noun, verb
+clock|noun
+closed|adjective
+cloth|noun
+clothes|noun
+cloudy|adjective
+club|noun
+coach|noun, verb
+coat|noun
+code|noun
+coffee|noun
+coke|noun
+collection|noun
+college|noun
+color|noun, verb
+computer|noun
+contest|noun, verb
+conversation|noun
+cookie|noun
+cool|adjective, verb
+cop|noun
+copy|noun, verb
+corn|noun
+correct|adjective, verb
+couch|noun
+could|modal verb
+course|noun
+cousin|noun
+cover|noun, verb
+cream|adjective, noun
+cry|noun, verb
+culture|noun
+cup|noun
+cut|noun, verb
+cute|adjective
+dad|noun
+daddy|noun
+dancing|noun
+dark|adjective
+date|noun, verb
+daughter|noun
+day|noun
+dear|adjective, noun
+December|noun
+describe|verb
+design|noun, verb
+desk|noun
+dictionary|noun
+did|verb
+difference|noun
+different|adjective
+difficult|adjective
+dig|noun, verb
+dining room|noun
+dinner|noun
+dirty|adjective
+discuss|verb
+dish|noun
+do|verb
+does|verb
+doing|verb
+doll|noun
+dollar|noun
+down|adjective, adverb, preposition
+drama|noun
+dream|noun, verb
+drink|noun, verb
+driver|noun
+drop|noun, verb
+drum|noun
+due|adjective
+DVD|noun
+each|determiner, pronoun
+each other|pronoun
+ear|noun
+easy|adjective
+eat|verb
+eight|number
+eighteen|number
+eighty|number
+either|adverb, conjunction, determiner
+elementary|adjective
+eleven|number
+else|adverb
+end|noun, verb
+engineer|noun, verb
+enjoy|verb
+evening|noun
+event|noun
+every|determiner
+everybody|pronoun
+everyday|adjective
+everyone|pronoun
+everything|pronoun
+everywhere|adverb
+example|noun
+excellent|adjective
+excited|adjective
+excuse|noun, verb
+factory|noun
+fair|adjective, noun
+fairy|noun
+false|adjective
+famous|adjective
+fan|noun

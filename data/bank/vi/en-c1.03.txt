@@ -1,0 +1,250 @@
+gusto|sự hăng hái
+tantamount|tương đương với
+antics|trò hề
+relapse|tái phát
+impede|cản trở
+impediment|trở ngại
+taut|căng
+tautly|căng thẳng
+jersey|áo thi đấu; áo len
+startling|đáng ngạc nhiên
+startlingly|đáng ngạc nhiên
+slack|chùng; lơi lỏng
+slackly|lỏng lẻo
+unwavering|kiên định
+unwaveringly|kiên định
+removed|xa cách
+buffoon|anh hề
+beguiling|quyến rũ
+beguilingly|quyến rũ
+blithely|vô tư
+stray|đi lạc; lạc loài
+mythological|thuộc thần thoại
+mythology|thần thoại
+venerate|tôn kính
+veneration|sự tôn kính
+ethically|về mặt đạo đức
+heroine|nữ anh hùng; nữ chính
+refreshing|làm sảng khoái
+zany|kỳ quặc, ngộ nghĩnh
+devotee|người hâm mộ
+salve|thuốc mỡ
+salvation|sự cứu rỗi
+salvage|cứu vớt
+staccato|ngắt quãng
+verve|sự hăng say
+motley|pha tạp
+preach|thuyết giảng
+preacher|người thuyết giáo
+justly|công bằng
+wry|gượng gạo, châm biếm
+wryly|mỉa mai
+poetess|nữ thi sĩ
+confide|tâm sự
+sentient|có tri giác
+sentiment|tình cảm
+sentimental|đa cảm
+sentimentally|đa cảm
+tangle|làm rối; mớ rối
+tangled|rối rắm
+untangle|gỡ rối
+untangled|đã gỡ rối
+perceptive|sâu sắc, tinh ý
+perceptively|tinh ý
+outset|sự khởi đầu
+tycoon|ông trùm
+engross|thu hút
+engrossing|hấp dẫn
+detritus|mảnh vụn
+detriment|sự thiệt hại
+detrimentally|có hại
+domestically|trong nước
+domesticate|thuần hóa
+domestication|sự thuần hóa
+eccentrically|lập dị
+render|làm cho; thể hiện
+rendering|sự thể hiện
+pathos|sự cảm động
+tailor|thợ may; điều chỉnh
+personalize|cá nhân hóa
+personalization|sự cá nhân hóa
+limitless|vô hạn
+apprentice|người học việc
+apprenticeship|thời gian học việc
+precision|độ chính xác
+silhouette|hình bóng
+nondescript|tầm thường
+negligible|không đáng kể
+negligent|cẩu thả
+negligently|cẩu thả
+principally|chủ yếu
+altruism|lòng vị tha
+altruistic|vị tha
+scenario|kịch bản
+voluntary|tự nguyện
+voluntarily|tự nguyện
+reap|gặt hái
+paternal|thuộc cha
+maternal|thuộc mẹ
+maternalistic|mang tính người mẹ
+paternalistic|gia trưởng
+provisions|lương thực dự trữ
+injustice|sự bất công
+impoverished|nghèo khó
+unsustainable|không bền vững
+unsustainably|không bền vững
+sustainably|bền vững
+bypass|bỏ qua; đường vòng
+cynic|người hoài nghi
+cynical|hoài nghi
+cynically|hoài nghi
+cynicism|sự hoài nghi
+sarcasm|sự mỉa mai
+sarcastic|mỉa mai
+sarcastically|mỉa mai
+misplace|để nhầm chỗ
+symptomatic|có triệu chứng
+degrade|làm suy thoái
+degrading|hạ thấp phẩm giá
+degradation|sự suy thoái
+discourse|diễn ngôn
+amid|giữa
+hedgehog|con nhím
+nocturnal|hoạt động về đêm
+hibernate|ngủ đông
+hibernation|sự ngủ đông
+convict|kết án; người bị kết án
+conviction|niềm tin; sự kết án
+latent|tiềm ẩn
+snooze|chợp mắt
+classy|sang trọng
+wrench|giật mạnh
+reminisce|hồi tưởng
+reminiscent|gợi nhớ
+intuit|cảm nhận bằng trực giác
+intuitive|trực quan
+intuitively|theo trực giác
+marginally|không đáng kể
+crude|thô; dầu thô
+crudely|thô thiển
+strap|dây đeo
+strapping|vạm vỡ
+scoff|chế giễu
+fiddly|lỉnh kỉnh
+fiddler|người chơi vĩ cầm
+fiddle|vĩ cầm; nghịch
+unmusical|không có năng khiếu âm nhạc
+unmusically|không du dương
+repertory|kịch mục
+concerto|bản concerto
+premier|hàng đầu; thủ tướng
+fanatic|người cuồng tín
+fanatically|cuồng nhiệt
+acoustically|về mặt âm học
+acoustic|thuộc âm thanh
+acoustics|âm học
+compromised|bị tổn hại
+daunt|làm nản lòng
+daunting|khó khăn, nản lòng
+realist|người thực tế
+realism|chủ nghĩa hiện thực
+recess|giờ giải lao
+recessive|lặn (di truyền)
+prolific|sung mãn
+prolifically|sung mãn
+proliferate|sinh sôi nảy nở
+fragmentation|sự phân mảnh
+astray|lạc lối
+duration|khoảng thời gian
+durable|bền
+likelihood|khả năng
+naive|ngây thơ
+naively|ngây thơ
+naivety|sự ngây thơ
+impervious|không thấm
+ludicrous|lố bịch
+ludicrously|lố bịch
+cost-effective|hiệu quả chi phí
+gruesome|ghê rợn
+gruesomely|ghê rợn
+envisage|hình dung
+screenwriter|nhà biên kịch
+mingle|hòa lẫn
+churn|khuấy; xáo trộn
+buffer|vùng đệm
+irate|giận dữ
+irately|giận dữ
+docile|ngoan ngoãn
+docilely|ngoan ngoãn
+fiend|quỷ dữ
+fiendish|hiểm độc
+fiendishly|hiểm độc
+transfix|làm sững sờ
+gypsy|người Di-gan
+temperamental|thất thường
+temperamentally|về mặt tính khí
+screenplay|kịch bản phim
+disillusionment|sự vỡ mộng
+demise|sự sụp đổ; cái chết
+raunchy|dung tục
+raunchily|dung tục
+overdraft|thấu chi
+synopsis|tóm tắt
+renown|danh tiếng
+contested|bị tranh chấp
+verandah|hiên nhà
+occupational|thuộc nghề nghiệp
+ventilate|thông gió
+ventilation|sự thông gió
+occupant|người cư ngụ
+radiator|bộ tản nhiệt
+homely|giản dị, ấm cúng
+bureaucratic|quan liêu
+bureaucratically|quan liêu
+adjustable|có thể điều chỉnh
+fatigue|sự mệt mỏi
+muscular|cơ bắp
+versatile|đa năng
+versatility|tính linh hoạt
+stimuli|tác nhân kích thích
+uninspiring|tẻ nhạt
+mutually|lẫn nhau
+somber|u ám
+somberly|u ám
+clutter|sự bừa bộn
+dislodge|đánh bật ra
+carpenter|thợ mộc
+carpentry|nghề mộc
+transit|quá cảnh
+circulate|lưu thông
+circulation|sự lưu thông
+demography|nhân khẩu học
+demographic|nhân khẩu học
+demographically|về mặt nhân khẩu học
+phenomenal|phi thường
+phenomenally|phi thường
+prophet|nhà tiên tri
+prophetic|tiên tri
+paywall|tường phí
+firewall|tường lửa
+demolition|sự phá dỡ
+demo|bản demo; biểu tình
+gig|buổi diễn
+socialization|sự xã hội hóa
+antiquity|thời cổ đại
+antiquated|cổ hủ
+restoration|sự phục hồi
+restorative|phục hồi
+rotate|xoay
+coupled|kết hợp với
+itinerary|lịch trình
+charter|thuê bao; hiến chương
+terrain|địa hình
+resilient|kiên cường
+enterprising|dám nghĩ dám làm
+integral|không thể thiếu
+canoe|xuồng
+magnetic|có từ tính
+magnetism|từ tính; sức hút
+magnetically|bằng từ tính
+credible|đáng tin

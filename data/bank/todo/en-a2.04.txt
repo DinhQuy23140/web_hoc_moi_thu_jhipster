@@ -1,0 +1,250 @@
+possible|adjective
+possibly|adverb
+post office|noun
+pour|verb
+power|noun
+powerful|adjective
+precise|adjective
+predict|verb
+prediction|noun
+prefer|verb
+prepare|verb
+pressure|noun
+pretend|adjective, verb
+prevent|verb
+pride|noun
+principal|adjective, noun
+print|noun, verb
+printer|noun
+private|adjective
+pro|noun
+probably|adverb
+produce|verb
+product|noun
+production|noun
+professional|adjective, noun
+progressive|adjective
+promise|noun, verb
+pronounce|verb
+pronunciation|noun
+proper|adjective
+provide|verb
+psychologist|noun
+public|adjective, noun
+pull|verb
+punctuation|noun
+purpose|noun
+pursue|verb
+queen|noun
+quick|adjective
+quietly|adverb
+quit|adjective, verb
+quite|adverb
+quiz|noun
+racket|noun
+raincoat|noun
+raise|verb
+range|noun, verb
+rap|noun, verb
+rate|noun, verb
+rather|adverb
+rating|noun
+raw|adjective
+ray|noun
+reach|noun, verb
+realize|verb
+receive|verb
+recent|adjective
+recently|adverb
+receptionist|noun
+record|noun, verb
+refer|verb
+reflect|verb
+refrigerator|noun
+regret|noun, verb
+regular|adjective
+regularly|adverb
+relaxed|adjective
+release|noun, verb
+remain|verb
+remind|verb
+remote|adjective
+repair|noun, verb
+replace|verb
+reply|noun, verb
+report|noun, verb
+represent|verb
+request|noun, verb
+response|noun
+retired|adjective
+reunion|noun
+reveal|verb
+rhythm|noun
+right-hand|adjective
+road|noun
+roast|adjective, verb
+rob|verb
+robbery|noun
+robin|noun
+rock|noun, verb
+roll|noun, verb
+romance|noun
+romantic|adjective
+roof|noun
+root|noun
+rope|noun
+roughly|adverb
+round|adjective, adverb, noun
+roundabout|noun
+royal|adjective
+rugby|noun
+ruin|noun, verb
+rumor|noun
+runner|noun
+running|noun
+rush|noun, verb
+sadly|adverb
+safe|adjective
+sailing|noun
+sake|noun
+salt|noun
+sample|noun
+sandy|adjective
+satisfy|verb
+sauce|noun
+sausage|noun
+scale|noun
+scarf|noun
+scene|noun
+scenery|noun
+schoolchild|noun
+schoolwork|noun
+scissors|noun
+scream|noun, verb
+screw|noun, verb
+script|noun
+seafood|noun
+search|noun, verb
+seaside|noun
+secret|adjective, noun
+secretary|noun
+seed|noun
+seek|verb
+seem|verb
+semester|noun
+send|verb
+senior|adjective, noun
+sense|noun, verb
+separate|adjective, verb
+seriously|adverb
+serve|verb
+several|determiner, pronoun
+sew|verb
+shade|noun
+shadow|noun, verb
+shall|modal verb
+shampoo|noun
+shape|noun, verb
+shell|noun, verb
+shine|verb
+shock|noun, verb
+shoot|verb
+shop assistant|noun
+shore|noun
+shot|noun
+shout|noun, verb
+shut|adjective, verb
+silence|noun
+silently|adverb
+silly|adjective
+silver|adjective, noun
+similar|adjective
+simple|adjective
+simply|adverb
+since|adverb, conjunction, preposition
+singing|noun
+single|adjective, noun
+singular|adjective, noun
+sink|noun, verb
+sitting room|noun
+situation|noun
+skate|noun, verb
+skateboarding|noun
+skating|noun
+ski|noun, verb
+skiing|noun
+slave|noun
+sleepless|adjective
+sleepy|adjective
+slice|noun, verb
+slide|noun, verb
+slim|adjective
+slowly|adverb
+smooth|adjective
+smoothly|adverb
+snack|noun
+snowboarding|noun
+soap|noun
+society|noun
+sock|noun
+soda|noun
+soft|adjective
+soft drink|noun
+softly|adverb
+soldier|noun
+solution|noun
+somebody|pronoun
+someday|adverb
+somewhere|adverb
+sound|adjective, noun, verb
+source|noun
+south|adjective, adverb, noun
+space|noun
+spaceship|noun
+spaghetti|noun
+speaker|noun
+specific|adjective
+speed|noun, verb
+spill|verb
+splash|noun, verb
+split|adjective, noun, verb
+spoon|noun
+sports center|noun
+spread|noun, verb
+square|adjective, noun
+stadium|noun
+staff|noun
+stair|noun
+stamp|noun, verb
+state|adjective, noun, verb
+statement|noun
+statue|noun
+steak|noun
+steal|verb
+stomachache|noun
+stove|noun
+stranger|noun
+strategy|noun
+strength|noun
+strike|noun, verb
+string|noun
+strongly|adverb
+structure|noun
+stuff|noun, verb
+style|noun
+succeed|verb
+success|noun
+successfully|adverb
+such|determiner, pronoun
+sudden|adjective
+suggest|verb
+suit|noun, verb
+suitable|adjective
+suitcase|noun
+summary|noun
+sunflower|noun
+sunglasses|noun
+sunlight|noun
+superlative|noun
+superstar|noun
+supper|noun

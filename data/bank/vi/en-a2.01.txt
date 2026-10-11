@@ -1,0 +1,250 @@
+ability|khả năng
+accept|chấp nhận
+acceptable|có thể chấp nhận được
+accident|tai nạn
+account|tài khoản
+across|ngang qua, bên kia
+act|hành động; đóng vai
+actually|thực ra
+addition|sự thêm vào; phép cộng
+additional|bổ sung
+adjective|tính từ
+adjust|điều chỉnh
+admire|ngưỡng mộ
+admit|thừa nhận
+adult|người lớn
+advanced|nâng cao
+advantage|lợi thế
+adventure|cuộc phiêu lưu
+advertising|quảng cáo
+advice|lời khuyên
+advise|khuyên
+affair|việc, chuyện
+against|chống lại
+aged|ở độ tuổi; cao tuổi
+agency|đại lý, cơ quan
+agent|đại lý, đặc vụ
+ahead|phía trước
+air|không khí
+aisle|lối đi
+alarm|báo động
+alarm clock|đồng hồ báo thức
+alive|còn sống
+allow|cho phép
+alright|ổn
+although|mặc dù
+among|giữa, trong số
+amused|thích thú
+amusement|sự giải trí
+ancestor|tổ tiên
+ancient|cổ đại
+angel|thiên thần
+angrily|một cách giận dữ
+ankle|mắt cá chân
+anniversary|ngày kỷ niệm
+annoy|làm phiền
+annoying|khó chịu
+anxious|lo lắng
+anymore|nữa
+anyway|dù sao đi nữa
+anywhere|bất cứ đâu
+apart|cách nhau, riêng ra
+apartment|căn hộ
+apparently|hình như
+appear|xuất hiện
+appearance|ngoại hình; sự xuất hiện
+appreciate|đánh giá cao, cảm kích
+appropriate|phù hợp
+architecture|kiến trúc
+area|khu vực
+argument|cuộc tranh cãi; lập luận
+armchair|ghế bành
+armed|có vũ trang
+artificial|nhân tạo
+asleep|đang ngủ
+assistant|trợ lý
+association|hiệp hội
+astronaut|phi hành gia
+athlete|vận động viên
+atom|nguyên tử
+attack|tấn công
+attempt|cố gắng; nỗ lực
+attention|sự chú ý
+attitude|thái độ
+attractive|hấp dẫn
+audio|âm thanh
+author|tác giả
+automatic|tự động
+automatically|một cách tự động
+average|trung bình
+avoid|tránh
+award|giải thưởng; trao giải
+awful|tồi tệ
+background|bối cảnh; nền
+badly|tệ, nặng
+badminton|cầu lông
+bake|nướng (bánh)
+balcony|ban công
+balloon|bóng bay
+banking|ngân hàng (ngành)
+barbecue|tiệc nướng
+barber|thợ cắt tóc
+bargain|món hời; mặc cả
+base|nền tảng; căn cứ
+basic|cơ bản
+basically|về cơ bản
+basket|cái giỏ
+batch|mẻ, lô
+bay|vịnh
+beauty|vẻ đẹp
+been|đã là (phân từ của be)
+beer|bia
+beg|cầu xin; ăn xin
+beginner|người mới bắt đầu
+beginning|sự bắt đầu
+behavior|hành vi
+being|sinh vật; sự tồn tại
+belly|bụng
+belong|thuộc về
+belt|thắt lưng
+bench|ghế dài
+bend|uốn cong; khúc cua
+besides|ngoài ra
+beyond|vượt quá, bên kia
+bill|hóa đơn
+bit|một chút
+bite|cắn
+blackboard|bảng đen
+blame|đổ lỗi
+blanket|chăn
+blonde|tóc vàng
+blood|máu
+bloom|nở hoa
+board game|trò chơi cờ bàn
+boil|đun sôi
+boiled|luộc
+bonus|tiền thưởng
+bookcase|tủ sách
+bookshelf|giá sách
+bookshop|hiệu sách
+bother|làm phiền
+bra|áo ngực
+brainstorm|động não
+brake|phanh
+brave|dũng cảm
+breeze|làn gió nhẹ
+bride|cô dâu
+brilliant|xuất sắc, sáng chói
+bug|con bọ; lỗi
+bulb|bóng đèn; củ
+burn|đốt cháy; bỏng
+bury|chôn
+bus station|bến xe buýt
+bus stop|trạm xe buýt
+bush|bụi cây
+businessman|doanh nhân (nam)
+businesswoman|nữ doanh nhân
+cab|xe taxi
+cafeteria|căng tin
+calendar|lịch
+camping|cắm trại
+campus|khuôn viên trường
+capital|thủ đô; vốn
+capital letter|chữ in hoa
+captain|thuyền trưởng; đội trưởng
+car park|bãi đỗ xe
+carrot|cà rốt
+cassette|băng cát-xét
+castle|lâu đài
+cause|nguyên nhân; gây ra
+cent|xu
+center|trung tâm
+centimeter|xen-ti-mét
+century|thế kỷ
+cereal|ngũ cốc
+certain|chắc chắn; nhất định
+certainly|chắc chắn
+chain|dây xích; chuỗi
+chairman|chủ tịch
+challenge|thử thách
+champagne|rượu sâm panh
+championship|giải vô địch
+chance|cơ hội
+chapter|chương
+chart|biểu đồ
+chat|trò chuyện
+cheek|má
+cheer|cổ vũ
+chef|đầu bếp
+chemical|hóa chất; hóa học
+cheque|séc
+chess|cờ vua
+chest|ngực
+childhood|thời thơ ấu
+chili|ớt
+chimpanzee|tinh tinh
+chin|cằm
+chirp|tiếng chim hót
+choice|sự lựa chọn
+cigarette|điếu thuốc lá
+citizen|công dân
+claim|tuyên bố; yêu cầu
+classic|kinh điển
+classical music|nhạc cổ điển
+cleaner|người dọn dẹp; chất tẩy rửa
+clear|rõ ràng; dọn sạch
+clearly|rõ ràng
+clerk|nhân viên văn phòng
+click|nhấp chuột
+climbing|leo núi
+clone|nhân bản
+clown|chú hề
+clue|manh mối
+coast|bờ biển
+coin|đồng xu
+cola|nước cola
+colorful|nhiều màu sắc
+column|cột
+comb|cái lược; chải
+comic|truyện tranh; hài hước
+commitment|sự cam kết
+committee|ủy ban
+common|phổ biến; chung
+communicate|giao tiếp
+communication|sự giao tiếp
+company|công ty
+comparative|dạng so sánh hơn
+compare|so sánh
+competition|cuộc thi; sự cạnh tranh
+complain|phàn nàn
+complaint|lời phàn nàn
+complete|hoàn thành; đầy đủ
+composer|nhà soạn nhạc
+concentrate|tập trung
+concern|mối quan tâm; lo ngại
+condition|điều kiện; tình trạng
+confuse|làm bối rối
+confused|bối rối
+consider|cân nhắc
+consist|bao gồm
+contact|liên lạc
+container|thùng chứa
+context|ngữ cảnh
+continent|lục địa
+continue|tiếp tục
+contrast|sự tương phản
+control|kiểm soát
+convenience|sự tiện lợi
+convenient|tiện lợi
+cooker|bếp nấu
+cooking|nấu ăn
+cooler|thùng giữ lạnh
+correctly|một cách chính xác
+cost|chi phí; tốn
+count|đếm
+country|đất nước; nông thôn
+countryside|vùng nông thôn
+couple|cặp đôi
+court|tòa án; sân
+crazy|điên rồ
+create|tạo ra

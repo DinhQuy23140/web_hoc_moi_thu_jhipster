@@ -1,0 +1,250 @@
+政|CHÁNH|Politics, Government
+議|NGHỊ|Deliberation, Consultation, Debate, Consideration
+民|DÂN|People, Nation, Subjects
+連|LIÊN|Take Along, Lead, Join, Connect
+対|ĐỐI|Vis-a-vis, Opposite, Even, Equal
+部|BỘ|Section, Bureau, Dept, Class
+合|HỢP, CÁP|Fit, Suit, Join, 0.1
+市|THỊ|Market, City, Town
+内|NẠP, NỘI, NÓI, NÒI, NỒI, NỖI, NỤI|Inside, Within, Between, Among
+相|TƯƠNG, TƯỚNG|Inter-, Mutual, Together, Each Other
+定|ĐỊNH, ĐÍNH|Determine, Fix, Establish, Decide
+回|HỒI, HỐI|-times, Round, Game, Revolve
+選|TUYỂN, TUYẾN|Elect, Select, Choose, Prefer
+米|MỄ|Rice, Usa, Metre
+実|THỰC|Reality, Truth
+関|QUAN|Connection, Barrier, Gateway, Involve
+決|QUYẾT|Decide, Fix, Agree Upon, Appoint
+全|TOÀN|Whole, Entire, All, Complete
+表|BIỂU|Surface, Table, Chart, Diagram
+戦|KHUYẾT|War, Battle, Match
+経|KINH|Sutra, Longitude, Pass Thru, Expire
+最|TỐI|Utmost, Most, Extreme
+現|HIỆN|Present, Existing, Actual
+調|ĐIỀU, ĐIỆU|Tune, Tone, Meter, Key (music)
+化|HÓA|Change, Take The Form Of, Influence, Enchant
+当|ĐANG, ĐÁNG, ĐƯƠNG|Hit, Right, Appropriate, Himself
+約|ƯỚC|Promise, Approximately, Shrink
+首|THỦ, THÚ|Neck, Counter For Songs And Poems
+法|PHÁP|Method, Law, Rule, Principle
+性|TÍNH|Sex, Gender, Nature
+要|YẾU, YÊU|Need, Main Point, Essence, Pivot
+制|CHẾ|System, Law, Rule
+治|TRÌ, TRỊ|Reign, Be At Peace, Calm Down, Subdue
+務|VỤ|Task, Duties
+成|THÀNH|Turn Into, Become, Get, Grow
+期|KỲ, KY|Period, Time, Date, Term
+取|THỦ|Take, Fetch, Take Up
+都|ĐÔ|Metropolis, Capital, All, Everything
+和|HÒA, HỌA|Harmony, Japanese Style, Peace, Soften
+機|KY, CƠ|Loom, Mechanism, Machine, Airplane
+平|BÌNH, BIỀN|Even, Flat, Peace
+加|GIA|Add, Addition, Increase, Join
+受|THỤ|Accept, Undergo, Answer (phone), Take
+続|TỤC|Continue, Series, Sequel
+進|TIẾN|Advance, Proceed, Progress, Promote
+数|SÁC, SỐ, SỔ, XÚC, SỖ, SỘ, XỌ|Number, Strength, Fate, Law
+記|KÍ|Scribe, Account, Narrative
+初|SƠ|First Time, Beginning
+指|CHỈ|Finger, Point To, Indicate, Put Into
+権|QUYỀN|Authority, Power, Rights
+支|CHI|Branch, Support, Sustain
+産|SẢN, SẴN, SỞN|Products, Bear, Give Birth, Yield
+点|ĐIỂM|Spot, Point, Mark, Speck
+報|BÁO|Report, News, Reward, Retribution
+済|TẾ, TỀ|Settle (debt, Etc.), Relieve (burden), Finish, Come To An End
+活|HOẠT, QUẠT|Lively, Resuscitation, Being Helped, Living
+原|NGUYÊN|Meadow, Original, Primitive, Field
+共|CỘNG, CUNG|Together, Both, Neither, All
+得|ĐẮC|Gain, Get, Find, Earn
+解|GIẢI, GIỚI, GIÁI|Unravel, Notes, Key, Explanation
+交|GIAO|Mingle, Mixing, Association, Coming & Going
+資|TƯ|Assets, Resources, Capital, Funds
+予|DƯ, DỮ|Beforehand, Previous, Myself, I
+向|HƯỚNG|Yonder, Facing, Beyond, Confront
+際|TẾ|Occasion, Side, Edge, Verge
+勝|THẮNG, THĂNG|Victory, Win, Prevail, Excel
+面|DIỆN|Mask, Face, Features, Surface
+告|CÁO, CỐC, CÁU, KIẾU|Revelation, Tell, Inform, Announce
+反|PHẢN, PHIÊN|Anti-
+判|PHÁN|Judgement, Signature, Stamp, Seal
+認|NHẬN|Acknowledge, Witness, Discern, Recognize
+参|SÂM, TAM, TẢM, THAM, XAM, KHƯƠM|Nonplussed, Three (in Documents), Going, Coming
+利|LỢI|Profit, Advantage, Benefit
+組|TỔ|Association, Braid, Plait, Construct
+信|TÍN|Faith, Truth, Fidelity, Trust
+在|TẠI|Exist, Outskirts, Suburbs, Located In
+件|KIỆN|Affair, Case, Matter, Item
+側|TRẮC|Side, Lean, Oppose, Regret
+任|NHÂM, NHẬM|Responsibility, Duty, Term, Entrust To
+引|DẪN, DẤN|Pull, Tug, Jerk, Admit
+求|CẦU|Request, Want, Wish For, Require
+所|SỞ|Place, Extent
+次|THỨ|Next, Order, Sequence
+昨|TẠC|Yesterday, Previous
+論|LUẬN, LUÂN|Argument, Discourse
+官|QUAN|Bureaucrat, The Government, Organ
+増|TĂNG|Increase, Add, Augment, Gain
+係|HỆ|Person In Charge, Connection, Duty, Concern Oneself
+感|CẢM|Emotion, Feeling, Sensation
+情|TÌNH|Feelings, Emotion, Passion, Sympathy
+投|ĐẦU|Throw, Discard, Abandon, Launch Into
+示|KÌ, THỊ|Show, Indicate, Point Out, Express
+変|BIẾN, BÉN, BIẾNG|Unusual, Change, Strange
+打|ĐẢ|Strike, Hit, Knock, Pound
+直|TRỰC|Straightaway, Honesty, Frankness, Fix
+両|LẠNG|Both, Old Japanese Coin, Counter For Carriages (e.g., In A Train), Two
+式|THỨC|Style, Ceremony, Rite, Function
+確|XÁC|Assurance, Firm, Tight, Hard
+果|QUẢ|Fruit, Reward, Carry Out, Achieve
+容|DONG|Contain, Form, Looks
+必|TẤT|Invariably, Certain, Inevitable
+演|DIỄN|Performance, Act, Play, Render
+歳|TUẾ, TUỔI|Year-end, Age, Occasion, Opportunity
+争|TRANH, TRÁNH, CHANH, DANH|Contend, Dispute, Argue
+談|ĐÀM|Discuss, Talk
+能|NĂNG, NAI, NẠI|Ability, Talent, Skill, Capacity
+位|VỊ|Rank, Grade, Throne, Crown
+置|TRÍ|Placement, Put, Set, Deposit
+流|LƯU|Current, A Sink, Flow, Forfeit
+格|CÁCH, CÁC|Status, Rank, Capacity, Character
+疑|NGHI|Doubt, Distrust, Be Suspicious, Question
+過|QUÁ, QUA|Overdo, Exceed, Go Beyond, Error
+局|CỤC|Bureau, Board, Office, Affair
+放|PHÓNG, PHỎNG|Set Free, Release, Fire, Shoot
+常|THƯỜNG|Usual, Ordinary, Normal, Common
+状|TRẠNG|Status Quo, Conditions, Circumstances, Form
+球|CẦU|Ball, Sphere
+職|CHỨC|Post, Employment, Work
+与|DỮ|Bestow, Participate In, Give, Award
+供|CUNG|Submit, Offer, Present, Serve (meal)
+役|DỊCH|Duty, War, Campaign, Drafted Labor
+構|CẤU|Posture, Build, Pretend
+割|CÁT|Proportion, Comparatively, Divide, Cut
+費|PHÍ, BỈ|Expense, Cost, Spend, Consume
+付|PHÓ|Adhere, Attach, Refer To, Append
+由|DO|Wherefore, A Reason
+説|DUYỆT, THOÁT, THUẾ, THUYẾT, THÓT, THỐT|Opinion, Theory, Explanation, Rumor
+難|NAN, NẠN|Difficult, Impossible, Trouble, Accident
+優|ƯU|Tenderness, Excel, Surpass, Actor
+夫|PHU, PHÙ|Husband, Man
+収|THÂU, THU, THUA|Income, Obtain, Reap, Pay
+断|ĐOÁN, ĐOẠN, ĐÓN|Severance, Decline, Refuse, Apologize
+石|THẠCH|Stone
+違|VI|Difference, Differ
+消|TIÊU|Extinguish, Blow Out, Turn Off, Neutralize
+神|THẦN|Gods, Mind, Soul
+番|PHIÊN, PHAN, BA, BÀ|Turn, Number In A Series
+規|QUY|Standard, Measure
+術|THUẬT|Art, Technique, Skill, Means
+備|BỊ|Equip, Provision, Preparation
+宅|TRẠCH|Home, House, Residence, Our House
+害|HẠI, HẠT|Harm, Injury
+配|PHỐI|Distribute, Spouse, Exile, Rationing
+警|CẢNH|Admonish, Commandment
+育|DỤC|Bring Up, Grow Up, Raise, Rear
+席|TỊCH|Seat, Mat, Occasion, Place
+訪|PHÓNG, PHỎNG|Call On, Visit, Look Up, Offer Sympathy
+乗|THẶNG, THỪA|Ride, Power, Multiplication, Record
+残|TÀN|Remainder, Leftover, Balance
+想|TƯỞNG|Concept, Think, Idea, Thought
+声|THANH|Voice
+念|NIỆM|Wish, Sense, Idea, Thought
+助|TRỢ|Help, Rescue, Assist
+労|LAO|Labor, Thank For, Reward For, Toil
+例|LỆ|Example, Custom, Usage, Precedent
+然|NHIÊN|Sort Of Thing, So, If So, In That Case
+限|HẠN|Limit, Restrict, To Best Of Ability
+追|TRUY, ĐÔI|Chase, Drive Away, Follow, Pursue
+商|THƯƠNG|Make A Deal, Selling, Dealing In, Merchant
+葉|DIỆP|Leaf, Plane, Lobe, Needle
+伝|VÂN|Transmit, Go Along, Walk Along, Follow
+働|ĐỘNG|Work, (kokuji)
+形|HÌNH|Shape, Form, Style
+景|CẢNH|Scenery, View
+落|LẠC|Fall, Drop, Come Down, Village
+好|HẢO, HIẾU|Fond, Pleasing, Like Something
+退|THỐI, THOÁI|Retreat, Withdraw, Retire, Resign
+頭|ĐẦU|Head, Counter For Large Animals
+負|PHỤ|Defeat, Negative, -, Minus
+渡|ĐỘ|Transit, Ford, Ferry, Cross
+失|THẤT|Lose, Error, Fault, Disadvantage
+差|SOA, SI, SAI, SÁI|Distinction, Difference, Variation, Discrepancy
+末|MẠT|End, Close, Tip, Powder
+守|THỦ, THÚ|Guard, Protect, Defend, Obey
+若|NHƯỢC|Young, If, Perhaps, Possibly
+種|CHỦNG, CHÚNG|Species, Kind, Class, Variety
+美|MỸ|Beauty, Beautiful
+命|MỆNH|Fate, Command, Decree, Destiny
+福|PHÚC|Blessing, Fortune, Luck, Wealth
+望|VỌNG|Ambition, Full Moon, Hope, Desire
+非|PHI|Un-, Mistake, Negative, Injustice
+観|QUAN, QUÁN|Outlook, Look, Appearance, Condition
+察|SÁT|Guess, Presume, Surmise, Judge
+段|ĐOẠN|Grade, Steps, Stairs
+横|HOÀNH, HOẠNH, QUÁNG, VÀNG|Sideways, Side, Horizontal, Width
+深|THÂM|Deep, Heighten, Intensify, Strengthen
+申|THÂN|Have The Honor To, Sign Of The Monkey, 3-5pm, Ninth Sign Of Chinese Zodiac
+様|DẠNG|Esq., Way, Manner, Situation
+財|TÀI|Property, Money, Wealth, Assets
+港|CẢNG|Harbor
+識|THỨC, CHÍ|Discriminating, Know, Write
+呼|HÔ, HÁ|Call, Call Out To, Invite
+達|ĐẠT|Accomplished, Reach, Arrive, Attain
+良|LƯƠNG|Good, Pleasing, Skilled
+候|HẬU|Climate, Season, Weather, Wait For
+程|TRÌNH|Extent, Degree, Law, Formula
+満|MÃN|Full, Fullness, Enough, Satisfy
+敗|BẠI|Failure, Defeat, Reversal
+値|TRỊ|Price, Cost, Value
+突|ĐỘT|Stab, Protruding, Thrust, Pierce
+光|QUANG|Ray, Light
+路|LỘ|Path, Route, Road, Distance
+科|KHOA|Department, Course, Section
+積|TÍCH, TÍ|Volume, Product (x*y), Acreage, Contents
+他|THA|Other, Another, The Others
+処|XỨ|Dispose, Manage, Deal With, Sentence
+太|THÁI|Plump, Thick, Big Around
+客|KHÁCH|Guest, Visitor, Customer, Client
+否|PHỦ, BĨ|Negate, No, Noes, Refuse
+師|SƯ|Expert, Teacher, Master, Model
+登|ĐĂNG|Ascend, Climb Up
+易|DỊCH, DỊ|Easy, Ready To, Simple, Fortune-telling
+速|TỐC|Quick, Fast
+存|TỒN|Exist, Suppose, Be Aware Of, Believe
+飛|PHI|Fly, Skip (pages), Scatter
+殺|SÁT, SÁI, TÁT|Kill, Murder, Butcher, Slice Off
+号|HIỆU|Nickname, Number, Item, Title
+単|ĐAN, ĐẠN, ĐƠN, THIỀN|Simple, One, Single, Merely
+座|TỌA|Squat, Seat, Cushion, Gathering
+破|PHÁ|Rend, Rip, Tear, Break
+除|TRỪ|Exclude, Division (x/3), Remove, Abolish
+完|HOÀN|Perfect, Completion, End
+降|HÀNG, GIÁNG|Descend, Precipitate, Fall, Surrender
+責|TRÁCH, TRÁI|Blame, Condemn, Censure
+捕|BỘ|Catch, Capture
+危|NGUY|Dangerous, Fear, Uneasy
+給|CẤP|Salary, Wage, Gift, Allow
+苦|KHỔ|Suffering, Trial, Worry, Hardship
+迎|NGHÊNH, NGHỊNH|Welcome, Meet, Greet
+園|VIÊN|Park, Garden, Yard, Farm
+具|CỤ|Tool, Utensil, Means, Possess
+辞|TỪ|Resign, Word, Term, Expression
+因|NHÂN|Cause, Factor, Be Associated With, Depend On
+馬|MÃ|Horse
+愛|ÁI|Love, Affection, Favourite
+富|PHÚ|Wealth, Enrich, Abundant
+彼|BỈ|He, That, The
+未|VỊ, MÙI|Un-, Not Yet, Hitherto, Still
+舞|VŨ|Dance, Flit, Circle, Wheel
+亡|VONG, VÔ|Deceased, The Late, Dying, Perish
+冷|LÃNH|Cool, Cold (beer, Person), Chill
+適|THÍCH, ĐÍCH|Suitable, Occasional, Rare, Qualified
+婦|PHỤ|Lady, Woman, Wife, Bride
+寄|KÍ|Draw Near, Stop In, Bring Near, Gather
+込|LIÊU|Crowded, Mixture, In Bulk, Included
+顔|NHAN, NHĂN|Face, Expression
+類|LOẠI|Sort, Kind, Variety, Class
+余|DƯ|Too Much, Myself, Surplus, Other
+王|VƯƠNG, VƯỢNG|King, Rule, Magnate
+返|PHẢN|Return, Answer, Fade, Repay

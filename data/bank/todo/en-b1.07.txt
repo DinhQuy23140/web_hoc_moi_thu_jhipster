@@ -1,0 +1,250 @@
+republic|noun
+reputation|noun
+require|verb
+requirement|noun
+rescue|noun, verb
+researcher|noun
+resemble|verb
+reservation|noun
+reserve|noun, verb
+resident|adjective, noun
+residential|adjective
+resist|verb
+resolve|verb
+resort|noun, verb
+resource|noun
+respectable|adjective
+respond|verb
+responsibility|noun
+responsible|adjective
+restore|verb
+restrict|verb
+retain|verb
+retell|verb
+retrospect|noun
+reunification|noun
+reunify|verb
+revise|verb
+revision|noun
+reward|noun, verb
+rewrite|verb
+rid|verb
+riddle|noun, verb
+ridiculous|adjective
+ripe|adjective
+rise|noun, verb
+risk|noun, verb
+roadside|noun
+robot|noun
+rolling|adjective
+rotten|adjective
+rough|adjective
+routine|noun
+rubber|noun
+rubbish|noun
+rudely|adverb
+runaway|noun
+runway|noun
+sacred|adjective
+sadness|noun
+safari|noun
+safeguard|noun, verb
+safely|adverb
+safety|noun
+salesman|noun
+salmon|noun
+sand|noun
+sandal|noun
+satellite|noun
+satisfaction|noun
+satisfied|adjective
+saucepan|noun
+saucer|noun
+scan|noun, verb
+scare|verb
+scared|adjective
+scary|adjective
+scatter|verb
+scenic|adjective
+scholar|noun
+schoolmate|noun
+schoolteacher|noun
+science fiction|noun
+scold|verb
+scope|noun
+score|noun, verb
+scratch|noun, verb
+sculpture|noun
+seawater|noun
+seaweed|noun
+secondary school|noun
+second-hand|adjective, adverb
+secretly|adverb
+secure|adjective, verb
+security|noun
+seize|verb
+select|adjective, verb
+selection|noun
+selfish|adjective
+self-service|adjective
+sensation|noun
+separation|noun
+sequence|noun
+series|noun
+serious|adjective
+server|noun
+service|noun, verb
+session|noun
+setting|noun
+settle|verb
+settlement|noun
+settler|noun
+severe|adjective
+severely|adverb
+sex|noun
+shadowy|adjective
+shallow|adjective
+shame|noun
+shameful|adjective
+sharp|adjective, adverb
+shave|verb
+sheer|adjective
+sheet|noun
+shelter|noun
+sheriff|noun
+shift|noun, verb
+shiny|adjective
+shiver|verb
+shocked|adjective
+shocking|adjective
+shopper|noun
+shortage|noun
+shortly|adverb
+shrimp|noun
+sickness|noun
+sidewalk|noun
+sigh|noun, verb
+signal|noun, verb
+signature|noun
+significance|noun
+signpost|noun
+silent|adjective
+silk|noun
+similarity|noun
+similarly|adverb
+simplify|verb
+simultaneously|adverb
+skeleton|noun
+skin|noun
+slavery|noun
+sleeve|noun
+slight|adjective, noun
+slightly|adverb
+slip|noun, verb
+slogan|noun
+slope|noun
+slot|noun
+smoker|noun
+sneeze|noun, verb
+snowboard|noun
+snowstorm|noun
+soap opera|noun
+social networking|noun
+socially|adverb
+soil|noun, verb
+solid|adjective
+somehow|adverb
+someplace|adverb
+sometime|adverb
+sometimes|adverb
+soothe|verb
+sophomore|noun
+sore|adjective
+sorrow|noun
+sort|noun, verb
+soul|noun
+sour|adjective
+southeast|adjective, noun
+southern|adjective
+southwest|adjective, noun
+sparkle|noun
+specialist|noun
+specialize|verb
+specially|adverb
+spectacular|adjective
+spectator|noun
+spelling|noun
+sphere|noun
+spice|noun
+spicy|adjective
+spider|noun
+spinach|noun
+spiral|adjective
+spirit|noun
+spiritual|adjective
+spoil|verb
+sponge|noun
+sponsor|noun, verb
+sports|adjective
+sportsmanship|noun
+stable|adjective
+stall|noun
+standard|adjective, noun
+stare|verb
+status|noun
+steadily|adverb
+steam|noun
+steel|noun
+steep|adjective
+stem|verb
+stick|noun, verb
+sticker|noun
+sticky|adjective
+stir|verb
+storage|noun
+stormy|adjective
+storyteller|noun
+strain|noun, verb
+strangely|adverb
+strategic|adjective
+straw|noun
+strawberry|noun
+stream|noun, verb
+strengthen|verb
+stress|noun, verb
+stressed|adjective
+stressful|adjective
+stretch|verb
+stricken|adjective
+strip|noun, verb
+stripe|noun
+struggle|noun, verb
+stubborn|adjective
+stuck|adjective
+studio|noun
+stuffed|adjective
+stumble|verb
+stun|verb
+stunning|adjective
+stupid|adjective
+stylish|adjective
+submarine|noun
+substantial|adjective
+substitute|noun, verb
+suddenly|adverb
+suffer|verb
+sufficient|adjective
+suffix|noun
+suicide|noun
+summarize|verb
+summit|noun
+sunbathe|verb
+sundial|noun
+sunrise|noun
+sunset|noun
+superior|adjective
+superstition|noun
+supporter|noun
+supportive|adjective
+suppose|verb
+supposedly|adverb

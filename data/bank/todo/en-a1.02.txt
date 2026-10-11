@@ -1,0 +1,250 @@
+farm|noun
+farmer|noun
+fast|adjective, adverb
+fat|adjective, noun
+favorite|adjective, noun
+February|noun
+feed|noun, verb
+feel|noun, verb
+feeling|noun
+festival|noun
+field|noun
+fifteen|number
+fifty|number
+fight|noun, verb
+file|noun, verb
+fill|verb
+find|verb
+fine|adjective, adverb, noun
+fire|noun, verb
+first|adjective, adverb
+fishing|noun
+five|number
+flag|noun
+fly|noun, verb
+focus|noun, verb
+foggy|adjective
+following|adjective, preposition
+food|noun
+football|noun
+for|conjunction, preposition
+foreign|adjective
+foreigner|noun
+forget|verb
+form|noun, verb
+forty|number
+four|number
+fourteen|number
+free|adjective, adverb, verb
+Friday|noun
+frog|noun
+from|preposition
+front|adjective, noun
+fruit|noun
+full|adjective
+fun|adjective, noun
+future|adjective, noun
+garbage|noun
+get|verb
+ghost|noun
+gift|noun
+girl|noun
+girlfriend|noun
+glad|adjective
+glass|noun
+glasses|noun
+goal|noun
+gold|adjective, noun
+good|adjective, noun
+good afternoon|interjection
+good morning|interjection
+good night|interjection
+grade|noun, verb
+grammar|noun
+grandfather|noun
+grandma|noun
+grandmother|noun
+grandpa|noun
+grandparent|noun
+grape|noun
+gray|adjective, noun
+great|adjective
+green|adjective, noun
+greet|verb
+ground|noun, verb
+group|noun, verb
+guess|noun, verb
+guest|noun
+guy|noun
+habit|noun
+had|verb
+haircut|noun
+half|adverb, determiner, noun
+hall|noun
+hamburger|noun
+handsome|adjective
+happen|verb
+hard|adjective, adverb
+has|verb
+have|verb
+have to|modal verb
+he|pronoun
+health|noun
+hear|verb
+heart|noun
+heavy|adjective
+her|determiner, pronoun
+here|adverb
+hers|pronoun
+hi|interjection
+hide|verb
+high|adjective, adverb
+hill|noun
+him|pronoun
+his|determiner, pronoun
+history|noun
+hold|noun, verb
+hole|noun
+holiday|noun
+home|adverb, noun
+hometown|noun
+hope|noun, verb
+hour|noun
+how|adverb
+hurry|noun, verb
+I|pronoun
+ice|noun
+ice cream|noun
+idea|noun
+ideal|adjective
+if|conjunction
+imagine|verb
+important|adjective
+in|adverb, preposition
+inside|adjective, adverb, noun
+interested|adjective
+interesting|adjective
+Internet|noun
+interviewer|noun
+into|preposition
+introduce|verb
+is|verb
+IT|noun, pronoun
+item|noun
+its|determiner, pronoun
+January|noun
+jeans|noun
+jet|noun
+jewelry|noun
+judge|noun, verb
+juice|noun
+July|noun
+jump|noun, verb
+June|noun
+just|adverb
+keep|verb
+key|adjective, noun
+kick|noun, verb
+kid|noun, verb
+kill|verb
+king|noun
+kiss|noun, verb
+kite|noun
+knee|noun
+knife|noun
+know|verb
+lady|noun
+language|noun
+large|adjective
+last name|noun
+late|adjective, adverb
+later|adjective, adverb
+laugh|noun, verb
+leader|noun
+leaf|noun
+leg|noun
+lesson|noun
+let|verb
+letter|noun
+life|noun
+light|adjective, noun, verb
+like|conjunction, preposition, verb
+lily|noun
+line|noun, verb
+lion|noun
+list|noun, verb
+little|adjective, adverb, determiner
+living|adjective, noun
+living room|noun
+long|adjective, adverb
+look|noun, verb
+lot|adverb, noun, pronoun
+love|noun, verb
+lovely|adjective
+luck|noun
+lucky|adjective
+lunch|noun
+'m|verb
+machine|noun
+magazine|noun
+mail|noun, verb
+make|noun, verb
+man|noun, verb
+many|determiner, pronoun
+March|noun, verb
+math|noun
+matter|noun, verb
+may|modal verb, noun
+maybe|adverb
+me|pronoun
+meal|noun
+mean|adjective, noun, verb
+meat|noun
+memory|noun
+merry|adjective
+message|noun
+middle|adjective, noun
+mind|noun, verb
+mine|noun, pronoun
+minute|noun
+Miss|noun, verb
+mobile|adjective, noun
+mobile phone|noun
+mom|noun
+moment|noun
+mommy|noun
+Monday|noun
+monkey|noun
+month|noun
+moon|noun
+more|adverb, determiner, pronoun
+most|adverb, determiner, pronoun
+mouse|noun
+mouth|noun
+movie|noun
+Mr.|noun
+Mrs.|noun
+much|adverb, determiner, pronoun
+mum|noun
+musician|noun
+must|modal verb
+my|determiner
+nationality|noun
+neck|noun
+neighbor|noun
+new|adjective
+newspaper|noun
+nice|adjective
+nine|number
+nineteen|number
+ninety|number
+no|adverb, determiner
+noise|noun
+nose|noun
+not|adverb
+note|noun, verb
+notebook|noun
+nothing|pronoun
+November|noun
+now|adverb, conjunction
+number|noun

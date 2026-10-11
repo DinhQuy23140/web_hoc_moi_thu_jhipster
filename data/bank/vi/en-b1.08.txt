@@ -1,0 +1,250 @@
+surely|chắc chắn
+surface|bề mặt
+surgeon|bác sĩ phẫu thuật
+surgery|phẫu thuật
+surprisingly|đáng ngạc nhiên
+surround|bao quanh
+surrounding|xung quanh
+survival|sự sống sót
+survivor|người sống sót
+suspect|nghi ngờ; nghi phạm
+suspicion|sự nghi ngờ
+swarm|đàn, bầy
+swear|thề; chửi thề
+sweatshirt|áo nỉ
+swell|sưng lên
+swimmer|người bơi
+switch|công tắc; chuyển đổi
+swollen|sưng
+sword|thanh kiếm
+sympathy|sự thông cảm
+symptom|triệu chứng
+syndrome|hội chứng
+systematic|có hệ thống
+tablet|máy tính bảng; viên thuốc
+takeaway|đồ ăn mang đi
+takeoff|sự cất cánh
+tale|câu chuyện
+talented|tài năng
+talkative|nói nhiều
+tank|bể chứa; xe tăng
+taste|vị; nếm
+tasteless|vô vị
+tasty|ngon
+teaching|việc giảng dạy
+teammate|đồng đội
+teamwork|làm việc nhóm
+tease|trêu chọc
+technique|kỹ thuật
+technological|thuộc công nghệ
+teen|thiếu niên
+telecommunications|viễn thông
+telegram|bức điện tín
+teller|giao dịch viên
+temper|tính khí
+temporary|tạm thời
+tempt|cám dỗ
+tend|có xu hướng
+tendency|xu hướng
+tense|căng thẳng; thì (ngữ pháp)
+tension|sự căng thẳng
+tent|cái lều
+term|thuật ngữ; học kỳ
+terminal|nhà ga; thiết bị đầu cuối
+terribly|kinh khủng
+terrific|tuyệt vời
+terrified|kinh hãi
+terror|nỗi kinh hoàng
+terrorism|chủ nghĩa khủng bố
+thankful|biết ơn
+theft|vụ trộm
+thirst|cơn khát
+thorough|kỹ lưỡng
+threat|mối đe dọa
+threatening|đe dọa
+thriller|phim ly kỳ
+throughout|suốt
+thumb|ngón cái
+thump|đấm thùm thụp
+thunder|sấm
+thunderous|như sấm
+thus|như vậy, do đó
+tick|dấu tích; tích tắc
+tide|thủy triều
+tighten|thắt chặt
+tightly|chặt chẽ
+tile|ngói; gạch lát
+timely|kịp thời
+tin|thiếc; hộp thiếc
+tiny|nhỏ xíu
+tire|làm mệt
+tiring|mệt mỏi
+tissue|khăn giấy; mô
+tobacco|thuốc lá
+tongue|lưỡi
+toothpaste|kem đánh răng
+tornado|lốc xoáy
+toss|tung, ném
+total|tổng cộng
+totally|hoàn toàn
+tourism|du lịch
+tournament|giải đấu
+trace|dấu vết; truy tìm
+tracksuit|bộ đồ thể thao
+traditionally|theo truyền thống
+traffic jam|tắc đường
+tragedy|bi kịch
+tragic|bi thảm
+trail|đường mòn; theo dấu
+transfer|chuyển giao
+transform|biến đổi
+transformation|sự biến đổi
+transitional|chuyển tiếp
+translate|dịch
+transport|vận chuyển
+transportation|giao thông vận tải
+trash|rác
+travel agent|đại lý du lịch
+treat|đối xử; chiêu đãi
+treatment|sự điều trị
+tremble|run rẩy
+tremendous|to lớn
+trend|xu hướng
+trigger|cò súng; nguyên nhân
+trim|sự cắt tỉa
+triumph|chiến thắng
+tropical|nhiệt đới
+trumpet|kèn trumpet
+trustworthy|đáng tin cậy
+tumble|ngã nhào
+tuna|cá ngừ
+turbulence|sự nhiễu loạn
+turning|chỗ rẽ
+turtle|con rùa
+twin|anh chị em sinh đôi
+twist|xoắn
+typical|điển hình
+typically|thường
+unable|không thể
+unafraid|không sợ hãi
+unbelievable|không thể tin được
+uncertainty|sự không chắc chắn
+unclear|không rõ ràng
+uncontrollable|không thể kiểm soát
+uncover|khám phá
+underage|chưa đủ tuổi
+undergo|trải qua
+underneath|bên dưới
+underpants|quần lót
+undo|hoàn tác; cởi
+undress|cởi quần áo
+unemployed|thất nghiệp
+unexpected|bất ngờ
+unexpectedly|bất ngờ
+unfairly|không công bằng
+unfit|không phù hợp
+unfold|mở ra
+unfortunate|không may
+unfriendly|không thân thiện
+unheard|chưa từng nghe
+unify|thống nhất
+uninterested|không quan tâm
+uninteresting|không thú vị
+union|liên minh; công đoàn
+unique|độc đáo
+unite|đoàn kết
+universe|vũ trụ
+unless|trừ khi
+unlikely|không có khả năng
+unlucky|không may mắn
+unpack|dỡ đồ
+unpredictable|không thể đoán trước
+unrelated|không liên quan
+untidy|bừa bộn
+unusually|bất thường
+unwanted|không mong muốn
+unwell|không khỏe
+update|cập nhật
+uplifted|phấn chấn
+upload|tải lên
+upper|phía trên
+up-to-date|cập nhật
+upward|hướng lên
+urge|thúc giục
+urgent|khẩn cấp
+usage|cách dùng
+used to|đã từng
+useless|vô dụng
+vague|mơ hồ
+vain|vô ích; kiêu ngạo
+valuable|có giá trị
+van|xe tải nhỏ
+variety|sự đa dạng
+various|khác nhau
+vary|thay đổi
+vast|rộng lớn
+vegetarian|người ăn chay
+vehicle|phương tiện
+vein|tĩnh mạch
+vessel|tàu; mạch
+vet|bác sĩ thú y
+via|thông qua
+vice|phó
+vice president|phó chủ tịch
+victim|nạn nhân
+victory|chiến thắng
+video clip|đoạn video
+viewpoint|quan điểm
+violence|bạo lực
+violently|dữ dội
+virtual|ảo
+virus|vi-rút
+visa|thị thực
+visible|có thể nhìn thấy
+vision|tầm nhìn
+visual|thị giác
+visually|bằng mắt
+vivid|sống động
+vividly|sống động
+volcano|núi lửa
+volume|âm lượng; tập
+vowel|nguyên âm
+voyage|chuyến hải trình
+wagon|xe ngựa; toa hàng
+ward|phòng bệnh
+wardrobe|tủ quần áo
+warmly|nồng nhiệt
+warmth|sự ấm áp
+warn|cảnh báo
+warning|lời cảnh báo
+warrior|chiến binh
+washbowl|chậu rửa
+wasteful|lãng phí
+waterfall|thác nước
+wax|sáp
+weakness|điểm yếu
+weapon|vũ khí
+weather forecast|dự báo thời tiết
+webcam|webcam
+weird|kỳ quặc
+well-dressed|ăn mặc đẹp
+westward|về phía tây
+wetland|vùng đất ngập nước
+whale|cá voi
+whenever|bất cứ khi nào
+wherever|bất cứ nơi đâu
+whether|liệu
+whichever|bất cứ cái nào
+whisper|thì thầm
+whistle|huýt sáo; cái còi
+whoever|bất cứ ai
+widespread|lan rộng
+wildlife|động vật hoang dã
+wildly|cuồng nhiệt
+willingness|sự sẵn lòng
+windscreen|kính chắn gió
+windsurfing|lướt ván buồm
+wing|cánh
+wire|dây điện
+wither|héo
+witness|nhân chứng; chứng kiến

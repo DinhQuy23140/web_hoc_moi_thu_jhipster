@@ -1,0 +1,250 @@
+nurse|noun, verb
+o'clock|adverb
+October|noun
+of|preposition
+off|adjective, adverb, preposition
+officer|noun
+often|adverb
+OK|adjective, adverb
+Olympics|noun
+on|adverb, preposition
+once|adverb, conjunction
+one|determiner, number, pronoun
+only|adjective, adverb
+opera|noun
+or|conjunction
+orange|adjective, noun
+other|determiner, pronoun
+our|determiner
+ours|pronoun
+out|adverb
+outside|adjective, adverb, noun
+over|adverb, preposition
+own|adjective, pronoun, verb
+owner|noun
+p.m.|adverb
+page|noun
+paint|noun, verb
+painting|noun
+pair|noun
+palace|noun
+pants|noun
+paper|noun
+paragraph|noun
+pardon|noun, verb
+parent|noun
+partner|noun
+party|noun
+past|adjective, adverb, preposition
+peace|noun
+pen|noun
+pencil|noun
+people|noun
+period|noun
+person|noun
+personal|adjective
+pet|noun
+phone|noun, verb
+photo|noun
+piano|noun
+pick|noun, verb
+picnic|noun
+picture|noun, verb
+piece|noun
+pig|noun
+pink|adjective, noun
+pizza|noun
+place|noun, verb
+plan|noun, verb
+plane|noun
+player|noun
+please|adverb, verb
+pleasure|noun
+pocket|noun
+poem|noun
+point|noun, verb
+pool|noun
+poor|adjective
+pop|noun, verb
+post|noun, verb
+poster|noun
+potato|noun
+practice|noun, verb
+pray|verb
+present|adjective, noun, verb
+pretty|adjective, adverb
+prince|noun
+princess|noun
+problem|noun
+program|noun, verb
+purple|adjective, noun
+push|noun, verb
+put|verb
+quarter|noun
+question|noun, verb
+quickly|adverb
+rabbit|noun
+radio|noun
+rainy|adjective
+rat|noun
+'re|verb
+reader|noun
+reading|noun
+ready|adjective
+real|adjective, adverb
+really|adverb
+reason|noun
+red|adjective, noun
+remember|verb
+repeat|verb
+reporter|noun
+result|noun, verb
+ribbon|noun
+rich|adjective
+ride|noun, verb
+ring|noun, verb
+role|noun
+rose|noun
+row|noun, verb
+rule|noun, verb
+ruler|noun
+run|noun, verb
+'s|verb
+sad|adjective
+sailor|noun
+salad|noun
+same|adjective, adverb, pronoun
+sandwich|noun
+Saturday|noun
+saw|noun, verb
+say|noun, verb
+science|noun
+scientist|noun
+seat|noun
+second|adjective, adverb, noun
+section|noun
+see|verb
+self|noun
+sell|verb
+sentence|noun, verb
+September|noun
+set|noun, verb
+seven|number
+seventeen|number
+seventy|number
+shake|noun, verb
+she|pronoun
+sheep|noun
+shelf|noun
+ship|noun, verb
+shoe|noun
+shopping|noun
+should|modal verb
+shoulder|noun
+show|noun, verb
+shower|noun, verb
+sick|adjective
+side|noun
+sight|noun
+sign|noun, verb
+sing|verb
+singer|noun
+sir|noun
+site|noun
+six|number
+sixteen|number
+sixty|number
+skirt|noun
+slow|adjective, adverb, verb
+smart|adjective
+smell|noun, verb
+smith|noun
+smoke|noun, verb
+smoking|noun
+snake|noun
+snowy|adjective
+so|adverb, conjunction
+soccer|noun
+social|adjective
+solve|verb
+some|determiner, pronoun
+someone|pronoun
+something|pronoun
+son|noun
+song|noun
+soon|adverb
+sorry|adjective
+soup|noun
+special|adjective
+speech|noun
+spell|noun, verb
+sport|noun
+spot|noun, verb
+spy|noun
+stage|noun
+star|noun, verb
+stay|noun, verb
+step|noun, verb
+still|adjective, adverb
+stone|noun
+store|noun, verb
+story|noun
+straight|adjective, adverb
+strange|adjective
+strict|adjective
+strong|adjective
+study|noun, verb
+subway|noun
+successful|adjective
+sugar|noun
+suggestion|noun
+sum|noun
+Sunday|noun
+sunshine|noun
+super|adjective
+sure|adjective, adverb
+surf|noun, verb
+surprise|noun, verb
+sweet|adjective, noun
+swim|noun, verb
+swimming|noun
+swimming pool|noun
+talk|noun, verb
+tea|noun
+teach|verb
+technology|noun
+telephone|noun, verb
+television|noun
+tell|verb
+temple|noun
+ten|number
+tennis|noun
+terrible|adjective
+test|noun, verb
+than|conjunction, preposition
+thank|verb
+thanks|noun
+that|adverb, conjunction, determiner
+the|determiner
+theater|noun
+their|determiner
+them|pronoun
+then|adverb
+there|adverb
+these|determiner, pronoun
+they|pronoun
+thick|adjective
+thin|adjective
+thing|noun
+think|verb
+thirteen|number
+thirty|number
+this|determiner, pronoun
+those|determiner, pronoun
+three|number
+through|adverb, preposition
+throw|noun, verb
+Thursday|noun
+tiger|noun
+tight|adjective, adverb
+time|noun, verb

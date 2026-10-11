@@ -1,0 +1,79 @@
+日|NHẬT|Day, Sun, Japan, Counter For Days
+一|NHẤT|One
+国|QUỐC, CUỐC|Country
+人|NHÂN|Person
+年|NIÊN|Year, Counter For Years
+大|ĐẠI, THÁI|Large, Big
+十|THẬP|Ten
+二|NHỊ|Two
+本|BỔN, BẢN|Book, Present, Main, Origin
+中|TRUNG, TRÚNG|In, Inside, Middle, Mean
+長|TRƯỜNG, TRƯỞNG, TRƯỚNG|Long, Leader, Superior, Senior
+出|XUẤT, XÚY|Exit, Leave, Go Out, Come Out
+三|TAM, TÁM|Three
+時|THÌ, THỜI|Time, Hour
+行|HÀNH, HẠNH, HÀNG, HẠNG|Going, Journey, Carry Out, Conduct
+見|KIẾN, HIỆN|See, Hopes, Chances, Idea
+月|NGUYỆT|Month, Moon
+後|HẬU, HẤU|Behind, Back, Later
+前|TIỀN|In Front, Before
+生|SANH, SINH|Life, Genuine, Birth
+五|NGŨ|Five
+間|GIAN|Interval, Space
+上|THƯỢNG, THƯỚNG|Above, Up
+東|ĐÔNG|East
+四|TỨ|Four
+今|KIM|Now
+金|KIM|Gold
+九|CỬU, CƯU|Nine
+入|NHẬP|Enter, Insert
+学|HỌC|Study, Learning, Science
+高|CAO|Tall, High, Expensive
+円|VIÊN|Circle, Yen, Round
+子|TỬ, TÝ|Child, Sign Of The Rat, 11pm-1am, First Sign Of Chinese Zodiac
+外|NGOẠI|Outside
+八|BÁT|Eight
+六|LỤC|Six
+下|HẠ, HÁ|Below, Down, Descend, Give
+来|LAI, LÃI, LAY, LƠI, RAY, RƠI|Come, Due, Next, Cause
+気|KHÍ|Spirit, Mind, Air, Atmosphere
+小|TIỂU|Little, Small
+七|THẤT|Seven
+山|SAN, SƠN|Mountain
+話|THOẠI|Tale, Talk
+女|NỮ, NỨ, NHỮ|Woman, Female
+北|BẮC|North
+午|NGỌ|Noon, Sign Of The Horse, 11am-1pm, Seventh Sign Of Chinese Zodiac
+百|BÁCH, BÁ, MẠCH|Hundred
+書|THƯ|Write
+先|TIÊN, TIẾN|Before, Ahead, Previous, Future
+名|DANH|Name, Noted, Distinguished, Reputation
+川|XUYÊN|Stream, River
+千|THIÊN|Thousand
+水|THỦY|Water
+半|BÁN|Half, Middle, Odd Number, Semi-
+男|NAM|Male
+西|TÂY, TÊ|West, Spain
+電|ĐIỆN|Electricity
+校|GIÁO, HIỆU, HÀO|Exam, School, Printing, Proof
+語|NGỮ, NGỨ|Word, Speech, Language
+土|THỔ, ĐỘ, ĐỖ|Soil, Earth, Ground, Turkey
+木|MỘC|Tree, Wood
+聞|VĂN, VẤN, VẶN|Hear, Ask, Listen
+食|THỰC, TỰ|Eat, Food
+車|XA|Car
+何|HÀ|What
+南|NAM|South
+万|VẠN, MẶC|Ten Thousand, 10,000
+毎|MỖI|Every
+白|BẠCH|White
+天|THIÊN|Heavens, Sky, Imperial
+母|MẪU|Mother
+火|HỎA|Fire
+右|HỮU|Right
+読|ĐẬU, ĐỘC|Read
+友|HỮU|Friend
+左|TẢ, TÁ|Left
+休|HƯU|Rest, Day Off, Retire, Sleep
+父|PHỤ, PHỦ|Father
+雨|VŨ, VÚ|Rain

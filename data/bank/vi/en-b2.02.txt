@@ -1,0 +1,250 @@
+buzz|tiếng vo ve
+cabinet|tủ; nội các
+cable|cáp
+calmly|bình tĩnh
+cane|cây gậy; cây mía
+cannonball|đạn đại bác
+canon|quy tắc; kinh điển
+capability|khả năng
+caption|chú thích
+captive|tù nhân
+caravan|xe nhà lưu động; đoàn lữ hành
+carbon|các-bon
+carbon dioxide|khí CO2
+carbon monoxide|khí CO
+cardboard|bìa các-tông
+cardigan|áo len cài khuy
+carefree|vô tư
+caring|chu đáo
+carnival|lễ hội hóa trang
+carpool|đi chung xe
+carve|chạm khắc
+cascade|thác nước nhỏ
+cast|dàn diễn viên; ném
+casually|tình cờ; giản dị
+catalog|danh mục
+catalyst|chất xúc tác
+catastrophe|thảm họa
+catastrophic|thảm khốc
+catchy|dễ nhớ
+categorization|sự phân loại
+catering|dịch vụ ăn uống
+cathedral|nhà thờ lớn
+cease|chấm dứt
+ceiling|trần nhà
+cellar|hầm rượu
+cellist|nghệ sĩ cello
+cello|đàn cello
+cemetery|nghĩa trang
+centigrade|độ C
+certificate|chứng chỉ
+certification|sự chứng nhận
+certify|chứng nhận
+chancellor|thủ tướng; hiệu trưởng
+chaotic|hỗn loạn
+charming|quyến rũ
+cheat|gian lận
+checkpoint|trạm kiểm soát
+cheeky|hỗn láo
+cheerfully|vui vẻ
+cheerfulness|sự vui vẻ
+chemotherapy|hóa trị
+cherished|được trân trọng
+cherry|anh đào
+chew|nhai
+childish|trẻ con
+chimney|ống khói
+chip|mảnh; khoai tây chiên; vi mạch
+chop|chặt
+chunk|khúc, miếng
+circuit|mạch điện
+circuitry|hệ thống mạch
+circumstance|hoàn cảnh
+citywide|toàn thành phố
+clam|con nghêu
+clap|vỗ tay
+clarify|làm rõ
+classification|sự phân loại
+clearness|sự rõ ràng
+clerical|thuộc văn phòng
+climate change|biến đổi khí hậu
+clog|làm tắc
+closure|sự đóng cửa
+clothing|quần áo
+clumsy|vụng về
+coaching|sự huấn luyện
+coarse|thô
+coastline|đường bờ biển
+cocktail|cốc-tai
+cocoa|ca cao
+coconut|dừa
+coherence|sự mạch lạc
+coincide|trùng hợp
+coincidence|sự trùng hợp
+collector|nhà sưu tầm
+collocation|cụm từ cố định
+colon|dấu hai chấm; ruột kết
+colonial|thuộc địa
+coma|hôn mê
+comfortably|thoải mái
+commander|chỉ huy
+commemorate|tưởng niệm
+commerce|thương mại
+commission|ủy ban; hoa hồng
+commonwealth|khối thịnh vượng chung
+communicative|cởi mở
+compassion|lòng trắc ẩn
+compassionate|giàu lòng trắc ẩn
+compatible|tương thích
+compensate|bồi thường
+compensation|sự bồi thường
+competence|năng lực
+competent|có năng lực
+compile|biên soạn
+completion|sự hoàn thành
+complexion|nước da
+complexity|sự phức tạp
+component|thành phần
+comprehension|sự hiểu
+compress|gạc nén
+compression|sự nén
+compute|tính toán
+conceal|che giấu
+concede|thừa nhận
+conceit|tính tự phụ
+conceivable|có thể hình dung
+conceive|hình thành; thụ thai
+conception|quan niệm
+concerning|liên quan đến
+concession|sự nhượng bộ
+concrete|bê tông; cụ thể
+condemn|lên án
+conductor|nhạc trưởng; chất dẫn
+cone|hình nón
+conference|hội nghị
+conferencing|hội nghị trực tuyến
+confess|thú nhận
+confession|lời thú tội
+confidently|tự tin
+confine|giới hạn
+confront|đối mặt
+conjunction|liên từ
+conquest|cuộc chinh phục
+conscience|lương tâm
+consciousness|ý thức
+consent|sự đồng ý
+considerably|đáng kể
+considering|xét đến
+consistent|nhất quán
+consolation|sự an ủi
+console|an ủi
+constant|liên tục
+consult|tham khảo ý kiến
+consultant|chuyên gia tư vấn
+contemporary|đương đại
+contempt|sự khinh miệt
+contradict|mâu thuẫn
+contradiction|sự mâu thuẫn
+contradictory|mâu thuẫn
+controversy|tranh cãi
+conveniently|thuận tiện
+convention|hội nghị; quy ước
+conventional|thông thường
+converse|điều ngược lại
+conversely|ngược lại
+conversion|sự chuyển đổi
+convert|chuyển đổi
+convinced|bị thuyết phục
+cooperate|hợp tác
+cooperation|sự hợp tác
+cooperative|hợp tác
+cope|đối phó
+copper|đồng
+coral|san hô
+core|cốt lõi
+cornerstone|nền tảng
+cornet|kèn cornet
+corona|vầng hào quang
+corporal|thuộc thân thể
+corporate|thuộc doanh nghiệp
+corporation|tập đoàn
+correctness|sự đúng đắn
+correspond|tương ứng; trao đổi thư
+correspondence|thư từ
+correspondent|phóng viên
+corresponding|tương ứng
+corridor|hành lang
+corrupt|tham nhũng
+corruption|tham nhũng
+costly|tốn kém
+costume|trang phục
+cottage|nhà tranh
+countryman|đồng hương
+countrywide|toàn quốc
+courtesy|phép lịch sự
+coward|kẻ hèn nhát
+cowardly|hèn nhát
+coziness|sự ấm cúng
+cozy|ấm cúng
+crab|con cua
+crack|vết nứt; làm nứt
+craftsman|thợ thủ công
+crater|miệng núi lửa
+crawl|bò
+crease|nếp nhăn
+creation|sự sáng tạo
+creatively|sáng tạo
+creek|con lạch
+creepy|rùng rợn
+crew|phi hành đoàn
+cripple|người tàn tật
+critically|nghiêm trọng
+criticism|sự chỉ trích
+crocodile|cá sấu
+crossly|bực tức
+crucial|quan trọng
+cruelly|tàn nhẫn
+cruelty|sự tàn ác
+crystallize|kết tinh
+cube|hình lập phương
+cubism|trường phái lập thể
+cuff|cổ tay áo
+culmination|đỉnh điểm
+culturally|về mặt văn hóa
+curl|lọn tóc xoăn
+cursor|con trỏ
+cyberaddict|người nghiện mạng
+cybercafe|quán cà phê internet
+cybercrime|tội phạm mạng
+cyberpet|thú cưng ảo
+cyberschool|trường học trực tuyến
+cyberspace|không gian mạng
+cyclist|người đi xe đạp
+daft|ngớ ngẩn
+damn|chết tiệt
+dandelion|bồ công anh
+darling|người yêu dấu
+dash|lao tới; gạch ngang
+data|dữ liệu
+database|cơ sở dữ liệu
+dated|lỗi thời
+daughter-in-law|con dâu
+dawn|bình minh
+daytime|ban ngày
+de facto|trên thực tế
+dearly|rất nhiều
+debit|ghi nợ
+debit card|thẻ ghi nợ
+decade|thập kỷ
+decay|mục nát
+deceive|lừa dối
+decent|tử tế; đàng hoàng
+deceptive|lừa dối
+decisive|quyết đoán
+deck|boong tàu
+decomposition|sự phân hủy
+decorate|trang trí
+decoration|đồ trang trí
+decorative|có tính trang trí
+dedication|sự cống hiến
+deduce|suy luận

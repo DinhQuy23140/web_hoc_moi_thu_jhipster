@@ -1,0 +1,250 @@
+ああ|à, ồ (thán từ); như thế
+青|màu xanh lam
+青い|xanh (lam); non nớt
+赤|màu đỏ
+開く|mở, được mở ra
+上げる|nâng lên, đưa lên; cho, tặng
+朝御飯|bữa sáng
+明後日|ngày kia
+あそこ|chỗ kia, đằng kia
+頭|cái đầu
+あちら|phía kia, đằng kia (lịch sự)
+熱い|nóng (đồ vật)
+厚い|dày; nồng hậu
+あっち|đằng kia, phía kia
+後|sau, sau đó; phần còn lại
+あなた|bạn, anh, chị
+兄|anh trai (của mình)
+姉|chị gái (của mình)
+アパート|căn hộ, chung cư
+あの|kia, đó; à, ừm...
+浴びる|tắm (vòi sen), dội nước
+危ない|nguy hiểm
+甘い|ngọt; dễ dãi
+余り|không... lắm; phần dư
+飴|kẹo
+在る|có, ở (đồ vật)
+有る|có, sở hữu
+あれ|cái kia, cái đó
+いい|tốt, được
+いいえ|không, không phải
+言う|nói
+いかが|thế nào (lịch sự)
+いくつ|bao nhiêu cái; bao nhiêu tuổi
+医者|bác sĩ
+一日|một ngày, cả ngày
+一番|nhất, số một; đầu tiên
+いつ|khi nào, bao giờ
+五日|ngày mùng 5; năm ngày
+一緒|cùng nhau
+五つ|năm cái
+いつも|luôn luôn, lúc nào cũng
+妹|em gái (của mình)
+嫌|ghét, không thích, khó chịu
+入口|lối vào
+居る|có, ở (người, động vật)
+要る|cần
+入れる|cho vào, bỏ vào
+色々|nhiều loại, đa dạng
+後ろ|phía sau, đằng sau
+薄い|mỏng; nhạt, loãng
+歌|bài hát
+うち|nhà, nhà mình
+生まれる|được sinh ra
+うるさい|ồn ào; phiền phức
+上着|áo khoác
+絵|bức tranh
+映画館|rạp chiếu phim
+英語|tiếng Anh
+ええ|vâng, ừ
+エレベーター|thang máy
+～円|... yên (tiền Nhật)
+鉛筆|bút chì
+お～|tiền tố kính ngữ "o-"
+大きな|to, lớn
+大勢|đông người
+お母さん|mẹ
+お菓子|bánh kẹo
+お金|tiền
+置く|đặt, để
+奥さん|vợ (người khác), bà nhà
+お酒|rượu; rượu sake
+お皿|cái đĩa
+伯父|bác, chú (anh của bố mẹ)
+おじいさん|ông; cụ ông
+押す|ấn, đẩy; đóng (dấu)
+お手洗い|nhà vệ sinh
+お父さん|bố
+弟|em trai (của mình)
+男の子|bé trai, cậu bé
+一昨日|hôm kia
+おととし|năm kia
+大人|người lớn
+お腹|bụng
+同じ|giống nhau, cùng
+お兄さん|anh trai (người khác hoặc gọi lịch sự)
+お姉さん|chị gái (người khác hoặc gọi lịch sự)
+伯母さん|bác gái, cô, dì
+おばあさん|bà; cụ bà
+お風呂|bồn tắm; việc tắm
+お弁当|cơm hộp
+覚える|nhớ, ghi nhớ, học thuộc
+おまわりさん|chú cảnh sát
+重い|nặng; nghiêm trọng
+面白い|thú vị, hay
+降りる|xuống (xe, tàu)
+終る|kết thúc, xong
+女の子|bé gái, cô bé
+～回|... lần
+～階|tầng thứ ...
+外国|nước ngoài
+外国人|người nước ngoài
+階段|cầu thang
+買い物|mua sắm
+返す|trả lại
+顔|khuôn mặt
+かかる|mất, tốn (thời gian, tiền)
+鍵|chìa khóa; ổ khóa
+～か月|... tháng (khoảng thời gian)
+掛ける|treo; đeo (kính)
+かける|gọi (điện thoại); ngồi
+風邪|cảm lạnh, cảm cúm
+方|vị, ngài (kính ngữ của người); cách làm
+片仮名|chữ Katakana
+～月|tháng ...
+カップ|cái cốc, tách
+家庭|gia đình, mái ấm
+花瓶|bình hoa
+かぶる|đội (mũ)
+紙|giấy
+カメラ|máy ảnh
+火曜日|thứ Ba
+辛い|cay; mặn
+体|cơ thể; sức khỏe
+～がる|tỏ ra, có vẻ (cảm thấy)
+軽い|nhẹ; nhẹ nhàng
+カレー|cà ri; cơm cà ri
+カレンダー|lịch
+～側|phía ..., bên ...
+可愛い|dễ thương, đáng yêu
+漢字|chữ Hán, kanji
+黄色|màu vàng
+黄色い|vàng (màu)
+消える|biến mất; tắt
+北|phía bắc
+ギター|đàn ghi-ta
+汚い|bẩn
+喫茶店|quán cà phê
+切手|tem thư
+切符|vé
+九|số chín
+牛肉|thịt bò
+牛乳|sữa bò
+教室|lớp học, phòng học
+兄弟|anh chị em
+去年|năm ngoái
+嫌い|ghét, không thích
+切る|cắt; cúp (máy điện thoại)
+着る|mặc (áo)
+綺麗|đẹp; sạch sẽ
+キロ|ki-lô (kg, km)
+金曜日|thứ Sáu
+九|số chín
+下さい|xin hãy...; làm ơn cho tôi
+靴下|tất, vớ
+国|đất nước; quê hương
+曇る|có mây, trời âm u
+～くらい|khoảng, chừng
+クラス|lớp
+グラム|gam
+黒|màu đen
+黒い|đen; tối
+警官|cảnh sát
+今朝|sáng nay
+消す|tắt; xóa
+結構|tốt, đủ rồi; khá
+玄関|cửa ra vào, sảnh vào nhà
+～個|... cái, ... quả (đồ vật nhỏ)
+五|số năm
+～語|tiếng ..., ngôn ngữ
+紅茶|trà đen, hồng trà
+交番|đồn cảnh sát nhỏ, bốt cảnh sát
+声|giọng nói, tiếng
+コート|áo choàng; sân (tennis)
+コーヒー|cà phê
+ここ|ở đây, chỗ này
+午後|buổi chiều
+九日|ngày mùng 9; chín ngày
+九つ|chín cái
+午前|buổi sáng
+答える|trả lời
+こちら|phía này; vị này (lịch sự)
+こっち|phía này, bên này
+コップ|cốc, ly
+今年|năm nay
+言葉|từ, lời nói; ngôn ngữ
+この|... này
+御飯|cơm; bữa ăn
+コピーする|sao chép, photocopy
+困る|khó khăn, bối rối
+これ|cái này
+～ころ|khoảng (thời điểm)
+今月|tháng này
+今週|tuần này
+こんな|như thế này
+今晩|tối nay
+さあ|nào; ờ thì
+～歳|... tuổi
+先|phía trước; trước
+作文|bài văn, tập làm văn
+差す|giương (ô)
+～冊|... quyển (sách)
+雑誌|tạp chí
+砂糖|đường (ăn)
+さ来年|năm sau nữa
+～さん|anh/chị/ông/bà ...
+三|số ba
+四|số bốn
+～時|... giờ
+塩|muối
+しかし|tuy nhiên, nhưng
+～時間|... tiếng đồng hồ
+辞書|từ điển
+七|số bảy
+質問|câu hỏi
+自転車|xe đạp
+自動車|ô tô
+死ぬ|chết
+字引|từ điển
+閉まる|đóng (cửa tự đóng)
+締める|thắt, buộc chặt
+じゃ|vậy thì
+シャツ|áo sơ mi
+シャワー|vòi hoa sen; tắm vòi sen
+～中|suốt ..., trong khi
+～週間|... tuần
+丈夫|chắc chắn, bền; khỏe mạnh
+醤油|xì dầu, nước tương
+食堂|nhà ăn, căng tin
+知る|biết
+白|màu trắng
+白い|trắng
+～人|người (nước) ...
+新聞|báo
+水曜日|thứ Tư
+吸う|hít, hút
+スカート|váy
+～すぎ|quá ...; hơn, quá (giờ)
+すぐに|ngay lập tức
+～ずつ|mỗi ..., từng ...
+ストーブ|lò sưởi
+スプーン|cái thìa
+スポーツ|thể thao
+ズボン|quần dài
+住む|sống, cư trú
+する|làm
+背|chiều cao; lưng
+生徒|học sinh
+セーター|áo len
+石鹸|xà phòng
+背広|bộ com-lê

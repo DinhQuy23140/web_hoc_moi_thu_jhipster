@@ -1,0 +1,144 @@
+surfing|noun
+surname|noun
+surprising|adjective
+survive|verb
+swallow|verb
+sweat|noun, verb
+sweater|noun
+sweetheart|noun
+swimming costume|noun
+swimsuit|noun
+symbol|noun
+symphony|noun
+system|noun
+table tennis|noun
+tablespoon|noun
+talent|noun
+tap|noun, verb
+tape|noun, verb
+target|noun
+task|noun
+tear|noun, verb
+teenage|adjective
+teenager|noun
+terrify|verb
+terrorist|adjective, noun
+text|noun, verb
+text message|noun
+textbook|noun
+theirs|pronoun
+themselves|pronoun
+therefore|adverb
+thief|noun
+third|adjective
+thirsty|adjective
+though|adverb, conjunction
+thought|noun
+thousand|number
+thunderstorm|noun
+tie|noun, verb
+tights|noun
+till|conjunction, preposition, noun
+timetable|noun
+tip|noun, verb
+title|noun
+toast|noun
+toe|noun
+tone|noun, verb
+toothache|noun
+toothbrush|noun
+tour|noun, verb
+tour guide|noun
+toward|preposition
+track|noun, verb
+trade|noun, verb
+traditional|adjective
+traffic light|noun
+tram|noun
+trap|noun
+traveler|noun
+treasure|noun
+trick|noun, verb
+trouble|noun, verb
+truly|adverb
+truth|noun
+tune|noun, verb
+twice|adverb
+uncertain|adjective
+uncomfortable|adjective
+understand|verb
+underwater|adjective, adverb
+uneasy|adjective
+unfair|adjective
+unforgettable|adjective
+unfortunately|adverb
+unhappy|adjective
+unhealthy|adjective
+uniform|adjective, noun
+unimportant|adjective
+unit|noun
+unknown|adjective
+unlike|adjective, preposition
+unnecessary|adjective
+unpleasant|adjective
+unusual|adjective
+upon|preposition
+upset|adjective, verb
+upstairs|adjective, adverb, noun
+used|adjective
+useful|adjective
+usual|adjective
+valley|noun
+value|noun, verb
+verb|noun
+video game|noun
+view|noun, verb
+village|noun
+violent|adjective
+violin|noun
+visitor|noun
+vocabulary|noun
+voice|noun, verb
+walking|noun
+wallet|noun
+wander|verb
+washing machine|noun
+washing-up|noun
+wave|noun, verb
+weak|adjective
+wealth|noun
+web|noun
+web page|noun
+wedding|noun
+weekday|noun
+weekly|adjective, adverb
+weep|noun
+weigh|verb
+well-known|adjective
+west|adjective, adverb, noun
+whatever|determiner, pronoun
+wheelchair|noun
+while|conjunction, noun
+whole|adjective, noun
+whom|pronoun
+wide|adjective, adverb
+widely|adverb
+wild|adjective
+windy|adjective
+wine|noun
+winner|noun
+wisdom|noun
+wise|adjective
+within|preposition
+without|preposition
+wonder|noun, verb
+wood|noun
+wooden|adjective
+wool|noun
+worldwide|adjective, adverb
+worse|adjective, adverb, noun
+worst|adjective, adverb, noun
+writing|noun
+yeah|adverb
+youth|noun
+zone|noun

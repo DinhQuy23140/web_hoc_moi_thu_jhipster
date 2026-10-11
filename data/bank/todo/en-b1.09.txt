@@ -1,0 +1,16 @@
+wizard|adjective
+working|adjective
+workout|noun
+workplace|noun
+worn|adjective
+worth|adjective
+worthwhile|adjective
+worthy|adjective
+wound|noun, verb
+wrap|noun, verb
+wrapping|noun
+wrist|noun
+wristwatch|noun
+written|adjective
+yell|noun, verb
+yoga|noun

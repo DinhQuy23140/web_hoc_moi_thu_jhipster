@@ -1,0 +1,250 @@
+exterior|bề ngoài, mặt ngoài
+cloak|áo choàng
+timid|rụt rè
+reluctantly|miễn cưỡng
+concur|đồng tình
+avid|khao khát, cuồng nhiệt
+marvel|kinh ngạc; điều kỳ diệu
+enviable|đáng ghen tị
+organizational|thuộc tổ chức
+psychiatrist|bác sĩ tâm thần
+psychiatric|thuộc tâm thần học
+clinical|lâm sàng
+corps|quân đoàn; đoàn
+forensic|pháp y
+accustomed|quen với
+trauma|chấn thương tâm lý
+traumatic|gây chấn thương
+constraint|sự ràng buộc
+revealing|tiết lộ; hở hang
+eccentric|lập dị; người lập dị
+sanctity|sự thiêng liêng
+conform|tuân theo
+norms|chuẩn mực
+quirk|thói quen kỳ quặc
+oddity|điều kỳ quặc
+compel|buộc
+compulsion|sự ép buộc
+assertion|sự khẳng định
+individuality|cá tính
+psyche|tâm lý
+conformity|sự tuân thủ
+unconventional|khác thường
+congregate|tụ họp
+resent|bực bội, oán giận
+self-conscious|ngượng ngùng
+wary|thận trọng
+stoke|khơi lên
+dynamically|năng động
+hostess|nữ chủ nhà; tiếp viên
+perpetuate|duy trì mãi
+naturalness|sự tự nhiên
+exhibitionist|người thích phô trương
+isolate|cô lập
+isolated|bị cô lập
+refreshingly|một cách sảng khoái
+effortless|dễ dàng
+vegetation|thảm thực vật
+respite|thời gian nghỉ ngơi
+suffice|đủ
+purity|sự tinh khiết
+gruelling|mệt nhoài
+comprise|bao gồm
+plaster|thạch cao; trát
+darkroom|phòng tối
+induct|bổ nhiệm, kết nạp
+induction|sự kết nạp; quy nạp
+fossil|hóa thạch
+geological|thuộc địa chất
+geologically|về mặt địa chất
+specimen|mẫu vật
+enormously|cực kỳ
+gem|đá quý
+explanatory|giải thích
+vertical|thẳng đứng
+knowledgeable|am hiểu
+ordinarily|thông thường
+formulate|xây dựng, trình bày
+resin|nhựa
+sacrifice|hy sinh
+cleanly|sạch sẽ
+endorsement|sự tán thành
+stretching|sự giãn cơ
+continuity|tính liên tục
+shambles|tình trạng hỗn độn
+claustrophobic|ngột ngạt; sợ không gian kín
+claustrophobia|chứng sợ không gian kín
+headstrong|cứng đầu
+tact|sự khéo léo
+tactful|khéo léo
+tactfully|khéo léo
+blister|vết phồng rộp
+sponsorship|sự tài trợ
+ego|cái tôi
+saloon|quán rượu; xe sedan
+beforehand|trước
+slob|người luộm thuộm
+coverage|sự đưa tin; phạm vi bảo hiểm
+unplug|rút phích cắm
+gadget|thiết bị
+rediscover|khám phá lại
+subtly|tinh tế
+brainwash|tẩy não
+brainwashing|sự tẩy não
+implicate|liên lụy
+malfunction|trục trặc
+wayside|lề đường
+con|lừa đảo
+damply|ẩm ướt
+ghostly|ma quái
+carrier|người vận chuyển; hãng vận chuyển
+washtub|chậu giặt
+apt|thích hợp; có xu hướng
+apt to|có xu hướng
+portable|di động, xách tay
+ornamental|trang trí
+placid|điềm tĩnh
+placidly|điềm tĩnh
+unmanageable|khó quản lý
+appliance|thiết bị gia dụng
+relinquish|từ bỏ
+tedious|tẻ nhạt
+tedium|sự tẻ nhạt
+exert|dùng (sức)
+extortion|sự tống tiền
+elaborate|công phu; trình bày chi tiết
+elaboration|sự trau chuốt
+detest|ghét cay ghét đắng
+detestable|đáng ghét
+suds|bọt xà phòng
+agreeable|dễ chịu
+prowl|rình mò
+speculate|suy đoán
+speculation|sự suy đoán
+speculative|có tính suy đoán
+peacock|con công
+disdain|sự khinh thường
+reenact|tái hiện
+torment|hành hạ; nỗi đau khổ
+extravagance|sự phung phí
+mechanism|cơ chế
+hence|do đó
+offspring|con cái
+oblige|bắt buộc
+collaborate|hợp tác
+collaborator|cộng tác viên
+collaboration|sự hợp tác
+collaborative|mang tính hợp tác
+showy|phô trương
+wrangle|cãi nhau
+premise|tiền đề
+advantageous|có lợi
+parasite|ký sinh trùng
+fanciful|huyền ảo
+poise|sự đĩnh đạc
+customary|theo thông lệ
+insightful|sâu sắc
+notable|đáng chú ý
+vicious|hung ác
+viciously|hung ác
+withdrawn|khép kín
+torturous|đau khổ
+depict|miêu tả
+depiction|sự miêu tả
+upheaval|biến động
+shortlist|danh sách rút gọn
+uneventful|bình lặng
+pertinent|thích đáng
+pertain to|liên quan đến
+daydream|mơ mộng
+protagonist|nhân vật chính
+simplicity|sự đơn giản
+blockbuster|bom tấn
+resonate|vang vọng; gây đồng cảm
+sequel|phần tiếp theo
+irony|sự trớ trêu
+acidic|có tính axit
+align|căn chỉnh
+alignment|sự căn chỉnh
+manipulation|sự thao túng
+suitor|người cầu hôn
+deceit|sự lừa dối
+alienate|xa lánh
+persuasively|thuyết phục
+confinement|sự giam cầm
+minutiae|tiểu tiết
+peasant|nông dân
+inexplicable|không thể giải thích
+inexplicably|không thể giải thích
+pigeon|chim bồ câu
+harass|quấy rối
+harassment|sự quấy rối
+believably|đáng tin
+readable|dễ đọc
+cleverness|sự thông minh
+persecute|ngược đãi
+persecution|sự ngược đãi
+smug|tự mãn
+smugly|tự mãn
+ferocious|hung dữ
+ferociously|hung dữ
+hostile|thù địch
+hostility|sự thù địch
+dismay|sự thất vọng; làm mất tinh thần
+methodical|có phương pháp
+ruthless|tàn nhẫn
+ruthlessness|sự tàn nhẫn
+clan|thị tộc
+privileged|có đặc quyền
+crumble|vỡ vụn
+crumb|vụn bánh
+closeness|sự gần gũi
+rarity|sự hiếm có
+evoke|gợi lên
+repel|đẩy lùi
+repellant|thuốc chống côn trùng
+aqua|màu xanh nước biển
+aquarium|bể cá
+insightfully|sâu sắc
+flashback|cảnh hồi tưởng
+self-worth|giá trị bản thân
+cite|trích dẫn
+citation|trích dẫn
+ecstatically|ngây ngất
+pleasurable|thú vị
+substantially|đáng kể
+favorably|thuận lợi
+elitist|người theo chủ nghĩa tinh hoa
+grumble|càu nhàu
+rumble|ầm ầm
+neglectful|sao nhãng
+roundup|bản tóm tắt
+conscientiously|tận tâm
+indefinite|vô thời hạn
+indefinitely|vô thời hạn
+atmospheric|thuộc khí quyển; có không khí
+fuse|hợp nhất; cầu chì
+fusion|sự hợp nhất
+robust|mạnh mẽ
+robustly|mạnh mẽ
+dismal|ảm đạm
+dismally|ảm đạm
+crave|thèm muốn
+craving|sự thèm muốn
+prospective|tiềm năng
+swap|trao đổi
+remotely|từ xa
+violet|màu tím
+bubbly|sôi nổi
+chaotically|hỗn loạn
+apprehensive|lo sợ
+settee|ghế trường kỷ
+trampoline|đệm nhún
+stamina|sức bền
+ploy|mưu kế
+dither|do dự
+overalls|quần yếm
+unison|sự đồng thanh
+snail|ốc sên
+bliss|hạnh phúc tột cùng
+inexhaustible|vô tận

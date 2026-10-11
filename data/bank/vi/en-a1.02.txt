@@ -1,0 +1,250 @@
+farm|nông trại
+farmer|nông dân
+fast|nhanh
+fat|béo; mỡ
+favorite|yêu thích nhất
+February|tháng Hai
+feed|cho ăn
+feel|cảm thấy
+feeling|cảm xúc, cảm giác
+festival|lễ hội
+field|cánh đồng; lĩnh vực
+fifteen|mười lăm
+fifty|năm mươi
+fight|đánh nhau; cuộc chiến
+file|tệp, hồ sơ
+fill|làm đầy, điền
+find|tìm thấy
+fine|khỏe, tốt; tiền phạt
+fire|lửa, đám cháy; sa thải
+first|đầu tiên, thứ nhất
+fishing|câu cá
+five|số năm
+flag|lá cờ
+fly|bay; con ruồi
+focus|tập trung
+foggy|có sương mù
+following|tiếp theo, sau đây
+food|thức ăn
+football|bóng đá
+for|cho, dành cho; trong (khoảng thời gian)
+foreign|nước ngoài
+foreigner|người nước ngoài
+forget|quên
+form|mẫu đơn; hình thức; hình thành
+forty|bốn mươi
+four|số bốn
+fourteen|mười bốn
+free|tự do; miễn phí; rảnh
+Friday|thứ Sáu
+frog|con ếch
+from|từ
+front|phía trước
+fruit|trái cây
+full|đầy; no
+fun|vui; niềm vui
+future|tương lai
+garbage|rác
+get|nhận được, lấy; trở nên
+ghost|con ma
+gift|món quà
+girl|cô gái, bé gái
+girlfriend|bạn gái
+glad|vui mừng
+glass|thủy tinh; cái cốc
+glasses|kính mắt
+goal|mục tiêu; bàn thắng
+gold|vàng
+good|tốt, giỏi
+good afternoon|chào buổi chiều
+good morning|chào buổi sáng
+good night|chúc ngủ ngon
+grade|điểm số; lớp
+grammar|ngữ pháp
+grandfather|ông
+grandma|bà (thân mật)
+grandmother|bà
+grandpa|ông (thân mật)
+grandparent|ông bà
+grape|quả nho
+gray|màu xám
+great|tuyệt vời; to lớn
+green|màu xanh lá
+greet|chào hỏi
+ground|mặt đất
+group|nhóm
+guess|đoán
+guest|khách
+guy|anh chàng, gã
+habit|thói quen
+had|đã có (quá khứ của have)
+haircut|kiểu tóc; việc cắt tóc
+half|một nửa
+hall|hội trường; hành lang
+hamburger|bánh hăm-bơ-gơ
+handsome|đẹp trai
+happen|xảy ra
+hard|cứng; khó; chăm chỉ
+has|có (ngôi thứ ba số ít)
+have|có
+have to|phải
+he|anh ấy, ông ấy
+health|sức khỏe
+hear|nghe
+heart|trái tim
+heavy|nặng
+her|cô ấy, của cô ấy
+here|ở đây
+hers|của cô ấy
+hi|xin chào
+hide|trốn, giấu
+high|cao
+hill|ngọn đồi
+him|anh ấy (tân ngữ)
+his|của anh ấy
+history|lịch sử
+hold|cầm, giữ
+hole|cái lỗ
+holiday|kỳ nghỉ, ngày lễ
+home|nhà
+hometown|quê hương
+hope|hy vọng
+hour|giờ, tiếng đồng hồ
+how|như thế nào
+hurry|vội vàng
+I|tôi
+ice|băng, đá
+ice cream|kem
+idea|ý tưởng
+ideal|lý tưởng
+if|nếu
+imagine|tưởng tượng
+important|quan trọng
+in|trong, ở trong
+inside|bên trong
+interested|quan tâm, thích thú
+interesting|thú vị
+Internet|mạng Internet
+interviewer|người phỏng vấn
+into|vào trong
+introduce|giới thiệu
+is|là (ngôi thứ ba số ít)
+IT|nó; công nghệ thông tin
+item|món đồ, mục
+its|của nó
+January|tháng Một
+jeans|quần bò
+jet|máy bay phản lực
+jewelry|đồ trang sức
+judge|thẩm phán; đánh giá
+juice|nước ép
+July|tháng Bảy
+jump|nhảy
+June|tháng Sáu
+just|vừa mới; chỉ
+keep|giữ
+key|chìa khóa; chủ chốt
+kick|đá
+kid|đứa trẻ; đùa
+kill|giết
+king|vua
+kiss|hôn
+kite|cái diều
+knee|đầu gối
+knife|con dao
+know|biết
+lady|quý bà
+language|ngôn ngữ
+large|lớn
+last name|họ
+late|muộn
+later|sau đó, lát nữa
+laugh|cười
+leader|người lãnh đạo
+leaf|chiếc lá
+leg|chân
+lesson|bài học
+let|để, cho phép
+letter|lá thư; chữ cái
+life|cuộc sống
+light|ánh sáng; nhẹ; thắp sáng
+like|thích; giống như
+lily|hoa huệ tây, hoa loa kèn
+line|đường kẻ; hàng
+lion|sư tử
+list|danh sách
+little|nhỏ; một chút
+living|sống; sinh kế
+living room|phòng khách
+long|dài
+look|nhìn; trông có vẻ
+lot|nhiều
+love|yêu; tình yêu
+lovely|đáng yêu
+luck|may mắn
+lucky|may mắn
+lunch|bữa trưa
+'m|là (viết tắt của am)
+machine|máy móc
+magazine|tạp chí
+mail|thư; gửi thư
+make|làm, tạo ra
+man|người đàn ông
+many|nhiều
+March|tháng Ba; diễu hành
+math|toán học
+matter|vấn đề; quan trọng
+may|có thể; tháng Năm
+maybe|có lẽ
+me|tôi (tân ngữ)
+meal|bữa ăn
+mean|có nghĩa là; keo kiệt
+meat|thịt
+memory|trí nhớ; kỷ niệm
+merry|vui vẻ
+message|tin nhắn
+middle|ở giữa
+mind|tâm trí; phiền
+mine|của tôi; mỏ
+minute|phút
+Miss|cô (xưng hô); nhớ, lỡ
+mobile|di động
+mobile phone|điện thoại di động
+mom|mẹ
+moment|khoảnh khắc
+mommy|mẹ (thân mật)
+Monday|thứ Hai
+monkey|con khỉ
+month|tháng
+moon|mặt trăng
+more|nhiều hơn
+most|nhất, hầu hết
+mouse|con chuột
+mouth|miệng
+movie|bộ phim
+Mr.|ông (xưng hô)
+Mrs.|bà (xưng hô)
+much|nhiều
+mum|mẹ
+musician|nhạc sĩ
+must|phải
+my|của tôi
+nationality|quốc tịch
+neck|cổ
+neighbor|hàng xóm
+new|mới
+newspaper|tờ báo
+nice|đẹp, tốt, dễ chịu
+nine|số chín
+nineteen|mười chín
+ninety|chín mươi
+no|không
+noise|tiếng ồn
+nose|mũi
+not|không
+note|ghi chú
+notebook|sổ tay, vở
+nothing|không có gì
+November|tháng Mười Một
+now|bây giờ
+number|con số

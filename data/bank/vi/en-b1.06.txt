@@ -1,0 +1,250 @@
+organ|cơ quan; đàn organ
+organic|hữu cơ
+organism|sinh vật
+organization|tổ chức
+origin|nguồn gốc
+otherwise|nếu không thì
+ought to|nên
+outdoor|ngoài trời
+outdoors|ngoài trời
+outer|bên ngoài
+outlaw|kẻ ngoài vòng pháp luật
+outline|dàn ý; phác thảo
+out-of-date|lỗi thời
+outward|bên ngoài
+outweigh|vượt trội hơn
+overcome|vượt qua
+overjoyed|vui mừng khôn xiết
+overnight|qua đêm
+overwhelm|áp đảo
+overwhelming|áp đảo
+overwork|làm việc quá sức
+owe|nợ
+owing|còn nợ
+oxygen|ô-xy
+pace|nhịp độ
+package|gói hàng
+packing|đóng gói
+paddle|mái chèo
+paid|được trả tiền
+pain|nỗi đau
+painful|đau đớn
+pale|nhợt nhạt
+palm|lòng bàn tay; cây cọ
+parachute|dù
+paradise|thiên đường
+paralyze|làm tê liệt
+parcel|bưu kiện
+parental|thuộc cha mẹ
+parking|bãi đỗ xe
+parrot|con vẹt
+partial|một phần
+participant|người tham gia
+participle|phân từ
+particularly|đặc biệt
+passion|niềm đam mê
+passive|thụ động
+patience|sự kiên nhẫn
+patrol|tuần tra
+pattern|mẫu, họa tiết
+pause|tạm dừng
+peanut|đậu phộng
+peculiar|kỳ lạ
+penniless|không một xu dính túi
+penny|đồng xu
+per|mỗi
+percent|phần trăm
+performer|người biểu diễn
+permanent|lâu dài, vĩnh viễn
+permanently|vĩnh viễn
+permit|cho phép
+personally|cá nhân tôi
+persuade|thuyết phục
+persuasive|có sức thuyết phục
+phantom|bóng ma
+phenomenon|hiện tượng
+philosopher|triết gia
+philosophy|triết học
+phoenix|phượng hoàng
+photocopy|bản photo
+phrasal verb|cụm động từ
+phrase|cụm từ
+physics|vật lý
+pie|bánh nướng
+piety|lòng mộ đạo
+pillow|gối
+pin|ghim
+pineapple|quả dứa
+pipe|ống
+pit|hố
+plain|đơn giản; đồng bằng
+platform|sân ga; nền tảng
+pleasantly|dễ chịu
+plug|phích cắm
+pocket money|tiền tiêu vặt
+poet|nhà thơ
+poetry|thơ ca
+poison|chất độc; đầu độc
+poisonous|có độc
+pole|cột; cực
+policy|chính sách
+politely|lịch sự
+politician|chính trị gia
+politics|chính trị
+pollutant|chất gây ô nhiễm
+pond|cái ao
+popcorn|bỏng ngô
+pork|thịt lợn
+port|cảng
+positive|tích cực
+positively|tích cực
+possess|sở hữu
+possession|tài sản
+possessive|sở hữu; chiếm hữu
+possibility|khả năng
+postcard|bưu thiếp
+postman|người đưa thư
+pot|cái nồi
+potential|tiềm năng
+pottery|đồ gốm
+pound|bảng Anh; pao
+powder|bột
+practical|thực tế
+praise|khen ngợi
+prayer|lời cầu nguyện
+precious|quý giá
+preference|sở thích
+prefix|tiền tố
+pregnant|có thai
+prejudice|định kiến
+preparation|sự chuẩn bị
+prepared|sẵn sàng
+preposition|giới từ
+preschool|mẫu giáo
+prescription|đơn thuốc
+presence|sự hiện diện
+preservation|sự bảo tồn
+preserve|bảo tồn
+president|tổng thống; chủ tịch
+press|báo chí; nhấn
+previous|trước đó
+priest|linh mục
+primarily|chủ yếu
+primary school|trường tiểu học
+primitive|nguyên thủy
+principle|nguyên tắc
+prison|nhà tù
+prisoner|tù nhân
+prize|giải thưởng
+probability|xác suất
+proceed|tiến hành
+process|quá trình; xử lý
+proclaim|tuyên bố
+procrastination|sự trì hoãn
+producer|nhà sản xuất
+productive|năng suất
+profession|nghề nghiệp
+professor|giáo sư
+progress|tiến bộ
+prohibition|sự cấm đoán
+prominent|nổi bật
+pronoun|đại từ
+proof|bằng chứng
+properly|đúng cách
+property|tài sản; bất động sản
+propose|đề xuất; cầu hôn
+prosperity|sự thịnh vượng
+prosperous|thịnh vượng
+protection|sự bảo vệ
+protective|bảo vệ
+protest|phản đối
+proverb|tục ngữ
+provided|miễn là
+psychological|thuộc tâm lý
+pub|quán rượu
+publicly|công khai
+publisher|nhà xuất bản
+pullover|áo len chui đầu
+pump|máy bơm
+punish|trừng phạt
+punishment|hình phạt
+pupil|học sinh; con ngươi
+puppy|chó con
+pure|tinh khiết
+purify|làm sạch
+purse|ví nữ
+puzzle|câu đố; làm bối rối
+quake|trận động đất
+qualify|đủ tiêu chuẩn
+quantity|số lượng
+question mark|dấu chấm hỏi
+questionnaire|bảng câu hỏi
+race|cuộc đua; chủng tộc
+racial|thuộc chủng tộc
+radiation|bức xạ
+rage|cơn thịnh nộ
+rail|đường ray
+railroad|đường sắt
+railway|đường sắt
+rainfall|lượng mưa
+rainforest|rừng mưa nhiệt đới
+rank|cấp bậc
+rapid|nhanh chóng
+rapidly|nhanh chóng
+rare|hiếm; tái (thịt)
+rarely|hiếm khi
+raspberry|quả mâm xôi
+ration|khẩu phần
+rational|hợp lý
+razor|dao cạo
+react|phản ứng
+realistic|thực tế
+reality|thực tế
+rearrange|sắp xếp lại
+reasonable|hợp lý
+rebuild|xây dựng lại
+recall|nhớ lại; thu hồi
+recite|đọc thuộc lòng
+reclaim|đòi lại
+recognize|nhận ra
+recommend|giới thiệu, khuyên
+recording|bản ghi âm
+recovery|sự hồi phục
+recycled|tái chế
+recycling|sự tái chế
+reduction|sự giảm
+reef|rạn san hô
+referee|trọng tài
+reflection|sự phản chiếu
+refreshments|đồ ăn nhẹ
+refusal|sự từ chối
+refuse|từ chối; rác thải
+regain|lấy lại
+regard|coi như; sự quan tâm
+regarding|về việc
+region|khu vực
+regional|thuộc khu vực
+register|đăng ký
+registration|sự đăng ký
+regulation|quy định
+reject|từ chối
+relate|liên quan
+relation|mối quan hệ
+relative|họ hàng; tương đối
+relatively|tương đối
+relaxing|thư giãn
+reliable|đáng tin cậy
+religion|tôn giáo
+religious|thuộc tôn giáo
+rely|dựa vào
+remainder|phần còn lại
+remark|nhận xét
+remarkable|đáng chú ý
+remedy|phương thuốc
+remembrance|sự tưởng nhớ
+remote control|điều khiển từ xa
+remove|loại bỏ
+repay|trả lại
+repeatedly|nhiều lần
+representative|người đại diện
+reproduce|tái tạo; sinh sản

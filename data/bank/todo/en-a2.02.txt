@@ -1,0 +1,250 @@
+creativity|noun
+creature|noun
+credit|noun
+cricket|noun
+crime|noun
+crisp|noun
+criticize|verb
+cross|noun, verb
+crowd|noun
+crown|noun
+cruise|noun, verb
+cupboard|noun
+curry|noun
+curse|noun
+cycling|noun
+daily|adjective, adverb
+dam|noun
+dancer|noun
+danger|noun
+dangerous|adjective
+daylight|noun
+dead|adjective
+deal|noun, verb
+death|noun
+debate|noun
+decide|verb
+deep|adjective, adverb
+deeply|adverb
+dentist|noun
+department store|noun
+depend|verb
+description|noun
+desert|noun, verb
+dessert|noun
+destroy|verb
+detail|noun
+developed|adjective
+diamond|noun
+diary|noun
+die|verb
+differently|adverb
+difficulty|noun
+digital camera|noun
+dinosaur|noun
+direct|adjective, verb
+direction|noun
+director|noun
+disadvantage|noun
+disagree|verb
+disappear|verb
+disappointing|adjective
+disco|noun
+discover|verb
+discussion|noun
+dishonest|adjective
+dislike|noun, verb
+display|noun, verb
+disturb|verb
+divide|noun, verb
+dizzy|adjective
+done|verb
+doubt|noun, verb
+downstairs|adjective, adverb
+downtown|adverb
+drawer|noun
+drawing|noun
+dressed|adjective
+drill|noun, verb
+driver's license|noun
+drug|noun
+drugstore|noun
+duck|noun
+during|preposition
+dust|noun
+earn|verb
+earring|noun
+earth|noun
+earthquake|noun
+easily|adverb
+east|adjective, adverb, noun
+editor|noun
+education|noun
+educational|adjective
+effect|noun
+effort|noun
+elderly|adjective
+electric|adjective
+elephant|noun
+elevator|noun
+elsewhere|adverb
+embarrassing|adjective
+emergency|noun
+empty|adjective
+encourage|verb
+ending|noun
+energetic|adjective
+enormous|adjective
+enough|adverb, determiner, pronoun
+enter|verb
+entrance|noun
+envelope|noun
+envy|noun, verb
+episode|noun
+error|noun
+escalator|noun
+escape|noun, verb
+especially|adverb
+essay|noun
+establish|verb
+euro|noun
+even|adjective, adverb
+ever|adverb
+exactly|adverb
+except|conjunction, preposition
+exchange|noun, verb
+exist|verb
+expect|verb
+expert|adjective, noun
+explain|verb
+explanation|noun
+explore|verb
+express|noun, verb
+expression|noun
+extra|adjective, adverb, noun
+extremely|adverb
+fact|noun
+fail|verb
+fairly|adverb
+fall|noun, verb
+familiar|adjective
+fancy|adjective, noun, verb
+fantastic|adjective
+fare|noun
+fascinating|adjective
+fashion|noun
+fast food|noun
+fault|noun
+favor|noun
+fear|noun, verb
+feather|noun
+feature|noun, verb
+fee|noun
+female|adjective, noun
+fence|noun
+few|determiner, pronoun
+fiction|noun
+fighter|noun
+final|adjective, noun
+finally|adverb
+first name|noun
+fisherman|noun
+fit|adjective, noun, verb
+fix|noun, verb
+flea|noun
+flight|noun
+float|noun, verb
+flour|noun
+fog|noun
+folder|noun
+follow|verb
+fool|noun, verb
+footballer|noun
+forbid|verb
+force|noun, verb
+forever|adverb
+fork|noun
+fortunately|adverb
+fortune|noun
+forward|adverb
+frame|noun, verb
+frank|adjective
+freedom|noun
+freeze|verb
+fresh|adjective
+fried|adjective
+friendship|noun
+frighten|verb
+frightened|adjective
+frightening|adjective
+fry|noun, verb
+fully|adverb
+function|noun, verb
+further|adjective, adverb
+gallery|noun
+garage|noun
+garlic|noun
+gas|noun
+gate|noun
+gather|verb
+gender|noun
+gentle|adjective
+given|adjective
+globe|noun
+glove|noun
+golden|adjective
+golf|noun
+good-looking|adjective
+government|noun
+grace|noun
+gradually|adverb
+gram|noun
+grandchild|noun
+granddad|noun
+granddaughter|noun
+grandson|noun
+granny|noun
+greatly|adverb
+greedy|adjective
+grilled|adjective
+grocery store|noun
+guard|noun, verb
+guidebook|noun
+gun|noun
+half-price|adjective, adverb
+ham|noun
+handbag|noun
+handicapped|adjective
+handle|noun, verb
+happily|adverb
+happiness|noun
+hardly|adverb
+harm|noun, verb
+harmful|adjective
+harmony|noun
+harvest|noun, verb
+hate|noun, verb
+headphone|noun
+headteacher|noun
+heat|noun, verb
+heating|noun
+heavily|adverb
+helpful|adjective
+hero|noun
+herself|pronoun
+hey|interjection
+high school|noun
+highway|noun
+hike|noun
+hiking|noun
+himself|pronoun
+hip hop|noun
+hit|noun, verb
+hockey|noun
+honey|noun
+honor|noun, verb
+horror|noun
+host|noun
+however|adverb
+hug|noun, verb
+human|adjective, noun

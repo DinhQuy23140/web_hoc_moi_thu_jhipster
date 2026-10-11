@@ -1,0 +1,94 @@
+to|particle, preposition
+together|adverb
+toilet|noun
+tomato|noun
+tonight|adverb, noun
+too|adverb
+tool|noun
+tooth|noun
+top|adjective, noun
+topic|noun
+touch|noun, verb
+towel|noun
+tower|noun
+town|noun
+toy|noun
+travel|noun, verb
+trip|noun, verb
+trousers|noun
+truck|noun
+true|adjective
+try|noun, verb
+T-shirt|noun
+tube|noun
+Tuesday|noun
+turkey|noun
+turn|noun, verb
+TV|noun
+twelve|number
+twenty|number
+two|number
+type|noun, verb
+ugly|adjective
+umbrella|noun
+uncle|noun
+under|preposition
+underline|noun, verb
+until|conjunction, preposition
+up|adverb, preposition
+us|pronoun
+use|noun, verb
+vacation|noun
+vase|noun
+very|adjective, adverb
+video|noun
+visit|noun, verb
+volleyball|noun
+vote|noun, verb
+wait|noun, verb
+waiter|noun
+waitress|noun
+wake|noun, verb
+war|noun
+was|verb
+way|noun
+we|pronoun
+Wednesday|noun
+weekend|noun
+welcome|adjective, interjection, noun
+well|adjective, adverb
+were|verb
+what|determiner, pronoun
+wheel|noun
+when|adverb, conjunction
+where|adverb, conjunction
+which|determiner, pronoun
+white|adjective, noun
+who|pronoun
+whose|determiner, pronoun
+why|adverb
+will|modal verb, noun
+win|noun, verb
+wish|noun, verb
+with|preposition
+woman|noun
+wonderful|adjective
+word|noun
+work|noun, verb
+worker|noun
+world|noun
+worry|noun, verb
+would|modal verb
+writer|noun
+wrong|adjective, adverb
+yard|noun
+year|noun
+yellow|adjective, noun
+yes|adverb
+yet|adverb, conjunction
+yogurt|noun
+you|pronoun
+your|determiner
+yours|pronoun
+yourself|pronoun
+zoo|noun

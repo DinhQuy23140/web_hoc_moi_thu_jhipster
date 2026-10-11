@@ -1,0 +1,144 @@
+surfing|lướt sóng
+surname|họ
+surprising|đáng ngạc nhiên
+survive|sống sót
+swallow|nuốt
+sweat|mồ hôi; đổ mồ hôi
+sweater|áo len
+sweetheart|người yêu
+swimming costume|đồ bơi
+swimsuit|đồ bơi
+symbol|biểu tượng
+symphony|bản giao hưởng
+system|hệ thống
+table tennis|bóng bàn
+tablespoon|thìa canh
+talent|tài năng
+tap|vòi nước; gõ nhẹ
+tape|băng dính; băng ghi âm
+target|mục tiêu
+task|nhiệm vụ
+tear|nước mắt; xé
+teenage|tuổi thiếu niên
+teenager|thanh thiếu niên
+terrify|làm khiếp sợ
+terrorist|kẻ khủng bố
+text|văn bản; nhắn tin
+text message|tin nhắn
+textbook|sách giáo khoa
+theirs|của họ
+themselves|chính họ
+therefore|do đó
+thief|kẻ trộm
+third|thứ ba
+thirsty|khát
+though|mặc dù
+thought|suy nghĩ
+thousand|nghìn
+thunderstorm|giông bão
+tie|cà vạt; buộc
+tights|quần tất
+till|cho đến khi; ngăn kéo đựng tiền
+timetable|thời gian biểu
+tip|tiền boa; mẹo; đầu mút
+title|tiêu đề
+toast|bánh mì nướng
+toe|ngón chân
+tone|giọng điệu
+toothache|đau răng
+toothbrush|bàn chải đánh răng
+tour|chuyến tham quan
+tour guide|hướng dẫn viên du lịch
+toward|về phía
+track|đường ray; theo dõi
+trade|thương mại; buôn bán
+traditional|truyền thống
+traffic light|đèn giao thông
+tram|xe điện
+trap|cái bẫy
+traveler|du khách
+treasure|kho báu
+trick|mánh khóe; lừa
+trouble|rắc rối
+truly|thực sự
+truth|sự thật
+tune|giai điệu
+twice|hai lần
+uncertain|không chắc chắn
+uncomfortable|không thoải mái
+understand|hiểu
+underwater|dưới nước
+uneasy|bất an
+unfair|không công bằng
+unforgettable|khó quên
+unfortunately|không may
+unhappy|không vui
+unhealthy|không lành mạnh
+uniform|đồng phục; đồng nhất
+unimportant|không quan trọng
+unit|đơn vị; bài
+unknown|chưa biết
+unlike|không giống
+unnecessary|không cần thiết
+unpleasant|khó chịu
+unusual|bất thường
+upon|trên, vào lúc
+upset|buồn bã; làm buồn
+upstairs|ở tầng trên
+used|đã qua sử dụng; quen với
+useful|hữu ích
+usual|thông thường
+valley|thung lũng
+value|giá trị
+verb|động từ
+video game|trò chơi điện tử
+view|quang cảnh; quan điểm
+village|ngôi làng
+violent|bạo lực
+violin|đàn vi-ô-lông
+visitor|khách tham quan
+vocabulary|từ vựng
+voice|giọng nói
+walking|đi bộ
+wallet|ví tiền
+wander|đi lang thang
+washing machine|máy giặt
+washing-up|việc rửa bát
+wave|sóng; vẫy tay
+weak|yếu
+wealth|sự giàu có
+web|mạng; mạng nhện
+web page|trang web
+wedding|đám cưới
+weekday|ngày trong tuần
+weekly|hằng tuần
+weep|sự khóc
+weigh|cân nặng
+well-known|nổi tiếng
+west|phía tây
+whatever|bất cứ thứ gì
+wheelchair|xe lăn
+while|trong khi
+whole|toàn bộ
+whom|ai (tân ngữ)
+wide|rộng
+widely|rộng rãi
+wild|hoang dã
+windy|nhiều gió
+wine|rượu vang
+winner|người chiến thắng
+wisdom|sự khôn ngoan
+wise|khôn ngoan
+within|trong vòng
+without|không có
+wonder|tự hỏi; điều kỳ diệu
+wood|gỗ; rừng
+wooden|bằng gỗ
+wool|len
+worldwide|toàn cầu
+worse|tệ hơn
+worst|tệ nhất
+writing|việc viết
+yeah|ừ, vâng
+youth|tuổi trẻ
+zone|khu vực

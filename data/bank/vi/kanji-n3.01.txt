@@ -1,0 +1,250 @@
+政|chính trị
+議|bàn bạc, nghị luận
+民|dân, nhân dân
+連|liên kết, dẫn theo
+対|đối, đối diện
+部|bộ phận
+合|hợp, khớp
+市|thành phố; chợ
+内|bên trong
+相|tương hỗ; tướng
+定|quyết định, cố định
+回|lần; xoay vòng
+選|chọn, bầu
+米|gạo; nước Mỹ; mét
+実|thật; quả
+関|liên quan; cửa ải
+決|quyết định
+全|toàn bộ
+表|bề mặt; bảng; biểu thị
+戦|chiến tranh, trận đấu
+経|kinh qua; kinh độ; kinh sách
+最|nhất, tột cùng
+現|hiện tại, hiện ra
+調|điều tra; giai điệu
+化|biến hóa
+当|trúng; thích đáng
+約|hứa; khoảng
+首|cổ
+法|pháp luật, phương pháp
+性|tính chất; giới tính
+要|cần, điểm chính
+制|chế độ
+治|cai trị; chữa trị
+務|nhiệm vụ
+成|trở thành, thành tựu
+期|thời kỳ
+取|lấy
+都|thủ đô
+和|hòa; kiểu Nhật
+機|máy móc; cơ hội
+平|bằng phẳng; hòa bình
+加|thêm vào
+受|nhận
+続|tiếp tục
+進|tiến lên
+数|số
+記|ghi chép
+初|lần đầu
+指|ngón tay; chỉ
+権|quyền
+支|chi nhánh; chống đỡ
+産|sản xuất; sinh
+点|điểm
+報|báo cáo, tin tức
+済|xong; cứu tế
+活|sống, hoạt động
+原|cánh đồng; nguyên gốc
+共|cùng nhau
+得|được, đạt
+解|giải thích, giải quyết
+交|giao lưu, trao đổi
+資|tài nguyên, vốn
+予|trước
+向|hướng về
+際|lúc, dịp; ranh giới
+勝|thắng
+面|mặt
+告|báo cho biết
+反|phản
+判|phán đoán; con dấu
+認|công nhận
+参|tham gia; đi (khiêm nhường)
+利|lợi ích
+組|tổ, nhóm
+信|tin
+在|có mặt, tồn tại
+件|vụ việc
+側|bên, phía
+任|nhiệm vụ; giao phó
+引|kéo
+求|tìm kiếm, yêu cầu
+所|nơi chốn
+次|tiếp theo
+昨|hôm qua, trước
+論|bàn luận
+官|quan chức
+増|tăng
+係|liên quan; người phụ trách
+感|cảm giác
+情|tình cảm
+投|ném
+示|chỉ ra, biểu thị
+変|thay đổi; lạ
+打|đánh
+直|thẳng; sửa
+両|cả hai
+式|nghi thức; công thức
+確|chắc chắn
+果|quả; kết quả
+容|chứa đựng; dung mạo
+必|tất yếu
+演|diễn
+歳|tuổi
+争|tranh giành
+談|đàm luận
+能|năng lực
+位|vị trí, cấp bậc
+置|đặt
+流|chảy
+格|tư cách, cấp bậc
+疑|nghi ngờ
+過|vượt qua; lỗi
+局|cục
+放|thả, phóng
+常|thường
+状|tình trạng; thư
+球|quả cầu
+職|chức vụ, nghề
+与|cho, trao
+供|cung cấp; đi theo
+役|vai trò, chức vụ
+構|cấu trúc; để ý
+割|chia, cắt; tỷ lệ
+費|chi phí
+付|gắn vào
+由|lý do
+説|thuyết, giải thích
+難|khó khăn
+優|ưu tú; dịu dàng
+夫|chồng
+収|thu nhận
+断|cắt đứt; từ chối
+石|đá
+違|khác nhau
+消|tiêu, tắt
+神|thần
+番|lượt, số thứ tự
+規|quy tắc
+術|thuật, kỹ thuật
+備|chuẩn bị
+宅|nhà
+害|hại
+配|phân phối
+警|cảnh giác
+育|nuôi dưỡng
+席|chỗ ngồi
+訪|thăm
+乗|lên xe, cưỡi
+残|còn lại
+想|tưởng tượng
+声|giọng
+念|niệm, ý nghĩ
+助|giúp đỡ
+労|lao động
+例|ví dụ
+然|như vậy
+限|giới hạn
+追|đuổi theo
+商|buôn bán
+葉|lá
+伝|truyền đạt
+働|làm việc
+形|hình dạng
+景|cảnh
+落|rơi
+好|thích
+退|lùi, rút lui
+頭|đầu
+負|thua; gánh vác
+渡|băng qua; trao
+失|mất
+差|chênh lệch
+末|cuối
+守|giữ, bảo vệ
+若|trẻ
+種|loại; hạt giống
+美|đẹp
+命|mệnh, mạng sống
+福|phúc
+望|mong muốn
+非|phi, không
+観|quan sát
+察|xem xét
+段|bậc, giai đoạn
+横|ngang; bên cạnh
+深|sâu
+申|nói (khiêm nhường)
+様|dạng; ngài
+財|tài sản
+港|cảng
+識|nhận biết
+呼|gọi
+達|đạt đến
+良|tốt
+候|khí hậu, mùa
+程|mức độ
+満|đầy
+敗|thất bại
+値|giá trị
+突|đột ngột; đâm
+光|ánh sáng
+路|đường
+科|khoa
+積|tích lũy
+他|khác
+処|xử lý
+太|béo, to
+客|khách
+否|phủ định
+師|thầy
+登|leo lên
+易|dễ; dịch (bói)
+速|nhanh
+存|tồn tại; biết
+飛|bay
+殺|giết
+号|số hiệu
+単|đơn
+座|ngồi
+破|phá vỡ
+除|loại trừ
+完|hoàn thành
+降|xuống, rơi
+責|trách nhiệm
+捕|bắt
+危|nguy hiểm
+給|cấp phát; lương
+苦|khổ, đắng
+迎|đón
+園|vườn
+具|dụng cụ
+辞|từ; từ chức
+因|nguyên nhân
+馬|ngựa
+愛|yêu
+富|giàu
+彼|anh ấy
+未|chưa
+舞|múa
+亡|chết, mất
+冷|lạnh
+適|thích hợp
+婦|phụ nữ
+寄|ghé qua; gửi
+込|đông đúc; bao gồm
+顔|khuôn mặt
+類|loại
+余|thừa
+王|vua
+返|trả lại

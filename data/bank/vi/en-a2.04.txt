@@ -1,0 +1,250 @@
+possible|có thể
+possibly|có lẽ
+post office|bưu điện
+pour|rót, đổ
+power|sức mạnh; quyền lực; điện
+powerful|mạnh mẽ
+precise|chính xác
+predict|dự đoán
+prediction|lời dự đoán
+prefer|thích hơn
+prepare|chuẩn bị
+pressure|áp lực
+pretend|giả vờ
+prevent|ngăn chặn
+pride|niềm tự hào
+principal|hiệu trưởng; chính
+print|in
+printer|máy in
+private|riêng tư; tư nhân
+pro|dân chuyên nghiệp
+probably|có lẽ
+produce|sản xuất
+product|sản phẩm
+production|sự sản xuất
+professional|chuyên nghiệp
+progressive|tiến bộ
+promise|lời hứa; hứa
+pronounce|phát âm
+pronunciation|cách phát âm
+proper|đúng đắn, thích hợp
+provide|cung cấp
+psychologist|nhà tâm lý học
+public|công cộng; công chúng
+pull|kéo
+punctuation|dấu câu
+purpose|mục đích
+pursue|theo đuổi
+queen|nữ hoàng
+quick|nhanh
+quietly|lặng lẽ
+quit|bỏ, từ bỏ
+quite|khá
+quiz|câu đố, bài kiểm tra nhanh
+racket|vợt
+raincoat|áo mưa
+raise|nâng lên; nuôi
+range|phạm vi
+rap|nhạc rap
+rate|tỷ lệ; đánh giá
+rather|khá; thà
+rating|xếp hạng
+raw|sống, thô
+ray|tia
+reach|đạt tới; với tới
+realize|nhận ra
+receive|nhận
+recent|gần đây
+recently|gần đây
+receptionist|nhân viên lễ tân
+record|ghi lại; kỷ lục; đĩa hát
+refer|đề cập; tham khảo
+reflect|phản chiếu; phản ánh
+refrigerator|tủ lạnh
+regret|hối tiếc
+regular|thường xuyên
+regularly|thường xuyên
+relaxed|thư giãn
+release|phát hành; thả ra
+remain|vẫn còn
+remind|nhắc nhở
+remote|xa xôi; điều khiển từ xa
+repair|sửa chữa
+replace|thay thế
+reply|trả lời
+report|báo cáo
+represent|đại diện
+request|yêu cầu
+response|phản hồi
+retired|đã nghỉ hưu
+reunion|cuộc hội ngộ
+reveal|tiết lộ
+rhythm|nhịp điệu
+right-hand|bên tay phải
+road|con đường
+roast|nướng, quay
+rob|cướp
+robbery|vụ cướp
+robin|chim cổ đỏ
+rock|đá; nhạc rock
+roll|lăn; cuộn
+romance|chuyện tình lãng mạn
+romantic|lãng mạn
+roof|mái nhà
+root|rễ; gốc
+rope|dây thừng
+roughly|khoảng
+round|tròn; vòng
+roundabout|bùng binh, vòng xuyến
+royal|thuộc hoàng gia
+rugby|bóng bầu dục
+ruin|phá hỏng; tàn tích
+rumor|tin đồn
+runner|người chạy
+running|chạy bộ
+rush|vội vàng
+sadly|buồn bã; đáng buồn là
+safe|an toàn; két sắt
+sailing|đi thuyền buồm
+sake|lợi ích, mục đích
+salt|muối
+sample|mẫu
+sandy|có cát
+satisfy|làm hài lòng
+sauce|nước sốt
+sausage|xúc xích
+scale|quy mô; cái cân
+scarf|khăn quàng cổ
+scene|cảnh
+scenery|phong cảnh
+schoolchild|học sinh
+schoolwork|bài vở ở trường
+scissors|cái kéo
+scream|la hét
+screw|đinh vít
+script|kịch bản
+seafood|hải sản
+search|tìm kiếm
+seaside|bờ biển
+secret|bí mật
+secretary|thư ký
+seed|hạt giống
+seek|tìm kiếm
+seem|có vẻ
+semester|học kỳ
+send|gửi
+senior|cấp cao; người lớn tuổi
+sense|giác quan; cảm nhận
+separate|riêng biệt; tách ra
+seriously|nghiêm túc
+serve|phục vụ
+several|một vài
+sew|may, khâu
+shade|bóng râm
+shadow|cái bóng
+shall|sẽ
+shampoo|dầu gội
+shape|hình dạng
+shell|vỏ
+shine|chiếu sáng
+shock|cú sốc
+shoot|bắn; quay phim
+shop assistant|nhân viên bán hàng
+shore|bờ
+shot|phát bắn; cú sút
+shout|hét lên
+shut|đóng
+silence|sự im lặng
+silently|lặng lẽ
+silly|ngớ ngẩn
+silver|bạc
+similar|tương tự
+simple|đơn giản
+simply|đơn giản là
+since|kể từ; vì
+singing|ca hát
+single|độc thân; đơn
+singular|số ít
+sink|bồn rửa; chìm
+sitting room|phòng khách
+situation|tình huống
+skate|trượt băng
+skateboarding|trượt ván
+skating|trượt băng
+ski|trượt tuyết
+skiing|môn trượt tuyết
+slave|nô lệ
+sleepless|mất ngủ
+sleepy|buồn ngủ
+slice|lát
+slide|trượt; cầu trượt
+slim|mảnh mai
+slowly|chậm rãi
+smooth|mịn, trơn tru
+smoothly|trơn tru
+snack|đồ ăn vặt
+snowboarding|trượt ván trên tuyết
+soap|xà phòng
+society|xã hội
+sock|tất, vớ
+soda|nước ngọt có ga
+soft|mềm
+soft drink|nước ngọt
+softly|nhẹ nhàng
+soldier|người lính
+solution|giải pháp
+somebody|ai đó
+someday|một ngày nào đó
+somewhere|ở đâu đó
+sound|âm thanh; nghe có vẻ
+source|nguồn
+south|phía nam
+space|không gian
+spaceship|tàu vũ trụ
+spaghetti|mì Ý sợi
+speaker|người nói; loa
+specific|cụ thể
+speed|tốc độ
+spill|làm đổ
+splash|bắn tung tóe
+split|chia, tách
+spoon|cái thìa
+sports center|trung tâm thể thao
+spread|lan rộng; phết
+square|hình vuông; quảng trường
+stadium|sân vận động
+staff|nhân viên
+stair|bậc cầu thang
+stamp|con tem
+state|bang; trạng thái; tuyên bố
+statement|lời tuyên bố
+statue|bức tượng
+steak|bít tết
+steal|ăn trộm
+stomachache|đau bụng
+stove|bếp lò
+stranger|người lạ
+strategy|chiến lược
+strength|sức mạnh
+strike|đình công; đánh
+string|dây
+strongly|mạnh mẽ
+structure|cấu trúc
+stuff|đồ đạc, thứ
+style|phong cách
+succeed|thành công
+success|sự thành công
+successfully|thành công
+such|như vậy
+sudden|đột ngột
+suggest|gợi ý
+suit|bộ com-lê; phù hợp
+suitable|phù hợp
+suitcase|va li
+summary|bản tóm tắt
+sunflower|hoa hướng dương
+sunglasses|kính râm
+sunlight|ánh nắng
+superlative|dạng so sánh nhất
+superstar|siêu sao
+supper|bữa tối

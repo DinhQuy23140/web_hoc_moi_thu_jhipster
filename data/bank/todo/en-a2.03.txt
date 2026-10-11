@@ -1,0 +1,250 @@
+hundred|number
+hunter|noun
+ID|noun
+ID card|noun
+illegal|adjective
+image|noun
+imagination|noun
+impact|noun
+impatient|adjective
+importance|noun
+importantly|adverb
+impossible|adjective
+impress|verb
+improve|verb
+inch|noun, verb
+include|verb
+increase|noun, verb
+indeed|adverb
+independence|noun
+indicate|verb
+indoor|adjective
+inexpensive|adjective
+injure|verb
+inner|adjective
+insect|noun
+inspiration|noun
+instant|adjective
+instead|adverb
+instrument|noun
+intelligence|noun
+intelligent|adjective
+interest|noun, verb
+international|adjective
+invade|verb
+invention|noun
+invite|verb
+issue|noun, verb
+itself|pronoun
+jam|noun, verb
+jelly|noun
+joke|noun, verb
+joy|noun
+junior|adjective
+junk|noun
+killer|noun
+kilo|noun
+kilogram|noun
+kilometer|noun
+kindly|adjective, adverb
+kingdom|noun
+kit|noun
+knock|noun, verb
+labor|noun
+lack|noun, verb
+lamp|noun
+land|noun, verb
+landscape|noun, verb
+lane|noun
+last|adverb, determiner, pronoun
+latest|adjective
+latter|adjective, adverb, pronoun
+law|noun
+lawyer|noun
+laziness|noun
+lead|adjective, noun, verb
+learner|noun
+least|adverb, determiner, pronoun
+leather|noun
+left-hand|adjective
+leisure|noun
+lemon|noun
+lemonade|noun
+less|adverb, determiner, pronoun
+level|adjective, noun, verb
+liberty|noun
+license|verb
+lie|noun, verb
+lifestyle|noun
+likely|adjective
+lip|noun
+liter|noun
+lively|adjective
+load|noun, verb
+local|adjective
+lock|noun, verb
+logical|adjective
+loose|adjective
+lose|verb
+lost|adjective
+loudly|adverb
+lover|noun
+low|adjective, adverb
+luckily|adverb
+lunchtime|noun
+lyric|adjective
+mad|adjective
+magic|adjective, noun
+main course|noun
+mainly|adverb
+major|adjective, noun
+maker|noun
+make-up|noun
+male|adjective, noun
+mall|noun
+manage|verb
+manager|noun
+manner|noun
+mark|noun, verb
+married|adjective
+marry|verb
+marvelous|adjective
+material|noun
+max|noun
+meaning|noun
+medal|noun
+medical|adjective
+melon|noun
+member|noun
+mention|noun, verb
+menu|noun
+metal|noun
+meter|noun
+method|noun
+midday|noun
+midnight|noun
+might|modal verb
+military|adjective
+million|number
+mineral water|noun
+mirror|noun
+missing|adjective
+mix|noun, verb
+model|adjective, noun, verb
+modern|adjective
+mood|noun
+mosque|noun
+mostly|adverb
+motorway|noun
+MP3 player|noun
+Ms.|noun
+mug|noun
+murder|noun, verb
+mushroom|noun
+musical|adjective, noun
+myself|pronoun
+mysterious|adjective
+mystery|noun
+napkin|noun
+nation|noun
+national|adjective
+native|adjective
+nature|noun
+nearly|adverb
+necessary|adjective
+negative|adjective
+net|adjective, noun
+next|adverb, determiner, pronoun
+next to|preposition
+no one|pronoun
+nobody|pronoun
+noon|noun
+normal|adjective
+north|adjective, adverb, noun
+notice|noun, verb
+noun|noun
+nowadays|adverb
+oak|noun
+occupation|noun
+offer|noun, verb
+official|adjective, noun
+oil|noun
+olive oil|noun
+Olympic|adjective
+omelet|noun
+onion|noun
+operate|verb
+opinion|noun
+opportunity|noun
+oppose|verb
+opposite|adjective, adverb, noun
+organize|verb
+organized|adjective
+original|adjective, noun
+orphan|noun, verb
+ourselves|pronoun
+out of|preposition
+oven|noun
+overseas|adjective, adverb
+overweight|adjective
+pacific|adjective
+pack|noun, verb
+painter|noun
+pal|noun
+pan|noun
+panic|noun, verb
+part|noun, verb
+partly|adverb
+pass|noun, verb
+passage|noun
+passenger|noun
+pasta|noun
+path|noun
+patient|adjective, noun
+PC|noun
+pea|noun
+peaceful|adjective
+pear|noun
+pence|noun
+penfriend|noun
+pepper|noun
+perfect|adjective, verb
+perfectly|adverb
+perform|verb
+perfume|noun
+perhaps|adverb
+permission|noun
+personality|noun
+petrol|noun
+petrol station|noun
+photograph|noun, verb
+photographer|noun
+photography|noun
+physical|adjective
+physically|adverb
+pile|noun
+pilgrim|noun
+pill|noun
+pilot|noun
+pity|noun
+planet|noun
+plant|noun, verb
+plate|noun
+playful|adjective
+playground|noun
+pleasant|adjective
+pleased|adjective
+pleasing|adjective
+plenty|noun, pronoun
+plural|noun
+plus|conjunction, noun, preposition
+police|noun
+police officer|noun
+police station|noun
+policeman|noun
+policewoman|noun
+political|adjective
+pollute|verb
+popular|adjective
+portrait|noun
+position|noun

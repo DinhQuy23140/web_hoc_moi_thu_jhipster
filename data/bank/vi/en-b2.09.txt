@@ -1,0 +1,250 @@
+suspicious|đáng ngờ; nghi ngờ
+suspiciously|đáng ngờ
+sustain|duy trì
+swan|thiên nga
+sweep|quét
+swift|nhanh chóng
+swing|đu đưa; xích đu
+syllable|âm tiết
+symbolic|tượng trưng
+sympathetic|thông cảm
+sympathize|đồng cảm
+synonym|từ đồng nghĩa
+tablecloth|khăn trải bàn
+tabloid|báo lá cải
+tack|đóng đinh bấm
+tackle|giải quyết; cản phá
+tactile|thuộc xúc giác
+tag|nhãn
+tail|cái đuôi
+tame|thuần hóa
+tan|màu da rám nắng
+tanned|rám nắng
+tatter|mảnh rách
+tattoo|hình xăm
+taunt|lời chế nhạo
+teaspoon|thìa cà phê
+technical|kỹ thuật
+technically|về mặt kỹ thuật
+telescope|kính thiên văn
+temperate|ôn hòa
+temporarily|tạm thời
+temptation|sự cám dỗ
+tender|dịu dàng; mềm
+tenderly|dịu dàng
+tenderness|sự dịu dàng
+terrace|sân thượng; ruộng bậc thang
+terrifying|kinh hoàng
+territory|lãnh thổ
+testify|làm chứng
+testimony|lời khai
+theme|chủ đề
+theorist|nhà lý luận
+therapist|nhà trị liệu
+therapy|liệu pháp
+thereafter|sau đó
+thermometer|nhiệt kế
+thesis|luận văn
+thickly|dày
+thickness|độ dày
+thigh|đùi
+thinker|nhà tư tưởng
+third person|ngôi thứ ba
+thirdly|thứ ba là
+thoroughly|kỹ lưỡng
+thoughtful|chu đáo
+thoughtless|thiếu suy nghĩ
+thread|sợi chỉ
+threaten|đe dọa
+thrill|sự hồi hộp
+thrilled|rất vui mừng
+thrilling|ly kỳ
+throat|cổ họng
+tickle|cù
+tightrope|dây thăng bằng
+timeless|vượt thời gian
+timeliness|sự kịp thời
+times|lần (nhân)
+timing|thời điểm
+tiptoe|đi nhón chân
+tiredness|sự mệt mỏi
+tiresome|nhàm chán
+toenail|móng chân
+toil|lao động vất vả
+tolerant|khoan dung
+tolerate|chịu đựng
+toll|phí cầu đường; số thương vong
+tomb|ngôi mộ
+ton|tấn
+torch|đèn pin; ngọn đuốc
+tortoiseshell|mai rùa
+torture|tra tấn
+tough|khó khăn; cứng rắn
+toxic|độc hại
+trader|thương nhân
+trailer|xe moóc; đoạn phim giới thiệu
+trainee|thực tập sinh
+trainer|huấn luyện viên; giày thể thao
+trait|đặc điểm
+traitor|kẻ phản bội
+tramp|kẻ lang thang
+trample|sự giẫm đạp
+transcript|bản ghi; bảng điểm
+transfusion|sự truyền máu
+transient|thoáng qua
+transistor|bóng bán dẫn
+transition|sự chuyển tiếp
+transitive|ngoại động từ
+translation|bản dịch
+translator|biên dịch viên
+transmission|sự truyền tải
+transmit|truyền
+transparent|trong suốt
+traverse|sự băng qua
+tray|cái khay
+tread|giẫm; bước chân
+treaty|hiệp ước
+trek|chuyến đi bộ dài
+tremendously|rất nhiều
+tremor|sự rung chuyển
+trial|phiên tòa; sự thử nghiệm
+triangle|hình tam giác
+tribe|bộ lạc
+tricky|khó khăn, rắc rối
+trio|bộ ba
+trivial|tầm thường
+trolley|xe đẩy
+troop|quân đội
+trophy|cúp
+tropic|nhiệt đới
+troublesome|phiền phức
+trunk|thân cây; vòi voi; cốp xe
+trusty|đáng tin cậy
+truthful|trung thực
+truthfulness|sự trung thực
+tub|bồn
+tuberculosis|bệnh lao
+tug|sự kéo mạnh
+tulip|hoa tulip
+tumor|khối u
+tunnel|đường hầm
+turbulent|hỗn loạn
+tutor|gia sư
+twinkle|sự lấp lánh
+twisted|xoắn; méo mó
+typhoid|bệnh thương hàn
+tyranny|sự chuyên chế
+tyrant|bạo chúa
+ultimate|cuối cùng; tối thượng
+ultimately|cuối cùng
+unacceptable|không thể chấp nhận
+unashamedly|không xấu hổ
+unattractive|không hấp dẫn
+unauthorized|trái phép
+unavailable|không có sẵn
+unaware|không biết
+unbearable|không chịu nổi
+unbeatable|vô địch
+unchanged|không thay đổi
+uncharacteristic|không đặc trưng
+unclearly|không rõ ràng
+uncomfortably|không thoải mái
+uncommon|không phổ biến
+unconcerned|không quan tâm
+unconscious|bất tỉnh
+underestimate|đánh giá thấp
+undergraduate|sinh viên đại học
+underground|dưới lòng đất
+undersea|dưới biển
+understandable|dễ hiểu
+understanding|sự hiểu biết; thông cảm
+undertake|đảm nhận
+underwear|đồ lót
+undoubtedly|chắc chắn
+undreamed|không mơ tới
+undressed|không mặc quần áo
+unease|sự bất an
+uneasily|bất an
+unenthusiastic|không nhiệt tình
+uneven|không đều
+unfamiliar|không quen thuộc
+unfashionable|lỗi mốt
+unforeseen|không lường trước
+ungodly|vô đạo
+unhappiness|sự bất hạnh
+unhelpful|không hữu ích
+unimaginable|không thể tưởng tượng
+unimaginably|không thể tưởng tượng
+united|thống nhất
+universal|phổ quát
+unjustly|bất công
+unkind|không tử tế
+unlimited|không giới hạn
+unload|dỡ hàng
+unlock|mở khóa
+unmistakable|không thể nhầm lẫn
+unmistakably|rõ ràng
+unnatural|không tự nhiên
+unofficial|không chính thức
+unpopular|không được ưa chuộng
+unrealistic|không thực tế
+unreasonable|vô lý
+unreliable|không đáng tin
+unrest|tình trạng bất ổn
+unsafe|không an toàn
+unsatisfactory|không đạt yêu cầu
+unselfish|không ích kỷ
+unstoppable|không thể ngăn cản
+unsuccessful|không thành công
+unsuitable|không phù hợp
+unsure|không chắc chắn
+untalented|không có tài
+unthinkably|không thể tưởng tượng
+untie|cởi trói
+unto|đến, cho
+untreated|chưa được xử lý
+untrimmed|chưa cắt tỉa
+unusualness|sự khác thường
+unwilling|không sẵn lòng
+unwise|không khôn ngoan
+unworldly|ngây thơ
+upbringing|sự giáo dưỡng
+upgrade|nâng cấp
+upright|thẳng đứng
+upside down|lộn ngược
+urgently|khẩn cấp
+user|người dùng
+usher|người dẫn chỗ; dẫn
+utility|tiện ích
+utilize|sử dụng
+utter|thốt ra; hoàn toàn
+utterly|hoàn toàn
+vacant|trống
+vaccine|vắc-xin
+valentine|người yêu; thiệp tình yêu
+valid|hợp lệ
+vanish|biến mất
+vanity|sự phù phiếm
+variation|sự biến đổi
+varied|đa dạng
+venture|việc kinh doanh mạo hiểm
+verbal|bằng lời
+verbally|bằng lời
+verse|câu thơ
+version|phiên bản
+versus|đấu với
+veteran|cựu chiến binh
+vibrate|rung
+vibration|sự rung động
+viewer|người xem
+vigor|sức sống
+vigorous|mạnh mẽ
+vigorously|mạnh mẽ
+villa|biệt thự
+villager|dân làng
+vinegar|giấm
+violate|vi phạm
+virtual reality|thực tế ảo
+virtually|hầu như
+virtue|đức tính
+visibly|rõ ràng

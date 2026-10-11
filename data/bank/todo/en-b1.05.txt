@@ -1,0 +1,250 @@
+journal|noun
+judgment|noun
+jug|noun
+juicy|adjective
+jumper|noun
+jungle|noun
+justice|noun
+kettle|noun
+keyboard|noun
+killing|noun
+kindness|noun
+kitten|noun
+knit|verb
+lab|noun
+ladder|noun
+lamb|noun
+largely|adverb
+lasting|adjective
+latecomer|noun
+lately|adverb
+laughter|noun
+lawful|adjective
+lay|verb
+layer|noun
+leadership|noun
+leading|adjective
+league|noun
+lean|adjective, verb
+leap|noun, verb
+legal|adjective
+legally|adverb
+length|noun
+lessen|verb
+lettuce|noun
+liar|noun
+liberate|verb
+liberation|noun
+librarian|noun
+lifeguard|noun
+lifelong|adjective
+lift|noun, verb
+lighter|noun
+lightly|adverb
+lightning|noun
+likeness|noun
+limit|noun, verb
+limitation|noun
+limited|adjective
+limp|verb
+link|noun, verb
+liquid|adjective, noun
+literary|adjective
+literature|noun
+liver|noun
+loaf|noun
+locate|verb
+location|noun
+lodge|noun, verb
+log|noun
+logic|noun
+logo|noun
+lorry|noun
+loss|noun
+lottery|noun
+loud|adjective, adverb
+loudspeaker|noun
+lovingly|adverb
+loyal|adjective
+lung|noun
+luxury|adjective, noun
+magical|adjective
+magician|noun
+magnificent|adjective
+mailbox|noun
+main|adjective
+maintain|verb
+majority|noun
+management|noun
+mankind|noun
+maple|noun
+marble|noun
+marine|adjective
+marked|adjective
+marriage|noun
+mash|verb
+mass|adjective, noun
+massive|adjective
+mathematician|noun
+mathematics|noun
+maximum|adjective, noun
+mayor|noun
+meaningful|adjective
+meanwhile|adverb
+measure|noun, verb
+measurement|noun
+mechanic|noun
+mechanical|adjective
+meditate|verb
+meditation|noun
+Mediterranean|noun
+medium|adjective, noun
+melt|verb
+membership|noun
+memorable|adjective
+memorize|verb
+mend|verb
+mental|adjective
+mentally|adverb
+merchant|noun
+mere|adjective
+merely|adverb
+mess|noun, verb
+message board|noun
+middle-aged|adjective
+mild|adjective
+mile|noun
+mineral|noun
+minimize|verb
+minimum|adjective, noun
+minor|adjective
+minority|noun
+minus|preposition
+miracle|noun
+mischief|noun
+miserable|adjective
+misery|noun
+mislead|verb
+mission|noun
+misty|adjective
+misunderstanding|noun
+mixing bowl|noun
+modal verb|noun
+modem|noun
+moderate|adjective
+modify|verb
+moisture|noun
+molecule|noun
+monitor|noun, verb
+monk|noun
+monster|noun
+monthly|adjective, adverb
+monument|noun
+moral|adjective, noun
+moreover|adverb
+mosquito|noun
+moss|noun
+motherland|noun
+motionless|adjective
+motivate|verb
+motive|noun
+motor|noun
+motorcycle|noun
+motto|noun
+mount|noun, verb
+mountaintop|noun
+mourn|verb
+movement|noun
+mud|noun
+mule|noun
+murderer|noun
+muscle|noun
+mustard|noun
+mutual|adjective
+myth|noun
+nail|noun
+naked|adjective
+nap|noun
+narrate|verb
+narrative|adjective
+narrow|adjective
+nasty|adjective
+nationalist|noun
+naturally|adverb
+navy blue|adjective
+nearby|adjective, adverb
+necklace|noun
+nectar|noun
+needle|noun
+negotiation|noun
+neighborhood|noun
+nephew|noun
+nervousness|noun
+ness|noun
+network|noun
+neutral|adjective
+nevertheless|adverb
+newborn|adjective
+newcomer|noun
+newly|adverb
+next door|adverb
+next-door|adjective
+nickname|noun
+niece|noun
+nightlife|noun
+nod|noun, verb
+noisily|adverb
+none|pronoun
+nonetheless|adverb
+nonsense|noun
+nor|conjunction
+normally|adverb
+northeast|adjective, noun
+northeastern|adjective
+northern|adjective
+northwest|adjective, noun
+northwestern|adjective
+noticeable|adjective
+noticeboard|noun
+notion|noun
+notorious|adjective
+novelist|noun
+nowhere|adverb
+nuclear|adjective
+nucleus|noun
+numerous|adjective
+nutrient|noun
+nutritious|adjective
+object|noun, verb
+objection|noun
+objective|adjective, noun
+observation|noun
+observe|verb
+obstacle|noun
+obtain|verb
+obvious|adjective
+obviously|adverb
+occasion|noun, verb
+occasional|adjective
+occasionally|adverb
+occupy|verb
+occur|verb
+ocean|noun
+offensive|adjective
+officially|adverb
+oily|adjective
+old-fashioned|adjective
+oneself|pronoun
+onstage|adjective
+onto|preposition
+opening|noun
+operation|noun
+opposition|noun
+oppress|verb
+oppression|noun
+option|noun
+oral|adjective, noun
+orbit|noun
+orchestra|noun
+orderly|adjective
+ordinary|adjective

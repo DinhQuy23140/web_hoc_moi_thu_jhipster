@@ -1,0 +1,250 @@
+organ|noun
+organic|adjective
+organism|noun
+organization|noun
+origin|noun
+otherwise|adverb
+ought to|modal verb
+outdoor|adjective
+outdoors|adverb
+outer|adjective
+outlaw|noun
+outline|noun, verb
+out-of-date|adjective
+outward|adjective
+outweigh|verb
+overcome|verb
+overjoyed|adjective
+overnight|adjective, adverb
+overwhelm|verb
+overwhelming|adjective
+overwork|noun
+owe|verb
+owing|adjective
+oxygen|noun
+pace|noun, verb
+package|noun
+packing|noun
+paddle|noun, verb
+paid|adjective
+pain|noun
+painful|adjective
+pale|adjective
+palm|noun
+parachute|noun
+paradise|noun
+paralyze|verb
+parcel|noun
+parental|adjective
+parking|noun
+parrot|noun
+partial|adjective
+participant|noun
+participle|noun
+particularly|adverb
+passion|noun
+passive|adjective
+patience|noun
+patrol|noun
+pattern|noun
+pause|noun, verb
+peanut|noun
+peculiar|adjective
+penniless|adjective
+penny|noun
+per|preposition
+percent|noun
+performer|noun
+permanent|adjective
+permanently|adverb
+permit|verb
+personally|adverb
+persuade|verb
+persuasive|adjective
+phantom|adjective, noun
+phenomenon|noun
+philosopher|noun
+philosophy|noun
+phoenix|noun
+photocopy|noun
+phrasal verb|noun
+phrase|noun
+physics|noun
+pie|noun
+piety|noun
+pillow|noun
+pin|noun, verb
+pineapple|noun
+pipe|noun
+pit|noun
+plain|adjective
+platform|noun
+pleasantly|adverb
+plug|noun, verb
+pocket money|noun
+poet|noun
+poetry|noun
+poison|noun, verb
+poisonous|adjective
+pole|noun
+policy|noun
+politely|adverb
+politician|noun
+politics|noun
+pollutant|noun
+pond|noun
+popcorn|noun
+pork|noun
+port|noun
+positive|adjective
+positively|adverb
+possess|verb
+possession|noun
+possessive|adjective
+possibility|noun
+postcard|noun
+postman|noun
+pot|noun
+potential|adjective, noun
+pottery|noun
+pound|noun, verb
+powder|noun, verb
+practical|adjective
+praise|noun, verb
+prayer|noun
+precious|adjective
+preference|noun
+prefix|noun
+pregnant|adjective
+prejudice|noun
+preparation|noun
+prepared|adjective
+preposition|noun
+preschool|adjective
+prescription|noun
+presence|noun
+preservation|noun
+preserve|verb
+president|noun
+press|noun, verb
+previous|adjective
+priest|noun
+primarily|adverb
+primary school|noun
+primitive|adjective
+principle|noun
+prison|noun
+prisoner|noun
+prize|noun
+probability|noun
+proceed|verb
+process|noun, verb
+proclaim|verb
+procrastination|noun
+producer|noun
+productive|adjective
+profession|noun
+professor|noun
+progress|noun, verb
+prohibition|noun
+prominent|adjective
+pronoun|noun
+proof|noun
+properly|adverb
+property|noun
+propose|verb
+prosperity|noun
+prosperous|adjective
+protection|noun
+protective|adjective
+protest|noun, verb
+proverb|noun
+provided|conjunction
+psychological|adjective
+pub|noun
+publicly|adverb
+publisher|noun
+pullover|noun
+pump|noun
+punish|verb
+punishment|noun
+pupil|noun
+puppy|noun
+pure|adjective
+purify|verb
+purse|noun
+puzzle|noun, verb
+quake|noun
+qualify|verb
+quantity|noun
+question mark|noun
+questionnaire|noun
+race|noun, verb
+racial|adjective
+radiation|noun
+rage|noun
+rail|noun
+railroad|noun
+railway|noun
+rainfall|noun
+rainforest|noun
+rank|noun
+rapid|adjective
+rapidly|adverb
+rare|adjective
+rarely|adverb
+raspberry|noun
+ration|noun
+rational|adjective
+razor|noun
+react|verb
+realistic|adjective
+reality|noun
+rearrange|verb
+reasonable|adjective
+rebuild|verb
+recall|verb, noun
+recite|verb
+reclaim|verb
+recognize|verb
+recommend|verb
+recording|noun
+recovery|noun
+recycled|adjective
+recycling|noun
+reduction|noun
+reef|noun
+referee|noun
+reflection|noun
+refreshments|noun
+refusal|noun
+refuse|noun, verb
+regain|verb
+regard|noun, verb
+regarding|preposition
+region|noun
+regional|adjective
+register|noun, verb
+registration|noun
+regulation|noun
+reject|verb
+relate|verb
+relation|noun
+relative|adjective, noun
+relatively|adverb
+relaxing|adjective
+reliable|adjective
+religion|noun
+religious|adjective
+rely|verb
+remainder|noun
+remark|noun, verb
+remarkable|adjective
+remedy|noun
+remembrance|noun
+remote control|noun
+remove|verb
+repay|verb
+repeatedly|adverb
+representative|noun
+reproduce|verb

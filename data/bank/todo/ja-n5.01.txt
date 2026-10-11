@@ -1,0 +1,250 @@
+ああ|ああ|adverb|Ah!, Oh!
+青|あお|noun, adjective|blue
+青い|あおい|i-adjective|blue
+赤|あか|noun, adjective|red
+開く|あく|verb|to open, to become open
+上げる|あげる|verb|to raise, to lift
+朝御飯|あさごはん|noun|breakfast
+明後日|あさって|noun, adverb|day after tomorrow
+あそこ|あそこ|pronoun, noun|there, over there, that place
+頭|あたま|noun|head
+あちら|あちら|pronoun|this way (polite)
+熱い|あつい|i-adjective|hot (objects)
+厚い|あつい|i-adjective|kind, warm(hearted), thick, deep
+あっち|あっち|pronoun|over there
+後|あと|noun, adjective|afterwards (later); in the future; the rest; since then
+あなた|あなた|pronoun|you
+兄|あに|noun|(my) older brother (humble)
+姉|あね|noun|(my) older sister (humble)
+アパート|アパート|noun|apartment (abbr.)
+あの|あの|interjection|that over there; like that, that way; um...
+浴びる|あびる|verb|to bathe, to shower
+危ない|あぶない|i-adjective, interjection|dangerous, critical
+甘い|あまい|i-adjective|generous, sweet
+余り|あまり|noun, adjective|not very; surplus
+飴|あめ|noun|(hard) candy
+在る|ある|verb|to be, to have
+有る|ある|verb|to be, to have
+あれ|あれ|pronoun, noun|that one (over there)
+いい|いい|i-adjective|good
+いいえ|いいえ|interjection|no, not at all
+言う|いう|verb|to say
+いかが|いかが|adverb, na-adjective|how, in what way
+いくつ|いくつ|adverb|how many, how old
+医者|いしゃ|noun|doctor; physician
+一日|いちにち|noun, adverb|one day (duration)
+一番|いちばん|noun, adjective|best (most), first, number one
+いつ|いつ|pronoun|when
+五日|いつか|noun|five days; fifth day of the month
+一緒|いっしょ|noun, adjective|together
+五つ|いつつ|number, noun|five things
+いつも|いつも|adverb, adjective|always, usually, every time, never (with neg. verb)
+妹|いもうと|noun|younger sister (humble)
+嫌|いや|na-adjective, interjection|disagreeable, detestable, unpleasant
+入口|いりぐち|noun|entrance
+居る|いる|verb, auxiliary|(humble) to be (animate), to exist
+要る|いる|verb|to need
+入れる|いれる|verb|to put in
+色々|いろいろ|na-adjective, adjective|various
+後ろ|うしろ|noun, adjective|back, behind, rear
+薄い|うすい|i-adjective|thin, weak
+歌|うた|noun|a song
+うち|うち|noun|home; house; my place
+生まれる|うまれる|verb|to be born
+うるさい|うるさい|i-adjective, interjection|noisy; annoying
+上着|うわぎ|noun|coat, jacket
+絵|え|noun|a painting; a picture; a drawing
+映画館|えいがかん|noun|movie theater, cinema
+英語|えいご|noun|English (language)
+ええ|ええ|interjection, adjective|yes
+エレベーター|エレベーター|noun|elevator
+～円|～えん|noun|Yen
+鉛筆|えんぴつ|noun|pencil
+お～|お～|prefix|honorable ~ (honorific)
+大きな|おおきな|adjective|big
+大勢|おおぜい|noun, adjective|great number of people
+お母さん|おかあさん|noun, pronoun|mother (formal)
+お菓子|おかし|noun|confections, sweets, snack
+お金|おかね|noun|money
+置く|おく|verb|to put; to lay; to place
+奥さん|おくさん|noun|(someone else's) wife (hon.)
+お酒|おさけ|noun|sake; alcohol
+お皿|おさら|noun|plate, dish
+伯父|おじさん|noun|uncle, middle-aged man
+おじいさん|おじいさん|noun|grandfather, male senior citizen
+押す|おす|verb|to push, to press, to stamp (e.g., a passport)
+お手洗い|おてあらい|noun|toilet, restroom, bathroom (lit., a place to wash one's hands)
+お父さん|おとうさん|noun, pronoun|father (formal)
+弟|おとうと|noun|younger brother
+男の子|おとこのこ|expression, noun|boy
+一昨日|おととい|noun, adverb|the day before yesterday
+おととし|おととし|noun, adverb|year before last
+大人|おとな|noun, adjective|adult
+お腹|おなか|noun|stomach
+同じ|おなじ|adjective, na-adjective|same, identical
+お兄さん|おにいさん|noun|(someone else's) older brother (formal)
+お姉さん|おねえさん|noun|older sister (formal)
+伯母さん|おばさん|noun|aunt
+おばあさん|おばあさん|noun|grandmother, female senior-citizen
+お風呂|おふろ|noun|a bath
+お弁当|おべんとう|noun|a boxed lunch
+覚える|おぼえる|verb|to learn, to commit to memory, to remember, to memorize
+おまわりさん|おまわりさん|noun|policeman (friendly term)
+重い|おもい|i-adjective|heavy; serious
+面白い|おもしろい|i-adjective|interesting, amusing
+降りる|おりる|verb|to get off
+終る|おわる|verb, suffix|to finish, to close
+女の子|おんなのこ|expression, noun|girl
+～回|～かい|counter, noun|counter for occurrences (~ times)
+～階|～かい|noun, suffix|counter for stories (floors) of a building
+外国|がいこく|noun, adjective|foreign country; abroad
+外国人|がいこくじん|noun|foreigner
+階段|かいだん|noun|stairs
+買い物|かいもの|noun, suru-verb|shopping
+返す|かえす|verb|to return something
+顔|かお|noun|face (body part)
+かかる|かかる|verb|it takes (amount of time, money) (v.i.)
+鍵|かぎ|noun|a lock; a key
+～か月|～かげつ|counter|(number of) months
+掛ける|かける|verb|to put on (e.g., glasses); to hang (e.g., on a wall)
+かける|かける|verb|to dial/call (e.g., phone); to sit down
+風邪|かぜ|noun|cold, flu
+方|かた|noun, suffix|-- honorific form for 人 (ひと) --; way of doing
+片仮名|かたかな|noun|katakana
+～月|～がつ|suffix|month of year
+カップ|カップ|noun|cup
+家庭|かてい|noun|home; family
+花瓶|かびん|noun|(flower) vase
+かぶる|かぶる|verb|to wear, to put on (e.g., a hat on the head)
+紙|かみ|noun|paper
+カメラ|カメラ|noun|camera
+火曜日|かようび|noun, adverb|Tuesday
+辛い|からい|i-adjective|hot and spicy; salty
+体|からだ|noun|body; health
+～がる|～がる|suffix, verb|feel
+軽い|かるい|i-adjective|light, non-serious, minor
+カレー|カレー|noun|curry (abbr. for curry and rice)
+カレンダー|カレンダー|noun|calendar
+～側|～がわ|noun, suffix|~ side
+可愛い|かわいい|i-adjective|cute, adorable
+漢字|かんじ|noun|kanji; Chinese character
+黄色|きいろ|noun, adjective|yellow
+黄色い|きいろい|i-adjective|yellow
+消える|きえる|verb|to vanish, to disappear
+北|きた|noun|north
+ギター|ギター|noun|guitar
+汚い|きたない|i-adjective|dirty, unclean, filthy
+喫茶店|きっさてん|noun|café
+切手|きって|noun|postal (postage) stamps
+切符|きっぷ|noun|a ticket
+九|きゅう|number|nine
+牛肉|ぎゅうにく|noun|beef
+牛乳|ぎゅうにゅう|noun|milk
+教室|きょうしつ|noun|classroom
+兄弟|きょうだい|noun|siblings (humble), brothers and sisters
+去年|きょねん|noun, adverb|last year
+嫌い|きらい|na-adjective, noun|dislike
+切る|きる|verb|to cut; to hang up (a phone)
+着る|きる|verb|to put on (clothes above your waist); to wear
+綺麗|きれい|na-adjective|pretty, clean, tidy
+キロ|キロ|prefix, noun|(abbr.) kilo (kilogram)
+金曜日|きんようび|noun, adverb|Friday
+九|く|number|nine
+下さい|ください|expression|(with te-form verb) please do for me
+靴下|くつした|noun|socks
+国|くに|noun|country; place of origin
+曇る|くもる|verb|to become cloudy, to become dim
+～くらい|～くらい|i-adjective|approximate (quantity)
+クラス|クラス|noun|a class
+グラム|グラム|noun|gram
+黒|くろ|noun, adjective|black
+黒い|くろい|i-adjective|black; dark
+警官|けいかん|noun|police officer
+今朝|けさ|noun, adverb|this morning
+消す|けす|verb|to erase, to delete, to turn off power
+結構|けっこう|na-adjective, adverb|splendid; enough, tolerably
+玄関|げんかん|noun|entrance (to a house or a building)
+～個|～こ|counter, noun|counter for small items (e.g., fruits, cups)
+五|ご|number|five
+～語|～ご|noun, suffix|word, language
+紅茶|こうちゃ|noun|black tea
+交番|こうばん|noun, adjective|police box
+声|こえ|noun|voice
+コート|コート|noun|coat; court (e.g., tennis)
+コーヒー|コーヒー|noun|coffee
+ここ|ここ|pronoun|here, this place
+午後|ごご|noun, adverb|afternoon, P.M.
+九日|ここのか|noun|nine days; ninth day of the month
+九つ|ここのつ|number, noun|nine things
+午前|ごぜん|noun, adverb|morning, A.M.
+答える|こたえる|verb|to answer, to reply
+こちら|こちら|pronoun|this person (polite); this way (polite)
+こっち|こっち|pronoun|this person; this direction; this side
+コップ|コップ|noun|a tumbler; a glass
+今年|ことし|noun, adverb|this year
+言葉|ことば|noun|language; word(s); expression(s)
+この|この|adjective|this
+御飯|ごはん|noun|rice (cooked); meal
+コピーする|コピーする|expression|to copy
+困る|こまる|verb|to be bothered, to have difficulty
+これ|これ|pronoun, adverb|this one
+～ころ|～ころ|noun, adverb|about, toward, approximately (time)
+今月|こんげつ|noun, adverb|this month
+今週|こんしゅう|noun, adverb|this week
+こんな|こんな|adjective|such, like this
+今晩|こんばん|noun, adverb|tonight, this evening
+さあ|さあ|interjection|come now, well
+～歳|～さい|counter|~ years old
+先|さき|noun, adjective|future; recent, previous
+作文|さくぶん|noun, suru-verb|essay; composition
+差す|さす|verb|to raise (stretch out) hands, to raise (e.g., umbrella)
+～冊|～さつ|counter, noun|counter for books
+雑誌|ざっし|noun|magazine, journal
+砂糖|さとう|noun|sugar
+さ来年|さらいねん|noun, adverb|year after next
+～さん|～さん|suffix|Mr. ~, Ms. ~
+三|さん|number|three
+四|し|number|four
+～時|～じ|suffix, adjective|~ o'clock (time)
+塩|しお|noun|salt
+しかし|しかし|conjunction|however; but
+～時間|～じかん|noun|~ hours
+辞書|じしょ|noun|dictionary
+七|しち|number|seven
+質問|しつもん|noun, suru-verb|question, inquiry
+自転車|じてんしゃ|noun|bicycle
+自動車|じどうしゃ|noun|automobile
+死ぬ|しぬ|verb|to die
+字引|じびき|noun|dictionary
+閉まる|しまる|verb|to close, to be closed
+締める|しめる|verb|to tie, to fasten, to tighten
+じゃ|じゃ|conjunction|well, well then
+シャツ|シャツ|noun|shirt
+シャワー|シャワー|noun|shower
+～中|～じゅう|suffix|during, while
+～週間|～しゅうかん|noun|~ weeks
+丈夫|じょうぶ|na-adjective|strong, solid, durable
+醤油|しょうゆ|noun|soy sauce
+食堂|しょくどう|noun|cafeteria, dining hall
+知る|しる|verb|to know, to understand
+白|しろ|noun, adjective|white
+白い|しろい|i-adjective|white
+～人|～じん|suffix|counter for people
+新聞|しんぶん|noun|newspaper
+水曜日|すいようび|noun, adverb|Wednesday
+吸う|すう|verb|to breathe in, to suck
+スカート|スカート|noun|skirt
+～すぎ|～すぎ|noun, suffix|past; to exceed, ~ too much
+すぐに|すぐに|adverb|immediately, soon
+～ずつ|～ずつ|suffix|at a time
+ストーブ|ストーブ|noun|heater (lit: stove)
+スプーン|スプーン|noun|spoon
+スポーツ|スポーツ|noun|sport(s)
+ズボン|ズボン|noun|trousers
+住む|すむ|verb|to reside, to live in
+する|する|verb|to do, to try; to wear small items (e.g., necktie, watch, etc.)
+背|せい|noun|(one's) height, stature
+生徒|せいと|noun|student; pupil
+セーター|セーター|noun|sweater
+石鹸|せっけん|noun|soap
+背広|せびろ|noun|men's suit

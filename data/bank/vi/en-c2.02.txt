@@ -1,0 +1,250 @@
+tactic|chiến thuật
+tactical|thuộc chiến thuật
+tactically|về mặt chiến thuật
+gambit|nước cờ mở đầu
+babble|nói bập bẹ
+bauble|đồ trang sức rẻ tiền
+correlate|tương quan
+correlation|sự tương quan
+combustion|sự đốt cháy
+painstaking|tỉ mỉ
+painstakingly|tỉ mỉ
+contraption|thiết bị kỳ cục
+mesh|ăn khớp
+enabler|người tạo điều kiện
+fluctuation|sự dao động
+lyricist|người viết lời
+lyrical|trữ tình
+lyrically|trữ tình
+bona fide|thật sự
+moribund|hấp hối
+perch|đậu; chỗ đậu
+solicit|nài xin
+philanthropy|lòng bác ái
+philanthropist|nhà từ thiện
+philanthropic|từ thiện
+philanthropically|từ thiện
+precocious|sớm phát triển
+precociously|sớm
+wordsmith|người viết giỏi
+connote|hàm ý
+connotation|hàm ý
+herald|báo trước; sứ giả
+philistine|người phàm tục
+innuendo|lời bóng gió
+induce|gây ra; thuyết phục
+inducement|sự khuyến khích
+anthology|tuyển tập
+lament|than khóc
+lamentation|lời than vãn
+conduit|ống dẫn; kênh
+chronology|niên đại
+chronologically|theo thứ tự thời gian
+equilibrium|trạng thái cân bằng
+rebound|bật lại
+proposition|đề xuất; mệnh đề
+flagging|suy giảm
+electrode|điện cực
+caffeinate|bổ sung caffeine
+cosmic|thuộc vũ trụ
+interlude|khúc nhạc dạo; quãng nghỉ
+beneficiary|người thụ hưởng
+recuperate|hồi phục
+recuperation|sự hồi phục
+recuperative|phục hồi
+cultish|mang tính sùng bái
+seismic|thuộc địa chấn
+irrevocably|không thể thay đổi
+irrevocable|không thể hủy bỏ
+slither|trườn
+unnerve|làm mất tinh thần
+unnerving|gây bất an
+unnervingly|đáng lo ngại
+protrude|nhô ra
+protrusion|chỗ nhô ra
+qualitative|định tính
+procedural|thuộc thủ tục
+demystify|làm sáng tỏ
+demystification|sự giải thích rõ ràng
+proprietary|độc quyền
+proprietorial|như chủ sở hữu
+floodgates|cửa xả lũ
+imperceptible|không thể nhận thấy
+imperceptibly|khó nhận thấy
+hapless|bất hạnh
+catastrophically|thảm khốc
+wayward|ương ngạnh
+blurb|lời giới thiệu ngắn
+provincial|thuộc tỉnh; quê mùa
+indolent|lười biếng
+indolently|lười biếng
+indolence|sự lười biếng
+taste-maker|người định hình xu hướng
+deviant|lệch lạc
+deviantly|lệch lạc
+engender|gây ra
+emolument|thù lao
+munificence|sự hào phóng
+posterity|hậu thế
+venomous|có nọc độc
+venomously|độc địa
+choreography|biên đạo múa
+choreographical|thuộc biên đạo múa
+archetype|nguyên mẫu
+archetypal|điển hình
+dissension|sự bất đồng
+exalted|cao quý
+exaltedly|cao quý
+adept|thành thạo; người lão luyện
+hitherto|cho đến nay
+angst|nỗi lo âu
+angsty|đầy lo âu
+drabness|sự buồn tẻ
+melodious|du dương
+melodiously|du dương
+magpie|chim ác là
+melancholy|u sầu
+meteorology|khí tượng học
+meteorological|thuộc khí tượng
+brink|bờ vực
+unsurpassed|vô song
+loiter|lảng vảng
+topple|lật đổ
+intrinsic|nội tại
+intrinsically|về bản chất
+merit|công lao; xứng đáng
+promotable|có thể thăng chức
+clinch|giành được
+anonymity|sự ẩn danh
+splinter|vỡ vụn
+reproach|trách mắng
+disseminate|phổ biến
+dissemination|sự phổ biến
+dissemble|che giấu
+mangle|làm hỏng
+bereft|mất mát
+bereftly|trơ trọi
+solipsism|thuyết duy ngã
+soliloquize|độc thoại
+mutinous|nổi loạn
+mutinously|chống đối
+prissy|kiểu cách
+reptilian|thuộc bò sát
+undiminishing|không suy giảm
+contagion|sự lây lan
+homestead|trang trại
+computerize|tin học hóa
+incumbent|người đương nhiệm; bắt buộc
+recumbent|nằm
+nonchalant|thờ ơ
+nonchalantly|thản nhiên
+mesmeric|thôi miên
+stultify|làm mụ mẫm
+stultifyingly|nhàm chán
+wallow|đắm chìm
+ponderous|nặng nề
+ponderously|nặng nề
+lassitude|sự mệt mỏi
+vicinity|vùng lân cận
+ebb|rút xuống
+wane|suy yếu
+antediluvian|cổ lỗ
+ostensible|bề ngoài
+ostensibly|bề ngoài
+interlocking|đan xen
+undemonstrative|kín đáo
+undemonstratively|kín đáo
+menace|mối đe dọa
+menacing|đe dọa
+menacingly|đầy đe dọa
+calamity|tai họa
+calamitous|tai hại
+calamitously|tai hại
+nigh|gần
+austere|khắc khổ
+austerely|khắc khổ
+austerity|thắt lưng buộc bụng
+idiosyncrasy|đặc tính riêng
+idiosyncratic|đặc thù
+idiomatic|thành ngữ
+idiomatically|theo thành ngữ
+kinetic|động học
+kinetically|về mặt động học
+unmediated|trực tiếp
+mediate|hòa giải
+mediation|sự hòa giải
+unharried|không vội vã
+figuratively|theo nghĩa bóng
+exorcism|lễ trừ tà
+exorcist|thầy trừ tà
+mundanity|sự tầm thường
+mediocrity|sự tầm thường
+dubiously|nghi ngờ
+curate|tuyển chọn
+curator|người phụ trách bảo tàng
+antithesis|phản đề
+antithetical|đối lập
+parameter|tham số
+detract|làm giảm giá trị
+interrogate|thẩm vấn
+interrogation|cuộc thẩm vấn
+interrogative|nghi vấn
+interrogatively|dò hỏi
+perverse|ngang ngược
+perversity|tính ngang ngược
+opaque|mờ đục
+opacity|độ mờ đục
+remit|chuyển tiền; phạm vi
+remittance|kiều hối
+recourse|sự cầu viện
+pedestal|bệ
+lurid|ghê rợn; lòe loẹt
+luridly|ghê rợn
+fallacy|ngụy biện
+rife|đầy rẫy
+mercenary|lính đánh thuê
+polysyllabic|đa âm tiết
+syllabic|thuộc âm tiết
+superfluous|thừa
+superfluously|thừa thãi
+snippet|mẩu
+practitioner|người hành nghề
+ephemeral|phù du
+ephemera|đồ vật phù du
+ephemerality|tính phù du
+summarily|ngay lập tức
+infallibly|không thể sai
+infallible|không thể sai lầm
+infallibility|sự không thể sai lầm
+depravity|sự đồi trụy
+depraved|đồi trụy
+deprecate|phản đối; chê bai
+deprecatingly|khiêm tốn
+revile|chửi rủa
+revulsion|sự ghê tởm
+meager|ít ỏi
+arcane|bí ẩn
+arcanely|bí ẩn
+porten|điềm báo
+divination|bói toán
+flit|bay chuyền
+hitch|móc; đi nhờ xe
+prone|dễ bị
+scavenger|loài ăn xác thối
+vermin|sâu bọ
+totemic|thuộc vật tổ
+emulate|noi gương
+emulation|sự noi gương
+avian|thuộc loài chim
+vestigial|còn sót lại
+vestigially|còn sót lại
+brouhaha|sự ồn ào
+magnate|trùm tư bản
+magnanimous|hào hiệp
+magnanimously|hào hiệp
+magnanimity|lòng hào hiệp
+whirlwind|cơn lốc
+secular|thế tục
+secularly|thế tục
+euphemism|uyển ngữ
+euphemistic|nói giảm nói tránh

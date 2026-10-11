@@ -1,0 +1,250 @@
+〜 ごと|〜 ごと|suffix|whole ~, all of ~
+さす|さす|verb|to open; hold (an umbrella)
+〜 式|～ しき|suffix|custom,
+～位|～い|counter|~th place
+～いち|～いち|prefix|No. 1 ~ (in)
+～園|～えん|suffix, noun|~ garden (especially man made)
+～おしまい|～おしまい|noun, interjection|end up ~
+～日|～か|suffix, counter|counter for days
+～下|～か|suffix|under ~
+～化|～か|suffix|action of making something
+～科|～か|noun, suffix|family, group, course
+～歌|～か|particle|song of ~
+～画|～が|noun|picture, painting
+～外|～がい|suffix|out of ~
+～難い|～がたい|suffix, i-adjective|hard (difficult) to do ~
+～がち|～がち|na-adjective|tend to do ~
+～刊|～かん|suffix|~ issued (magazine, newspaper)
+～間|～かん|noun, suffix|between, during
+～巻|～かん|noun, counter|volume
+～館|～かん|noun, suffix|~ hall, ~ building
+～感|～かん|noun, suffix|feeling, sense, impression
+～期|～き|noun, suffix|~age, ~period
+～器|～き|noun, suffix|device, equipment
+～機|～き|noun, suffix|machine
+～気味|～ぎみ|suffix|slightly ~
+～教|～きょう|suffix|religion
+～行|～ぎょう|noun|line, row
+～業|～ぎょう|noun, suffix|type of business
+～きる|～きる|verb|nevertheless, to carry through
+～切れ|～きれ|noun, counter|out of ~
+～口|～くち|noun|~ opening; ~ entrance, ~ exit
+～家|～け|suffix|~'s family, the house of ~
+～形|～けい|suffix, noun|shape of ~
+～系|～けい|noun, suffix|~ system, ~ lineage, ~ group
+～圏|～けん|suffix, noun|bloc, sphere, area
+～校|～こう|suffix, counter|counter for school
+～港|～こう|suffix|~ port
+～号|～ごう|noun, suffix|counter for magazine; the name of ship
+～国|～こく|noun|nation of ~
+～毎|～ごと|noun, suffix|every ~, each ~
+～山|～さん|suffix|the name of mountain
+～産|～さん|noun, suffix|made in ~
+～史|～し|suffix, noun|history of ~
+～紙|～し|suffix, counter|newspaper, type of paper
+～寺|～じ|suffix, counter|the name of temple
+～時間目|～じかんめ|noun|~th hour, ~th period
+～室|～しつ|noun, suffix|counter for room
+～日|～じつ|noun, adjective|day
+～車|～しゃ|suffix, counter|~ car
+～者|～しゃ|suffix, noun|person
+～社|～しゃ|noun, counter|counter for company
+～手|～しゅ|noun|~ player, person who does ~
+～酒|～しゅ|suffix|kind of alcohol
+～集|～しゅう|suffix|collection of ~
+～所|～しょ|suffix, counter|place
+～所|～じょ|suffix, counter|place
+～女|～じょ|noun, suffix|count for sisters
+～省|～しょう|noun, suffix|kind of ministry
+～商|～しょう|noun|merchant, business
+～勝|～しょう|noun, suffix|count for victory
+～条|～じょう|noun, counter|counter for article
+～場|～じょう|suffix, noun|kind of field, ground
+～畳|～じょう|counter|count for tatami, mat
+～色|～しょく|counter, suffix|kind of color
+～過ぎる|～すぎる|verb|too much ~
+～済|～ずみ|suffix, noun|finished
+～席|～せき|noun|counter for seats
+～船|～せん|suffix|counter for ships
+～戦|～せん|suffix|counter for games, matches
+～前|～ぜん|noun, suffix|before ~
+～沿い|～そい|noun|along
+～艘|～そう|counter|counter for ships
+～足|～そく|counter|counter for shoes
+～だらけ|～だらけ|suffix|be full of ~, be filled with ~
+～団|～だん|noun, suffix|group, corps, party
+～着|～ちゃく|suffix, counter|counter for clothes; finishing place
+～庁|～ちょう|noun, suffix|office, agency
+～兆|～ちょう|number, noun|trillion
+～長|～ちょう|noun|leader, head
+～帳|～ちょう|noun|~ book, notebook
+～丁目|～ちょうめ|suffix|~ district (of a town; city, block)
+～通|～つう|noun, suffix|counter for letters
+～遣い|～づかい|suffix|use of ~
+～付|～つき|noun, suffix|with ~
+～続く|～つづく|verb|follow, continue, go on
+～辛い|～づらい|suffix, i-adjective|hard to do ~
+～滴|～てき|counter|drop
+～点|～てん|noun|counter for scores
+～頭|～とう|counter|counter for animals
+～等|～とう|noun, suffix|level, place
+～島|～とう|suffix, noun|kind of islands
+～道|～どう|noun|kind of path, road
+～通り|～とおり|noun|in accordance with ~; following ~; ~ street, ~ avenue
+～ところ|～ところ|noun, adverb|about to do ~
+～内|～ない|suffix|inside ~
+～年生|～ねんせい|suffix|counter for school year
+～泊|～はく|counter, noun|counter for staying (e.g., 2 nights)
+～発|～はつ|suffix, counter|counter for bullets
+～番目|～ばんめ|counter, noun|~th
+～費|～ひ|suffix|cost of ~
+～病|～びょう|suffix|kind of disease
+～部|～ぶ|noun, suffix|~ part
+～風|～ふう|noun, suffix|~ style
+～振り|～ぶり|suffix|after an interval of ~
+～遍|～へん|counter|time
+～弁|～べん|noun, suffix|speech, dialect
+～歩|～ほ|noun, counter|step, pace
+～ぽい|～ぽい|suffix, i-adjective|~ish
+～ほう|～ほう|interjection, expression|(in comparison)
+～みたい|～みたい|suffix, na-adjective|looks like ~
+～向け|～むけ|suffix|for ~
+～名|～めい|counter, noun|counter for people
+～もち|～もち|adverb|person who has ~
+～問|～もん|suffix, counter|counter for questions
+～夜|～や|counter|counter for nights
+～等|～ら|suffix|plural persons
+～流|～りゅう|suffix|fashion, manner, way
+～料|～りょう|suffix, noun|fare, charge
+～領|～りょう|noun, suffix|territory
+～力|～りょく|suffix|power of ~
+～論|～ろん|noun, suffix|theory
+～羽|～わ|counter|counter for rabbits; birds
+アイデア|アイデア|noun|idea
+あいまい|あいまい|na-adjective, noun|vague, ambiguous
+扇ぐ|あおぐ|verb|to fan, to flap
+青白い|あおじろい|i-adjective|pale
+呆れる|あきれる|verb|to be shocked, to be appalled
+アクセント|アクセント|noun|accent
+あくび|あくび|noun, suru-verb|yawn
+飽くまで|あくまで|adverb|to the end, to the last, stubbornly
+明くる～|あくる～|adjective|next, following
+明け方|あけがた|noun, adverb|dawn
+憧れる|あこがれる|verb|to long for, to yearn after
+朝寝坊|あさねぼう|noun, suru-verb|oversleeping, late riser
+足跡|あしあと|noun|footprint
+足元|あしもと|noun, adjective|at one's feet
+味わう|あじわう|verb|to taste, to savor
+あちらこちら|あちらこちら|pronoun, adverb|here and there
+厚かましい|あつかましい|i-adjective|impudent, shameless,
+圧縮|あっしゅく|noun, suru-verb|compression, condensation, pressure
+宛名|あてな|noun|address, direction
+当てはまる|あてはまる|verb|to be applicable, to come under (a category)
+当てはめる|あてはめる|verb|to apply, to adapt
+暴れる|あばれる|verb|to act violently, to rage
+あぶる|あぶる|verb|to scorch, to roast
+あふれる|あふれる|verb|to flood, to overflow
+雨戸|あまど|noun|sliding storm door
+甘やかす|あまやかす|verb|to pamper, to spoil
+余る|あまる|verb|to be left over, to be in excess
+編み物|あみもの|noun, adjective|knitting
+あみもの|あみもの|noun, adjective|knitting, web
+編む|あむ|verb|to knit
+危うい|あやうい|i-adjective|dangerous, critical
+怪しい|あやしい|i-adjective|suspicious, dubious, doubtful
+荒い|あらい|i-adjective|rough, rude, wild
+粗い|あらい|i-adjective|coarse, rough
+粗筋|あらすじ|noun|outline, synopsis
+改めて|あらためて|adverb|another time, again
+改める|あらためる|verb|to change, to reform, to revise
+あらわす|あらわす|verb|to write, to publish
+有難い|ありがたい|i-adjective|grateful, thankful, appreciated
+あれこれ|あれこれ|adverb, pronoun|one thing or another, this and that
+荒れる|あれる|verb|to be stormy, to be rough, to be ruined
+慌ただしい|あわただしい|i-adjective|busy, hurried
+安易|あんい|na-adjective, noun|easy-going
+アンテナ|アンテナ|noun|antenna
+言い出す|いいだす|verb|to start talking, to suggest
+言い付ける|いいつける|verb|to tell, to order
+意義|いぎ|noun|meaning, significance
+生き生き|いきいき|noun, adverb|vividly, lively
+いきなり|いきなり|adverb, adjective|all of a sudden
+幾～|いく～|prefix|several ~
+育児|いくじ|noun, suru-verb|childcare, nursing
+幾分|いくぶん|adverb, noun|somewhat
+生け花|いけばな|noun|flower arrangement
+以後|いご|noun, adverb|after this; from now on; hereafter
+イコール|イコール|na-adjective, noun|equal
+以降|いこう|noun, adverb|on and after, hereafter
+勇ましい|いさましい|i-adjective|brave, valiant
+衣食住|いしょくじゅう|noun|food, clothing and shelter
+いちいち|いちいち|noun, adverb|one by one, separately
+一応|いちおう|noun, adjective|tentatively, for the time being
+一段と|いちだんと|expression|by far, greater
+一流|いちりゅう|adjective, noun|first class, leading
+一昨日|いっさくじつ|noun, adverb|day before yesterday
+一昨年|いっさくねん|noun, adverb|year before last
+一斉|いっせい|adverb, noun|simultaneous, all at once
+一旦|いったん|adverb, noun|once, for a moment
+一定|いってい|noun, suru-verb|fixed, settled, regular
+行っていらっしゃい|いっていらっしゃい|expression|have a nice day, see you
+いってきます|いってきます|expression|(Lit.) I'll go and come back, 'I'm going, see you later'
+いってまいります|いってまいります|expression|(Lit.) I'll go and come back, 'I'm going, see you later'
+行ってらっしゃい|いってらっしゃい|interjection|have a nice day, see you
+移転|いてん|noun, suru-verb|moving, transfer
+井戸|いど|noun|water well
+緯度|いど|noun|latitude (navigation)
+威張る|いばる|verb|to be proud, to swagger
+嫌がる|いやがる|verb|reluctant, to dislike
+いよいよ|いよいよ|adverb|more and more, increasingly, at last
+煎る|いる|verb|to roast
+炒る|いる|verb|to parch, to roast
+入れ物|いれもの|noun|container, case
+インキ|インキ|noun|ink
+引力|いんりょく|noun|gravity
+ウーマン|ウーマン|noun|woman
+ウール|ウール|noun|wool
+ウエートレス|ウエートレス|noun|waitress
+植木|うえき|noun|garden shrubs, trees, potted plant
+飢える|うえる|verb|to starve
+浮ぶ|うかぶ|verb|to float, to rise to surface, to come to mind
+浮かべる|うかべる|verb|to float; to express
+浮く|うく|verb|to float
+承る|うけたまわる|verb|(humble) to hear, to be told, to know
+受取|うけとり|noun|receipt
+受け持つ|うけもつ|verb|to take (be in) charge of
+薄暗い|うすぐらい|i-adjective|dim, gloomy
+薄める|うすめる|verb|to dilute, to water down
+打合せ|うちあわせ|noun, suru-verb|business meeting, previous arrangement
+打ち消す|うちけす|verb|to deny, to negate
+うどん|うどん|noun|udon noodles (Japanese traditional noodles)
+うなずく|うなずく|verb|to nod
+敬う|うやまう|verb|to show respect, to honor
+裏返す|うらがえす|verb|to turn inside out, to turn (something) over
+裏口|うらぐち|noun, adjective|backdoor, rear entrance
+占う|うらなう|verb|to predict, to divine
+恨み|うらみ|noun|resentment
+恨む|うらむ|verb|to curse, to feel bitter
+羨む|うらやむ|verb|to envy
+売上|うりあげ|noun|amount sold, proceeds
+売り上げ|うりあげ|noun|amount sold, sales, proceeds, takings, turnover
+売り切れ|うりきれ|adjective, noun|sold-out
+売り切れる|うりきれる|verb|to be sold out
+売行き|うれゆき|noun|sales
+売れ行き|うれゆき|noun|sales, demand
+うろうろ|うろうろ|noun, adverb|loitering, aimless wandering
+上～|うわ～|noun, prefix|upper ~
+運河|うんが|noun|canal, waterway
+うんと|うんと|adverb|a great deal, very much
+英文|えいぶん|noun|sentence in English
+英和|えいわ|noun|English-Japanese (e.g., dictionary)
+ええと|ええと|interjection|let me see, well, er...
+液体|えきたい|noun|liquid, fluid
+エチケット|エチケット|noun|etiquette
+絵の具|えのぐ|expression, noun|colors, paints
+エプロン|エプロン|noun|apron
+偉い|えらい|i-adjective, adverb|great, celebrated, remarkable,
+宴会|えんかい|noun|party, banquet
+園芸|えんげい|noun, adjective|horticulture, gardening
+演劇|えんげき|noun, adjective|play (theatrical)
+円周|えんしゅう|noun, adjective|circumference

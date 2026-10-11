@@ -1,0 +1,250 @@
+frustrated|adjective
+frustration|noun
+frying pan|noun
+fuel|noun
+full stop|noun
+full-time|adjective, adverb
+fund|noun, verb
+funeral|noun
+fur|noun
+furnish|verb
+furthermore|adverb
+furthest|adverb
+fuss|noun
+gain|noun, verb
+gall|noun
+gallon|noun
+gap|noun
+gardening|noun
+garment|noun
+gay|adjective
+gee|interjection
+gene|noun
+general|adjective, noun
+generally|adverb
+generate|verb
+genetically|adverb
+genetics|noun
+gentleman|noun
+geographical|adjective
+geography|noun
+geology|noun
+gesture|noun
+giant|adjective
+gifted|adjective
+giggle|noun
+ginger|noun
+giraffe|noun
+glance|noun, verb
+glide|noun
+glimpse|noun
+glint|noun, verb
+global|adjective
+glorious|adjective
+glory|noun
+goalkeeper|noun
+goddess|noun
+golfer|noun
+goodness|interjection
+goods|noun
+gorgeous|adjective
+gorilla|noun
+gossip|noun, verb
+govern|verb
+governor|noun
+gown|noun
+grab|verb
+graceful|adjective
+graduation|noun
+grant|noun, verb
+graph|noun
+graphic|adjective
+graphics|noun
+gratitude|noun
+grave|noun
+gravy|noun
+greenhouse|noun
+greeting|noun
+grill|noun, verb
+groom|noun
+ground floor|noun
+grouping|noun
+growth|noun
+guarantee|noun, verb
+guidance|noun
+guide|noun, verb
+guilt|noun
+guilty|adjective
+guitarist|noun
+gym|noun
+gymnastics|noun
+hairdresser|noun
+hairdryer|noun
+hammer|noun, verb
+handball|noun
+hand-held|adjective
+handkerchief|noun
+handshake|noun
+handwriting|noun
+handy|adjective
+hang|noun, verb
+hanging|adjective, noun
+harbor|noun, verb
+hardship|noun
+hard-working|adjective
+harness|noun
+hasty|adjective
+hatch|noun
+hatred|noun
+haunt|noun, verb
+haven|noun
+hazard|noun, verb
+heal|verb
+healing|adjective
+hearing|noun
+heart attack|noun
+hearted|adjective
+hearty|adjective
+heater|noun
+heaven|noun
+heavenly|adjective
+heel|noun
+height|noun
+helmet|noun
+helpless|adjective
+herd|noun
+hesitate|verb
+hidden|adjective
+highlight|noun, verb
+highly|adverb
+hip|noun
+historian|noun
+historic|adjective
+historical|adjective
+HIV|noun
+holy|adjective
+homeless|adjective
+honestly|adverb
+honesty|noun
+honeymoon|noun
+hop|noun
+hopeful|adjective
+hopefully|adverb
+hopeless|adjective
+horizon|noun
+horn|noun
+horrible|adjective
+horrify|verb
+hostel|noun
+household|noun
+housework|noun
+huge|adjective
+humanity|noun
+humid|adjective
+humor|noun
+humorous|adjective
+hunger|noun
+hunt|noun, verb
+hurriedly|adverb
+hut|noun
+ice hockey|noun
+ice skating|noun
+identity|noun
+identity card|noun
+idiom|noun
+idol|noun
+ignore|verb
+illegally|adverb
+illness|noun
+illuminate|verb
+imaginary|adjective
+imitate|verb
+immediate|adjective
+immediately|adverb
+immigrate|verb
+immigration|noun
+impair|verb
+impression|noun
+impressive|adjective
+improper|adjective
+improvement|noun
+incident|noun
+including|preposition
+income|noun
+inconvenient|adjective
+incorrect|adjective
+increasingly|adverb
+incredible|adjective
+incredibly|adverb
+indefinite article|noun
+independent|adjective
+indirect|adjective
+indirectly|adverb
+individual|adjective, noun
+indoors|adverb
+industrial|adjective
+industry|noun
+inevitable|adjective
+infection|noun
+infinitive|noun
+inform|verb
+informative|adjective
+ingredient|noun
+inhabitant|noun
+inhale|verb
+initial|adjective, noun
+initially|adverb
+inject|verb
+ink|noun
+innermost|adjective
+innocent|adjective
+innovator|noun
+insane|adjective
+inscribe|verb
+inscription|noun
+insight|noun
+insist|verb
+inspection|noun
+install|verb
+instance|noun
+instead of|preposition
+institute|noun, verb
+instruction|noun
+instructor|noun
+insurance|noun
+intend|verb
+intense|adjective
+intensive|adjective
+intention|noun
+intentionally|adverb
+interact|verb
+interaction|noun
+intermediate|adjective
+intermission|noun
+internal|adjective
+internationally|adverb
+interrupt|verb
+interval|noun
+interviewee|noun
+introduction|noun
+invasion|noun
+investigation|noun
+invitation|noun
+involuntarily|adverb
+involve|verb
+involved|adjective
+iron|noun, verb
+ironing|noun
+irregular|adjective
+irritate|verb
+isle|noun
+isolation|noun
+ivory|noun
+jade|noun
+jail|noun
+jar|noun
+jazz|noun
+jewel|noun
+jog|noun, verb
+jogging|noun
+joint|adjective, noun

@@ -1,0 +1,250 @@
+acre|mẫu Anh
+heifer|bò cái tơ
+ewe|cừu cái
+adversary|đối thủ
+victorious|chiến thắng
+victoriously|đắc thắng
+profound|sâu sắc
+profoundly|sâu sắc
+baldly|thẳng thừng
+bearded|có râu
+professionalism|tính chuyên nghiệp
+artistically|về mặt nghệ thuật
+popularization|sự phổ biến hóa
+pendulum|con lắc
+predecessor|người tiền nhiệm
+lapse|sự sai sót; trôi qua
+ceaseless|không ngừng
+ceaselessly|không ngừng
+climax|cao trào
+climactic|thuộc cao trào
+anticlimactic|hụt hẫng
+forfeit|mất quyền
+twitch|co giật
+intellect|trí tuệ
+descent|sự đi xuống; dòng dõi
+exodus|cuộc di cư
+immortalize|làm cho bất tử
+genome|bộ gen
+fraction|phân số; phần nhỏ
+faction|phe phái
+physique|vóc dáng
+utensil|dụng cụ
+otter|rái cá
+clammy|ẩm ướt nhớp nháp
+dispense|phân phát
+dispensary|phòng phát thuốc
+diverge|phân kỳ
+divergence|sự khác biệt
+divergent|khác nhau
+superficial|hời hợt
+superficially|bề ngoài
+aesthetic|thẩm mỹ
+aesthetically|về mặt thẩm mỹ
+scrutinize|xem xét kỹ
+quip|lời châm biếm
+woo|tán tỉnh; lôi kéo
+criteria|tiêu chí
+plausibility|tính hợp lý
+plausibly|hợp lý
+instinctive|theo bản năng
+instinctively|theo bản năng
+stylistic|thuộc văn phong
+stylistically|về mặt văn phong
+inheritance|tài sản thừa kế
+inherently|vốn dĩ
+spontaneous|tự phát
+spontaneously|tự phát
+honk|bấm còi
+goose|con ngỗng
+innovate|đổi mới
+connoisseur|người sành sỏi
+abstraction|sự trừu tượng
+tantrum|cơn giận dỗi
+discard|vứt bỏ
+fatality|ca tử vong
+stiffen|làm cứng
+wooded|có rừng
+flatter|tâng bốc
+flattery|lời tâng bốc
+aimless|không mục đích
+aimlessly|vô định
+meaningless|vô nghĩa
+meaninglessly|vô nghĩa
+candid|thẳng thắn
+candidly|thẳng thắn
+vitality|sức sống
+provoke|khiêu khích
+provocative|khiêu khích
+provocatively|khiêu khích
+clench|nghiến chặt
+haggle|mặc cả
+scorn|sự khinh bỉ
+scornful|khinh bỉ
+scornfully|khinh bỉ
+animatedly|sôi nổi
+obscure|tối nghĩa; che khuất
+obscurely|mơ hồ
+elevate|nâng cao
+elevation|độ cao
+tediously|tẻ nhạt
+succession|sự kế vị; sự liên tiếp
+formality|thủ tục
+mountaineer|nhà leo núi
+pioneer|người tiên phong; tiên phong
+quest|cuộc tìm kiếm
+transatlantic|xuyên Đại Tây Dương
+rudiments|kiến thức cơ bản
+rudimentary|sơ đẳng
+immense|bao la
+immensely|vô cùng
+advisory|tư vấn
+trying|khó chịu, vất vả
+adrenaline|adrenaline
+tinker|mày mò sửa
+lavatory|nhà vệ sinh
+pinnacle|đỉnh cao
+insecure|bất an
+insecurely|không an toàn
+reassure|trấn an
+reassurance|sự trấn an
+insensitive|vô cảm
+insensitively|vô tâm
+profess|tuyên bố
+drawback|nhược điểm
+oversee|giám sát
+overseer|người giám sát
+estimation|sự ước tính
+liaison|sự liên lạc
+stressfully|căng thẳng
+loom|hiện ra lờ mờ
+structurally|về mặt cấu trúc
+structural|thuộc cấu trúc
+chauffer|tài xế riêng; chở
+rapport|mối quan hệ tốt
+consultation|sự tham vấn
+consultancy|công ty tư vấn
+retention|sự giữ lại
+quarry|mỏ đá; con mồi
+specification|thông số kỹ thuật
+contractor|nhà thầu
+possessor|người sở hữu
+chill|làm lạnh; sự ớn lạnh
+chilly|lạnh lẽo
+frosty|lạnh giá
+frostily|lạnh lùng
+unmanned|không người lái
+impersonal|vô cảm
+impersonally|thiếu tình người
+impersonate|đóng giả
+impersonator|người đóng giả
+impersonation|sự đóng giả
+buzzer|chuông báo
+desertion|sự đào ngũ
+unoccupied|bỏ trống
+stuffy|ngột ngạt
+stuffily|ngột ngạt
+stuffiness|sự ngột ngạt
+gape|há hốc
+repute|danh tiếng
+toughness|sự cứng rắn
+plumbing|hệ thống ống nước
+glum|rầu rĩ
+glumly|rầu rĩ
+gamely|dũng cảm
+dissect|mổ xẻ
+dissection|sự mổ xẻ
+commend|khen ngợi
+commendation|lời khen ngợi
+thereby|nhờ đó
+flick|búng
+flicker|sự chập chờn
+unenviable|không ai muốn
+unenviably|không đáng ghen tị
+allege|cáo buộc
+bribe|hối lộ
+bribery|sự hối lộ
+inclusion|sự bao gồm
+inclusive|bao gồm
+inclusively|toàn diện
+unconvincing|không thuyết phục
+unconvincingly|không thuyết phục
+recharge|sạc lại
+facilitation|sự tạo điều kiện
+conditional|có điều kiện
+conditionally|có điều kiện
+supple|dẻo dai
+manicure|làm móng tay
+pedicure|làm móng chân
+facial|thuộc khuôn mặt; chăm sóc da mặt
+bouquet|bó hoa
+refurbish|tân trang
+refurbishment|sự tân trang
+grounds|khuôn viên; căn cứ
+lethargy|sự uể oải
+lethargic|uể oải
+lethargically|uể oải
+stately|trang nghiêm
+conserve|bảo tồn
+conservatory|nhà kính; nhạc viện
+disquieting|đáng lo ngại
+fiercely|dữ dội
+grapefruit|bưởi
+exotically|kỳ lạ
+flask|bình thủy
+spacious|rộng rãi
+gourmet|người sành ăn
+conjure|gợi lên; làm ảo thuật
+creamy|béo ngậy
+sauna|phòng xông hơi
+remedial|khắc phục
+posture|tư thế
+sedate|điềm tĩnh; cho dùng thuốc an thần
+sedately|điềm tĩnh
+clutch|nắm chặt
+staggering|đáng kinh ngạc
+dutiful|có trách nhiệm
+dutifully|tận tụy
+calorie|calo
+fabulously|tuyệt vời
+premises|cơ sở, khu nhà
+eclectic|chiết trung
+eclectically|chiết trung
+revere|tôn kính
+recognizable|dễ nhận ra
+recognizably|dễ nhận ra
+batter|đập liên tục; bột nhão
+unreliably|không đáng tin
+waterfront|bờ sông, bờ biển
+amply|đầy đủ
+amplification|sự khuếch đại
+battered|bị đánh đập; móp méo
+compliance|sự tuân thủ
+compliant|tuân thủ
+compliantly|tuân thủ
+blankness|sự trống rỗng
+exuberant|hồ hởi
+exuberance|sự hồ hởi
+exuberantly|hồ hởi
+linear|tuyến tính
+linearly|tuyến tính
+flourish|phát triển mạnh
+anchored|được neo
+domination|sự thống trị
+dominant|chiếm ưu thế
+dominantly|chủ yếu
+interject|xen vào
+interjection|thán từ
+gush|phun ra
+gushing|tuôn trào
+gushingly|tuôn trào
+voracious|phàm ăn; ham đọc
+voraciously|ngấu nghiến
+sketchbook|sổ phác thảo
+prop|đạo cụ; chống đỡ
+imp|tiểu quỷ
+impish|tinh nghịch
+impishly|tinh nghịch
+wicked|độc ác
+wickedly|độc ác
+macabre|rùng rợn

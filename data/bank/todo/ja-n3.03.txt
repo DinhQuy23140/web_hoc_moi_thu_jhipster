@@ -1,0 +1,250 @@
+思い出|おもいで|noun|memories, recollections, reminiscence
+主に|おもに|adverb|mainly, primarily
+思わず|おもわず|adverb|unintentional, spontaneous
+泳ぎ|およぎ|noun|swimming
+およそ|およそ|adverb, noun|about, roughly, approximately
+及ぼす|およぼす|verb|to exert, to cause, to exercise
+下す|おろす|verb|to lower, to let go down
+降ろす|おろす|verb|to take down, to launch, to drop
+卸す|おろす|verb|to sell wholesale, grated (vegetables)
+音|おん|noun, suffix|sound, note
+恩|おん|noun|favor, obligation, debt of gratitude
+温暖|おんだん|na-adjective, noun|warmth
+温度|おんど|noun|temperature
+可|か|noun, suffix|passable
+蚊|か|noun|mosquito
+課|か|noun, suffix|department, division
+カー|カー|noun|car
+カード|カード|noun|card, curd
+貝|かい|noun|shell, shellfish
+害|がい|noun|harm, damage
+会員|かいいん|noun|member, the membership
+絵画|かいが|noun|picture, painting
+海外|かいがい|noun, adjective|foreign, abroad, overseas
+会計|かいけい|noun, adjective|account, finance
+会合|かいごう|noun, suru-verb|meeting, assembly
+外交|がいこう|noun|diplomacy
+開始|かいし|noun, suru-verb|start, commencement, beginning
+解釈|かいしゃく|noun, suru-verb|explanation, interpretation
+外出|がいしゅつ|noun, suru-verb|outing, going out
+改善|かいぜん|noun, suru-verb|betterment, improvement
+快適|かいてき|na-adjective, noun|pleasant, agreeable
+回復|かいふく|noun, suru-verb|recovery (from illness), rehabilitation, restoration
+飼う|かう|verb|to keep; to own (a pet); to raise; to feed
+帰す|かえす|verb|to send back
+代える|かえる|verb|to exchange, to interchange, to substitute
+替える|かえる|verb|to exchange, to interchange, to substitute
+換える|かえる|verb|to exchange, to interchange, to substitute
+反る|かえる|verb, suffix|to warp, to be warped, to curve
+香り|かおり|noun|aroma, fragrance
+画家|がか|noun|painter
+抱える|かかえる|verb|to hold or carry under or in the arms
+価格|かかく|noun|price, value
+化学|かがく|noun|chemistry
+輝く|かがやく|verb|to shine, to glitter, to sparkle
+係|かかり|noun|person in charge
+罹る|かかる|verb|to suffer from
+限る|かぎる|verb|to restrict, to limit, to confine
+掻く|かく|verb|to scratch
+描く|かく|verb|to draw, to depict, to describe
+嗅ぐ|かぐ|verb|to sniff, to smell
+家具|かぐ|noun|furniture
+学|がく|noun, suffix|learning, knowledge
+額|がく|noun, suffix|amount; frame
+覚悟|かくご|noun, suru-verb|resolution, resignation, readiness
+確実|かくじつ|na-adjective, noun|certainty, reliability, soundness
+学者|がくしゃ|noun|scholar
+学習|がくしゅう|noun, suru-verb|study, learning
+隠す|かくす|verb|to hide, to conceal
+拡大|かくだい|noun, suru-verb|magnification, enlargement
+確認|かくにん|noun, suru-verb|affirmation, confirmation
+学問|がくもん|noun, suru-verb|scholarship, study, learning
+隠れる|かくれる|verb|to hide, to be hidden
+影|かげ|noun|shade, shadow, other side
+陰|かげ|noun|shade, shadow, other side
+欠ける|かける|verb|to be lacking
+加減|かげん|noun, suffix|adjustment; addition and subtraction
+過去|かこ|noun, adverb|past
+籠|かご|noun|basket, cage
+囲む|かこむ|verb|to surround, to encircle
+火災|かさい|noun|conflagration, fire
+重なる|かさなる|verb|to be piled up, lie on top of one another
+重ねる|かさねる|verb|to pile up, to put something on another, to heap up
+飾り|かざり|noun, suffix|decoration
+貸し|かし|noun|loan, lending
+菓子|かし|noun|confectionery, sweet
+家事|かじ|noun|household matters; housework (same as 家の仕事 (いえのしごと))
+賢い|かしこい|i-adjective|wise, clever, smart
+歌手|かしゅ|noun|singer
+数|かず|noun|number, figure, amount
+稼ぐ|かせぐ|verb|to earn income, to labor
+数える|かぞえる|verb|to count
+型|かた|noun, suffix|mold, model, style
+肩|かた|noun|shoulder
+堅い|かたい|i-adjective|hard, firm, solid
+硬い|かたい|i-adjective|hard, firm, solid
+方々|かたがた|noun, pronoun|persons
+片付く|かたづく|verb|to put in order, to solve
+刀|かたな|noun|sword, saber
+語る|かたる|verb|to talk, to tell, to recite
+勝ち|かち|noun|win, victory
+がっかり|がっかり|noun, suru-verb|feel disappointed, be dejected, lose heart
+活気|かっき|noun|vigor; liveliness; vitality; energy
+楽器|がっき|noun, adjective|musical instrument
+学期|がっき|noun|term (school)
+活動|かつどう|noun, suru-verb|action, activity
+活躍|かつやく|noun, suru-verb|activity
+活用|かつよう|noun, suru-verb|conjugation; practical use
+仮定|かてい|noun, suru-verb|assumption, supposition, hypothesis
+過程|かてい|noun|process
+課程|かてい|noun|course, curriculum
+悲しむ|かなしむ|verb|to be sad, to mourn for, to regret
+必ずしも|かならずしも|adverb|(not) always, (not) necessarily
+かなり|かなり|adverb, adjective|considerably, fairly, quite
+鐘|かね|noun|bell, chime
+可能|かのう|na-adjective, noun|possible, practicable, feasible
+株|かぶ|noun, counter|stock; stump (of tree)
+被る|かぶる|verb|to wear; to be covered with
+上|かみ|noun|first volume; superior quality; governmental
+神|かみ|noun, na-adjective|god
+雷|かみなり|noun|thunder
+髪の毛|かみのけ|expression, noun|hair (head)
+科目|かもく|noun|(school) subject, curriculum, course
+かもしれない|かもしれない|expression|maybe, perhaps
+かゆい|かゆい|i-adjective|itchy, itching
+歌謡|かよう|noun|song, ballad
+空|から|noun, adjective|empty
+殻|から|noun|shell, husk, hull
+柄|がら|noun, suffix|pattern; build; character
+刈る|かる|verb|to cut (hair), to mow (grass), to harvest
+河|かわ|noun, suffix|river, stream
+皮|かわ|noun|skin, hide, leather
+革|かわ|noun|leather
+可愛そう|かわいそう|na-adjective, noun|poor, pitiable, pathetic
+可愛らしい|かわいらしい|i-adjective|lovely, sweet
+乾かす|かわかす|verb|to dry
+渇く|かわく|verb|to be thirsty
+代る|かわる|verb|to take the place of, to relieve, to be substituted for
+缶|かん|noun, counter|can, tin
+勘|かん|noun|perception, intuition, the sixth sense
+考え|かんがえ|noun|thinking, thought, ideas
+感覚|かんかく|noun, suru-verb|sense, sensation
+間隔|かんかく|noun|space, interval, SPC
+観客|かんきゃく|noun|audience, spectator(s)
+歓迎|かんげい|noun, suru-verb|welcome, reception
+観光|かんこう|noun, suru-verb|sightseeing
+観察|かんさつ|noun, suru-verb|observation, survey
+感じ|かんじ|noun|feeling, sense, impression
+患者|かんじゃ|noun|patient
+勘定|かんじょう|noun, suru-verb|calculation, counting, consideration
+感情|かんじょう|noun, adjective|emotion(s), feeling(s), sentiment
+感じる|かんじる|verb|to feel, to sense
+感心|かんしん|noun, suru-verb|admiration
+関心|かんしん|noun|concern, interest
+関する|かんする|verb|to concern, to be related
+完成|かんせい|noun, suru-verb|complete, completion; perfection
+完全|かんぜん|na-adjective, adjective|perfection, completeness
+乾燥|かんそう|noun, suru-verb|dry, arid, dehydrated
+感想|かんそう|noun|(one's) impressions, (one's) thoughts
+監督|かんとく|noun, suru-verb|supervision, control, (movie) director
+管理|かんり|noun, suru-verb|control, management (e.g., of a business)
+完了|かんりょう|noun, suru-verb|completion, conclusion
+関連|かんれん|noun, suru-verb|relation, connection, relevance
+議員|ぎいん|noun|member of the Diet, congress, or parliament
+記憶|きおく|noun, suru-verb|memory, recollection, remembrance
+機械|きかい|noun|machine, machinery
+器械|きかい|noun|instrument
+議会|ぎかい|noun|Diet, congress, parliament
+期間|きかん|noun|period, term
+機関|きかん|noun|engine; institution, organization
+効く|きく|verb|to be effective
+期限|きげん|noun|deadline, term
+機嫌|きげん|noun, na-adjective|humor, temper, mood
+気候|きこう|noun|climate
+岸|きし|noun|bank, coast, shore
+生地|きじ|noun|fabric; dough
+記事|きじ|noun|article, news story
+技師|ぎし|noun|engineer, technician
+記者|きしゃ|noun|reporter
+傷|きず|noun|wound, injury, hurt
+期待|きたい|noun, suru-verb|expectation, anticipation, hope
+気体|きたい|noun|vapor, gas
+帰宅|きたく|noun, suru-verb|returning home
+貴重|きちょう|na-adjective, noun|precious, valuable
+議長|ぎちょう|noun|chairman
+きちんと|きちんと|noun, adverb|precisely, accurately
+きつい|きつい|i-adjective|tight, close, intense
+気付く|きづく|verb|to notice, to recognize, to become aware of
+気に入る|きにいる|expression, verb|to like, to be please
+記入|きにゅう|noun, suru-verb|entry, filling in of forms
+記念|きねん|noun, suru-verb|commemoration, memory
+気の毒|きのどく|na-adjective, noun|pitiful, a pity
+寄付|きふ|noun, suru-verb|contribution, donation
+希望|きぼう|noun, suru-verb|hope, wish, aspiration
+基本|きほん|noun, adjective|basic, basis
+決まり|きまり|noun, adjective|settlement, conclusion, rule
+気味|きみ|noun|-like, -looking, -looked
+奇妙|きみょう|na-adjective, noun|strange, queer, curious
+義務|ぎむ|noun|duty, obligation, responsibility
+疑問|ぎもん|noun, na-adjective|question, problem, doubt
+逆|ぎゃく|adjective, na-adjective|reverse, opposite
+キャプテン|キャプテン|noun|captain
+キャンプ|キャンプ|noun, suru-verb|camp
+旧|きゅう|prefix, noun|ex-
+級|きゅう|noun, counter|class, grade, rank
+球|きゅう|noun, counter|globe, sphere, ball
+休暇|きゅうか|noun|vacation, holiday, day off
+休憩|きゅうけい|noun, suru-verb|rest, break, intermission
+急激|きゅうげき|na-adjective|sudden, precipitous, radical
+吸収|きゅうしゅう|noun, suru-verb|absorption, suction
+救助|きゅうじょ|noun, suru-verb|relief, aid, rescue
+急速|きゅうそく|na-adjective, noun|rapid (e.g., progress)
+休息|きゅうそく|noun, suru-verb|rest, relief, relaxation
+急に|きゅうに|adverb|suddenly
+器用|きよう|na-adjective, noun|skillful, handy
+教科書|きょうかしょ|noun|textbook
+競技|きょうぎ|noun, suru-verb|game, match, contest
+行儀|ぎょうぎ|noun|manners
+教授|きょうじゅ|noun, suru-verb|teaching, instruction; professor
+強調|きょうちょう|noun, suru-verb|emphasis, stress, stressed point
+共同|きょうどう|noun, suru-verb|cooperation, association, collaboration
+恐怖|きょうふ|noun, suru-verb|fear, terror
+協力|きょうりょく|noun, suru-verb|cooperation, collaboration
+強力|きょうりょく|na-adjective, noun|powerful, strong
+許可|きょか|noun, suru-verb|permission, approval
+局|きょく|noun, suffix|office, bureau, station(TV, radio)
+巨大|きょだい|na-adjective, noun|huge, gigantic, enormous
+嫌う|きらう|verb|to hate, to dislike, to loathe
+霧|きり|noun|fog, mist
+切れ|きれ|noun, counter|cloth, piece, cut
+切れる|きれる|verb|to cut well, to be sharp; to break (off)
+記録|きろく|noun, suru-verb|record, minutes, document
+議論|ぎろん|noun, suru-verb|argument, discussion, dispute
+金|きん|noun, adjective|gold, metal; money
+銀|ぎん|noun, adjective|silver
+禁煙|きんえん|noun, suru-verb|No Smoking
+金額|きんがく|noun|amount of money
+金庫|きんこ|noun|safe, vault
+禁止|きんし|noun, suru-verb|prohibition, ban
+金銭|きんせん|noun, adjective|money, cash
+金属|きんぞく|noun|metal
+近代|きんだい|noun|modern times
+筋肉|きんにく|noun|muscle, sinews
+金融|きんゆう|noun, adjective|finance, money and banking
+句|く|noun, suffix|phrase
+食う|くう|verb|(male) (vulg.) to eat
+偶然|ぐうぜん|noun, na-adjective|(by) chance, unexpectedly
+臭い|くさい|i-adjective, suffix|stinky, smelly, bad-smelling
+鎖|くさり|noun|chain
+腐る|くさる|verb|to rot, to go bad
+癖|くせ|noun|a habit (often a bad habit), peculiarity
+管|くだ|noun|pipe, tube
+具体|ぐたい|noun|concrete, tangible, material
+下り|くだり|noun, adjective|down-train (going away from Tokyo)
+下る|くだる|verb|to get down, to descend
+苦痛|くつう|noun|pain, agony
+ぐっすり|ぐっすり|adverb|sound asleep, fast asleep
+区別|くべつ|noun, suru-verb|distinction, differentiation, classification
+組|くみ|noun, suffix|class, team, set
+組合|くみあい|noun|association, union
+組む|くむ|verb|to put together

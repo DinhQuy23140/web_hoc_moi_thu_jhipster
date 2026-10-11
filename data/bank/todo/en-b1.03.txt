@@ -1,0 +1,250 @@
+devotion|noun
+diagram|noun
+dial|noun, verb
+dialog|noun
+diameter|noun
+diaper|noun
+differ|verb
+diligence|noun
+diligent|adjective
+dioxide|noun
+directly|adverb
+dirt|noun
+disability|noun
+disable|verb
+disabled|adjective
+disagreement|noun
+disappoint|verb
+disappointment|noun
+disaster|noun
+disastrous|adjective
+disc jockey|noun
+discomfort|noun
+discourage|verb
+disease|noun
+disgusting|adjective
+dishwasher|noun
+disk|noun
+dissolve|verb
+distance|noun
+distant|adjective
+distinction|noun
+distinctly|adverb
+distinguish|verb
+distribute|verb
+distribution|noun
+district|noun
+disturbance|noun
+dive|noun, verb
+diver|noun
+diverse|adjective
+divine|adjective
+diving|noun
+divorced|adjective
+DJ|noun
+doc|noun
+document|noun
+dolphin|noun
+dot|noun
+downward|adjective
+doze|noun
+dozen|determiner, noun
+drag|verb
+dramatic|adjective
+drown|verb
+drunk|adjective
+dude|noun
+dull|adjective
+dump|noun, verb
+dustbin|noun
+dusty|adjective
+duty|noun
+duty-free|adjective
+duvet|noun
+dynasty|noun
+eager|adjective
+eagerness|noun
+earache|noun
+earnest|adjective
+eastern|adjective
+easygoing|adjective
+eco|noun
+ecological|adjective
+ecology|noun
+economic|adjective
+economics|noun
+ecstasy|noun
+edge|noun
+edition|noun
+educate|verb
+effective|adjective
+efficiency|noun
+elbow|noun
+election|noun
+electrical|adjective
+electricity|noun
+electron|noun
+electronic|adjective
+element|noun
+eliminate|verb
+embarrass|verb
+embarrassment|noun
+emerge|verb
+emotion|noun
+emotional|adjective
+emotionally|adverb
+emperor|noun
+emphasis|noun
+emphasize|verb
+empire|noun
+employment|noun
+enable|verb
+enclose|verb
+encounter|noun, verb
+encouragement|noun
+encouraging|adjective
+encyclopedia|noun
+endanger|verb
+endless|adjective
+endure|verb
+enemy|noun
+engage|verb
+engaged|adjective
+engine|noun
+engineering|noun
+Englishman|noun
+enjoyable|adjective
+enjoyment|noun
+enrich|verb
+ensure|verb
+entertain|verb
+entertainer|noun
+enthusiasm|noun
+enthusiast|noun
+enthusiastic|adjective
+entire|adjective
+entirely|adverb
+entry|noun
+environmental|adjective
+environmentalist|noun
+equal|adjective, noun, verb
+equality|noun
+equally|adverb
+equipment|noun
+era|noun
+essence|noun
+essential|adjective
+establishment|noun
+eternal|adjective
+eternity|noun
+evenly|adverb
+eventually|adverb
+evident|adjective
+exact|adjective, verb
+examination|noun
+examine|verb
+examiner|noun
+excellence|noun
+excess|noun
+exchange rate|noun
+excitedly|adverb
+excitement|noun
+exclusive|adjective
+exhausted|adjective
+existence|noun
+exit|noun, verb
+expand|verb
+experienced|adjective
+exploration|noun
+explosion|noun
+expose|verb
+extend|verb
+extensively|adverb
+extent|noun
+extinct|adjective
+extraordinary|adjective
+extreme|adjective
+extreme sports|noun
+eyesight|noun
+face to face|adverb
+face-to-face|adjective
+facility|noun
+fade|verb
+failure|noun
+faint|adjective, verb
+faithful|adjective
+fake|adjective
+fallen|adjective
+fantasy|noun
+faraway|adjective
+farewell|noun
+farming|noun
+farmland|noun
+farther|adverb
+farthest|adverb
+fascinate|verb
+fashionable|adjective
+fasten|verb
+favorable|adjective
+fax|noun, verb
+feast|noun
+fellow|adjective, noun
+ferry|noun
+festive|adjective
+fetch|verb
+feverishly|adverb
+fifth|noun
+filling|noun
+film-maker|noun
+filter|noun
+finance|noun, verb
+financial|adjective
+finding|noun
+finger|noun
+fire station|noun
+firefighter|noun
+firework|noun
+firm|adjective, noun, verb
+firmly|adverb
+first floor|noun
+first lady|noun
+first-floor|adjective
+fitness|noun
+flash|adjective, noun, verb
+flavor|noun
+flock|noun
+flow|noun, verb
+flu|noun
+fluent|adjective
+fluently|adverb
+flunk|verb
+flute|noun
+fold|noun, verb
+folk|noun
+fond|adjective
+fondness|noun
+foolish|adjective
+forbidden|adjective
+forehead|noun
+formal|adjective
+formally|adverb
+format|noun, verb
+former|adjective
+formula|noun
+forth|adverb
+fortnight|noun
+fortunate|adjective
+foundation|noun
+fountain|noun
+fragment|noun
+freely|adverb
+freezer|noun
+freezing|adjective
+frequency|noun
+frequent|adjective
+frequently|adverb
+freshman|noun
+friendliness|noun
+fright|noun
+frost|noun, verb
+frozen|adjective

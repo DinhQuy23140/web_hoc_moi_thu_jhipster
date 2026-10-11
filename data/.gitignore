@@ -1,2 +1,4 @@
 .env
+*.pem
+raw/cache/dl/
 __pycache__/

@@ -1,0 +1,250 @@
+cage|noun
+calculate|verb
+calculation|noun
+calculator|noun
+calf|noun
+caller|noun
+calmness|noun
+camel|noun
+campsite|noun
+canal|noun
+cancel|verb
+cancer|noun
+candle|noun
+canned|adjective
+canteen|noun
+capable|adjective
+capacity|noun
+capsule|noun
+capture|noun, verb
+careless|adjective
+carelessly|adverb
+carelessness|noun
+carpet|noun
+carriage|noun
+carton|noun
+cashpoint|noun
+casual|adjective
+categorize|verb
+category|noun
+cattle|noun
+caution|noun
+cautious|adjective
+cave|noun
+CD-ROM|noun
+cell|noun
+central|adjective
+central heating|noun
+ceremony|noun
+certainty|noun
+challenging|adjective
+champion|noun
+channel|noun
+chaos|noun
+characteristic|adjective, noun
+characterize|verb
+charge|noun, verb
+chariot|noun
+charity|noun
+charm|noun
+chase|noun, verb
+chat show|noun
+check-in counter|noun
+check-in desk|noun
+checkout|noun
+cheerful|adjective
+chemist|noun
+chemistry|noun
+cherish|verb
+chest of drawers|noun
+chewing gum|noun
+chief|adjective, noun
+choir|noun
+choke|verb
+Christian|adjective
+chronological|adjective
+chuckle|noun
+circular|adjective
+circus|noun
+citizenship|noun
+civil|adjective
+civilization|noun
+classical|adjective
+classify|verb
+cliff|noun
+climber|noun
+clinic|noun
+clip|noun
+closely|adverb
+coal|noun
+coastal|adjective
+cod|noun
+coffin|noun
+collapse|noun, verb
+collar|noun
+columnist|noun
+combination|noun
+combine|verb
+comedian|noun
+comedy|noun
+comet|noun
+comfort|noun
+comma|noun
+command|noun
+comment|noun, verb
+commercial|adjective, noun
+commit|verb
+common sense|noun
+commonly|adverb
+companion|noun
+comparison|noun
+compete|verb
+competitive|adjective
+complement|noun
+completely|adverb
+complex|adjective
+complicate|verb
+complicated|adjective
+compliment|noun
+compose|verb
+composition|noun
+compound|noun
+concentration|noun
+concept|noun
+concerned|adjective
+conclude|verb
+conclusion|noun
+conduct|noun, verb
+confidence|noun
+confirmation|noun
+conflict|noun
+confusing|adjective
+confusion|noun
+congratulate|verb
+connection|noun
+conquer|verb
+conscious|adjective
+consequently|adverb
+conservative|adjective
+considerable|adjective
+consideration|noun
+consonant|noun
+constantly|adverb
+construct|verb
+construction|noun
+consume|verb
+consumption|noun
+contain|verb
+content|adjective, noun
+continual|adjective
+continually|adverb
+continuous|adjective
+continuously|adverb
+contrary|adjective
+contribution|noun
+convey|verb
+convince|verb
+copyright|noun
+correction|noun
+cotton|noun
+council|noun
+counseling|noun
+counter|noun, verb
+countless|adjective
+county|noun
+courage|noun
+courageous|adjective
+courgette|noun
+craft|noun, verb
+crash|noun, verb
+creator|noun
+criminal|adjective, noun
+crisis|noun
+critical|adjective
+crop|noun
+crossing|noun
+crossroads|noun
+crow|noun
+cruel|adjective
+crush|noun
+cucumber|noun
+cultivate|verb
+cultural|adjective
+cure|noun, verb
+curiosity|noun
+curious|adjective
+curiously|adverb
+curly|adjective
+currency|noun
+current|adjective
+currently|adverb
+curtain|noun
+curve|noun
+cushion|noun
+customs|noun
+CV|noun
+cycle|noun, verb
+daisy|noun
+damage|noun, verb
+damaged|adjective
+damp|adjective
+dangerously|adverb
+dare|verb
+darkness|noun
+dating|noun
+daze|noun
+dazzle|noun
+deadly|adjective
+deaf|adjective
+dealer|noun
+debris|noun
+decision|noun
+declaration|noun
+declare|verb
+decrease|noun, verb
+dedicate|verb
+deed|noun
+defeat|noun, verb
+defend|verb
+defender|noun
+defense|noun
+deficiency|noun
+define|verb
+definite|adjective
+definite article|noun
+definitely|adverb
+definition|noun
+delete|verb
+delicate|adjective
+delight|noun, verb
+delighted|adjective
+delightful|adjective
+delivery|noun
+democracy|noun
+democratic|adjective
+demonstrate|verb
+demonstration|noun
+deny|verb
+depart|verb
+departure|noun
+dependent|adjective, noun
+depressed|adjective
+depressing|adjective
+depression|noun
+deprive|verb
+depth|noun
+deserve|verb
+designer|adjective, noun
+desire|noun, verb
+despair|noun
+desperate|adjective
+despite|preposition
+destination|noun
+destruction|noun
+destructive|adjective
+detective|noun
+determination|noun
+determine|verb
+devastate|verb
+devastating|adjective
+development|noun

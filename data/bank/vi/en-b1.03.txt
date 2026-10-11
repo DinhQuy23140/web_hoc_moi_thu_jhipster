@@ -1,0 +1,250 @@
+devotion|sự tận tụy
+diagram|sơ đồ
+dial|mặt số; quay số
+dialog|cuộc đối thoại
+diameter|đường kính
+diaper|tã lót
+differ|khác nhau
+diligence|sự siêng năng
+diligent|siêng năng
+dioxide|đi-ô-xít
+directly|trực tiếp
+dirt|bụi bẩn, đất
+disability|khuyết tật
+disable|vô hiệu hóa; làm tàn tật
+disabled|khuyết tật
+disagreement|sự bất đồng
+disappoint|làm thất vọng
+disappointment|sự thất vọng
+disaster|thảm họa
+disastrous|thảm khốc
+disc jockey|người chỉnh nhạc (DJ)
+discomfort|sự khó chịu
+discourage|làm nản lòng
+disease|bệnh tật
+disgusting|kinh tởm
+dishwasher|máy rửa bát
+disk|đĩa
+dissolve|hòa tan
+distance|khoảng cách
+distant|xa xôi
+distinction|sự phân biệt; sự xuất sắc
+distinctly|rõ ràng
+distinguish|phân biệt
+distribute|phân phát
+distribution|sự phân phối
+district|quận, huyện
+disturbance|sự xáo trộn
+dive|lặn
+diver|thợ lặn
+diverse|đa dạng
+divine|thần thánh
+diving|môn lặn
+divorced|đã ly hôn
+DJ|người chỉnh nhạc (DJ)
+doc|bác sĩ (thân mật)
+document|tài liệu
+dolphin|cá heo
+dot|dấu chấm
+downward|đi xuống
+doze|giấc ngủ ngắn
+dozen|một tá
+drag|kéo lê
+dramatic|kịch tính
+drown|chết đuối
+drunk|say rượu
+dude|anh bạn
+dull|buồn tẻ; xỉn màu
+dump|bãi rác; vứt bỏ
+dustbin|thùng rác
+dusty|đầy bụi
+duty|nhiệm vụ; thuế
+duty-free|miễn thuế
+duvet|chăn lông vũ
+dynasty|triều đại
+eager|háo hức
+eagerness|sự háo hức
+earache|đau tai
+earnest|nghiêm túc
+eastern|phía đông
+easygoing|dễ tính
+eco|sinh thái
+ecological|thuộc sinh thái
+ecology|sinh thái học
+economic|thuộc kinh tế
+economics|kinh tế học
+ecstasy|sự ngây ngất
+edge|cạnh, mép
+edition|ấn bản
+educate|giáo dục
+effective|hiệu quả
+efficiency|hiệu suất
+elbow|khuỷu tay
+election|cuộc bầu cử
+electrical|thuộc về điện
+electricity|điện
+electron|điện tử (hạt)
+electronic|điện tử
+element|yếu tố; nguyên tố
+eliminate|loại bỏ
+embarrass|làm xấu hổ
+embarrassment|sự xấu hổ
+emerge|nổi lên, xuất hiện
+emotion|cảm xúc
+emotional|xúc động
+emotionally|về mặt cảm xúc
+emperor|hoàng đế
+emphasis|sự nhấn mạnh
+emphasize|nhấn mạnh
+empire|đế chế
+employment|việc làm
+enable|cho phép, giúp có thể
+enclose|đính kèm; bao quanh
+encounter|gặp phải; cuộc gặp gỡ
+encouragement|sự khuyến khích
+encouraging|đáng khích lệ
+encyclopedia|bách khoa toàn thư
+endanger|gây nguy hiểm
+endless|vô tận
+endure|chịu đựng
+enemy|kẻ thù
+engage|tham gia; thu hút
+engaged|đã đính hôn; bận
+engine|động cơ
+engineering|kỹ thuật
+Englishman|người Anh
+enjoyable|thú vị
+enjoyment|sự thích thú
+enrich|làm giàu
+ensure|đảm bảo
+entertain|giải trí; tiếp đãi
+entertainer|nghệ sĩ giải trí
+enthusiasm|sự nhiệt tình
+enthusiast|người đam mê
+enthusiastic|nhiệt tình
+entire|toàn bộ
+entirely|hoàn toàn
+entry|lối vào; mục
+environmental|thuộc môi trường
+environmentalist|nhà môi trường học
+equal|bằng nhau
+equality|sự bình đẳng
+equally|như nhau
+equipment|thiết bị
+era|kỷ nguyên
+essence|bản chất
+essential|cần thiết
+establishment|sự thành lập; cơ sở
+eternal|vĩnh cửu
+eternity|sự vĩnh hằng
+evenly|đều đặn
+eventually|cuối cùng
+evident|hiển nhiên
+exact|chính xác
+examination|kỳ thi; sự kiểm tra
+examine|kiểm tra
+examiner|giám khảo
+excellence|sự xuất sắc
+excess|sự dư thừa
+exchange rate|tỷ giá hối đoái
+excitedly|hào hứng
+excitement|sự phấn khích
+exclusive|độc quyền
+exhausted|kiệt sức
+existence|sự tồn tại
+exit|lối ra; thoát
+expand|mở rộng
+experienced|có kinh nghiệm
+exploration|sự khám phá
+explosion|vụ nổ
+expose|phơi bày
+extend|kéo dài, mở rộng
+extensively|rộng rãi
+extent|mức độ
+extinct|tuyệt chủng
+extraordinary|phi thường
+extreme|cực đoan, cực độ
+extreme sports|thể thao mạo hiểm
+eyesight|thị lực
+face to face|trực tiếp, mặt đối mặt
+face-to-face|trực tiếp, mặt đối mặt
+facility|cơ sở vật chất
+fade|phai nhạt
+failure|sự thất bại
+faint|ngất; mờ nhạt
+faithful|trung thành
+fake|giả
+fallen|đã ngã, đã rơi
+fantasy|ảo tưởng; giả tưởng
+faraway|xa xôi
+farewell|lời chia tay
+farming|nghề nông
+farmland|đất nông nghiệp
+farther|xa hơn
+farthest|xa nhất
+fascinate|mê hoặc
+fashionable|hợp thời trang
+fasten|thắt chặt
+favorable|thuận lợi
+fax|bản fax; gửi fax
+feast|bữa tiệc
+fellow|bạn đồng hành; đồng nghiệp
+ferry|phà
+festive|thuộc lễ hội
+fetch|đi lấy
+feverishly|cuống cuồng
+fifth|thứ năm; một phần năm
+filling|nhân bánh; trám răng
+film-maker|nhà làm phim
+filter|bộ lọc
+finance|tài chính
+financial|thuộc tài chính
+finding|phát hiện
+finger|ngón tay
+fire station|trạm cứu hỏa
+firefighter|lính cứu hỏa
+firework|pháo hoa
+firm|công ty; chắc chắn
+firmly|chắc chắn
+first floor|tầng một
+first lady|đệ nhất phu nhân
+first-floor|thuộc tầng một
+fitness|sự khỏe mạnh
+flash|đèn flash; lóe sáng
+flavor|hương vị
+flock|đàn
+flow|dòng chảy; chảy
+flu|bệnh cúm
+fluent|trôi chảy
+fluently|trôi chảy
+flunk|thi trượt
+flute|sáo
+fold|gấp
+folk|dân gian; người
+fond|yêu thích
+fondness|sự yêu mến
+foolish|ngu ngốc
+forbidden|bị cấm
+forehead|trán
+formal|trang trọng
+formally|chính thức
+format|định dạng
+former|trước đây
+formula|công thức
+forth|về phía trước
+fortnight|hai tuần
+fortunate|may mắn
+foundation|nền móng; quỹ
+fountain|đài phun nước
+fragment|mảnh vỡ
+freely|tự do
+freezer|tủ đông
+freezing|lạnh cóng
+frequency|tần suất
+frequent|thường xuyên
+frequently|thường xuyên
+freshman|sinh viên năm nhất
+friendliness|sự thân thiện
+fright|sự sợ hãi
+frost|sương giá
+frozen|đông lạnh
