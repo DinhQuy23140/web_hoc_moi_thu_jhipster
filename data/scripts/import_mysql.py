@@ -10,7 +10,7 @@ backend must have started once, or run: mvnw process-resources liquibase:update.
 
 Connection settings come from environment variables or data/.env:
     MYSQL_HOST (127.0.0.1)  MYSQL_PORT (3306)  MYSQL_USER (root)  MYSQL_PASSWORD  MYSQL_DATABASE (lingora)
-    MYSQL_SSL (false; set true for TiDB Cloud and other hosted databases)
+    MYSQL_SSL (false; set true for hosted databases)  MYSQL_SSL_CA (CA file, e.g. the Aiven project CA certificate)
 Entries whose content_hash is unchanged are skipped; changed entries are rewritten in one transaction.
 lex_entry.vocabulary_id is (re)linked on every run to the matching row of the app's vocabulary table.
 """
@@ -49,13 +49,15 @@ def connect() -> pymysql.connections.Connection:
     if os.environ.get("MYSQL_SSL", "").lower() in ("1", "true", "yes"):
         import ssl as ssllib
 
-        ssl = ssllib.create_default_context()
-        try:
-            import certifi
+        ca = os.environ.get("MYSQL_SSL_CA")
+        ssl = ssllib.create_default_context(cafile=ca or None)
+        if not ca:
+            try:
+                import certifi
 
-            ssl.load_verify_locations(certifi.where())
-        except ImportError:
-            pass
+                ssl.load_verify_locations(certifi.where())
+            except ImportError:
+                pass
     return pymysql.connect(
         host=os.environ.get("MYSQL_HOST", "127.0.0.1"),
         port=int(os.environ.get("MYSQL_PORT", "3306")),
