@@ -14,7 +14,7 @@ import { IconComponent } from '../../shared/icon.component';
 import { EmptyComponent, SpinnerComponent } from '../../shared/ui';
 
 const LEVELS: Record<string, string[]> = {
-  en: ['A1', 'A2', 'B1', 'B2', 'C1'],
+  en: ['A1', 'A2', 'B1', 'B2', 'C1', 'C2'],
   ja: ['KANA', 'N5', 'N4', 'N3', 'N2', 'N1'],
 };
 

@@ -5,7 +5,7 @@ import { Certificate, Course, CourseOutline, Exam, Exercise, Language, Lesson, P
 
 const HOUR = 3_600_000;
 const CACHE_PREFIX = 'lingora.c.';
-const CACHE_VERSION = 5;
+const CACHE_VERSION = 6;
 
 interface CacheEntry<T> {
   v: number;

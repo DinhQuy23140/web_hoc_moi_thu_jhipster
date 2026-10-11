@@ -91,8 +91,8 @@ interface NavItem {
           <router-outlet />
         </main>
         <!-- Cover shown while switching the learning language (hides the swap, then the page reveals itself). -->
-        <div class="fixed inset-0 z-30 grid place-items-center bg-surface transition-opacity duration-200 ease-out lg:left-64"
-          [class.opacity-0]="!ctx.switching()" [class.pointer-events-none]="!ctx.switching()"
+        <div class="fixed inset-0 z-30 grid place-items-center bg-surface transition-[opacity,visibility] duration-200 ease-out lg:left-64"
+          [class.opacity-0]="!ctx.switching()" [class.invisible]="!ctx.switching()" [class.pointer-events-none]="!ctx.switching()"
           [attr.aria-hidden]="!ctx.switching()" role="status" aria-live="polite">
           @if (cover(); as c) {
             <div class="flex flex-col items-center gap-4 text-center" [class.lang-cover-in]="!!ctx.switching()">
@@ -186,7 +186,8 @@ export class ShellComponent {
 
 export function avatarUrl(photo: string | null | undefined, name: string | undefined): string {
   if (photo) return photo;
-  const letter = (name || '?').trim().charAt(0).toUpperCase();
+  const first = Array.from((name || '').trim())[0] ?? '?';
+  const letter = first.toUpperCase().replace(/[<>&"']/g, (c) => `&#${c.charCodeAt(0)};`);
   const hue = [...(name || '?')].reduce((h, c) => h + c.charCodeAt(0), 0) % 360;
   const svg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" fill="hsl(${hue} 65% 55%)"/><text x="50%" y="54%" dominant-baseline="middle" text-anchor="middle" font-family="sans-serif" font-size="30" font-weight="700" fill="#fff">${letter}</text></svg>`;
   return 'data:image/svg+xml;charset=utf-8,' + encodeURIComponent(svg);

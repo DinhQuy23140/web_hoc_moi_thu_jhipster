@@ -62,19 +62,19 @@ interface ContinueItem {
             <h2 class="font-display text-lg font-black">{{ 'resume.dashboardTitle' | t }}</h2>
             <span class="text-xs font-semibold text-muted">{{ 'resume.dashboardSub' | t }}</span>
           </div>
-          <ul class="grid gap-3 md:grid-cols-2">
+          <ul class="grid grid-cols-1 gap-3 md:grid-cols-2">
             @for (s of unfinished(); track s.kind + s.refId) {
-              <li class="flex items-center gap-3 rounded-2xl bg-surface-2 p-3">
+              <li class="flex min-w-0 items-center gap-2 rounded-2xl bg-surface-2 p-3 sm:gap-3">
                 <span class="grid h-11 w-11 shrink-0 place-items-center rounded-xl bg-primary-soft text-primary"><app-icon [name]="s.kind === 'exam' ? 'file' : 'book'" [size]="22" /></span>
                 <div class="min-w-0 flex-1">
                   <p class="truncate font-bold">{{ s.title || s.refId }}</p>
                   <div class="mt-1 flex items-center gap-2">
                     <app-progress-bar class="flex-1" [value]="s.percent" />
-                    <span class="text-xs font-semibold text-muted">{{ s.percent }}% · {{ s.updatedAt | ago }}</span>
+                    <span class="shrink-0 text-xs font-semibold text-muted">{{ s.percent }}%<span class="hidden sm:inline"> · {{ s.updatedAt | ago }}</span></span>
                   </div>
                 </div>
-                <a [routerLink]="[s.kind === 'exam' ? '/exams' : '/lessons', s.refId]" class="btn-primary !min-h-9 !px-3 text-sm">
-                  <app-icon name="play" [size]="16" /> {{ 'common.continue' | t }}
+                <a [routerLink]="[s.kind === 'exam' ? '/exams' : '/lessons', s.refId]" class="btn-primary !min-h-9 shrink-0 !px-3 text-sm" [attr.aria-label]="'common.continue' | t">
+                  <app-icon name="play" [size]="16" /> <span class="hidden sm:inline">{{ 'common.continue' | t }}</span>
                 </a>
                 <button class="btn-ghost !min-h-9 !px-2 text-muted" (click)="discard(s)" [attr.aria-label]="'resume.discard' | t" [title]="'resume.discard' | t">
                   <app-icon name="close" [size]="16" />

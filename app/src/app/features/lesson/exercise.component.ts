@@ -130,8 +130,9 @@ import { VoiceRecorderComponent } from '../../shared/voice-recorder.component';
                   <span class="ml-2" [class]="speakScore() >= 70 ? 'chip-success' : 'chip-warning'">{{ speakScore() }}%</span>
                 </p>
               }
-            } @else {
-              <p class="text-center text-sm text-muted">{{ 'exercise.noMic' | t }}</p>
+            }
+            @if (!speech.sttSupported || (sttFailed() && !text())) {
+              <p class="text-center text-sm text-muted" role="status">{{ (speech.sttSupported ? 'exercise.micError' : 'exercise.noMic') | t }}</p>
               <div class="flex gap-2">
                 <button type="button" class="btn-outline" (click)="selfGrade(false)" [disabled]="locked()">{{ 'exercise.selfRetry' | t }}</button>
                 <button type="button" class="btn-primary" (click)="selfGrade(true)" [disabled]="locked()">{{ 'exercise.selfOk' | t }}</button>
@@ -189,6 +190,7 @@ export class ExerciseComponent implements OnInit {
 
   protected readonly answer = signal<UserAnswer>(null);
   protected readonly text = signal('');
+  protected readonly sttFailed = signal(false);
   protected readonly result = signal<CheckResult | null>(null);
   protected readonly shake = signal(false);
   protected readonly bank = signal<{ id: number; text: string; used: boolean }[]>([]);
@@ -335,8 +337,10 @@ export class ExerciseComponent implements OnInit {
       const t = await this.speech.listen(this.speechLang());
       this.text.set(t);
       this.setAnswer(t || null);
+      if (!t) this.sttFailed.set(true);
     } catch {
       this.text.set('');
+      this.sttFailed.set(true);
     }
   }
 

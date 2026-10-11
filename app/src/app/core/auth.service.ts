@@ -142,6 +142,7 @@ export class AuthService {
     return this.api.post('/account/resend-activation', email.trim());
   }
 
+  /** Changing the password revokes every existing token, so this session signs in again with the new one. */
   async changePassword(current: string, next: string): Promise<void> {
     try {
       await this.api.post('/account/change-password', { currentPassword: current, newPassword: next });
@@ -149,6 +150,8 @@ export class AuthService {
       if (e instanceof HttpErrorResponse && e.status === 400 && !isPasswordError(e)) throw new AuthError('wrong-password');
       throw e;
     }
+    const email = this.user()?.email;
+    if (email) await this.login(email, next);
   }
 
   hasPasswordProvider(): boolean {
