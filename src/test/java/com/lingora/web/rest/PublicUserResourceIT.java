@@ -85,6 +85,15 @@ class PublicUserResourceIT {
 
     @Test
     @Transactional
+    @WithMockUser(authorities = AuthoritiesConstants.USER)
+    void getAllPublicUsersForbiddenForLearners() throws Exception {
+        userRepository.saveAndFlush(user);
+
+        restUserMockMvc.perform(get("/api/users").accept(MediaType.APPLICATION_JSON)).andExpect(status().isForbidden());
+    }
+
+    @Test
+    @Transactional
     void getAllUsersSortedByParameters() throws Exception {
         // Initialize the database
         userRepository.saveAndFlush(user);

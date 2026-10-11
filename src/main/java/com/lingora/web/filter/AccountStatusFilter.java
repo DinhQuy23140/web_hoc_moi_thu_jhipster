@@ -15,8 +15,9 @@ import org.springframework.web.filter.OncePerRequestFilter;
 
 /**
  * Runs after the Spring Security chain (which has already validated the JWT) and rejects
- * requests of accounts that were locked or deleted, and admin calls of users whose admin
- * role was revoked, without waiting for their tokens to expire.
+ * requests of accounts that were locked or deleted, tokens issued before the last password
+ * change, and admin calls of users whose admin role was revoked, without waiting for their
+ * tokens to expire.
  */
 @Component
 public class AccountStatusFilter extends OncePerRequestFilter {
@@ -41,6 +42,11 @@ public class AccountStatusFilter extends OncePerRequestFilter {
             AccountStatusCache.Status s = statuses.get(userId.orElseThrow());
             if (!s.exists() || s.locked()) {
                 reject(response, HttpStatus.UNAUTHORIZED, "account-locked");
+                return;
+            }
+            String stamp = SecurityUtils.getCurrentTokenClaim(SecurityUtils.PASSWORD_STAMP_CLAIM).orElse(null);
+            if (stamp != null && !stamp.equals(s.passwordStamp())) {
+                reject(response, HttpStatus.UNAUTHORIZED, "token-revoked");
                 return;
             }
             if (request.getRequestURI().startsWith("/api/admin/") && !s.admin()) {

@@ -24,7 +24,18 @@ public final class SecurityUtils {
 
     public static final String USER_ID_CLAIM = "userId";
 
+    /** Fingerprint of the password hash at sign-in; tokens with an outdated stamp are rejected. */
+    public static final String PASSWORD_STAMP_CLAIM = "pwd";
+
     private SecurityUtils() {}
+
+    /** A string claim of the current JWT, if any. */
+    public static Optional<String> getCurrentTokenClaim(String claim) {
+        SecurityContext securityContext = SecurityContextHolder.getContext();
+        return Optional.ofNullable(securityContext.getAuthentication())
+            .filter(authentication -> authentication.getPrincipal() instanceof ClaimAccessor)
+            .map(authentication -> ((ClaimAccessor) authentication.getPrincipal()).getClaimAsString(claim));
+    }
 
     /**
      * Get the login of the current user.

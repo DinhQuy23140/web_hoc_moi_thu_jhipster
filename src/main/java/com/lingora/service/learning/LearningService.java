@@ -104,6 +104,18 @@ public class LearningService {
             });
     }
 
+    /**
+     * Activity reported by the browser. The XP must be backed by answered exercises and stops once the day's
+     * total reaches {@link Gamification#MAX_CLIENT_XP_PER_DAY}; lessons and words only come from server-side flows.
+     */
+    public ObjectNode recordClientActivity(Long userId, ActivityInput in, ZoneId zone) {
+        lockProfile(userId);
+        int earnedToday = dayStats.findXp(userId, LocalDate.now(zone)).orElse(0);
+        int xp = Math.min(in.xp(), in.exercises() * Gamification.MAX_CLIENT_XP_PER_EXERCISE + Gamification.MAX_CLIENT_XP_BONUS);
+        xp = Math.max(0, Math.min(xp, Gamification.MAX_CLIENT_XP_PER_DAY - earnedToday));
+        return recordActivity(userId, new ActivityInput(xp, in.minutes(), 0, in.exercises(), 0), zone);
+    }
+
     public ObjectNode recordActivity(Long userId, ActivityInput in, ZoneId zone) {
         UserProfile p = lockProfile(userId);
         LocalDate today = LocalDate.now(zone);

@@ -16,9 +16,12 @@ public interface VocabularyRepository extends JpaRepository<Vocabulary, String> 
     )
     Page<Vocabulary> search(String languageId, String level, String prefix, Pageable pageable);
 
-    List<Vocabulary> findAllByLanguageIdAndLevel(String languageId, String level, Pageable pageable);
-
-    List<Vocabulary> findAllByLanguageId(String languageId, Pageable pageable);
+    /** Ids in id order: every entry of {@code level}, or without a level only regular words (no kana chart or single kanji). */
+    @Query(
+        "select v.id from Vocabulary v where v.languageId = :languageId and (:level is null or v.level = :level) " +
+        "and (:level is not null or (v.level <> 'KANA' and coalesce(v.pos, '') <> 'kanji')) order by v.id"
+    )
+    List<String> findPoolIds(String languageId, String level);
 
     List<Vocabulary> findAllByLanguageIdAndWordLcIn(String languageId, Collection<String> words);
 

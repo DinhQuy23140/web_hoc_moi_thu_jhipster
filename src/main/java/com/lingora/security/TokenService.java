@@ -2,6 +2,7 @@ package com.lingora.security;
 
 import static com.lingora.security.SecurityUtils.AUTHORITIES_CLAIM;
 import static com.lingora.security.SecurityUtils.JWT_ALGORITHM;
+import static com.lingora.security.SecurityUtils.PASSWORD_STAMP_CLAIM;
 import static com.lingora.security.SecurityUtils.USER_ID_CLAIM;
 
 import com.lingora.security.DomainUserDetailsService.UserWithId;
@@ -22,6 +23,7 @@ import org.springframework.stereotype.Service;
 public class TokenService {
 
     private final JwtEncoder jwtEncoder;
+    private final AccountStatusCache statuses;
 
     @Value("${jhipster.security.authentication.jwt.token-validity-in-seconds:0}")
     private long tokenValidityInSeconds;
@@ -29,8 +31,9 @@ public class TokenService {
     @Value("${jhipster.security.authentication.jwt.token-validity-in-seconds-for-remember-me:0}")
     private long tokenValidityInSecondsForRememberMe;
 
-    public TokenService(JwtEncoder jwtEncoder) {
+    public TokenService(JwtEncoder jwtEncoder, AccountStatusCache statuses) {
         this.jwtEncoder = jwtEncoder;
+        this.statuses = statuses;
     }
 
     public String createToken(Authentication authentication, boolean rememberMe) {
@@ -44,6 +47,7 @@ public class TokenService {
             .claim(AUTHORITIES_CLAIM, authorities);
         if (authentication.getPrincipal() instanceof UserWithId user) {
             builder.claim(USER_ID_CLAIM, user.getId());
+            builder.claim(PASSWORD_STAMP_CLAIM, statuses.refresh(user.getId()).passwordStamp());
         }
         JwsHeader jwsHeader = JwsHeader.with(JWT_ALGORITHM).build();
         return jwtEncoder.encode(JwtEncoderParameters.from(jwsHeader, builder.build())).getTokenValue();

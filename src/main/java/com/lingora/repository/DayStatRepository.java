@@ -11,6 +11,10 @@ import org.springframework.data.jpa.repository.Query;
 public interface DayStatRepository extends JpaRepository<DayStat, Long> {
     Optional<DayStat> findOneByUserIdAndDay(Long userId, LocalDate day);
 
+    /** XP of the day read from the database (not a possibly stale managed entity). */
+    @Query("select d.xp from DayStat d where d.userId = :userId and d.day = :day")
+    Optional<Integer> findXp(Long userId, LocalDate day);
+
     List<DayStat> findAllByUserIdAndDayBetween(Long userId, LocalDate from, LocalDate to);
 
     List<DayStat> findAllByUserId(Long userId);

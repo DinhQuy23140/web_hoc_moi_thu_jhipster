@@ -1,5 +1,6 @@
 package com.lingora.web.rest;
 
+import com.lingora.security.AuthoritiesConstants;
 import com.lingora.service.UserService;
 import com.lingora.service.dto.UserDTO;
 import java.util.*;
@@ -11,6 +12,7 @@ import org.springframework.data.domain.Sort;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
+import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 import tech.jhipster.web.util.PaginationUtil;
@@ -38,12 +40,13 @@ public class PublicUserResource {
     }
 
     /**
-     * {@code GET /users} : get all users with only public information - calling this method is allowed for anyone.
+     * {@code GET /users} : get all users with only public information. Admin-only: logins are email addresses.
      *
      * @param pageable the pagination information.
      * @return the {@link ResponseEntity} with status {@code 200 (OK)} and with body all users.
      */
     @GetMapping("/users")
+    @PreAuthorize("hasAuthority(\"" + AuthoritiesConstants.ADMIN + "\")")
     public ResponseEntity<List<UserDTO>> getAllPublicUsers(@org.springdoc.core.annotations.ParameterObject Pageable pageable) {
         LOG.debug("REST request to get all public User names");
         if (!onlyContainsAllowedProperties(pageable)) {

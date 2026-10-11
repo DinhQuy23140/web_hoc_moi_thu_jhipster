@@ -11,7 +11,6 @@ import java.util.stream.Collectors;
 import org.springframework.cache.annotation.Cacheable;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;
-import org.springframework.data.domain.Sort;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 import tools.jackson.databind.JsonNode;
@@ -27,6 +26,7 @@ import tools.jackson.databind.node.ObjectNode;
 public class ContentQueryService {
 
     public static final String CACHE = "lingora.content";
+    private static final int POOL_SIZE = 400;
 
     private final LanguageRepository languages;
     private final CertificateRepository certificates;
@@ -274,10 +274,13 @@ public class ContentQueryService {
 
     @Cacheable(cacheNames = CACHE, key = "'pool:' + #languageId + ':' + #level")
     public ArrayNode vocabPool(String languageId, String level) {
-        PageRequest first = PageRequest.of(0, 400, Sort.by("id"));
-        List<Vocabulary> rows = level == null || level.isBlank()
-            ? vocabularies.findAllByLanguageId(languageId, first)
-            : vocabularies.findAllByLanguageIdAndLevel(languageId, level, first);
+        // Evenly spaced sample so the pool spans the whole list instead of the first ids alphabetically.
+        List<String> ids = vocabularies.findPoolIds(languageId, level == null || level.isBlank() ? null : level);
+        int step = Math.max(1, ids.size() / POOL_SIZE);
+        List<String> picked = new ArrayList<>();
+        for (int i = 0; i < ids.size() && picked.size() < POOL_SIZE; i += step) picked.add(ids.get(i));
+        List<Vocabulary> rows = new ArrayList<>(vocabularies.findAllById(picked));
+        rows.sort(Comparator.comparing(v -> v.id));
         ArrayNode out = Json.arr();
         rows.forEach(v -> out.add(toJson(v)));
         return out;

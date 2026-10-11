@@ -19,6 +19,11 @@ public final class Gamification {
     public static final int XP_STREAK_7 = 100;
     /** Per-request XP ceiling. */
     public static final int MAX_XP_PER_WRITE = 500;
+    /** Client-reported XP (games, reviews, exams, quests) per answered exercise, plus a flat bonus per request. */
+    public static final int MAX_CLIENT_XP_PER_EXERCISE = 3;
+    public static final int MAX_CLIENT_XP_BONUS = 50;
+    /** Total XP of a day above which client-reported XP is no longer granted. */
+    public static final int MAX_CLIENT_XP_PER_DAY = 1000;
     public static final int MAX_STREAK_FREEZES = 2;
 
     private Gamification() {}

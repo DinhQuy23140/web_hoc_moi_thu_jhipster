@@ -54,7 +54,7 @@ public class MeResource {
     @GetMapping("/me/export")
     public ResponseEntity<ObjectNode> export() {
         return ResponseEntity.ok()
-            .header(HttpHeaders.CONTENT_DISPOSITION, "attachment; filename=\"lingora-export.json\"")
+            .header(HttpHeaders.CONTENT_DISPOSITION, "attachment; filename=\"mam-export.json\"")
             .body(learning.export(currentUserId()));
     }
 
@@ -62,7 +62,7 @@ public class MeResource {
 
     @PostMapping("/me/activity")
     public ObjectNode activity(@RequestBody JsonNode body, @RequestHeader(value = TZ, required = false) String tz) {
-        return learning.recordActivity(currentUserId(), ActivityInput.of(body), zone(tz, properties));
+        return learning.recordClientActivity(currentUserId(), ActivityInput.of(body), zone(tz, properties));
     }
 
     @PostMapping("/me/lessons/{lessonId}/complete")

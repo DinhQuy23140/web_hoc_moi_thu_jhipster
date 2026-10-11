@@ -1,15 +1,19 @@
 package com.lingora.security.jwt;
 
+import com.lingora.config.ApplicationProperties;
 import com.lingora.config.SecurityConfiguration;
 import com.lingora.config.SecurityJwtConfiguration;
 import com.lingora.config.WebConfigurer;
 import com.lingora.management.SecurityMetersService;
+import com.lingora.security.TokenService;
+import com.lingora.service.GoogleAuthService;
 import com.lingora.web.rest.AuthenticateController;
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;
 import java.lang.annotation.Target;
 import org.springframework.boot.test.context.SpringBootTest;
+import org.springframework.test.context.bean.override.mockito.MockitoBean;
 import tech.jhipster.config.JHipsterProperties;
 
 @Target(ElementType.TYPE)
@@ -21,6 +25,7 @@ import tech.jhipster.config.JHipsterProperties;
     },
     classes = {
         JHipsterProperties.class,
+        ApplicationProperties.class,
         WebConfigurer.class,
         SecurityConfiguration.class,
         SecurityJwtConfiguration.class,
@@ -29,4 +34,5 @@ import tech.jhipster.config.JHipsterProperties;
         JwtAuthenticationTestUtils.class,
     }
 )
+@MockitoBean(types = { TokenService.class, GoogleAuthService.class })
 public @interface AuthenticationIntegrationTest {}

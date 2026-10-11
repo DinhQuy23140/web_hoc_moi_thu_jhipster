@@ -95,7 +95,6 @@ public class SecurityConfiguration {
                     .requestMatchers("/management/health").permitAll()
                     .requestMatchers("/management/health/**").permitAll()
                     .requestMatchers("/management/info").permitAll()
-                    .requestMatchers("/management/prometheus").permitAll()
                     .requestMatchers("/management/**").hasAuthority(AuthoritiesConstants.ADMIN)
                     // Angular bundle and client-side routes (forwarded to index.html by SpaWebFilter)
                     .anyRequest().permitAll()

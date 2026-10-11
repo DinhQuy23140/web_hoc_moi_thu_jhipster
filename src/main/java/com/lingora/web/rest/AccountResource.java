@@ -145,13 +145,8 @@ public class AccountResource {
         if (user.isEmpty()) {
             throw new AccountResourceException("User could not be found");
         }
-        userService.updateUser(
-            userDTO.getFirstName(),
-            userDTO.getLastName(),
-            userDTO.getEmail(),
-            userDTO.getLangKey(),
-            userDTO.getImageUrl()
-        );
+        // The email is the sign-in name and is never changed here: an unverified address would take over the account.
+        userService.updateUser(userDTO.getFirstName(), userDTO.getLastName(), null, userDTO.getLangKey(), userDTO.getImageUrl());
     }
 
     /**

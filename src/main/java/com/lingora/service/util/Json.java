@@ -56,7 +56,16 @@ public final class Json {
         if (node == null) return def;
         JsonNode v = node.get(field);
         if (isAbsent(v)) return def;
-        return v.isNumber() ? (int) Math.round(v.asDouble()) : v.asInt(def);
+        if (!v.isNumber()) return v.asInt(def);
+        double d = toDouble(v, def);
+        return (int) Math.max(Integer.MIN_VALUE, Math.min(Integer.MAX_VALUE, Math.round(d)));
+    }
+
+    /** Out-of-range numbers (e.g. huge BigIntegers) fall back to {@code def} instead of throwing. */
+    private static double toDouble(JsonNode v, double def) {
+        if (!v.isNumber()) return v.asDouble(def);
+        double d = v.numberValue().doubleValue();
+        return Double.isFinite(d) ? d : def;
     }
 
     public static Integer integerOrNull(JsonNode node, String field) {
@@ -68,7 +77,7 @@ public final class Json {
     public static double number(JsonNode node, String field, double def) {
         if (node == null) return def;
         JsonNode v = node.get(field);
-        return isAbsent(v) ? def : v.asDouble(def);
+        return isAbsent(v) ? def : toDouble(v, def);
     }
 
     public static boolean bool(JsonNode node, String field, boolean def) {
