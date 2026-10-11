@@ -6,6 +6,7 @@ import { I18N_PIPES } from '../core/i18n.pipes';
 import { LearnContextService, TARGETS, TargetLang } from '../core/learn-context.service';
 import { ReminderService } from '../core/reminder.service';
 import { dateKey } from '../core/utils';
+import { BrandMarkComponent } from '../shared/brand-mark.component';
 import { IconComponent } from '../shared/icon.component';
 import { AnnouncementBannerComponent } from './announcement-banner.component';
 import { SettingsMenuComponent } from './settings-menu.component';
@@ -22,7 +23,7 @@ interface NavItem {
 
 @Component({
   selector: 'app-shell',
-  imports: [RouterOutlet, RouterLink, RouterLinkActive, IconComponent, SettingsMenuComponent, AnnouncementBannerComponent, ...I18N_PIPES],
+  imports: [RouterOutlet, RouterLink, RouterLinkActive, IconComponent, BrandMarkComponent, SettingsMenuComponent, AnnouncementBannerComponent, ...I18N_PIPES],
   changeDetection: ChangeDetectionStrategy.OnPush,
   template: `
     <a href="#main" class="sr-only focus:not-sr-only focus:fixed focus:left-2 focus:top-2 focus:z-50 btn-primary">{{ 'nav.skip' | t }}</a>
@@ -30,7 +31,7 @@ interface NavItem {
       <!-- Desktop / tablet-landscape sidebar -->
       <aside class="sticky top-0 hidden h-dvh w-64 shrink-0 flex-col border-r border-line bg-surface px-3 py-5 lg:flex">
         <a routerLink="/dashboard" class="mb-6 flex items-center gap-2 px-3">
-          <img src="brand/mam-mark.svg" alt="" class="h-9 w-9" width="36" height="36" />
+          <app-brand-mark class="h-9 w-9" />
           <span class="font-display text-xl font-black tracking-tight">Mầm<span class="text-accent" aria-hidden="true">.</span></span>
         </a>
         <nav class="flex flex-1 flex-col gap-1 overflow-y-auto" aria-label="Main">
@@ -57,7 +58,7 @@ interface NavItem {
         <header class="sticky top-0 z-40 border-b border-line bg-surface/90 backdrop-blur" style="padding-top: env(safe-area-inset-top)">
           <div class="mx-auto flex h-16 max-w-7xl items-center gap-2 px-3 sm:px-6 lg:px-8 2xl:max-w-[100rem] 2xl:px-10">
             <a routerLink="/dashboard" class="flex items-center gap-2 lg:hidden" aria-label="Mầm">
-              <img src="brand/mam-mark.svg" alt="" class="h-9 w-9" width="36" height="36" />
+              <app-brand-mark class="h-9 w-9" />
             </a>
             <div class="flex rounded-xl bg-surface-2 p-1" role="group" [attr.aria-label]="'nav.learning' | t">
               @for (code of targetCodes; track code) {
@@ -96,7 +97,7 @@ interface NavItem {
           [attr.aria-hidden]="!ctx.switching()" role="status" aria-live="polite">
           @if (cover(); as c) {
             <div class="flex flex-col items-center gap-4 text-center" [class.lang-cover-in]="!!ctx.switching()">
-              <img src="brand/mam-mark.svg" alt="" class="animate-breathe h-16 w-16 rounded-[23%]" width="64" height="64" />
+              <app-brand-mark class="animate-breathe h-16 w-16 rounded-[23%]" />
               <p class="font-display text-xl font-black">
                 <span class="mr-1">{{ c.flag }}</span>{{ c.label }}
               </p>

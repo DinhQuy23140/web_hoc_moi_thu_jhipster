@@ -1,4 +1,5 @@
 import { Injectable, effect, signal } from '@angular/core';
+import { brandMarkDataUrl } from '../shared/brand-mark.component';
 import { Palette, ThemeMode } from './models';
 
 interface ThemeSettings {
@@ -39,6 +40,7 @@ export class ThemeService {
       root.setAttribute('data-palette', s.palette);
       root.style.setProperty('--font-scale', String(s.fontScale));
       document.querySelector('meta[name="theme-color"]')?.setAttribute('content', THEME_COLORS[s.palette]);
+      document.querySelector('link[rel="icon"]')?.setAttribute('href', brandMarkDataUrl(getComputedStyle(root)));
       localStorage.setItem(KEY, JSON.stringify(s));
     });
   }

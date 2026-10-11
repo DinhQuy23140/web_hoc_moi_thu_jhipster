@@ -64,12 +64,33 @@
   --i-chevron: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%235b6474' stroke-width='2.6' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='m7.5 10 4.5 4.5 4.5-4.5'/%3E%3C/svg%3E");
   --i-check: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23ffffff' stroke-width='3.2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M5.5 12.5l4 4L18.5 7.5'/%3E%3C/svg%3E");
   color-scheme: light;
+
+  /* Brand mark (app-brand-mark): tile follows the palette, the leaf stays warm. */
+  --logo-bg-a: color-mix(in srgb, var(--c-primary) 78%, #ffffff);
+  --logo-bg-b: color-mix(in srgb, var(--c-primary) 82%, #000000);
+  --logo-leaf-a: #f97316;
+  --logo-leaf-b: #fdba74;
+  --logo-ink: #ffffff;
+  --logo-edge: transparent;
+
+  /* Page backdrop: glows on body::before, illustration in app-backdrop. */
+  --bd-a: color-mix(in srgb, var(--c-primary) 22%, transparent);
+  --bd-b: color-mix(in srgb, var(--c-accent) 17%, transparent);
+  --bd-c: color-mix(in srgb, var(--c-info) 13%, transparent);
+  --bd-ink: color-mix(in srgb, var(--c-primary) 15%, transparent);
+  --bd-ink-strong: color-mix(in srgb, var(--c-primary) 40%, transparent);
+  --bd-accent: color-mix(in srgb, var(--c-accent) 32%, transparent);
+  --bd-pill: var(--c-bg);
+  --bd-hill-back: color-mix(in srgb, var(--c-primary) 7%, transparent);
+  --bd-hill-front: color-mix(in srgb, var(--c-primary) 12%, transparent);
+  --bd-sprout: color-mix(in srgb, var(--c-primary) 32%, transparent);
+  --bd-sprout-accent: color-mix(in srgb, var(--c-accent) 50%, transparent);
 }
 
 [data-palette='sakura'] { --c-primary: #db2777; --c-primary-soft: #fdf0f6; }
 [data-palette='ocean'] { --c-primary: #0369a1; --c-primary-soft: #e8f4fb; }
 [data-palette='forest'] { --c-primary: #15803d; --c-primary-soft: #eaf7ee; }
-[data-palette='sunset'] { --c-primary: #c2410c; --c-primary-soft: #fdf1e9; }
+[data-palette='sunset'] { --c-primary: #c2410c; --c-primary-soft: #fdf1e9; --logo-leaf-a: #facc15; --logo-leaf-b: #fef08a; }
 
 [data-mode='dark'] {
   --c-bg: #0f1420;
@@ -90,6 +111,18 @@
   --i-chevron: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%239aa3b5' stroke-width='2.6' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='m7.5 10 4.5 4.5 4.5-4.5'/%3E%3C/svg%3E");
   --i-check: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%230f1420' stroke-width='3.2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M5.5 12.5l4 4L18.5 7.5'/%3E%3C/svg%3E");
   color-scheme: dark;
+  --logo-bg-a: var(--c-primary);
+  --logo-bg-b: color-mix(in srgb, var(--c-primary) 50%, #000000);
+  --bd-a: color-mix(in srgb, var(--c-primary) 24%, transparent);
+  --bd-b: color-mix(in srgb, var(--c-accent) 11%, transparent);
+  --bd-c: color-mix(in srgb, var(--c-info) 11%, transparent);
+  --bd-ink: color-mix(in srgb, var(--c-primary) 17%, transparent);
+  --bd-ink-strong: color-mix(in srgb, var(--c-primary) 42%, transparent);
+  --bd-accent: color-mix(in srgb, var(--c-accent) 28%, transparent);
+  --bd-hill-back: color-mix(in srgb, var(--c-primary) 8%, transparent);
+  --bd-hill-front: color-mix(in srgb, var(--c-primary) 13%, transparent);
+  --bd-sprout: color-mix(in srgb, var(--c-primary) 34%, transparent);
+  --bd-sprout-accent: color-mix(in srgb, var(--c-accent) 42%, transparent);
 }
 [data-mode='dark'][data-palette='sakura'] { --c-primary: #f472b6; --c-primary-soft: #3a2133; }
 [data-mode='dark'][data-palette='ocean'] { --c-primary: #38bdf8; --c-primary-soft: #16304a; }
@@ -104,6 +137,15 @@
   --c-muted: #6b5d4a;
   --c-line: #e0d3b5;
   --i-chevron: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%236b5d4a' stroke-width='2.6' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='m7.5 10 4.5 4.5 4.5-4.5'/%3E%3C/svg%3E");
+  --logo-bg-a: color-mix(in srgb, var(--c-primary) 80%, #f4ecd8);
+  --logo-bg-b: color-mix(in srgb, var(--c-primary) 78%, #3b3226);
+  --bd-a: color-mix(in srgb, var(--c-primary) 14%, transparent);
+  --bd-b: color-mix(in srgb, var(--c-accent) 18%, transparent);
+  --bd-c: color-mix(in srgb, #a16207 11%, transparent);
+  --bd-ink: color-mix(in srgb, #6b5d4a 17%, transparent);
+  --bd-ink-strong: color-mix(in srgb, #6b5d4a 48%, transparent);
+  --bd-hill-back: color-mix(in srgb, #a16207 8%, transparent);
+  --bd-hill-front: color-mix(in srgb, var(--c-primary) 11%, transparent);
 }
 
 [data-mode='contrast'] {
@@ -122,6 +164,11 @@
   --i-chevron: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23ffffff' stroke-width='2.6' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='m7.5 10 4.5 4.5 4.5-4.5'/%3E%3C/svg%3E");
   --i-check: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23000000' stroke-width='3.2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M5.5 12.5l4 4L18.5 7.5'/%3E%3C/svg%3E");
   color-scheme: dark;
+  --logo-bg-a: #000000;
+  --logo-bg-b: #000000;
+  --logo-leaf-a: var(--c-primary);
+  --logo-leaf-b: var(--c-primary);
+  --logo-edge: var(--c-primary);
 }
 
 html {
@@ -136,6 +183,31 @@ body {
   font-family: var(--font-sans);
   line-height: 1.55;
   -webkit-font-smoothing: antialiased;
+}
+
+/*
+ * Page backdrop, first layer: soft palette-tinted glows (the illustration is app-backdrop).
+ * A fixed layer at z-index -1 sits above the canvas color but below every page, so only areas
+ * without their own surface (main column, auth and landing pages) show it.
+ */
+body::before {
+  content: '';
+  position: fixed;
+  z-index: -1;
+  pointer-events: none;
+  inset: -10vmax;
+  background:
+    radial-gradient(44vmax 36vmax at 20% 16%, var(--bd-a), transparent 70%),
+    radial-gradient(36vmax 30vmax at 84% 22%, var(--bd-b), transparent 70%),
+    radial-gradient(46vmax 38vmax at 70% 86%, var(--bd-c), transparent 70%),
+    radial-gradient(30vmax 26vmax at 14% 80%, var(--bd-b), transparent 70%);
+  animation: backdrop-drift 48s ease-in-out infinite alternate;
+}
+[data-mode='contrast'] body::before {
+  display: none;
+}
+@media print {
+  body::before { display: none; }
 }
 
 :lang(ja), .jp { font-family: var(--font-jp); }
@@ -546,6 +618,12 @@ dialog.app-dialog::backdrop {
     animation-duration: 0.01ms !important;
     transition-duration: 0.01ms !important;
   }
+  body::before { animation: none; }
+}
+
+@keyframes backdrop-drift {
+  from { transform: none; }
+  to { transform: translate3d(2.5vmax, -2vmax, 0) scale(1.06); }
 }
 
 @keyframes pop-in {

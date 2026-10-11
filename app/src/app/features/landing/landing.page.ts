@@ -5,17 +5,18 @@ import { ContentService } from '../../core/content.service';
 import { I18N_PIPES } from '../../core/i18n.pipes';
 import { Certificate } from '../../core/models';
 import { SettingsMenuComponent } from '../../layout/settings-menu.component';
+import { BrandMarkComponent } from '../../shared/brand-mark.component';
 import { IconComponent } from '../../shared/icon.component';
 
 @Component({
   selector: 'app-landing',
-  imports: [RouterLink, IconComponent, SettingsMenuComponent, ...I18N_PIPES],
+  imports: [RouterLink, IconComponent, BrandMarkComponent, SettingsMenuComponent, ...I18N_PIPES],
   changeDetection: ChangeDetectionStrategy.OnPush,
   template: `
     <header class="sticky top-0 z-30 border-b border-line bg-bg/85 backdrop-blur">
       <div class="mx-auto flex h-16 max-w-6xl items-center gap-3 px-4 sm:px-6">
         <a routerLink="/" class="flex items-center gap-2">
-          <img src="brand/mam-mark.svg" alt="" class="h-9 w-9" width="36" height="36" />
+          <app-brand-mark class="h-9 w-9" />
           <span class="font-display text-xl font-black">Mầm<span class="text-accent" aria-hidden="true">.</span></span>
         </a>
         <div class="flex-1"></div>

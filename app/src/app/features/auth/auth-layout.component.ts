@@ -1,16 +1,17 @@
 import { ChangeDetectionStrategy, Component, input } from '@angular/core';
 import { RouterLink } from '@angular/router';
 import { SettingsMenuComponent } from '../../layout/settings-menu.component';
+import { BrandMarkComponent } from '../../shared/brand-mark.component';
 
 @Component({
   selector: 'app-auth-layout',
-  imports: [RouterLink, SettingsMenuComponent],
+  imports: [RouterLink, SettingsMenuComponent, BrandMarkComponent],
   changeDetection: ChangeDetectionStrategy.OnPush,
   template: `
     <div class="flex min-h-dvh flex-col">
       <header class="flex h-16 items-center justify-between px-4 sm:px-8">
         <a routerLink="/" class="flex items-center gap-2">
-          <img src="brand/mam-mark.svg" alt="" class="h-9 w-9" width="36" height="36" />
+          <app-brand-mark class="h-9 w-9" />
           <span class="font-display text-xl font-black">Mầm<span class="text-accent" aria-hidden="true">.</span></span>
         </a>
         <app-settings-menu />
