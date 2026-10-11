@@ -1,9 +1,49 @@
 {
  "counters": {
+  "en.a1.exercise": 11,
+  "en.a1.vocab": 10,
+  "ja.n5.exercise": 16,
   "ja.n5.kanji": 10,
   "ja.n5.vocab": 10
  },
  "ids": {
+  "en|breakfast|/ˈbɹɛk.fəst/|noun": "en.a1.vocab.00004",
+  "en|drink|/ˈdɹɪŋk/|verb": "en.a1.vocab.00002",
+  "en|eat|/iːt/|verb": "en.a1.vocab.00001",
+  "en|friend|/fɹɛnd/|noun": "en.a1.vocab.00007",
+  "en|go|/ɡəʊ/|verb": "en.a1.vocab.00009",
+  "en|house|/haʊ̯s/|noun": "en.a1.vocab.00008",
+  "en|school|/skuːl/|noun": "en.a1.vocab.00005",
+  "en|see|/siː/|verb": "en.a1.vocab.00010",
+  "en|teacher|/ˈtiː.t͡ʃəː/|noun": "en.a1.vocab.00006",
+  "en|water|/ˈwɔː.tə/|noun": "en.a1.vocab.00003",
+  "ex|en.a1.incomplete_sentences.daily_life|is-ate": "en.a1.exercise.00009",
+  "ex|en.a1.incomplete_sentences.daily_life|is-drink-glass": "en.a1.exercise.00010",
+  "ex|en.a1.incomplete_sentences.daily_life|is-drink-water": "en.a1.exercise.00002",
+  "ex|en.a1.incomplete_sentences.daily_life|is-eat-breakfast": "en.a1.exercise.00001",
+  "ex|en.a1.incomplete_sentences.daily_life|is-friend": "en.a1.exercise.00006",
+  "ex|en.a1.incomplete_sentences.daily_life|is-go": "en.a1.exercise.00007",
+  "ex|en.a1.incomplete_sentences.daily_life|is-house": "en.a1.exercise.00005",
+  "ex|en.a1.incomplete_sentences.daily_life|is-school": "en.a1.exercise.00004",
+  "ex|en.a1.incomplete_sentences.daily_life|is-see": "en.a1.exercise.00008",
+  "ex|en.a1.incomplete_sentences.daily_life|is-sees": "en.a1.exercise.00011",
+  "ex|en.a1.incomplete_sentences.daily_life|is-teacher": "en.a1.exercise.00003",
+  "ex|ja.n5.moji_goi.daily_life|cx-asagohan": "ja.n5.exercise.00014",
+  "ex|ja.n5.moji_goi.daily_life|cx-ikimasu": "ja.n5.exercise.00015",
+  "ex|ja.n5.moji_goi.daily_life|cx-mizu": "ja.n5.exercise.00012",
+  "ex|ja.n5.moji_goi.daily_life|cx-sensei": "ja.n5.exercise.00016",
+  "ex|ja.n5.moji_goi.daily_life|cx-tomodachi": "ja.n5.exercise.00013",
+  "ex|ja.n5.moji_goi.daily_life|kr-gakkou": "ja.n5.exercise.00001",
+  "ex|ja.n5.moji_goi.daily_life|kr-ikimasu": "ja.n5.exercise.00006",
+  "ex|ja.n5.moji_goi.daily_life|kr-mimasu": "ja.n5.exercise.00004",
+  "ex|ja.n5.moji_goi.daily_life|kr-mizu": "ja.n5.exercise.00003",
+  "ex|ja.n5.moji_goi.daily_life|kr-nan": "ja.n5.exercise.00005",
+  "ex|ja.n5.moji_goi.daily_life|kr-sensei": "ja.n5.exercise.00002",
+  "ex|ja.n5.moji_goi.daily_life|or-gakkou": "ja.n5.exercise.00010",
+  "ex|ja.n5.moji_goi.daily_life|or-mini": "ja.n5.exercise.00008",
+  "ex|ja.n5.moji_goi.daily_life|or-nan": "ja.n5.exercise.00009",
+  "ex|ja.n5.moji_goi.daily_life|or-sensei": "ja.n5.exercise.00011",
+  "ex|ja.n5.moji_goi.daily_life|or-tabemasu": "ja.n5.exercise.00007",
   "ja|何||kanji": "ja.n5.kanji.00010",
   "ja|先||kanji": "ja.n5.kanji.00005",
   "ja|先生|せんせい|n": "ja.n5.vocab.00006",
@@ -26,6 +66,154 @@
   "ja|飲む|のむ|v5m,vt": "ja.n5.vocab.00002"
  },
  "versions": {
+  "en.a1.exercise.00001": {
+   "hash": "fde567ab1cdc239c1723d25948e2a8c5ec544f980921da0f9438d7a5a4120097",
+   "version": 1
+  },
+  "en.a1.exercise.00002": {
+   "hash": "f84fd39f0d234132f0c7b75ad6cf4fc5748f67b2736e6b156a4f8bb029f3aa5d",
+   "version": 1
+  },
+  "en.a1.exercise.00003": {
+   "hash": "1efb5bbf771d8f1a22a52d4981ceecb84bf45ff1b33f98b2798807ba86e0c2d2",
+   "version": 1
+  },
+  "en.a1.exercise.00004": {
+   "hash": "1d615ea9d1675099088c06cf834ffb8f645878e5ad96499ab7859597bd7346ba",
+   "version": 1
+  },
+  "en.a1.exercise.00005": {
+   "hash": "f16b380d0cf28efa23539876c059c061e81f93d18a810208f733b9d6e55da66e",
+   "version": 1
+  },
+  "en.a1.exercise.00006": {
+   "hash": "281112c066ae94a6b8496732373fa8f23191fee490a68c5f2d49d7da1ffc5d22",
+   "version": 1
+  },
+  "en.a1.exercise.00007": {
+   "hash": "de6cfb43a8e03942a32819b2b4d7482de207b00d010ce1c6845be89f61e7d0f4",
+   "version": 1
+  },
+  "en.a1.exercise.00008": {
+   "hash": "804e5b869117c31d9ed7764f827ad888cc32630c821dee6cff5f8ca9624e590e",
+   "version": 1
+  },
+  "en.a1.exercise.00009": {
+   "hash": "c85599f1fac8427bf95ee2d1c042516f1243ef8bc934d5a94ef297fd4b100434",
+   "version": 1
+  },
+  "en.a1.exercise.00010": {
+   "hash": "5c88922f9ebf6ebc5771bc7564d655e7e558b4b076cc7afc45f7e030db5a337e",
+   "version": 1
+  },
+  "en.a1.exercise.00011": {
+   "hash": "0fbe334882f4d9af977bd4e8a706b54181a60676120aec6d764267acd4d60f3f",
+   "version": 1
+  },
+  "en.a1.vocab.00001": {
+   "hash": "3c52e3a44825216d0bb4551077b3b95f9c27058932c571531a7f753797d562d0",
+   "version": 1
+  },
+  "en.a1.vocab.00002": {
+   "hash": "a2fadc59c0addbfbf96c1e10cdd4c87458c448a833f3f04d1e8de1c67dbad9d1",
+   "version": 1
+  },
+  "en.a1.vocab.00003": {
+   "hash": "6fc72608e91bb001f3bd2c11ca0add1ede10dfd8b7eaffab408011411d07f0fb",
+   "version": 1
+  },
+  "en.a1.vocab.00004": {
+   "hash": "b51550c75a8c940756d023a113003904c15050e649a34e81209f7b5e8c4e292f",
+   "version": 1
+  },
+  "en.a1.vocab.00005": {
+   "hash": "f4e95a12675baf07eb903a2e1ee2e41d3bffc0fe4e9445503fc03aecf2a3923f",
+   "version": 1
+  },
+  "en.a1.vocab.00006": {
+   "hash": "3ce038f2f4ef39bc16cfbff74e1fc5d690d06cbaa7e67ab25cf1bde48b339044",
+   "version": 1
+  },
+  "en.a1.vocab.00007": {
+   "hash": "7366c9a48b58b44d79781233f16d7908cab1e372708e69adb2bca11541fbeb26",
+   "version": 1
+  },
+  "en.a1.vocab.00008": {
+   "hash": "f98bded5ea6934e30c89368e3c5330e586daaf2cc74a63a0cb8edb277c3ed7d9",
+   "version": 1
+  },
+  "en.a1.vocab.00009": {
+   "hash": "af7ce6ce96be245d2c63a9a94ad77ad9e5b2a203950373f37ff319c18fc7cdd2",
+   "version": 1
+  },
+  "en.a1.vocab.00010": {
+   "hash": "de7ad71f0aa24c9da10a389e0a58872dabce92b3b4dbc6173662883b8ea59de3",
+   "version": 1
+  },
+  "ja.n5.exercise.00001": {
+   "hash": "85938148a6015503da929369920a0d02fe3edba6de39299c80829b4ff4e28137",
+   "version": 1
+  },
+  "ja.n5.exercise.00002": {
+   "hash": "fffa2bf04d11c63744d1e70e69c10419cd9751a32bfffed35d583707e028d59c",
+   "version": 1
+  },
+  "ja.n5.exercise.00003": {
+   "hash": "4866a915e7e46e6ee22981fc21f4a4a0ef76789d24cb5906269a119d93e20a7e",
+   "version": 1
+  },
+  "ja.n5.exercise.00004": {
+   "hash": "9f529ad165f3239a8867bdf7b4acfe833b9a1c85da5235ed82620351f95de771",
+   "version": 1
+  },
+  "ja.n5.exercise.00005": {
+   "hash": "71606106ea97e56183b3de4111e28aafa0c8f8aa9cc509ddd4cb69ff2da5ed70",
+   "version": 1
+  },
+  "ja.n5.exercise.00006": {
+   "hash": "06e302e58c8bf31ff7185b58142920e92ac8caade8f04b216a96993bfb927736",
+   "version": 1
+  },
+  "ja.n5.exercise.00007": {
+   "hash": "0ee6834f5c13b72d55bd37a41597a4b725d951c742a47e7fc756b4ed36897ede",
+   "version": 1
+  },
+  "ja.n5.exercise.00008": {
+   "hash": "5b4ae6cfe2674cfbb8422ce75009bcfe92aecca634450fcb98e6dba24d6a5187",
+   "version": 1
+  },
+  "ja.n5.exercise.00009": {
+   "hash": "1812aa097754c2a63648783d7ea342fa6d048ade6fae91950b57562c715666ae",
+   "version": 1
+  },
+  "ja.n5.exercise.00010": {
+   "hash": "91e0e346ec2d20fe7a76a7379dbaea7656a6699cbb48e3343a7d80d0e911ac29",
+   "version": 1
+  },
+  "ja.n5.exercise.00011": {
+   "hash": "4d754c6237f355f71c9f4b6ce85074e2596d15258895b7b1afb4d1d963bc554a",
+   "version": 1
+  },
+  "ja.n5.exercise.00012": {
+   "hash": "72ddce0a1cb26544aa8587779c66a83f517df0793abc1429070a5018f8f5d361",
+   "version": 1
+  },
+  "ja.n5.exercise.00013": {
+   "hash": "f74eb4fb3ee9df9e41881215f65762d882373998c1cb9eabbf31605dba01b0c0",
+   "version": 1
+  },
+  "ja.n5.exercise.00014": {
+   "hash": "d1286590c5a1f0489dc8704e269212870232e5a203c9d5864498caeca58c912a",
+   "version": 1
+  },
+  "ja.n5.exercise.00015": {
+   "hash": "5e1a276d12517681fd114c7787213eeca41fc12f19abdb73418ec65e7fc33680",
+   "version": 1
+  },
+  "ja.n5.exercise.00016": {
+   "hash": "8454d4150d54ff126b2725ab866614a9eb826c95e1813c0978b6b3a05c55fd0d",
+   "version": 1
+  },
   "ja.n5.kanji.00001": {
    "hash": "ea37e6270bdcd368915b95ec75bc30506b0818500e66c3689b7169448e3cdb6e",
    "version": 1

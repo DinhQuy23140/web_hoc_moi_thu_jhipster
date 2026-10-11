@@ -1,0 +1,174 @@
+{
+ "set_id": "en.a1.incomplete_sentences.daily_life",
+ "node_id": "en.a1.vocab.daily_life",
+ "language": "en",
+ "level": "A1",
+ "exam": "TOEIC",
+ "exam_section": "Reading",
+ "format_source": "toeic_format",
+ "labels": ["(A)", "(B)", "(C)", "(D)"],
+ "allow": ["mr", "lee", "tom"],
+ "notes_vi": "Toàn bộ câu hỏi do web_ngon_ngu tự soạn, không lấy từ đề thi thật. Đây là bài làm quen với dạng TOEIC Part 5 (Incomplete Sentences, 4 lựa chọn), dùng từ vựng trình độ A1 nên dễ hơn đề thật. Phương án đầu tiên là đáp án; builder tự xáo vị trí.",
+ "types": {
+  "incomplete_sentence": {
+   "exam_part": "Part 5 — Incomplete Sentences",
+   "instruction": "Choose the best word to complete the sentence.",
+   "instruction_vi": "Chọn từ thích hợp nhất để hoàn thành câu.",
+   "skill_tag": "en.vocab.incomplete_sentence"
+  }
+ },
+ "items": [
+  {
+   "key": "is-eat-breakfast", "type": "incomplete_sentence", "difficulty": 1,
+   "targets": ["en.a1.vocab.00001", "en.a1.vocab.00004"],
+   "distractor_refs": ["en.a1.vocab.00002", "en.a1.vocab.00009", "en.a1.vocab.00010"],
+   "stem": "I ____ breakfast at seven every morning.",
+   "stem_vi": "Tôi ăn sáng lúc bảy giờ mỗi sáng.",
+   "options": [
+    {"text": "eat"},
+    {"text": "drink", "why_vi": "drink nghĩa là uống. breakfast là bữa ăn nên đi với eat hoặc have."},
+    {"text": "go", "why_vi": "go là nội động từ, không đi thẳng với tân ngữ breakfast (phải có giới từ, ví dụ go to)."},
+    {"text": "see", "why_vi": "see breakfast nghĩa là 'nhìn thấy bữa sáng', không hợp với thói quen 'mỗi sáng lúc bảy giờ'."}
+   ],
+   "explanation_vi": "eat breakfast nghĩa là ăn sáng. every morning chỉ thói quen nên dùng hiện tại đơn; chủ ngữ I nên giữ nguyên eat."
+  },
+  {
+   "key": "is-drink-water", "type": "incomplete_sentence", "difficulty": 1,
+   "targets": ["en.a1.vocab.00002", "en.a1.vocab.00003"],
+   "distractor_refs": ["en.a1.vocab.00001", "en.a1.vocab.00009", "en.a1.vocab.00010"],
+   "stem": "It is very hot today. I want to ____ some cold water.",
+   "stem_vi": "Hôm nay trời rất nóng. Tôi muốn uống chút nước lạnh.",
+   "options": [
+    {"text": "drink"},
+    {"text": "eat", "why_vi": "eat dùng cho đồ ăn, còn water là đồ uống."},
+    {"text": "go", "why_vi": "go không đi thẳng với tân ngữ water."},
+    {"text": "see", "why_vi": "'Muốn nhìn thấy nước lạnh' không hợp ngữ cảnh trời nóng muốn giải khát."}
+   ],
+   "explanation_vi": "drink water nghĩa là uống nước. Sau want to là động từ nguyên mẫu: want to drink."
+  },
+  {
+   "key": "is-teacher", "type": "incomplete_sentence", "difficulty": 1,
+   "targets": ["en.a1.vocab.00006", "en.a1.vocab.00005"],
+   "distractor_refs": ["en.a1.vocab.00008", "en.a1.vocab.00003", "en.a1.vocab.00004"],
+   "stem": "Mr. Lee teaches music. He is a ____ at my school.",
+   "stem_vi": "Thầy Lee dạy âm nhạc. Thầy là giáo viên ở trường tôi.",
+   "options": [
+    {"text": "teacher"},
+    {"text": "house", "why_vi": "house là ngôi nhà, không phải người, nên không thể 'He is a house'."},
+    {"text": "water", "why_vi": "water là nước, không đếm được nên không đi với a, và không chỉ người."},
+    {"text": "breakfast", "why_vi": "breakfast là bữa sáng, không chỉ người."}
+   ],
+   "explanation_vi": "teaches music cho biết đây là người dạy học, tức teacher. Sau a là danh từ đếm được số ít."
+  },
+  {
+   "key": "is-school", "type": "incomplete_sentence", "difficulty": 1,
+   "targets": ["en.a1.vocab.00005", "en.a1.vocab.00009"],
+   "distractor_refs": ["en.a1.vocab.00003", "en.a1.vocab.00008", "en.a1.vocab.00006"],
+   "stem": "My sister is seven. She goes to ____ every day.",
+   "stem_vi": "Em gái tôi bảy tuổi. Em ấy đi học mỗi ngày.",
+   "options": [
+    {"text": "school"},
+    {"text": "water", "why_vi": "go to water không có nghĩa."},
+    {"text": "house", "why_vi": "house là danh từ đếm được nên cần mạo từ hoặc từ sở hữu (go to her friend's house). Viết go to house là sai."},
+    {"text": "teacher", "why_vi": "teacher cũng cần mạo từ hoặc từ sở hữu, và 'đi đến giáo viên mỗi ngày' không hợp nghĩa."}
+   ],
+   "explanation_vi": "go to school (không có mạo từ) nghĩa là đi học. Một em bé bảy tuổi đi học mỗi ngày."
+  },
+  {
+   "key": "is-house", "type": "incomplete_sentence", "difficulty": 1,
+   "targets": ["en.a1.vocab.00008"],
+   "distractor_refs": ["en.a1.vocab.00005", "en.a1.vocab.00007", "en.a1.vocab.00003"],
+   "stem": "We live in a big ____. It has four rooms.",
+   "stem_vi": "Chúng tôi sống trong một ngôi nhà lớn. Nhà có bốn phòng.",
+   "options": [
+    {"text": "house"},
+    {"text": "school", "why_vi": "Người ta không sống trong trường học. live in a school là không tự nhiên."},
+    {"text": "friend", "why_vi": "friend là người, không thể sống bên trong và không có phòng."},
+    {"text": "water", "why_vi": "water không đếm được nên không đi với a big, và không có phòng."}
+   ],
+   "explanation_vi": "live in a house nghĩa là sống trong một ngôi nhà. Câu 'It has four rooms' xác nhận đó là nhà."
+  },
+  {
+   "key": "is-friend", "type": "incomplete_sentence", "difficulty": 2,
+   "targets": ["en.a1.vocab.00007"],
+   "distractor_refs": ["en.a1.vocab.00006", "en.a1.vocab.00008", "en.a1.vocab.00003"],
+   "stem": "Tom is my best ____. We play football together after school.",
+   "stem_vi": "Tom là bạn thân nhất của tôi. Chúng tôi chơi bóng đá cùng nhau sau giờ học.",
+   "options": [
+    {"text": "friend"},
+    {"text": "teacher", "why_vi": "Nói 'my best teacher' được, nhưng câu sau nói về việc cùng chơi bóng sau giờ học, nên phải là bạn bè. Cụm cố định là best friend."},
+    {"text": "house", "why_vi": "Tom là người, không thể là house."},
+    {"text": "water", "why_vi": "Tom là người, không thể là water."}
+   ],
+   "explanation_vi": "best friend nghĩa là bạn thân nhất. Câu 'We play football together' cho thấy Tom là bạn."
+  },
+  {
+   "key": "is-go", "type": "incomplete_sentence", "difficulty": 1,
+   "targets": ["en.a1.vocab.00009", "en.a1.vocab.00005"],
+   "distractor_refs": ["en.a1.vocab.00001", "en.a1.vocab.00002", "en.a1.vocab.00010"],
+   "stem": "I ____ to school by bus every day.",
+   "stem_vi": "Tôi đi học bằng xe buýt mỗi ngày.",
+   "options": [
+    {"text": "go"},
+    {"text": "eat", "why_vi": "eat (ăn) không đi với to school và by bus."},
+    {"text": "drink", "why_vi": "drink (uống) không đi với to school và by bus."},
+    {"text": "see", "why_vi": "see là ngoại động từ, cần tân ngữ trực tiếp, không đi với to school."}
+   ],
+   "explanation_vi": "go to school by bus nghĩa là đi học bằng xe buýt. every day chỉ thói quen nên dùng hiện tại đơn."
+  },
+  {
+   "key": "is-see", "type": "incomplete_sentence", "difficulty": 1,
+   "targets": ["en.a1.vocab.00010"],
+   "distractor_refs": ["en.a1.vocab.00009", "en.a1.vocab.00001", "en.a1.vocab.00002"],
+   "stem": "Look! Can you ____ the bird in the tree?",
+   "stem_vi": "Nhìn kìa! Bạn có thấy con chim trên cây không?",
+   "options": [
+    {"text": "see"},
+    {"text": "go", "why_vi": "go không đi thẳng với tân ngữ the bird."},
+    {"text": "eat", "why_vi": "'Ăn con chim trên cây' không hợp với lời gọi Look!"},
+    {"text": "drink", "why_vi": "drink dùng cho đồ uống, không dùng với the bird."}
+   ],
+   "explanation_vi": "Look! là lời gọi người khác nhìn, nên chỗ trống là see (nhìn thấy). Sau can là động từ nguyên mẫu."
+  },
+  {
+   "key": "is-ate", "type": "incomplete_sentence", "difficulty": 2,
+   "targets": ["en.a1.vocab.00001", "en.a1.vocab.00004"],
+   "stem": "He ____ breakfast at home yesterday.",
+   "stem_vi": "Hôm qua anh ấy ăn sáng ở nhà.",
+   "options": [
+    {"text": "ate"},
+    {"text": "eat", "why_vi": "yesterday là quá khứ, còn eat là dạng hiện tại."},
+    {"text": "eats", "why_vi": "eats là hiện tại đơn ngôi thứ ba, không hợp với yesterday."},
+    {"text": "eating", "why_vi": "eating cần trợ động từ (was eating), không đứng một mình làm động từ chính."}
+   ],
+   "explanation_vi": "yesterday cho biết phải dùng quá khứ đơn. eat là động từ bất quy tắc: eat – ate – eaten."
+  },
+  {
+   "key": "is-drink-glass", "type": "incomplete_sentence", "difficulty": 1,
+   "targets": ["en.a1.vocab.00002", "en.a1.vocab.00003"],
+   "distractor_refs": ["en.a1.vocab.00001", "en.a1.vocab.00010", "en.a1.vocab.00009"],
+   "stem": "Please ____ a glass of water before you go to bed.",
+   "stem_vi": "Hãy uống một cốc nước trước khi đi ngủ.",
+   "options": [
+    {"text": "drink"},
+    {"text": "eat", "why_vi": "eat không dùng với a glass of water (đồ uống)."},
+    {"text": "see", "why_vi": "'Nhìn thấy một cốc nước' không hợp với lời khuyên trước khi đi ngủ."},
+    {"text": "go", "why_vi": "go không đi thẳng với tân ngữ a glass of water."}
+   ],
+   "explanation_vi": "a glass of water là một cốc nước, nên động từ phù hợp là drink. Please + động từ nguyên mẫu là câu đề nghị lịch sự."
+  },
+  {
+   "key": "is-sees", "type": "incomplete_sentence", "difficulty": 2,
+   "targets": ["en.a1.vocab.00010", "en.a1.vocab.00007"],
+   "stem": "She ____ her friends at school every day.",
+   "stem_vi": "Cô ấy gặp các bạn ở trường mỗi ngày.",
+   "options": [
+    {"text": "sees"},
+    {"text": "see", "why_vi": "Chủ ngữ she là ngôi thứ ba số ít, ở hiện tại đơn động từ phải thêm -s."},
+    {"text": "seeing", "why_vi": "seeing cần trợ động từ (is seeing), không đứng một mình làm động từ chính."},
+    {"text": "seen", "why_vi": "seen là quá khứ phân từ, phải đi với have/has."}
+   ],
+   "explanation_vi": "Ở đây see nghĩa là gặp (bạn bè). every day chỉ thói quen nên dùng hiện tại đơn; chủ ngữ she nên thành sees."
+  }
+ ]
+}

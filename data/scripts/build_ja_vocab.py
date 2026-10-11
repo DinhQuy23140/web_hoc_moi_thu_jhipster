@@ -23,6 +23,8 @@ import unicodedata
 from datetime import datetime, timezone
 from pathlib import Path
 
+from review import apply_reviews
+
 ROOT = Path(__file__).resolve().parents[1]
 
 # ----------------------------------------------------------------------------- kana / romaji
@@ -381,6 +383,7 @@ def build(node_id: str) -> int:
         seen_ids.add(en["id"])
         seen_hp.add((en["headword"], en["pos"]))
 
+    apply_reviews(entries, reg)
     out = ROOT / "jsonl" / f"{node_id}.jsonl"
     out.parent.mkdir(parents=True, exist_ok=True)
     out.write_text("".join(json.dumps(en, ensure_ascii=False) + "\n" for en in entries), encoding="utf-8")

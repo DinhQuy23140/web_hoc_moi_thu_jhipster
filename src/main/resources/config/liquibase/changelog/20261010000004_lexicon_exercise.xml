@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<databaseChangeLog
+    xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-latest.xsd">
+
+    <!--
+        Lexicon EXERCISES: exam-format multiple-choice items built only from reviewed lex_entry rows, loaded from
+        data/exercises/*.jsonl by data/scripts/build_exercises.py (db option). Kept apart from the app's exercise table,
+        which belongs to lesson blocks and exam sections. Same collation rules as 20261010000002_lexicon_schema.xml.
+    -->
+    <changeSet id="20261010000004-lexicon-exercise" author="lingora">
+        <sql dbms="mysql">
+CREATE TABLE lex_exercise (
+  id             VARCHAR(64)  NOT NULL,
+  set_id         VARCHAR(128) NOT NULL,
+  node_id        VARCHAR(128) NOT NULL,
+  language_id    VARCHAR(8)   COLLATE utf8mb4_0900_ai_ci NOT NULL,
+  level          VARCHAR(16)  NOT NULL,
+  exam           VARCHAR(32)  NOT NULL,
+  exam_part      VARCHAR(128) NOT NULL,
+  item_type      VARCHAR(32)  NOT NULL,
+  position       INT          NOT NULL,
+  skill_tag      VARCHAR(64)  NOT NULL,
+  difficulty     TINYINT      NOT NULL,
+  instruction    TEXT         NOT NULL,
+  stem           TEXT         COLLATE utf8mb4_bin NOT NULL,
+  options        JSON         NOT NULL,
+  answer_index   TINYINT      NOT NULL,
+  explanation_vi TEXT         NOT NULL,
+  status         VARCHAR(16)  NOT NULL,
+  needs_review   TINYINT(1)   NOT NULL DEFAULT 1,
+  version        INT          NOT NULL,
+  doc            JSON         NOT NULL,
+  content_hash   CHAR(64)     NOT NULL,
+  updated_at     DATETIME(6)  NOT NULL DEFAULT CURRENT_TIMESTAMP(6) ON UPDATE CURRENT_TIMESTAMP(6),
+  PRIMARY KEY (id),
+  KEY ix_lex_exercise_set (set_id, position),
+  KEY ix_lex_exercise_node (node_id, item_type, difficulty),
+  CONSTRAINT fk_lex_exercise_node FOREIGN KEY (node_id) REFERENCES lex_node (node_id),
+  CONSTRAINT fk_lex_exercise_language FOREIGN KEY (language_id) REFERENCES language (id)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_as_ci;
+
+CREATE TABLE lex_exercise_entry (
+  exercise_id VARCHAR(64) NOT NULL,
+  entry_id    VARCHAR(64) NOT NULL,
+  role        VARCHAR(16) NOT NULL,
+  PRIMARY KEY (exercise_id, entry_id),
+  KEY ix_lex_exercise_entry_entry (entry_id),
+  CONSTRAINT fk_lex_exercise_entry_exercise FOREIGN KEY (exercise_id) REFERENCES lex_exercise (id) ON DELETE CASCADE,
+  CONSTRAINT fk_lex_exercise_entry_entry FOREIGN KEY (entry_id) REFERENCES lex_entry (id)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_as_ci;
+        </sql>
+        <rollback>
+            <dropTable tableName="lex_exercise_entry"/>
+            <dropTable tableName="lex_exercise"/>
+        </rollback>
+    </changeSet>
+</databaseChangeLog>

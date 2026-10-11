@@ -20,6 +20,7 @@ import re
 import sys
 import unicodedata
 
+from review import apply_reviews
 from build_ja_vocab import (
     ROOT, hira_to_kata, kata_to_hira, load_registry, norm_key, romaji_keys, save_registry, stable_id, strip_vi, uniq,
     vi_terms,
@@ -170,6 +171,7 @@ def build(node_id: str) -> int:
 
     if len({en["id"] for en in entries}) != len(entries):
         errors.append("duplicate id")
+    apply_reviews(entries, reg)
     out = ROOT / "jsonl" / f"{node_id}.jsonl"
     out.write_text("".join(json.dumps(en, ensure_ascii=False) + "\n" for en in entries), encoding="utf-8")
     save_registry(reg)

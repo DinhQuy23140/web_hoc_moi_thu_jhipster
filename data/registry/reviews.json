@@ -1,0 +1,212 @@
+{
+ "en.a1.vocab.00001": {
+  "hash": "3c52e3a44825216d0bb4551077b3b95f9c27058932c571531a7f753797d562d0",
+  "headword": "eat",
+  "note": "duyệt qua phiếu data/review/en.a1.vocab.daily_life.md",
+  "reviewed_at": "2026-10-11T06:20:34+00:00",
+  "reviewer": "quy14"
+ },
+ "en.a1.vocab.00002": {
+  "hash": "a2fadc59c0addbfbf96c1e10cdd4c87458c448a833f3f04d1e8de1c67dbad9d1",
+  "headword": "drink",
+  "note": "duyệt qua phiếu data/review/en.a1.vocab.daily_life.md",
+  "reviewed_at": "2026-10-11T06:20:34+00:00",
+  "reviewer": "quy14"
+ },
+ "en.a1.vocab.00003": {
+  "hash": "6fc72608e91bb001f3bd2c11ca0add1ede10dfd8b7eaffab408011411d07f0fb",
+  "headword": "water",
+  "note": "duyệt qua phiếu data/review/en.a1.vocab.daily_life.md",
+  "reviewed_at": "2026-10-11T06:20:34+00:00",
+  "reviewer": "quy14"
+ },
+ "en.a1.vocab.00004": {
+  "hash": "b51550c75a8c940756d023a113003904c15050e649a34e81209f7b5e8c4e292f",
+  "headword": "breakfast",
+  "note": "duyệt qua phiếu data/review/en.a1.vocab.daily_life.md",
+  "reviewed_at": "2026-10-11T06:20:34+00:00",
+  "reviewer": "quy14"
+ },
+ "en.a1.vocab.00005": {
+  "hash": "f4e95a12675baf07eb903a2e1ee2e41d3bffc0fe4e9445503fc03aecf2a3923f",
+  "headword": "school",
+  "note": "duyệt qua phiếu data/review/en.a1.vocab.daily_life.md",
+  "reviewed_at": "2026-10-11T06:20:34+00:00",
+  "reviewer": "quy14"
+ },
+ "en.a1.vocab.00006": {
+  "hash": "3ce038f2f4ef39bc16cfbff74e1fc5d690d06cbaa7e67ab25cf1bde48b339044",
+  "headword": "teacher",
+  "note": "duyệt qua phiếu data/review/en.a1.vocab.daily_life.md",
+  "reviewed_at": "2026-10-11T06:20:34+00:00",
+  "reviewer": "quy14"
+ },
+ "en.a1.vocab.00007": {
+  "hash": "7366c9a48b58b44d79781233f16d7908cab1e372708e69adb2bca11541fbeb26",
+  "headword": "friend",
+  "note": "duyệt qua phiếu data/review/en.a1.vocab.daily_life.md",
+  "reviewed_at": "2026-10-11T06:20:34+00:00",
+  "reviewer": "quy14"
+ },
+ "en.a1.vocab.00008": {
+  "hash": "f98bded5ea6934e30c89368e3c5330e586daaf2cc74a63a0cb8edb277c3ed7d9",
+  "headword": "house",
+  "note": "duyệt qua phiếu data/review/en.a1.vocab.daily_life.md",
+  "reviewed_at": "2026-10-11T06:20:34+00:00",
+  "reviewer": "quy14"
+ },
+ "en.a1.vocab.00009": {
+  "hash": "af7ce6ce96be245d2c63a9a94ad77ad9e5b2a203950373f37ff319c18fc7cdd2",
+  "headword": "go",
+  "note": "duyệt qua phiếu data/review/en.a1.vocab.daily_life.md",
+  "reviewed_at": "2026-10-11T06:20:34+00:00",
+  "reviewer": "quy14"
+ },
+ "en.a1.vocab.00010": {
+  "hash": "de7ad71f0aa24c9da10a389e0a58872dabce92b3b4dbc6173662883b8ea59de3",
+  "headword": "see",
+  "note": "duyệt qua phiếu data/review/en.a1.vocab.daily_life.md",
+  "reviewed_at": "2026-10-11T06:20:34+00:00",
+  "reviewer": "quy14"
+ },
+ "ja.n5.kanji.00001": {
+  "hash": "ea37e6270bdcd368915b95ec75bc30506b0818500e66c3689b7169448e3cdb6e",
+  "headword": "食",
+  "note": "duyệt qua phiếu data/review/ja.n5.kanji.core.md",
+  "reviewed_at": "2026-10-11T06:20:34+00:00",
+  "reviewer": "quy14"
+ },
+ "ja.n5.kanji.00002": {
+  "hash": "8b68486868f0ae0f5866c83ad0b4dedededb532a7a79de5c588ee2ffd41e38a4",
+  "headword": "水",
+  "note": "duyệt qua phiếu data/review/ja.n5.kanji.core.md",
+  "reviewed_at": "2026-10-11T06:20:34+00:00",
+  "reviewer": "quy14"
+ },
+ "ja.n5.kanji.00003": {
+  "hash": "27368515f351462f093ae263f08e005f4d6a7ec154962b5ab7b08cb349e61f0a",
+  "headword": "学",
+  "note": "duyệt qua phiếu data/review/ja.n5.kanji.core.md",
+  "reviewed_at": "2026-10-11T06:20:34+00:00",
+  "reviewer": "quy14"
+ },
+ "ja.n5.kanji.00004": {
+  "hash": "40d53092c24de4a117e739a0a78c2b45f3442f38643234f5faa1ffa4c82b8d9c",
+  "headword": "校",
+  "note": "duyệt qua phiếu data/review/ja.n5.kanji.core.md",
+  "reviewed_at": "2026-10-11T06:20:34+00:00",
+  "reviewer": "quy14"
+ },
+ "ja.n5.kanji.00005": {
+  "hash": "660e31713ee5fa261b87be72af1b9c798178f5cfc3392971918222e53702a01b",
+  "headword": "先",
+  "note": "duyệt qua phiếu data/review/ja.n5.kanji.core.md",
+  "reviewed_at": "2026-10-11T06:20:34+00:00",
+  "reviewer": "quy14"
+ },
+ "ja.n5.kanji.00006": {
+  "hash": "14d2bbfa09dab914b96249cf3bc921189d05fb8c8b21eed7f1293211bc9e1217",
+  "headword": "生",
+  "note": "duyệt qua phiếu data/review/ja.n5.kanji.core.md",
+  "reviewed_at": "2026-10-11T06:20:34+00:00",
+  "reviewer": "quy14"
+ },
+ "ja.n5.kanji.00007": {
+  "hash": "dba6eaa309c056098388c2bdae7290d6a4030e4e173b4830b8e4305b9716ea48",
+  "headword": "友",
+  "note": "duyệt qua phiếu data/review/ja.n5.kanji.core.md",
+  "reviewed_at": "2026-10-11T06:20:34+00:00",
+  "reviewer": "quy14"
+ },
+ "ja.n5.kanji.00008": {
+  "hash": "3a745127252d3ddbb03c96dd5ff2ea412be7c0cf11c898a57a3466878cc815f2",
+  "headword": "行",
+  "note": "duyệt qua phiếu data/review/ja.n5.kanji.core.md",
+  "reviewed_at": "2026-10-11T06:20:34+00:00",
+  "reviewer": "quy14"
+ },
+ "ja.n5.kanji.00009": {
+  "hash": "40f790109ecbc762c17b6f26e06a8e8ccce496158f982e68f69e5c2eafab9af1",
+  "headword": "見",
+  "note": "duyệt qua phiếu data/review/ja.n5.kanji.core.md",
+  "reviewed_at": "2026-10-11T06:20:34+00:00",
+  "reviewer": "quy14"
+ },
+ "ja.n5.kanji.00010": {
+  "hash": "e4f3ba20a6659da45ac09694a2944e828b47f17013c476eed92b5044d170fb55",
+  "headword": "何",
+  "note": "duyệt qua phiếu data/review/ja.n5.kanji.core.md",
+  "reviewed_at": "2026-10-11T06:20:34+00:00",
+  "reviewer": "quy14"
+ },
+ "ja.n5.vocab.00001": {
+  "hash": "3e86d7aa7e03be915044d1609d3c0dcd7e1f7ad9cf695b54face582ddc3350ae",
+  "headword": "食べる",
+  "note": "duyệt qua phiếu data/review/ja.n5.vocab.daily_life.md",
+  "reviewed_at": "2026-10-11T06:20:34+00:00",
+  "reviewer": "quy14"
+ },
+ "ja.n5.vocab.00002": {
+  "hash": "1249797605f1b3c567806e6cf2098fae362ea9ef0d9b029aaa194076964d2099",
+  "headword": "飲む",
+  "note": "duyệt qua phiếu data/review/ja.n5.vocab.daily_life.md",
+  "reviewed_at": "2026-10-11T06:20:34+00:00",
+  "reviewer": "quy14"
+ },
+ "ja.n5.vocab.00003": {
+  "hash": "30165cbca8cb1842429dbf690645579a728aa23e1cbbffde6de953b481255b8d",
+  "headword": "水",
+  "note": "duyệt qua phiếu data/review/ja.n5.vocab.daily_life.md",
+  "reviewed_at": "2026-10-11T06:20:34+00:00",
+  "reviewer": "quy14"
+ },
+ "ja.n5.vocab.00004": {
+  "hash": "d68cd7dba1738493d1236761e6313f1328c53788b3b71180aa0ce6ee386335c8",
+  "headword": "朝ご飯",
+  "note": "duyệt qua phiếu data/review/ja.n5.vocab.daily_life.md",
+  "reviewed_at": "2026-10-11T06:20:34+00:00",
+  "reviewer": "quy14"
+ },
+ "ja.n5.vocab.00005": {
+  "hash": "b075a1733418bcb53c6755d64c4d8d8b1a4f51ffbe00af87cdf389e9fd8ab89d",
+  "headword": "学校",
+  "note": "duyệt qua phiếu data/review/ja.n5.vocab.daily_life.md",
+  "reviewed_at": "2026-10-11T06:20:34+00:00",
+  "reviewer": "quy14"
+ },
+ "ja.n5.vocab.00006": {
+  "hash": "71df0ec6c26241b6be86ce67e1c2446c75ab6c0c975047f03750e78fe0e911e2",
+  "headword": "先生",
+  "note": "duyệt qua phiếu data/review/ja.n5.vocab.daily_life.md",
+  "reviewed_at": "2026-10-11T06:20:34+00:00",
+  "reviewer": "quy14"
+ },
+ "ja.n5.vocab.00007": {
+  "hash": "ef043f2c3476fe8c027301c34db8457528bc4f2970af05183dca0c8c3cee375a",
+  "headword": "友達",
+  "note": "duyệt qua phiếu data/review/ja.n5.vocab.daily_life.md",
+  "reviewed_at": "2026-10-11T06:20:34+00:00",
+  "reviewer": "quy14"
+ },
+ "ja.n5.vocab.00008": {
+  "hash": "8c2cbe57d94fc4f61a034bf2bb1265faf6c25b0502a6656c7889c7b7641d9ed1",
+  "headword": "家",
+  "note": "duyệt qua phiếu data/review/ja.n5.vocab.daily_life.md",
+  "reviewed_at": "2026-10-11T06:20:34+00:00",
+  "reviewer": "quy14"
+ },
+ "ja.n5.vocab.00009": {
+  "hash": "9d39c5d7f2c9a867ceaaeb09bdba2df859def80d65ebc70b640fa0aa541cb277",
+  "headword": "行く",
+  "note": "duyệt qua phiếu data/review/ja.n5.vocab.daily_life.md",
+  "reviewed_at": "2026-10-11T06:20:34+00:00",
+  "reviewer": "quy14"
+ },
+ "ja.n5.vocab.00010": {
+  "hash": "1a70905e4a644b89d995241e0ad0b8ffab4a0645000980b7cb03bd64014a8af8",
+  "headword": "見る",
+  "note": "duyệt qua phiếu data/review/ja.n5.vocab.daily_life.md",
+  "reviewed_at": "2026-10-11T06:20:34+00:00",
+  "reviewer": "quy14"
+ }
+}

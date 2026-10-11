@@ -23,6 +23,7 @@ import sys
 import unicodedata
 
 from build_ja_vocab import ROOT, load_registry, norm_key, save_registry, stable_id, strip_vi, uniq, vi_terms
+from review import apply_reviews
 
 CEFR_ORDER = ["A1", "A2", "B1", "B2", "C1", "C2"]
 OK_LICENSES = ("CC BY 2.0 FR", "CC0 1.0")
@@ -214,6 +215,7 @@ def build(node_id: str) -> int:
 
     if len({en["id"] for en in entries}) != len(entries) or len({(en["headword"], en["pos"]) for en in entries}) != len(entries):
         errors.append("duplicate id or headword+pos")
+    apply_reviews(entries, reg)
     out = ROOT / "jsonl" / f"{node_id}.jsonl"
     out.write_text("".join(json.dumps(en, ensure_ascii=False) + "\n" for en in entries), encoding="utf-8")
     save_registry(reg)

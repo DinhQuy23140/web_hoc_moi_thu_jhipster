@@ -16,6 +16,7 @@
     <include file="config/liquibase/changelog/20261010000002_lexicon_schema.xml" relativeToChangelogFile="false"/>
     <include file="config/liquibase/changelog/20261010000002_sessions_admin.xml" relativeToChangelogFile="false"/>
     <include file="config/liquibase/changelog/20261010000003_lexicon_plan.xml" relativeToChangelogFile="false"/>
+    <include file="config/liquibase/changelog/20261010000004_lexicon_exercise.xml" relativeToChangelogFile="false"/>
     <!-- jhipster-needle-liquibase-add-changelog - JHipster will add liquibase changelogs here -->
     <!-- jhipster-needle-liquibase-add-constraints-changelog - JHipster will add liquibase constraints changelogs here -->
     <!-- jhipster-needle-liquibase-add-incremental-changelog - JHipster will add incremental liquibase changelogs here -->
